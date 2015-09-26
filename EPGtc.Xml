@@ -2,11 +2,24 @@
 	<ProgramGuide>
 		<Service id="1000" name="tua channel">
 			<Event id="1">
+				<IdName>CorsoUrgenzaEmergenza</IdName>
+				<StartDate>2015-09-26</StartDate>
+				<StartTime>05:54:23</StartTime>
+				<EndDate>2015-09-26</EndDate>
+				<EndTime>06:57:40</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>CORSO URGENZA EMERGENZA</Name>
+					<Description>CORSO  URGENZA EMERGENZA</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="2">
 				<IdName>Atlantis</IdName>
-				<StartDate>2015-09-19</StartDate>
-				<StartTime>08:21:56</StartTime>
-				<EndDate>2015-09-19</EndDate>
-				<EndTime>09:49:32</EndTime>
+				<StartDate>2015-09-26</StartDate>
+				<StartTime>06:57:40</StartTime>
+				<EndDate>2015-09-26</EndDate>
+				<EndTime>08:25:16</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -14,675 +27,64 @@
 					<Description>ATLANTIS</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="2">
-				<IdName>Unmostroemezzo_mpeg2video</IdName>
-				<StartDate>2015-09-19</StartDate>
-				<StartTime>09:49:32</StartTime>
-				<EndDate>2015-09-19</EndDate>
-				<EndTime>11:26:04</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Un mostro e   mezzo</Description>
-				</ShortEventDescription>
-			</Event>
 			<Event id="3">
-				<IdName>spottc</IdName>
-				<StartDate>2015-09-19</StartDate>
-				<StartTime>11:26:04</StartTime>
-				<EndDate>2015-09-19</EndDate>
-				<EndTime>11:26:23</EndTime>
+				<IdName>1959Ilmattatore-DorianGrayMarioCarotenutoVittorioGassman</IdName>
+				<StartDate>2015-09-26</StartDate>
+				<StartTime>08:25:16</StartTime>
+				<EndDate>2015-09-26</EndDate>
+				<EndTime>10:02:29</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
-					<Name>TUA CHANNEL SPOT</Name>
-					<Description>SPOT TUA HANNEL</Description>
+					<Name>DORIAN GRAY</Name>
+					<Description>IL MATTATORE</Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="4">
-				<IdName>Pennetteai4formaggi</IdName>
-				<StartDate>2015-09-19</StartDate>
-				<StartTime>11:26:23</StartTime>
-				<EndDate>2015-09-19</EndDate>
-				<EndTime>11:29:05</EndTime>
+				<IdName>spottc</IdName>
+				<StartDate>2015-09-26</StartDate>
+				<StartTime>10:02:29</StartTime>
+				<EndDate>2015-09-26</EndDate>
+				<EndTime>10:02:47</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
-					<Name>PENNETTE 4 FORMAGGI</Name>
-					<Description>PENNETTE 4 FORMAGGI</Description>
+					<Name>TUA CHANNEL SPOT</Name>
+					<Description>SPOT TUA HANNEL</Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="5">
-				<IdName>agrisapori608x9-5-15</IdName>
-				<StartDate>2015-09-19</StartDate>
-				<StartTime>11:29:05</StartTime>
-				<EndDate>2015-09-19</EndDate>
-				<EndTime>11:57:46</EndTime>
+				<IdName>TG</IdName>
+				<StartDate>2015-09-26</StartDate>
+				<StartTime>10:02:47</StartTime>
+				<EndDate>2015-09-26</EndDate>
+				<EndTime>10:04:52</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
+					<Name>TG </Name>
+					<Description>TELEGIORNALE</Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="6">
-				<IdName>1973CinqueDitaDiViolenza</IdName>
-				<StartDate>2015-09-19</StartDate>
-				<StartTime>11:57:46</StartTime>
-				<EndDate>2015-09-19</EndDate>
-				<EndTime>13:42:47</EndTime>
+				<IdName>CocktaildiGamberetti,laricettadiGiallozafferano</IdName>
+				<StartDate>2015-09-26</StartDate>
+				<StartTime>10:04:52</StartTime>
+				<EndDate>2015-09-26</EndDate>
+				<EndTime>10:07:51</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>cinque dita  di  violenza</Description>
+					<Name>COKTAIL DI  GAMBERETTI</Name>
+					<Description>COKTAIL DI GAMBERETTI</Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="7">
-				<IdName>SPOTTC6</IdName>
-				<StartDate>2015-09-19</StartDate>
-				<StartTime>13:42:47</StartTime>
-				<EndDate>2015-09-19</EndDate>
-				<EndTime>13:42:51</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachannel6</Name>
-					<Description>SPOTtuachannel6</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="8">
-				<IdName>CroccantediMandorle,laricettadiGiallozafferano</IdName>
-				<StartDate>2015-09-19</StartDate>
-				<StartTime>13:42:51</StartTime>
-				<EndDate>2015-09-19</EndDate>
-				<EndTime>13:46:36</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>CROCCANTEW DI  MANDORLE</Name>
-					<Description>CROCCANTE DI  AMNDORLE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="9">
-				<IdName>SardegnaVistadalcielo</IdName>
-				<StartDate>2015-09-19</StartDate>
-				<StartTime>13:46:36</StartTime>
-				<EndDate>2015-09-19</EndDate>
-				<EndTime>14:37:00</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Sardegna vista dal cielo</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="10">
-				<IdName>TG</IdName>
-				<StartDate>2015-09-19</StartDate>
-				<StartTime>14:37:00</StartTime>
-				<EndDate>2015-09-19</EndDate>
-				<EndTime>14:39:27</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TG </Name>
-					<Description>TELEGIORNALE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="11">
-				<IdName>1959ErcoleELaReginaDiLidia-SteveReevesSylvaKoscina</IdName>
-				<StartDate>2015-09-19</StartDate>
-				<StartTime>14:39:27</StartTime>
-				<EndDate>2015-09-19</EndDate>
-				<EndTime>16:15:55</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>ERCOLE E LA REGINA LINDA</Name>
-					<Description>ERCOLE E LA REGINA LINDAe</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="12">
-				<IdName>SPOTTC2</IdName>
-				<StartDate>2015-09-19</StartDate>
-				<StartTime>16:15:55</StartTime>
-				<EndDate>2015-09-19</EndDate>
-				<EndTime>16:15:58</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachanne2</Name>
-					<Description>SPOTtuachanne2</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="13">
-				<IdName>CocktaildiGamberetti,laricettadiGiallozafferano</IdName>
-				<StartDate>2015-09-19</StartDate>
-				<StartTime>16:15:58</StartTime>
-				<EndDate>2015-09-19</EndDate>
-				<EndTime>16:18:57</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>COKTAIL DI  GAMBERETTI</Name>
-					<Description>COKTAIL DI GAMBERETTI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="14">
-				<IdName>CariatiPiccolaGrandeItalia</IdName>
-				<StartDate>2015-09-19</StartDate>
-				<StartTime>16:18:57</StartTime>
-				<EndDate>2015-09-19</EndDate>
-				<EndTime>16:40:39</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>CARIATI</Name>
-					<Description>cariati</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="15">
-				<IdName>1969Ilrito-IngmarBergman</IdName>
-				<StartDate>2015-09-19</StartDate>
-				<StartTime>16:40:39</StartTime>
-				<EndDate>2015-09-19</EndDate>
-				<EndTime>17:52:56</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Ingman Beergman</Name>
-					<Description>Il rito</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="16">
-				<IdName>SPOTC3</IdName>
-				<StartDate>2015-09-19</StartDate>
-				<StartTime>17:52:56</StartTime>
-				<EndDate>2015-09-19</EndDate>
-				<EndTime>17:52:59</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachannel3</Name>
-					<Description>SPOTtuachanne3</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="17">
-				<IdName>ItaliaEconomia_20150603_51311</IdName>
-				<StartDate>2015-09-19</StartDate>
-				<StartTime>17:52:59</StartTime>
-				<EndDate>2015-09-19</EndDate>
-				<EndTime>18:01:02</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Italai Economia 8 giug</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="18">
-				<IdName>Carnevale2013Flashsulprimocorsomascherato</IdName>
-				<StartDate>2015-09-19</StartDate>
-				<StartTime>18:01:02</StartTime>
-				<EndDate>2015-09-19</EndDate>
-				<EndTime>18:24:07</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>CARNEVALE VENEZIA 2</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="19">
-				<IdName>Terminator3_mpeg2video</IdName>
-				<StartDate>2015-09-19</StartDate>
-				<StartTime>18:24:07</StartTime>
-				<EndDate>2015-09-19</EndDate>
-				<EndTime>20:08:45</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TERMINATOR 3</Name>
-					<Description>FILM</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="20">
-				<IdName>SPOTTC2</IdName>
-				<StartDate>2015-09-19</StartDate>
-				<StartTime>20:08:45</StartTime>
-				<EndDate>2015-09-19</EndDate>
-				<EndTime>20:08:48</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachanne2</Name>
-					<Description>SPOTtuachanne2</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="21">
-				<IdName>TG</IdName>
-				<StartDate>2015-09-19</StartDate>
-				<StartTime>20:08:48</StartTime>
-				<EndDate>2015-09-19</EndDate>
-				<EndTime>20:11:16</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TG </Name>
-					<Description>TELEGIORNALE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="22">
-				<IdName>Pasticciniallemandorle</IdName>
-				<StartDate>2015-09-19</StartDate>
-				<StartTime>20:11:16</StartTime>
-				<EndDate>2015-09-19</EndDate>
-				<EndTime>20:13:31</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>PASTICCINI  ALLE MANDORLE</Name>
-					<Description>PASTICCINI ALLE MANDORLE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="23">
-				<IdName>MassafraPiccolaGrandeItalia</IdName>
-				<StartDate>2015-09-19</StartDate>
-				<StartTime>20:13:31</StartTime>
-				<EndDate>2015-09-19</EndDate>
-				<EndTime>20:35:05</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Piccola grande Italia</Name>
-					<Description>Massafra</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="24">
-				<IdName>1969Airport_2-BurtLancasterDeanMartin</IdName>
-				<StartDate>2015-09-19</StartDate>
-				<StartTime>20:35:05</StartTime>
-				<EndDate>2015-09-19</EndDate>
-				<EndTime>21:45:44</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>AIRPORT 2</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="25">
-				<IdName>SPOTTC6</IdName>
-				<StartDate>2015-09-19</StartDate>
-				<StartTime>21:45:44</StartTime>
-				<EndDate>2015-09-19</EndDate>
-				<EndTime>21:45:47</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachannel6</Name>
-					<Description>SPOTtuachannel6</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="26">
-				<IdName>1^LocriCCdel25092014</IdName>
-				<StartDate>2015-09-19</StartDate>
-				<StartTime>21:45:47</StartTime>
-				<EndDate>2015-09-19</EndDate>
-				<EndTime>23:26:02</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>CONSIGLIO  COMUNALE LOCRI</Name>
-					<Description>CONSIGLIO  COMUNALE LOCRI DEL 25092014</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="27">
-				<IdName>CarnevalediVenezia2013dal26GENNAIOal12FEBBRAIOYouTube</IdName>
-				<StartDate>2015-09-19</StartDate>
-				<StartTime>23:26:02</StartTime>
-				<EndDate>2015-09-19</EndDate>
-				<EndTime>23:36:43</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>CARNEVALE VENEZIA</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="28">
-				<IdName>1961IlFederale-UgoTognazziGianricoTedeschiGianniAgusStefaniaSandrelli</IdName>
-				<StartDate>2015-09-19</StartDate>
-				<StartTime>23:36:43</StartTime>
-				<EndDate>2015-09-20</EndDate>
-				<EndTime>01:14:04</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Tognazzi Tedeschi</Name>
-					<Description>Il Funerale</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="29">
-				<IdName>SPOTTC1</IdName>
-				<StartDate>2015-09-20</StartDate>
-				<StartTime>01:14:04</StartTime>
-				<EndDate>2015-09-20</EndDate>
-				<EndTime>01:14:07</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachannel1</Name>
-					<Description>SPOTtuachannel1</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="30">
-				<IdName>1^LocriCCdel25092014</IdName>
-				<StartDate>2015-09-20</StartDate>
-				<StartTime>01:14:07</StartTime>
-				<EndDate>2015-09-20</EndDate>
-				<EndTime>02:54:22</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>CONSIGLIO  COMUNALE LOCRI</Name>
-					<Description>CONSIGLIO  COMUNALE LOCRI DEL 25092014</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="31">
-				<IdName>BonifatiPiccolaGrandeItalia</IdName>
-				<StartDate>2015-09-20</StartDate>
-				<StartTime>02:54:22</StartTime>
-				<EndDate>2015-09-20</EndDate>
-				<EndTime>03:16:17</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>bonifati</Name>
-					<Description>bonifati</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="32">
-				<IdName>TG</IdName>
-				<StartDate>2015-09-20</StartDate>
-				<StartTime>03:16:17</StartTime>
-				<EndDate>2015-09-20</EndDate>
-				<EndTime>03:18:45</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TG </Name>
-					<Description>TELEGIORNALE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="33">
-				<IdName>1972Detenutoinattesadigiudizio_1-AlbertoSordiGianniBonagura</IdName>
-				<StartDate>2015-09-20</StartDate>
-				<StartTime>03:18:45</StartTime>
-				<EndDate>2015-09-20</EndDate>
-				<EndTime>04:05:06</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SORDI-GIANNINI</Name>
-					<Description>DETENUTO IN ATTESA DI  GIUDIZIO 1</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="34">
-				<IdName>spottc</IdName>
-				<StartDate>2015-09-20</StartDate>
-				<StartTime>04:05:06</StartTime>
-				<EndDate>2015-09-20</EndDate>
-				<EndTime>04:05:24</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TUA CHANNEL SPOT</Name>
-					<Description>SPOT TUA HANNEL</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="35">
-				<IdName>OSPEDALEGERACEcopiaottima_mpeg2video</IdName>
-				<StartDate>2015-09-20</StartDate>
-				<StartTime>04:05:24</StartTime>
-				<EndDate>2015-09-20</EndDate>
-				<EndTime>04:18:10</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>OSPEDALE GERACE</Name>
-					<Description>Ospedale Gerace Matteo</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="36">
-				<IdName>Caltagirone2010PiccolaGrandeItalia</IdName>
-				<StartDate>2015-09-20</StartDate>
-				<StartTime>04:18:10</StartTime>
-				<EndDate>2015-09-20</EndDate>
-				<EndTime>04:42:33</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>CALTAGIRONE</Name>
-					<Description>CALTAGIRONE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="37">
-				<IdName>1969EasyRider-DennisHopperPeterFondaJackNicholson</IdName>
-				<StartDate>2015-09-20</StartDate>
-				<StartTime>04:42:33</StartTime>
-				<EndDate>2015-09-20</EndDate>
-				<EndTime>06:13:46</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Dennis Hopper Peter Fonda Jak Nikolson</Name>
-					<Description>Easy Rider</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="38">
-				<IdName>SPOTTC2</IdName>
-				<StartDate>2015-09-20</StartDate>
-				<StartTime>06:13:46</StartTime>
-				<EndDate>2015-09-20</EndDate>
-				<EndTime>06:13:50</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachanne2</Name>
-					<Description>SPOTtuachanne2</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="39">
-				<IdName>CocktaildiGamberetti,laricettadiGiallozafferano</IdName>
-				<StartDate>2015-09-20</StartDate>
-				<StartTime>06:13:50</StartTime>
-				<EndDate>2015-09-20</EndDate>
-				<EndTime>06:16:49</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>COKTAIL DI  GAMBERETTI</Name>
-					<Description>COKTAIL DI GAMBERETTI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="40">
-				<IdName>VideoRicettaTiramisùGalbani</IdName>
-				<StartDate>2015-09-20</StartDate>
-				<StartTime>06:16:49</StartTime>
-				<EndDate>2015-09-20</EndDate>
-				<EndTime>06:18:29</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TIRAMI SU</Name>
-					<Description>TIRAMI SU</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="41">
-				<IdName>OnceWereWarriors2(completo)</IdName>
-				<StartDate>2015-09-20</StartDate>
-				<StartTime>06:18:29</StartTime>
-				<EndDate>2015-09-20</EndDate>
-				<EndTime>07:56:53</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>ONCE WERRIORS 2</Name>
-					<Description>Once were Warriors</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="42">
-				<IdName>spottc</IdName>
-				<StartDate>2015-09-20</StartDate>
-				<StartTime>07:56:53</StartTime>
-				<EndDate>2015-09-20</EndDate>
-				<EndTime>07:57:11</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TUA CHANNEL SPOT</Name>
-					<Description>SPOT TUA HANNEL</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="43">
-				<IdName>TG</IdName>
-				<StartDate>2015-09-20</StartDate>
-				<StartTime>07:57:11</StartTime>
-				<EndDate>2015-09-20</EndDate>
-				<EndTime>07:59:39</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TG </Name>
-					<Description>TELEGIORNALE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="44">
-				<IdName>2^LocriCCdel25092014</IdName>
-				<StartDate>2015-09-20</StartDate>
-				<StartTime>07:59:39</StartTime>
-				<EndDate>2015-09-20</EndDate>
-				<EndTime>09:25:50</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>CONSIGLIO COMUNALE LOCRI</Name>
-					<Description>2^ LOCRI c c del 25092014</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="45">
-				<IdName>IpostipibellidellacalabriaDestinationCalabriaGiuseppeScorzaPepoMac@gmailcom_mpeg2video</IdName>
-				<StartDate>2015-09-20</StartDate>
-				<StartTime>09:25:50</StartTime>
-				<EndDate>2015-09-20</EndDate>
-				<EndTime>09:29:50</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>I POSTI PIU  BELLI DELLA CALABRIA</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="46">
-				<IdName>1969C'eraunavoltailwest-HenryFonda</IdName>
-				<StartDate>2015-09-20</StartDate>
-				<StartTime>09:29:50</StartTime>
-				<EndDate>2015-09-20</EndDate>
-				<EndTime>12:20:35</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Herry Fonda</Name>
-					<Description>Cera  una volta il West</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="47">
-				<IdName>SPOTC3</IdName>
-				<StartDate>2015-09-20</StartDate>
-				<StartTime>12:20:35</StartTime>
-				<EndDate>2015-09-20</EndDate>
-				<EndTime>12:20:38</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachannel3</Name>
-					<Description>SPOTtuachanne3</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="48">
-				<IdName>ItaliaEconomia_20150603_51311</IdName>
-				<StartDate>2015-09-20</StartDate>
-				<StartTime>12:20:38</StartTime>
-				<EndDate>2015-09-20</EndDate>
-				<EndTime>12:28:41</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Italai Economia 8 giug</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="49">
-				<IdName>ReggioCalabriaPiccolaGrandeItalia</IdName>
-				<StartDate>2015-09-20</StartDate>
-				<StartTime>12:28:41</StartTime>
-				<EndDate>2015-09-20</EndDate>
-				<EndTime>12:50:54</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Reggio piccola grande Italia  </Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="50">
-				<IdName>1967FuneraleaBerlino-MichaelCaine</IdName>
-				<StartDate>2015-09-20</StartDate>
-				<StartTime>12:50:54</StartTime>
-				<EndDate>2015-09-20</EndDate>
-				<EndTime>14:28:53</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Michael Caine</Name>
-					<Description>Funerale a Berlino</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="51">
-				<IdName>SPOTTC1</IdName>
-				<StartDate>2015-09-20</StartDate>
-				<StartTime>14:28:53</StartTime>
-				<EndDate>2015-09-20</EndDate>
-				<EndTime>14:28:56</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachannel1</Name>
-					<Description>SPOTtuachannel1</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="52">
-				<IdName>inMoto_20150202_48142</IdName>
-				<StartDate>2015-09-20</StartDate>
-				<StartTime>14:28:56</StartTime>
-				<EndDate>2015-09-20</EndDate>
-				<EndTime>14:30:47</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>inMoto_2015 02 02_</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="53">
 				<IdName>IlBrigantaggio</IdName>
-				<StartDate>2015-09-20</StartDate>
-				<StartTime>14:30:47</StartTime>
-				<EndDate>2015-09-20</EndDate>
-				<EndTime>15:02:52</EndTime>
+				<StartDate>2015-09-26</StartDate>
+				<StartTime>10:07:51</StartTime>
+				<EndDate>2015-09-26</EndDate>
+				<EndTime>10:39:55</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -690,12 +92,610 @@
 					<Description>IL  BRIGANTAGGIO</Description>
 				</ShortEventDescription>
 			</Event>
+			<Event id="8">
+				<IdName>1969Topaz_1-AlfredHitchcock</IdName>
+				<StartDate>2015-09-26</StartDate>
+				<StartTime>10:39:55</StartTime>
+				<EndDate>2015-09-26</EndDate>
+				<EndTime>11:17:38</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>topsz 1</Name>
+					<Description>topdz 1</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="9">
+				<IdName>SPOTTC6</IdName>
+				<StartDate>2015-09-26</StartDate>
+				<StartTime>11:17:38</StartTime>
+				<EndDate>2015-09-26</EndDate>
+				<EndTime>11:17:41</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>SPOTtuachannel6</Name>
+					<Description>SPOTtuachannel6</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="10">
+				<IdName>Pasticciniallemandorle</IdName>
+				<StartDate>2015-09-26</StartDate>
+				<StartTime>11:17:41</StartTime>
+				<EndDate>2015-09-26</EndDate>
+				<EndTime>11:19:57</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>PASTICCINI  ALLE MANDORLE</Name>
+					<Description>PASTICCINI ALLE MANDORLE</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="11">
+				<IdName>PianadegliAlbanesi'DomenicadellePalme'PiccolaGrandeItalia</IdName>
+				<StartDate>2015-09-26</StartDate>
+				<StartTime>11:19:57</StartTime>
+				<EndDate>2015-09-26</EndDate>
+				<EndTime>11:34:09</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>PIANA DEGLI ALBANESI</Name>
+					<Description>PIANA DEGLI ALBANESI</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="12">
+				<IdName>1960Anoipiacefreddo-TognazziVianelloDeFilippo</IdName>
+				<StartDate>2015-09-26</StartDate>
+				<StartTime>11:34:09</StartTime>
+				<EndDate>2015-09-26</EndDate>
+				<EndTime>13:19:08</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Tognazzi  Vianello De Filippo</Name>
+					<Description>A noi piace caldo</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="13">
+				<IdName>SPOTTC1</IdName>
+				<StartDate>2015-09-26</StartDate>
+				<StartTime>13:19:08</StartTime>
+				<EndDate>2015-09-26</EndDate>
+				<EndTime>13:19:12</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>SPOTtuachannel1</Name>
+					<Description>SPOTtuachannel1</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="14">
+				<IdName>inTavola_20150205_48237</IdName>
+				<StartDate>2015-09-26</StartDate>
+				<StartTime>13:19:12</StartTime>
+				<EndDate>2015-09-26</EndDate>
+				<EndTime>13:21:11</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>inTavola_2015 02 05</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="15">
+				<IdName>agrisapori609x17-5-15</IdName>
+				<StartDate>2015-09-26</StartDate>
+				<StartTime>13:21:11</StartTime>
+				<EndDate>2015-09-26</EndDate>
+				<EndTime>13:50:10</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>SPERLONGA</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="16">
+				<IdName>TG</IdName>
+				<StartDate>2015-09-26</StartDate>
+				<StartTime>13:50:10</StartTime>
+				<EndDate>2015-09-26</EndDate>
+				<EndTime>13:52:14</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>TG </Name>
+					<Description>TELEGIORNALE</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="17">
+				<IdName>1970Chisum-JohnWayne</IdName>
+				<StartDate>2015-09-26</StartDate>
+				<StartTime>13:52:14</StartTime>
+				<EndDate>2015-09-26</EndDate>
+				<EndTime>15:38:47</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>John Wayne</Name>
+					<Description>Chisum</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="18">
+				<IdName>SPOTC3</IdName>
+				<StartDate>2015-09-26</StartDate>
+				<StartTime>15:38:47</StartTime>
+				<EndDate>2015-09-26</EndDate>
+				<EndTime>15:38:50</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>SPOTtuachannel3</Name>
+					<Description>SPOTtuachanne3</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="19">
+				<IdName>CroccantediMandorle,laricettadiGiallozafferano</IdName>
+				<StartDate>2015-09-26</StartDate>
+				<StartTime>15:38:50</StartTime>
+				<EndDate>2015-09-26</EndDate>
+				<EndTime>15:42:36</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>CROCCANTEW DI  MANDORLE</Name>
+					<Description>CROCCANTE DI  AMNDORLE</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="20">
+				<IdName>STILOELACATTOLICA</IdName>
+				<StartDate>2015-09-26</StartDate>
+				<StartTime>15:42:36</StartTime>
+				<EndDate>2015-09-26</EndDate>
+				<EndTime>15:49:50</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>STILO E LA CATTOLICA</Name>
+					<Description>Stilo e la  cattolica</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="21">
+				<IdName>1963IlDiavolo-AlbertoSordi</IdName>
+				<StartDate>2015-09-26</StartDate>
+				<StartTime>15:49:50</StartTime>
+				<EndDate>2015-09-26</EndDate>
+				<EndTime>17:30:22</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>AlbertoSordi</Name>
+					<Description>1963 Il Diavolo</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="22">
+				<IdName>SPOTTC2</IdName>
+				<StartDate>2015-09-26</StartDate>
+				<StartTime>17:30:22</StartTime>
+				<EndDate>2015-09-26</EndDate>
+				<EndTime>17:30:26</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>SPOTtuachanne2</Name>
+					<Description>SPOTtuachanne2</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="23">
+				<IdName>1^LocriCCdel25092014</IdName>
+				<StartDate>2015-09-26</StartDate>
+				<StartTime>17:30:26</StartTime>
+				<EndDate>2015-09-26</EndDate>
+				<EndTime>19:10:40</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>CONSIGLIO  COMUNALE LOCRI</Name>
+					<Description>CONSIGLIO  COMUNALE LOCRI DEL 25092014</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="24">
+				<IdName>VideoRicettaTiramisùGalbani</IdName>
+				<StartDate>2015-09-26</StartDate>
+				<StartTime>19:10:40</StartTime>
+				<EndDate>2015-09-26</EndDate>
+				<EndTime>19:12:21</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>TIRAMI SU</Name>
+					<Description>TIRAMI SU</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="25">
+				<IdName>VTS_01</IdName>
+				<StartDate>2015-09-26</StartDate>
+				<StartTime>19:12:21</StartTime>
+				<EndDate>2015-09-26</EndDate>
+				<EndTime>20:45:01</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>ZANDALEE</Name>
+					<Description>ZANDALEE</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="26">
+				<IdName>SPOTTC1</IdName>
+				<StartDate>2015-09-26</StartDate>
+				<StartTime>20:45:01</StartTime>
+				<EndDate>2015-09-26</EndDate>
+				<EndTime>20:45:04</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>SPOTtuachannel1</Name>
+					<Description>SPOTtuachannel1</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="27">
+				<IdName>TG</IdName>
+				<StartDate>2015-09-26</StartDate>
+				<StartTime>20:45:04</StartTime>
+				<EndDate>2015-09-26</EndDate>
+				<EndTime>20:47:09</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>TG </Name>
+					<Description>TELEGIORNALE</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="28">
+				<IdName>LocriCCdel14062013_mpeg2video</IdName>
+				<StartDate>2015-09-26</StartDate>
+				<StartTime>20:47:09</StartTime>
+				<EndDate>2015-09-26</EndDate>
+				<EndTime>22:34:11</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>CONSIGLIO COMUNALE LOCRI</Name>
+					<Description>CONSIGLIO COMUNALE LOCRIDEL 14062013</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="29">
+				<IdName>MontaltoUffugoFestadelgranosull'Aia</IdName>
+				<StartDate>2015-09-26</StartDate>
+				<StartTime>22:34:11</StartTime>
+				<EndDate>2015-09-26</EndDate>
+				<EndTime>22:48:41</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>MONTALTO UFFUGO</Name>
+					<Description>MONTALTO  UFFUGO</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="30">
+				<IdName>1963Lospettro-BarbaraSteelePeter</IdName>
+				<StartDate>2015-09-26</StartDate>
+				<StartTime>22:48:41</StartTime>
+				<EndDate>2015-09-27</EndDate>
+				<EndTime>00:22:16</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Barbara Teeel </Name>
+					<Description>Lo spettro</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="31">
+				<IdName>spottc</IdName>
+				<StartDate>2015-09-27</StartDate>
+				<StartTime>00:22:16</StartTime>
+				<EndDate>2015-09-27</EndDate>
+				<EndTime>00:22:35</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>TUA CHANNEL SPOT</Name>
+					<Description>SPOT TUA HANNEL</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="32">
+				<IdName>Pennetteai4formaggi</IdName>
+				<StartDate>2015-09-27</StartDate>
+				<StartTime>00:22:35</StartTime>
+				<EndDate>2015-09-27</EndDate>
+				<EndTime>00:25:17</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>PENNETTE 4 FORMAGGI</Name>
+					<Description>PENNETTE 4 FORMAGGI</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="33">
+				<IdName>MassafraPiccolaGrandeItalia</IdName>
+				<StartDate>2015-09-27</StartDate>
+				<StartTime>00:25:17</StartTime>
+				<EndDate>2015-09-27</EndDate>
+				<EndTime>00:46:50</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Piccola grande Italia</Name>
+					<Description>Massafra</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="34">
+				<IdName>1969Cinquebamboleperlalunad'Agosto-EdwigeFenechIraFurstenberg</IdName>
+				<StartDate>2015-09-27</StartDate>
+				<StartTime>00:46:50</StartTime>
+				<EndDate>2015-09-27</EndDate>
+				<EndTime>02:05:11</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Edwige Fenech</Name>
+					<Description>cinque bambole per la  luna d'agosto</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="35">
+				<IdName>SPOTTC6</IdName>
+				<StartDate>2015-09-27</StartDate>
+				<StartTime>02:05:11</StartTime>
+				<EndDate>2015-09-27</EndDate>
+				<EndTime>02:05:15</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>SPOTtuachannel6</Name>
+					<Description>SPOTtuachannel6</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="36">
+				<IdName>ItaliaEconomia_20150603_51311</IdName>
+				<StartDate>2015-09-27</StartDate>
+				<StartTime>02:05:15</StartTime>
+				<EndDate>2015-09-27</EndDate>
+				<EndTime>02:13:18</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Italai Economia 8 giug</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="37">
+				<IdName>SardegnaVistadalcielo</IdName>
+				<StartDate>2015-09-27</StartDate>
+				<StartTime>02:13:18</StartTime>
+				<EndDate>2015-09-27</EndDate>
+				<EndTime>03:03:41</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Sardegna vista dal cielo</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="38">
+				<IdName>TG</IdName>
+				<StartDate>2015-09-27</StartDate>
+				<StartTime>03:03:41</StartTime>
+				<EndDate>2015-09-27</EndDate>
+				<EndTime>03:05:46</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>TG </Name>
+					<Description>TELEGIORNALE</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="39">
+				<IdName>1960LaRagazzaConLaValigia</IdName>
+				<StartDate>2015-09-27</StartDate>
+				<StartTime>03:05:46</StartTime>
+				<EndDate>2015-09-27</EndDate>
+				<EndTime>04:56:03</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>La ragazza  con la valigia</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="40">
+				<IdName>SPOTC3</IdName>
+				<StartDate>2015-09-27</StartDate>
+				<StartTime>04:56:03</StartTime>
+				<EndDate>2015-09-27</EndDate>
+				<EndTime>04:56:06</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>SPOTtuachannel3</Name>
+					<Description>SPOTtuachanne3</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="41">
+				<IdName>inMoto_20150202_48142</IdName>
+				<StartDate>2015-09-27</StartDate>
+				<StartTime>04:56:06</StartTime>
+				<EndDate>2015-09-27</EndDate>
+				<EndTime>04:57:57</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>inMoto_2015 02 02_</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="42">
+				<IdName>NoepoliPiccolaGrandeItalia</IdName>
+				<StartDate>2015-09-27</StartDate>
+				<StartTime>04:57:57</StartTime>
+				<EndDate>2015-09-27</EndDate>
+				<EndTime>05:14:29</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Piccola grande Italia</Name>
+					<Description>Neapoli</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="43">
+				<IdName>1964Unacasarispettabile-DidiPeregoRiccardoGarrone</IdName>
+				<StartDate>2015-09-27</StartDate>
+				<StartTime>05:14:29</StartTime>
+				<EndDate>2015-09-27</EndDate>
+				<EndTime>05:54:26</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>UNA CASA RISPETTABILE</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="44">
+				<IdName>SPOTTC2</IdName>
+				<StartDate>2015-09-27</StartDate>
+				<StartTime>05:54:26</StartTime>
+				<EndDate>2015-09-27</EndDate>
+				<EndTime>05:54:30</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>SPOTtuachanne2</Name>
+					<Description>SPOTtuachanne2</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="45">
+				<IdName>2^LocriCCdel25092014</IdName>
+				<StartDate>2015-09-27</StartDate>
+				<StartTime>05:54:30</StartTime>
+				<EndDate>2015-09-27</EndDate>
+				<EndTime>07:20:41</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>CONSIGLIO COMUNALE LOCRI</Name>
+					<Description>2^ LOCRI c c del 25092014</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="46">
+				<IdName>MontaltoUffugoFestadelgranosull'Aia</IdName>
+				<StartDate>2015-09-27</StartDate>
+				<StartTime>07:20:41</StartTime>
+				<EndDate>2015-09-27</EndDate>
+				<EndTime>07:35:11</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>MONTALTO UFFUGO</Name>
+					<Description>MONTALTO  UFFUGO</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="47">
+				<IdName>1967DaUomoAUomo-LeeVanCleef</IdName>
+				<StartDate>2015-09-27</StartDate>
+				<StartTime>07:35:11</StartTime>
+				<EndDate>2015-09-27</EndDate>
+				<EndTime>09:25:28</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>LEE VAN CLEEF</Name>
+					<Description>UOMO AD UOMO</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="48">
+				<IdName>SPOTTC1</IdName>
+				<StartDate>2015-09-27</StartDate>
+				<StartTime>09:25:28</StartTime>
+				<EndDate>2015-09-27</EndDate>
+				<EndTime>09:25:31</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>SPOTtuachannel1</Name>
+					<Description>SPOTtuachannel1</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="49">
+				<IdName>TG</IdName>
+				<StartDate>2015-09-27</StartDate>
+				<StartTime>09:25:31</StartTime>
+				<EndDate>2015-09-27</EndDate>
+				<EndTime>09:27:35</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>TG </Name>
+					<Description>TELEGIORNALE</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="50">
+				<IdName>OSPEDALEGERACEcopiaottima_mpeg2video</IdName>
+				<StartDate>2015-09-27</StartDate>
+				<StartTime>09:27:35</StartTime>
+				<EndDate>2015-09-27</EndDate>
+				<EndTime>09:40:21</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>OSPEDALE GERACE</Name>
+					<Description>Ospedale Gerace Matteo</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="51">
+				<IdName>PraiaaMarePiccolaGrandeItalia</IdName>
+				<StartDate>2015-09-27</StartDate>
+				<StartTime>09:40:21</StartTime>
+				<EndDate>2015-09-27</EndDate>
+				<EndTime>10:04:55</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Piccola grande Italia</Name>
+					<Description>PRAIA A MARE</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="52">
+				<IdName>Ragazzepompom_mpeg2video</IdName>
+				<StartDate>2015-09-27</StartDate>
+				<StartTime>10:04:55</StartTime>
+				<EndDate>2015-09-27</EndDate>
+				<EndTime>11:30:10</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Ragazze pom pom</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="53">
+				<IdName>SPOTC3</IdName>
+				<StartDate>2015-09-27</StartDate>
+				<StartTime>11:30:10</StartTime>
+				<EndDate>2015-09-27</EndDate>
+				<EndTime>11:30:13</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>SPOTtuachannel3</Name>
+					<Description>SPOTtuachanne3</Description>
+				</ShortEventDescription>
+			</Event>
 			<Event id="54">
 				<IdName>TG</IdName>
-				<StartDate>2015-09-20</StartDate>
-				<StartTime>15:02:52</StartTime>
-				<EndDate>2015-09-20</EndDate>
-				<EndTime>15:05:19</EndTime>
+				<StartDate>2015-09-27</StartDate>
+				<StartTime>11:30:13</StartTime>
+				<EndDate>2015-09-27</EndDate>
+				<EndTime>11:32:17</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -704,3092 +704,24 @@
 				</ShortEventDescription>
 			</Event>
 			<Event id="55">
-				<IdName>1963Lagrandefuga-SteveMcQueen</IdName>
-				<StartDate>2015-09-20</StartDate>
-				<StartTime>15:05:19</StartTime>
-				<EndDate>2015-09-20</EndDate>
-				<EndTime>17:50:24</EndTime>
+				<IdName>MusicaeTradizioni</IdName>
+				<StartDate>2015-09-27</StartDate>
+				<StartTime>11:32:17</StartTime>
+				<EndDate>2015-09-27</EndDate>
+				<EndTime>11:43:15</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
-					<Name>Steve Mc Quuen</Name>
-					<Description>La grande fuga</Description>
+					<Name>MUSICA E TRADIZIONI</Name>
+					<Description>MUSICA E TRADIZIONI</Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="56">
-				<IdName>SPOTTC6</IdName>
-				<StartDate>2015-09-20</StartDate>
-				<StartTime>17:50:24</StartTime>
-				<EndDate>2015-09-20</EndDate>
-				<EndTime>17:50:27</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachannel6</Name>
-					<Description>SPOTtuachannel6</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="57">
-				<IdName>inTavola_20150205_48237</IdName>
-				<StartDate>2015-09-20</StartDate>
-				<StartTime>17:50:27</StartTime>
-				<EndDate>2015-09-20</EndDate>
-				<EndTime>17:52:26</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>inTavola_2015 02 05</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="58">
-				<IdName>PASCOLOABUSIVO</IdName>
-				<StartDate>2015-09-20</StartDate>
-				<StartTime>17:52:26</StartTime>
-				<EndDate>2015-09-20</EndDate>
-				<EndTime>18:02:30</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>PASCOLO ABUSIVO</Name>
-					<Description>PASCOLO ABUSIVO</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="59">
-				<IdName>1959Ilmoralista-AlbertoSordiVittorioDeSicaFrancaValeri</IdName>
-				<StartDate>2015-09-20</StartDate>
-				<StartTime>18:02:30</StartTime>
-				<EndDate>2015-09-20</EndDate>
-				<EndTime>19:42:24</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SORDI DE SICA</Name>
-					<Description>IL MORALISTA</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="60">
-				<IdName>SPOTTC6</IdName>
-				<StartDate>2015-09-20</StartDate>
-				<StartTime>19:42:24</StartTime>
-				<EndDate>2015-09-20</EndDate>
-				<EndTime>19:42:27</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachannel6</Name>
-					<Description>SPOTtuachannel6</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="61">
-				<IdName>Salus_TV_20150601_51285</IdName>
-				<StartDate>2015-09-20</StartDate>
-				<StartTime>19:42:27</StartTime>
-				<EndDate>2015-09-20</EndDate>
-				<EndTime>19:56:11</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Salus 8 giug</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="62">
-				<IdName>STILOELACATTOLICA</IdName>
-				<StartDate>2015-09-20</StartDate>
-				<StartTime>19:56:11</StartTime>
-				<EndDate>2015-09-20</EndDate>
-				<EndTime>20:03:26</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>STILO E LA CATTOLICA</Name>
-					<Description>Stilo e la  cattolica</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="63">
-				<IdName>Sedottiebidonati</IdName>
-				<StartDate>2015-09-20</StartDate>
-				<StartTime>20:03:26</StartTime>
-				<EndDate>2015-09-20</EndDate>
-				<EndTime>21:40:39</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Sedotti ed abbandonati</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="64">
-				<IdName>SPOTTC2</IdName>
-				<StartDate>2015-09-20</StartDate>
-				<StartTime>21:40:39</StartTime>
-				<EndDate>2015-09-20</EndDate>
-				<EndTime>21:40:42</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachanne2</Name>
-					<Description>SPOTtuachanne2</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="65">
-				<IdName>TG</IdName>
-				<StartDate>2015-09-20</StartDate>
-				<StartTime>21:40:42</StartTime>
-				<EndDate>2015-09-20</EndDate>
-				<EndTime>21:43:10</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TG </Name>
-					<Description>TELEGIORNALE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="66">
-				<IdName>LocriCCdel14062013_mpeg2video</IdName>
-				<StartDate>2015-09-20</StartDate>
-				<StartTime>21:43:10</StartTime>
-				<EndDate>2015-09-20</EndDate>
-				<EndTime>23:30:12</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>CONSIGLIO COMUNALE LOCRI</Name>
-					<Description>CONSIGLIO COMUNALE LOCRIDEL 14062013</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="67">
-				<IdName>Gerace</IdName>
-				<StartDate>2015-09-20</StartDate>
-				<StartTime>23:30:12</StartTime>
-				<EndDate>2015-09-20</EndDate>
-				<EndTime>23:36:13</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>GERACE</Name>
-					<Description>GERACE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="68">
-				<IdName>1963Ieri,Oggi,Domani-SofiaLorenMarcelloMastroianni</IdName>
-				<StartDate>2015-09-20</StartDate>
-				<StartTime>23:36:13</StartTime>
-				<EndDate>2015-09-21</EndDate>
-				<EndTime>01:30:21</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sofia Loren Marcello Mastroianni</Name>
-					<Description>Ieri Oggi Domani</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="69">
-				<IdName>spottc</IdName>
-				<StartDate>2015-09-21</StartDate>
-				<StartTime>01:30:21</StartTime>
-				<EndDate>2015-09-21</EndDate>
-				<EndTime>01:30:40</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TUA CHANNEL SPOT</Name>
-					<Description>SPOT TUA HANNEL</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="70">
-				<IdName>Musa_TV_20150601_51297</IdName>
-				<StartDate>2015-09-21</StartDate>
-				<StartTime>01:30:40</StartTime>
-				<EndDate>2015-09-21</EndDate>
-				<EndTime>01:48:19</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>musa 8-giu</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="71">
-				<IdName>PraiaaMarePiccolaGrandeItalia</IdName>
-				<StartDate>2015-09-21</StartDate>
-				<StartTime>01:48:19</StartTime>
-				<EndDate>2015-09-21</EndDate>
-				<EndTime>02:12:53</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Piccola grande Italia</Name>
-					<Description>PRAIA A MARE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="72">
-				<IdName>1960IMongoli-AntonellaLualdiAnitaEkbergJackPalanceRoldanoLupi</IdName>
-				<StartDate>2015-09-21</StartDate>
-				<StartTime>02:12:53</StartTime>
-				<EndDate>2015-09-21</EndDate>
-				<EndTime>04:04:21</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>A. LUALDI</Name>
-					<Description>I MONGOLI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="73">
-				<IdName>SPOTC3</IdName>
-				<StartDate>2015-09-21</StartDate>
-				<StartTime>04:04:21</StartTime>
-				<EndDate>2015-09-21</EndDate>
-				<EndTime>04:04:24</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachannel3</Name>
-					<Description>SPOTtuachanne3</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="74">
-				<IdName>CorsoUrgenzaEmergenza</IdName>
-				<StartDate>2015-09-21</StartDate>
-				<StartTime>04:04:24</StartTime>
-				<EndDate>2015-09-21</EndDate>
-				<EndTime>05:07:41</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>CORSO URGENZA EMERGENZA</Name>
-					<Description>CORSO  URGENZA EMERGENZA</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="75">
-				<IdName>agrisapori596x8-2-15</IdName>
-				<StartDate>2015-09-21</StartDate>
-				<StartTime>05:07:41</StartTime>
-				<EndDate>2015-09-21</EndDate>
-				<EndTime>05:39:00</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>GIAGLIONESconosciuto</Name>
-					<Description>Nuovo FiAGRISAPORI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="76">
-				<IdName>TG</IdName>
-				<StartDate>2015-09-21</StartDate>
-				<StartTime>05:39:00</StartTime>
-				<EndDate>2015-09-21</EndDate>
-				<EndTime>05:41:28</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TG </Name>
-					<Description>TELEGIORNALE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="77">
-				<IdName>1968Ilprofeta-VittorioGassmanAnnMargretYvonneSansonOresteLionello</IdName>
-				<StartDate>2015-09-21</StartDate>
-				<StartTime>05:41:28</StartTime>
-				<EndDate>2015-09-21</EndDate>
-				<EndTime>07:08:18</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Vittorio Gasman</Name>
-					<Description>Il profeta</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="78">
-				<IdName>SPOTTC1</IdName>
-				<StartDate>2015-09-21</StartDate>
-				<StartTime>07:08:18</StartTime>
-				<EndDate>2015-09-21</EndDate>
-				<EndTime>07:08:21</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachannel1</Name>
-					<Description>SPOTtuachannel1</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="79">
-				<IdName>TG</IdName>
-				<StartDate>2015-09-21</StartDate>
-				<StartTime>07:08:21</StartTime>
-				<EndDate>2015-09-21</EndDate>
-				<EndTime>07:10:49</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TG </Name>
-					<Description>TELEGIORNALE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="80">
-				<IdName>AnimaliSerpentiFascinoLetale(Ita)</IdName>
-				<StartDate>2015-09-21</StartDate>
-				<StartTime>07:10:49</StartTime>
-				<EndDate>2015-09-21</EndDate>
-				<EndTime>08:02:54</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>ANIMALI SERPENTI</Name>
-					<Description>ANIMALI SERPENTI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="81">
-				<IdName>1963IlDottorStranamore-PeterSellers</IdName>
-				<StartDate>2015-09-21</StartDate>
-				<StartTime>08:02:54</StartTime>
-				<EndDate>2015-09-21</EndDate>
-				<EndTime>09:33:27</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>PeterSellers</Name>
-					<Description>1963 Il Dottor Stranamore</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="82">
-				<IdName>spottc</IdName>
-				<StartDate>2015-09-21</StartDate>
-				<StartTime>09:33:27</StartTime>
-				<EndDate>2015-09-21</EndDate>
-				<EndTime>09:33:46</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TUA CHANNEL SPOT</Name>
-					<Description>SPOT TUA HANNEL</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="83">
-				<IdName>CroccantediMandorle,laricettadiGiallozafferano</IdName>
-				<StartDate>2015-09-21</StartDate>
-				<StartTime>09:33:46</StartTime>
-				<EndDate>2015-09-21</EndDate>
-				<EndTime>09:37:31</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>CROCCANTEW DI  MANDORLE</Name>
-					<Description>CROCCANTE DI  AMNDORLE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="84">
-				<IdName>TropeaPiccolaGrandeItalia</IdName>
-				<StartDate>2015-09-21</StartDate>
-				<StartTime>09:37:31</StartTime>
-				<EndDate>2015-09-21</EndDate>
-				<EndTime>10:04:25</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Piccola grande Italia</Name>
-					<Description>TROPEA</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="85">
-				<IdName>1966IProfessionisti-ConBurtLancasterLeeMarvinJPalanceClaudiaCardinale</IdName>
-				<StartDate>2015-09-21</StartDate>
-				<StartTime>10:04:25</StartTime>
-				<EndDate>2015-09-21</EndDate>
-				<EndTime>11:56:59</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Burt Lancaster Lee Marvin J Palance Claudia Cardinale</Name>
-					<Description>I Professionisti</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="86">
-				<IdName>SPOTC3</IdName>
-				<StartDate>2015-09-21</StartDate>
-				<StartTime>11:56:59</StartTime>
-				<EndDate>2015-09-21</EndDate>
-				<EndTime>11:57:02</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachannel3</Name>
-					<Description>SPOTtuachanne3</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="87">
-				<IdName>TG</IdName>
-				<StartDate>2015-09-21</StartDate>
-				<StartTime>11:57:02</StartTime>
-				<EndDate>2015-09-21</EndDate>
-				<EndTime>11:59:30</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TG </Name>
-					<Description>TELEGIORNALE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="88">
-				<IdName>Pasticciniallemandorle</IdName>
-				<StartDate>2015-09-21</StartDate>
-				<StartTime>11:59:30</StartTime>
-				<EndDate>2015-09-21</EndDate>
-				<EndTime>12:01:45</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>PASTICCINI  ALLE MANDORLE</Name>
-					<Description>PASTICCINI ALLE MANDORLE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="89">
-				<IdName>SerraSanBrunoPiccolaGrandeItalia</IdName>
-				<StartDate>2015-09-21</StartDate>
-				<StartTime>12:01:45</StartTime>
-				<EndDate>2015-09-21</EndDate>
-				<EndTime>12:22:44</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Piccola Grande Italia</Name>
-					<Description>SERRA S. BRUNO</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="90">
-				<IdName>1969IDueInvincibili-JohnWayneRockHudson</IdName>
-				<StartDate>2015-09-21</StartDate>
-				<StartTime>12:22:44</StartTime>
-				<EndDate>2015-09-21</EndDate>
-				<EndTime>14:16:13</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>JohnWayne</Name>
-					<Description>I due invincibili</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="91">
-				<IdName>SPOTTC2</IdName>
-				<StartDate>2015-09-21</StartDate>
-				<StartTime>14:16:13</StartTime>
-				<EndDate>2015-09-21</EndDate>
-				<EndTime>14:16:16</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachanne2</Name>
-					<Description>SPOTtuachanne2</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="92">
-				<IdName>Pennetteai4formaggi</IdName>
-				<StartDate>2015-09-21</StartDate>
-				<StartTime>14:16:16</StartTime>
-				<EndDate>2015-09-21</EndDate>
-				<EndTime>14:18:58</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>PENNETTE 4 FORMAGGI</Name>
-					<Description>PENNETTE 4 FORMAGGI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="93">
-				<IdName>GliAnimalipiPericolosiGiunglaUrbana(ITA)</IdName>
-				<StartDate>2015-09-21</StartDate>
-				<StartTime>14:18:58</StartTime>
-				<EndDate>2015-09-21</EndDate>
-				<EndTime>15:06:00</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Animali pericolosi</Name>
-					<Description>ANIMALI PERICOLOSI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="94">
-				<IdName>1963LaGrandeCorsa-TonyCurtisJackLemmon</IdName>
-				<StartDate>2015-09-21</StartDate>
-				<StartTime>15:06:00</StartTime>
-				<EndDate>2015-09-21</EndDate>
-				<EndTime>17:40:23</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>LA GRANDE CORSA </Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="95">
-				<IdName>SPOTTC1</IdName>
-				<StartDate>2015-09-21</StartDate>
-				<StartTime>17:40:23</StartTime>
-				<EndDate>2015-09-21</EndDate>
-				<EndTime>17:40:26</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachannel1</Name>
-					<Description>SPOTtuachannel1</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="96">
-				<IdName>CroccantediMandorle,laricettadiGiallozafferano</IdName>
-				<StartDate>2015-09-21</StartDate>
-				<StartTime>17:40:26</StartTime>
-				<EndDate>2015-09-21</EndDate>
-				<EndTime>17:44:12</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>CROCCANTEW DI  MANDORLE</Name>
-					<Description>CROCCANTE DI  AMNDORLE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="97">
-				<IdName>MagnificaItaliaCalabria_mpeg2video</IdName>
-				<StartDate>2015-09-21</StartDate>
-				<StartTime>17:44:12</StartTime>
-				<EndDate>2015-09-21</EndDate>
-				<EndTime>18:36:22</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Calabria</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="98">
-				<IdName>TG</IdName>
-				<StartDate>2015-09-21</StartDate>
-				<StartTime>18:36:22</StartTime>
-				<EndDate>2015-09-21</EndDate>
-				<EndTime>18:38:49</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TG </Name>
-					<Description>TELEGIORNALE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="99">
-				<IdName>1968GrazieZia-GabrieleFerzettiLisaGastoni</IdName>
-				<StartDate>2015-09-21</StartDate>
-				<StartTime>18:38:49</StartTime>
-				<EndDate>2015-09-21</EndDate>
-				<EndTime>20:09:59</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>968Grazie Zia</Name>
-					<Description>Gabriele Ferzetti Lisa Gastoni</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="100">
-				<IdName>SPOTTC6</IdName>
-				<StartDate>2015-09-21</StartDate>
-				<StartTime>20:09:59</StartTime>
-				<EndDate>2015-09-21</EndDate>
-				<EndTime>20:10:02</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachannel6</Name>
-					<Description>SPOTtuachannel6</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="101">
-				<IdName>inTavola_20150205_48237</IdName>
-				<StartDate>2015-09-21</StartDate>
-				<StartTime>20:10:02</StartTime>
-				<EndDate>2015-09-21</EndDate>
-				<EndTime>20:12:01</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>inTavola_2015 02 05</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="102">
-				<IdName>NoepoliPiccolaGrandeItalia</IdName>
-				<StartDate>2015-09-21</StartDate>
-				<StartTime>20:12:01</StartTime>
-				<EndDate>2015-09-21</EndDate>
-				<EndTime>20:28:33</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Piccola grande Italia</Name>
-					<Description>Neapoli</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="103">
-				<IdName>1970-Brancaleoneallecrociate-VittorioGassmanPaoloVillaggio</IdName>
-				<StartDate>2015-09-21</StartDate>
-				<StartTime>20:28:33</StartTime>
-				<EndDate>2015-09-21</EndDate>
-				<EndTime>22:27:55</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>BRANCALEONE ALLE CROCIATE</Name>
-					<Description>BRANCALEONE ALLE CROCIATE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="104">
-				<IdName>SPOTTC1</IdName>
-				<StartDate>2015-09-21</StartDate>
-				<StartTime>22:27:55</StartTime>
-				<EndDate>2015-09-21</EndDate>
-				<EndTime>22:27:59</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachannel1</Name>
-					<Description>SPOTtuachannel1</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="105">
-				<IdName>2^LocriCCdel25092014</IdName>
-				<StartDate>2015-09-21</StartDate>
-				<StartTime>22:27:59</StartTime>
-				<EndDate>2015-09-21</EndDate>
-				<EndTime>23:54:11</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>CONSIGLIO COMUNALE LOCRI</Name>
-					<Description>2^ LOCRI c c del 25092014</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="106">
-				<IdName>GrotteriaPresepe2012_mpeg2video(1)</IdName>
-				<StartDate>2015-09-21</StartDate>
-				<StartTime>23:54:11</StartTime>
-				<EndDate>2015-09-22</EndDate>
-				<EndTime>00:40:26</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>GROTTERIA PRESEPE</Name>
-					<Description>GROTTERIA PRESEPE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="107">
-				<IdName>1965Iltrattatodieugenetica-PieroFocacciaMaurizioArena</IdName>
-				<StartDate>2015-09-22</StartDate>
-				<StartTime>00:40:26</StartTime>
-				<EndDate>2015-09-22</EndDate>
-				<EndTime>01:08:01</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>1965Iltrattatodieugenetica-PieroFocacciaMaurizioArena</Name>
-					<Description>IL TRATTATO  DI EUGENETICA</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="108">
-				<IdName>SPOTTC6</IdName>
-				<StartDate>2015-09-22</StartDate>
-				<StartTime>01:08:01</StartTime>
-				<EndDate>2015-09-22</EndDate>
-				<EndTime>01:08:05</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachannel6</Name>
-					<Description>SPOTtuachannel6</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="109">
-				<IdName>TG</IdName>
-				<StartDate>2015-09-22</StartDate>
-				<StartTime>01:08:05</StartTime>
-				<EndDate>2015-09-22</EndDate>
-				<EndTime>01:10:32</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TG </Name>
-					<Description>TELEGIORNALE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="110">
-				<IdName>CocktaildiGamberetti,laricettadiGiallozafferano</IdName>
-				<StartDate>2015-09-22</StartDate>
-				<StartTime>01:10:32</StartTime>
-				<EndDate>2015-09-22</EndDate>
-				<EndTime>01:13:32</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>COKTAIL DI  GAMBERETTI</Name>
-					<Description>COKTAIL DI GAMBERETTI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="111">
-				<IdName>TarantoRIPCortometraggiodiStefanoAngelillo</IdName>
-				<StartDate>2015-09-22</StartDate>
-				<StartTime>01:13:32</StartTime>
-				<EndDate>2015-09-22</EndDate>
-				<EndTime>01:20:20</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TARANTOcotrometraggio</Name>
-					<Description>TARANTO</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="112">
-				<IdName>1959UnMaledettoImbroglio-PietroGermiClaudiaCardinale</IdName>
-				<StartDate>2015-09-22</StartDate>
-				<StartTime>01:20:20</StartTime>
-				<EndDate>2015-09-22</EndDate>
-				<EndTime>03:10:11</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Pietro Germi Claudia Cardinale</Name>
-					<Description>un maledetto imbroglio</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="113">
-				<IdName>spottc</IdName>
-				<StartDate>2015-09-22</StartDate>
-				<StartTime>03:10:11</StartTime>
-				<EndDate>2015-09-22</EndDate>
-				<EndTime>03:10:30</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TUA CHANNEL SPOT</Name>
-					<Description>SPOT TUA HANNEL</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="114">
-				<IdName>1^LocriCCdel25092014</IdName>
-				<StartDate>2015-09-22</StartDate>
-				<StartTime>03:10:30</StartTime>
-				<EndDate>2015-09-22</EndDate>
-				<EndTime>04:50:45</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>CONSIGLIO  COMUNALE LOCRI</Name>
-					<Description>CONSIGLIO  COMUNALE LOCRI DEL 25092014</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="115">
-				<IdName>PianadegliAlbanesi'DomenicadellePalme'PiccolaGrandeItalia</IdName>
-				<StartDate>2015-09-22</StartDate>
-				<StartTime>04:50:45</StartTime>
-				<EndDate>2015-09-22</EndDate>
-				<EndTime>05:04:57</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>PIANA DEGLI ALBANESI</Name>
-					<Description>PIANA DEGLI ALBANESI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="116">
-				<IdName>1963LeMonachine-CatherineSpaakSylvaKoscinaLandoBuzzanca</IdName>
-				<StartDate>2015-09-22</StartDate>
-				<StartTime>05:04:57</StartTime>
-				<EndDate>2015-09-22</EndDate>
-				<EndTime>06:47:41</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>1963 Le Monachine</Name>
-					<Description>Catherine Spaak Sylva Koscina Lando Buzzanca</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="117">
-				<IdName>SPOTTC2</IdName>
-				<StartDate>2015-09-22</StartDate>
-				<StartTime>06:47:41</StartTime>
-				<EndDate>2015-09-22</EndDate>
-				<EndTime>06:47:44</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachanne2</Name>
-					<Description>SPOTtuachanne2</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="118">
-				<IdName>Pasticciniallemandorle</IdName>
-				<StartDate>2015-09-22</StartDate>
-				<StartTime>06:47:44</StartTime>
-				<EndDate>2015-09-22</EndDate>
-				<EndTime>06:50:00</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>PASTICCINI  ALLE MANDORLE</Name>
-					<Description>PASTICCINI ALLE MANDORLE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="119">
-				<IdName>MontaltoUffugoFestadelgranosull'Aia</IdName>
-				<StartDate>2015-09-22</StartDate>
-				<StartTime>06:50:00</StartTime>
-				<EndDate>2015-09-22</EndDate>
-				<EndTime>07:04:29</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>MONTALTO UFFUGO</Name>
-					<Description>MONTALTO  UFFUGO</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="120">
-				<IdName>TG</IdName>
-				<StartDate>2015-09-22</StartDate>
-				<StartTime>07:04:29</StartTime>
-				<EndDate>2015-09-22</EndDate>
-				<EndTime>07:06:57</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TG </Name>
-					<Description>TELEGIORNALE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="121">
-				<IdName>1972Detenutoinattesadigiudizio_2-AlbertoSordiGianniBonagura</IdName>
-				<StartDate>2015-09-22</StartDate>
-				<StartTime>07:06:57</StartTime>
-				<EndDate>2015-09-22</EndDate>
-				<EndTime>07:58:30</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SORDI-GIANNINI</Name>
-					<Description>DETENUTO IN ATTESA DI  GIUDIZIO 2</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="122">
-				<IdName>SPOTC3</IdName>
-				<StartDate>2015-09-22</StartDate>
-				<StartTime>07:58:30</StartTime>
-				<EndDate>2015-09-22</EndDate>
-				<EndTime>07:58:33</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachannel3</Name>
-					<Description>SPOTtuachanne3</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="123">
-				<IdName>Musa_TV_20150601_51297</IdName>
-				<StartDate>2015-09-22</StartDate>
-				<StartTime>07:58:33</StartTime>
-				<EndDate>2015-09-22</EndDate>
-				<EndTime>08:16:12</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>musa 8-giu</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="124">
-				<IdName>agrisapori609x17-5-15</IdName>
-				<StartDate>2015-09-22</StartDate>
-				<StartTime>08:16:12</StartTime>
-				<EndDate>2015-09-22</EndDate>
-				<EndTime>08:45:12</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>SPERLONGA</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="125">
-				<IdName>Roma.drogata.la.polizia.non_.puo.intervenire.19752°t.</IdName>
-				<StartDate>2015-09-22</StartDate>
-				<StartTime>08:45:12</StartTime>
-				<EndDate>2015-09-22</EndDate>
-				<EndTime>09:26:26</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>ROMA DROGATA 2^</Name>
-					<Description>ROMA DROGATA 2^</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="126">
-				<IdName>SPOTTC6</IdName>
-				<StartDate>2015-09-22</StartDate>
-				<StartTime>09:26:26</StartTime>
-				<EndDate>2015-09-22</EndDate>
-				<EndTime>09:26:30</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachannel6</Name>
-					<Description>SPOTtuachannel6</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="127">
-				<IdName>ItaliaEconomia_20150603_51311</IdName>
-				<StartDate>2015-09-22</StartDate>
-				<StartTime>09:26:30</StartTime>
-				<EndDate>2015-09-22</EndDate>
-				<EndTime>09:34:33</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Italai Economia 8 giug</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="128">
-				<IdName>GrotteriaPresepe2012_mpeg2video(1)</IdName>
-				<StartDate>2015-09-22</StartDate>
-				<StartTime>09:34:33</StartTime>
-				<EndDate>2015-09-22</EndDate>
-				<EndTime>10:20:48</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>GROTTERIA PRESEPE</Name>
-					<Description>GROTTERIA PRESEPE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="129">
-				<IdName>1969UnUomoDaMarciapiede-DustinHofman</IdName>
-				<StartDate>2015-09-22</StartDate>
-				<StartTime>10:20:48</StartTime>
-				<EndDate>2015-09-22</EndDate>
-				<EndTime>12:08:37</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>UN  UOMO  DA MARCIAPIEDE</Name>
-					<Description>UN  UOMO DA MARCIAPIEDE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="130">
-				<IdName>spottc</IdName>
-				<StartDate>2015-09-22</StartDate>
-				<StartTime>12:08:37</StartTime>
-				<EndDate>2015-09-22</EndDate>
-				<EndTime>12:08:56</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TUA CHANNEL SPOT</Name>
-					<Description>SPOT TUA HANNEL</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="131">
-				<IdName>TG</IdName>
-				<StartDate>2015-09-22</StartDate>
-				<StartTime>12:08:56</StartTime>
-				<EndDate>2015-09-22</EndDate>
-				<EndTime>12:11:23</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TG </Name>
-					<Description>TELEGIORNALE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="132">
-				<IdName>CorsoUrgenzaEmergenza</IdName>
-				<StartDate>2015-09-22</StartDate>
-				<StartTime>12:11:23</StartTime>
-				<EndDate>2015-09-22</EndDate>
-				<EndTime>13:14:40</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>CORSO URGENZA EMERGENZA</Name>
-					<Description>CORSO  URGENZA EMERGENZA</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="133">
-				<IdName>Gerace</IdName>
-				<StartDate>2015-09-22</StartDate>
-				<StartTime>13:14:40</StartTime>
-				<EndDate>2015-09-22</EndDate>
-				<EndTime>13:20:41</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>GERACE</Name>
-					<Description>GERACE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="134">
-				<IdName>Fantozzi-GrandiMagazzini</IdName>
-				<StartDate>2015-09-22</StartDate>
-				<StartTime>13:20:41</StartTime>
-				<EndDate>2015-09-22</EndDate>
-				<EndTime>15:11:17</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>FANTOZZI GRANDI MAGAZZINI</Name>
-					<Description>GRANDI MAGAZZINI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="135">
-				<IdName>SPOTTC1</IdName>
-				<StartDate>2015-09-22</StartDate>
-				<StartTime>15:11:17</StartTime>
-				<EndDate>2015-09-22</EndDate>
-				<EndTime>15:11:20</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachannel1</Name>
-					<Description>SPOTtuachannel1</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="136">
-				<IdName>inMoto_20150202_48142</IdName>
-				<StartDate>2015-09-22</StartDate>
-				<StartTime>15:11:20</StartTime>
-				<EndDate>2015-09-22</EndDate>
-				<EndTime>15:13:11</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>inMoto_2015 02 02_</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="137">
-				<IdName>TarantoRIPCortometraggiodiStefanoAngelillo</IdName>
-				<StartDate>2015-09-22</StartDate>
-				<StartTime>15:13:11</StartTime>
-				<EndDate>2015-09-22</EndDate>
-				<EndTime>15:20:00</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TARANTOcotrometraggio</Name>
-					<Description>TARANTO</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="138">
-				<IdName>1962LaleggendadiEnea-SteveReevesLianaOrfei</IdName>
-				<StartDate>2015-09-22</StartDate>
-				<StartTime>15:20:00</StartTime>
-				<EndDate>2015-09-22</EndDate>
-				<EndTime>16:55:42</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>LA LEGGENDA DI  ENEA</Name>
-					<Description>LA LEGENDA DI  ENEA</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="139">
-				<IdName>SPOTC3</IdName>
-				<StartDate>2015-09-22</StartDate>
-				<StartTime>16:55:42</StartTime>
-				<EndDate>2015-09-22</EndDate>
-				<EndTime>16:55:45</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachannel3</Name>
-					<Description>SPOTtuachanne3</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="140">
-				<IdName>TG</IdName>
-				<StartDate>2015-09-22</StartDate>
-				<StartTime>16:55:45</StartTime>
-				<EndDate>2015-09-22</EndDate>
-				<EndTime>16:58:13</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TG </Name>
-					<Description>TELEGIORNALE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="141">
-				<IdName>CariatiPiccolaGrandeItalia</IdName>
-				<StartDate>2015-09-22</StartDate>
-				<StartTime>16:58:13</StartTime>
-				<EndDate>2015-09-22</EndDate>
-				<EndTime>17:19:54</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>CARIATI</Name>
-					<Description>cariati</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="142">
-				<IdName>TG</IdName>
-				<StartDate>2015-09-22</StartDate>
-				<StartTime>17:19:54</StartTime>
-				<EndDate>2015-09-22</EndDate>
-				<EndTime>17:22:21</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TG </Name>
-					<Description>TELEGIORNALE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="143">
-				<IdName>1971Bubù-MassimoRanieriOttaviaPiccolo</IdName>
-				<StartDate>2015-09-22</StartDate>
-				<StartTime>17:22:21</StartTime>
-				<EndDate>2015-09-22</EndDate>
-				<EndTime>18:58:55</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>BUBU</Name>
-					<Description>BUBU</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="144">
-				<IdName>SPOTTC2</IdName>
-				<StartDate>2015-09-22</StartDate>
-				<StartTime>18:58:55</StartTime>
-				<EndDate>2015-09-22</EndDate>
-				<EndTime>18:58:59</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachanne2</Name>
-					<Description>SPOTtuachanne2</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="145">
-				<IdName>OSPEDALEGERACEcopiaottima_mpeg2video</IdName>
-				<StartDate>2015-09-22</StartDate>
-				<StartTime>18:58:59</StartTime>
-				<EndDate>2015-09-22</EndDate>
-				<EndTime>19:11:44</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>OSPEDALE GERACE</Name>
-					<Description>Ospedale Gerace Matteo</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="146">
-				<IdName>AnimaliSerpentiFascinoLetale(Ita)</IdName>
-				<StartDate>2015-09-22</StartDate>
-				<StartTime>19:11:44</StartTime>
-				<EndDate>2015-09-22</EndDate>
-				<EndTime>20:03:50</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>ANIMALI SERPENTI</Name>
-					<Description>ANIMALI SERPENTI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="147">
-				<IdName>1973AmoreEGinnastica-SentaBergerLinoCapolicchioAdrianaAsti</IdName>
-				<StartDate>2015-09-22</StartDate>
-				<StartTime>20:03:50</StartTime>
-				<EndDate>2015-09-22</EndDate>
-				<EndTime>21:47:08</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Santa  Berger</Name>
-					<Description>Amore e ginnastica</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="148">
-				<IdName>SPOTTC1</IdName>
-				<StartDate>2015-09-22</StartDate>
-				<StartTime>21:47:08</StartTime>
-				<EndDate>2015-09-22</EndDate>
-				<EndTime>21:47:11</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachannel1</Name>
-					<Description>SPOTtuachannel1</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="149">
-				<IdName>Salus_TV_20150601_51285</IdName>
-				<StartDate>2015-09-22</StartDate>
-				<StartTime>21:47:11</StartTime>
-				<EndDate>2015-09-22</EndDate>
-				<EndTime>22:00:55</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Salus 8 giug</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="150">
-				<IdName>Caltagirone2010PiccolaGrandeItalia</IdName>
-				<StartDate>2015-09-22</StartDate>
-				<StartTime>22:00:55</StartTime>
-				<EndDate>2015-09-22</EndDate>
-				<EndTime>22:25:18</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>CALTAGIRONE</Name>
-					<Description>CALTAGIRONE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="151">
-				<IdName>gold.il.segno.del.potere.19741°t.</IdName>
-				<StartDate>2015-09-22</StartDate>
-				<StartTime>22:25:18</StartTime>
-				<EndDate>2015-09-22</EndDate>
-				<EndTime>23:26:28</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>GOLD  IL SEGNO DEL  POTERE 1°</Name>
-					<Description>GOLD  IL SEGNO DEL  POTERE 1°</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="152">
-				<IdName>spottc</IdName>
-				<StartDate>2015-09-22</StartDate>
-				<StartTime>23:26:28</StartTime>
-				<EndDate>2015-09-22</EndDate>
-				<EndTime>23:26:47</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TUA CHANNEL SPOT</Name>
-					<Description>SPOT TUA HANNEL</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="153">
-				<IdName>TG</IdName>
-				<StartDate>2015-09-22</StartDate>
-				<StartTime>23:26:47</StartTime>
-				<EndDate>2015-09-22</EndDate>
-				<EndTime>23:29:14</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TG </Name>
-					<Description>TELEGIORNALE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="154">
-				<IdName>LocriCCdel14062013_mpeg2video</IdName>
-				<StartDate>2015-09-22</StartDate>
-				<StartTime>23:29:14</StartTime>
-				<EndDate>2015-09-23</EndDate>
-				<EndTime>01:16:16</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>CONSIGLIO COMUNALE LOCRI</Name>
-					<Description>CONSIGLIO COMUNALE LOCRIDEL 14062013</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="155">
-				<IdName>MassafraPiccolaGrandeItalia</IdName>
-				<StartDate>2015-09-23</StartDate>
-				<StartTime>01:16:16</StartTime>
-				<EndDate>2015-09-23</EndDate>
-				<EndTime>01:37:50</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Piccola grande Italia</Name>
-					<Description>Massafra</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="156">
-				<IdName>Nell'annoDelSignoreManfredi,Sordi,Tognazzi(Filmcompleto)</IdName>
-				<StartDate>2015-09-23</StartDate>
-				<StartTime>01:37:50</StartTime>
-				<EndDate>2015-09-23</EndDate>
-				<EndTime>03:35:45</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nell'anno del  Signore</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="157">
-				<IdName>SPOTTC2</IdName>
-				<StartDate>2015-09-23</StartDate>
-				<StartTime>03:35:45</StartTime>
-				<EndDate>2015-09-23</EndDate>
-				<EndTime>03:35:48</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachanne2</Name>
-					<Description>SPOTtuachanne2</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="158">
-				<IdName>Pennetteai4formaggi</IdName>
-				<StartDate>2015-09-23</StartDate>
-				<StartTime>03:35:48</StartTime>
-				<EndDate>2015-09-23</EndDate>
-				<EndTime>03:38:30</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>PENNETTE 4 FORMAGGI</Name>
-					<Description>PENNETTE 4 FORMAGGI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="159">
-				<IdName>SardegnaVistadalcielo</IdName>
-				<StartDate>2015-09-23</StartDate>
-				<StartTime>03:38:30</StartTime>
-				<EndDate>2015-09-23</EndDate>
-				<EndTime>04:28:53</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Sardegna vista dal cielo</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="160">
-				<IdName>1972L'UltimaCasaASinistra</IdName>
-				<StartDate>2015-09-23</StartDate>
-				<StartTime>04:28:53</StartTime>
-				<EndDate>2015-09-23</EndDate>
-				<EndTime>05:49:46</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>L' ultima casa a sinistra</Name>
-					<Description>L'ultima casa a sinistra</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="161">
-				<IdName>SPOTTC6</IdName>
-				<StartDate>2015-09-23</StartDate>
-				<StartTime>05:49:46</StartTime>
-				<EndDate>2015-09-23</EndDate>
-				<EndTime>05:49:49</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachannel6</Name>
-					<Description>SPOTtuachannel6</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="162">
-				<IdName>TG</IdName>
-				<StartDate>2015-09-23</StartDate>
-				<StartTime>05:49:49</StartTime>
-				<EndDate>2015-09-23</EndDate>
-				<EndTime>05:52:16</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TG </Name>
-					<Description>TELEGIORNALE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="163">
-				<IdName>BonifatiPiccolaGrandeItalia</IdName>
-				<StartDate>2015-09-23</StartDate>
-				<StartTime>05:52:16</StartTime>
-				<EndDate>2015-09-23</EndDate>
-				<EndTime>06:14:12</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>bonifati</Name>
-					<Description>bonifati</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="164">
-				<IdName>TG</IdName>
-				<StartDate>2015-09-23</StartDate>
-				<StartTime>06:14:12</StartTime>
-				<EndDate>2015-09-23</EndDate>
-				<EndTime>06:16:39</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TG </Name>
-					<Description>TELEGIORNALE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="165">
-				<IdName>1962Eilventodisperselanebbia-EvaMarieSaintWarrenBeattyKarlMaldenAngelaLansbury</IdName>
-				<StartDate>2015-09-23</StartDate>
-				<StartTime>06:16:39</StartTime>
-				<EndDate>2015-09-23</EndDate>
-				<EndTime>08:02:17</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Eva Marie </Name>
-					<Description>E   il  vento  disperse la  nebbia</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="166">
-				<IdName>SPOTC3</IdName>
-				<StartDate>2015-09-23</StartDate>
-				<StartTime>08:02:17</StartTime>
-				<EndDate>2015-09-23</EndDate>
-				<EndTime>08:02:20</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachannel3</Name>
-					<Description>SPOTtuachanne3</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="167">
-				<IdName>inMoto_20150202_48142</IdName>
-				<StartDate>2015-09-23</StartDate>
-				<StartTime>08:02:20</StartTime>
-				<EndDate>2015-09-23</EndDate>
-				<EndTime>08:04:11</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>inMoto_2015 02 02_</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="168">
-				<IdName>NoepoliPiccolaGrandeItalia</IdName>
-				<StartDate>2015-09-23</StartDate>
-				<StartTime>08:04:11</StartTime>
-				<EndDate>2015-09-23</EndDate>
-				<EndTime>08:20:43</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Piccola grande Italia</Name>
-					<Description>Neapoli</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="169">
-				<IdName>Papadiventamamma_mpeg2video</IdName>
-				<StartDate>2015-09-23</StartDate>
-				<StartTime>08:20:43</StartTime>
-				<EndDate>2015-09-23</EndDate>
-				<EndTime>09:41:06</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>PAPA  DIVENTA  MAMMA</Name>
-					<Description>PAPA  DIVENTA  MAMMA</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="170">
-				<IdName>spottc</IdName>
-				<StartDate>2015-09-23</StartDate>
-				<StartTime>09:41:06</StartTime>
-				<EndDate>2015-09-23</EndDate>
-				<EndTime>09:41:25</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TUA CHANNEL SPOT</Name>
-					<Description>SPOT TUA HANNEL</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="171">
-				<IdName>inTavola_20150205_48237</IdName>
-				<StartDate>2015-09-23</StartDate>
-				<StartTime>09:41:25</StartTime>
-				<EndDate>2015-09-23</EndDate>
-				<EndTime>09:43:24</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>inTavola_2015 02 05</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="172">
-				<IdName>PASCOLOABUSIVO</IdName>
-				<StartDate>2015-09-23</StartDate>
-				<StartTime>09:43:24</StartTime>
-				<EndDate>2015-09-23</EndDate>
-				<EndTime>09:53:28</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>PASCOLO ABUSIVO</Name>
-					<Description>PASCOLO ABUSIVO</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="173">
-				<IdName>1960NonMangiateLeMargherite-DorisDayDavidNiven</IdName>
-				<StartDate>2015-09-23</StartDate>
-				<StartTime>09:53:28</StartTime>
-				<EndDate>2015-09-23</EndDate>
-				<EndTime>11:39:50</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Doris Day David Niven</Name>
-					<Description>Non Mangiate Le Margherite</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="174">
-				<IdName>SPOTTC2</IdName>
-				<StartDate>2015-09-23</StartDate>
-				<StartTime>11:39:50</StartTime>
-				<EndDate>2015-09-23</EndDate>
-				<EndTime>11:39:54</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachanne2</Name>
-					<Description>SPOTtuachanne2</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="175">
-				<IdName>TG</IdName>
-				<StartDate>2015-09-23</StartDate>
-				<StartTime>11:39:54</StartTime>
-				<EndDate>2015-09-23</EndDate>
-				<EndTime>11:42:21</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TG </Name>
-					<Description>TELEGIORNALE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="176">
-				<IdName>ItaliaEconomia_20150603_51311</IdName>
-				<StartDate>2015-09-23</StartDate>
-				<StartTime>11:42:21</StartTime>
-				<EndDate>2015-09-23</EndDate>
-				<EndTime>11:50:24</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Italai Economia 8 giug</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="177">
-				<IdName>Potaturadell'OlivonellaLocride3Ed_mpeg2video</IdName>
-				<StartDate>2015-09-23</StartDate>
-				<StartTime>11:50:24</StartTime>
-				<EndDate>2015-09-23</EndDate>
-				<EndTime>13:42:14</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Potatura  dell' olivo  nella Locride 013</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="178">
-				<IdName>1959Improvvisamentel'estatescorsa-ElizabethTaylorCatharineHepburn</IdName>
-				<StartDate>2015-09-23</StartDate>
-				<StartTime>13:42:14</StartTime>
-				<EndDate>2015-09-23</EndDate>
-				<EndTime>15:31:44</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Elizabeth Taylor Catharine Hepburn</Name>
-					<Description>1959 Improvvisamente l'estate scorsa</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="179">
-				<IdName>SPOTTC1</IdName>
-				<StartDate>2015-09-23</StartDate>
-				<StartTime>15:31:44</StartTime>
-				<EndDate>2015-09-23</EndDate>
-				<EndTime>15:31:48</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachannel1</Name>
-					<Description>SPOTtuachannel1</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="180">
-				<IdName>CorsoUrgenzaEmergenza</IdName>
-				<StartDate>2015-09-23</StartDate>
-				<StartTime>15:31:48</StartTime>
-				<EndDate>2015-09-23</EndDate>
-				<EndTime>16:35:04</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>CORSO URGENZA EMERGENZA</Name>
-					<Description>CORSO  URGENZA EMERGENZA</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="181">
-				<IdName>MalfaPiccolaGrandeItalia</IdName>
-				<StartDate>2015-09-23</StartDate>
-				<StartTime>16:35:04</StartTime>
-				<EndDate>2015-09-23</EndDate>
-				<EndTime>16:56:33</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Piccola Grande Italia MALFA</Name>
-					<Description>Malfa</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="182">
-				<IdName>Labandadeglionesti_mpeg2video</IdName>
-				<StartDate>2015-09-23</StartDate>
-				<StartTime>16:56:33</StartTime>
-				<EndDate>2015-09-23</EndDate>
-				<EndTime>18:37:29</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>LA BANDA DEGLI ONESTI</Name>
-					<Description>LA BANDA DEGLI  ONESTI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="183">
-				<IdName>SPOTC3</IdName>
-				<StartDate>2015-09-23</StartDate>
-				<StartTime>18:37:29</StartTime>
-				<EndDate>2015-09-23</EndDate>
-				<EndTime>18:37:32</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachannel3</Name>
-					<Description>SPOTtuachanne3</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="184">
-				<IdName>1^LocriCCdel25092014</IdName>
-				<StartDate>2015-09-23</StartDate>
-				<StartTime>18:37:32</StartTime>
-				<EndDate>2015-09-23</EndDate>
-				<EndTime>20:17:46</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>CONSIGLIO  COMUNALE LOCRI</Name>
-					<Description>CONSIGLIO  COMUNALE LOCRI DEL 25092014</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="185">
-				<IdName>PraiaaMarePiccolaGrandeItalia</IdName>
-				<StartDate>2015-09-23</StartDate>
-				<StartTime>20:17:46</StartTime>
-				<EndDate>2015-09-23</EndDate>
-				<EndTime>20:42:20</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Piccola grande Italia</Name>
-					<Description>PRAIA A MARE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="186">
-				<IdName>TG</IdName>
-				<StartDate>2015-09-23</StartDate>
-				<StartTime>20:42:20</StartTime>
-				<EndDate>2015-09-23</EndDate>
-				<EndTime>20:44:48</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TG </Name>
-					<Description>TELEGIORNALE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="187">
-				<IdName>1963Ilsignoredellemosche</IdName>
-				<StartDate>2015-09-23</StartDate>
-				<StartTime>20:44:48</StartTime>
-				<EndDate>2015-09-23</EndDate>
-				<EndTime>22:11:51</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>1963 Il signore delle mosche</Name>
-					<Description>1963 Il signore delle mosche</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="188">
-				<IdName>SPOTTC6</IdName>
-				<StartDate>2015-09-23</StartDate>
-				<StartTime>22:11:51</StartTime>
-				<EndDate>2015-09-23</EndDate>
-				<EndTime>22:11:54</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachannel6</Name>
-					<Description>SPOTtuachannel6</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="189">
-				<IdName>Pasticciniallemandorle</IdName>
-				<StartDate>2015-09-23</StartDate>
-				<StartTime>22:11:54</StartTime>
-				<EndDate>2015-09-23</EndDate>
-				<EndTime>22:14:10</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>PASTICCINI  ALLE MANDORLE</Name>
-					<Description>PASTICCINI ALLE MANDORLE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="190">
-				<IdName>SerraSanBrunoPiccolaGrandeItalia</IdName>
-				<StartDate>2015-09-23</StartDate>
-				<StartTime>22:14:10</StartTime>
-				<EndDate>2015-09-23</EndDate>
-				<EndTime>22:35:08</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Piccola Grande Italia</Name>
-					<Description>SERRA S. BRUNO</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="191">
-				<IdName>FantozziVaInPensione</IdName>
-				<StartDate>2015-09-23</StartDate>
-				<StartTime>22:35:08</StartTime>
-				<EndDate>2015-09-24</EndDate>
-				<EndTime>00:09:44</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>FANTOZZI VA IN PENSIONE</Name>
-					<Description>FANTOZZI VA IN PENSIONE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="192">
-				<IdName>SPOTTC1</IdName>
-				<StartDate>2015-09-24</StartDate>
-				<StartTime>00:09:44</StartTime>
-				<EndDate>2015-09-24</EndDate>
-				<EndTime>00:09:48</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachannel1</Name>
-					<Description>SPOTtuachannel1</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="193">
-				<IdName>2^LocriCCdel25092014</IdName>
-				<StartDate>2015-09-24</StartDate>
-				<StartTime>00:09:48</StartTime>
-				<EndDate>2015-09-24</EndDate>
-				<EndTime>01:36:00</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>CONSIGLIO COMUNALE LOCRI</Name>
-					<Description>2^ LOCRI c c del 25092014</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="194">
-				<IdName>MusicaeTradizioni</IdName>
-				<StartDate>2015-09-24</StartDate>
-				<StartTime>01:36:00</StartTime>
-				<EndDate>2015-09-24</EndDate>
-				<EndTime>01:46:57</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>MUSICA E TRADIZIONI</Name>
-					<Description>MUSICA E TRADIZIONI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="195">
-				<IdName>1971IquattropistoleridiSantaTrinita-PeterL.Lawrence</IdName>
-				<StartDate>2015-09-24</StartDate>
-				<StartTime>01:46:57</StartTime>
-				<EndDate>2015-09-24</EndDate>
-				<EndTime>03:20:07</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Peter L. </Name>
-					<Description>I quattro pistoleri si Santa Trinità</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="196">
-				<IdName>SPOTTC6</IdName>
-				<StartDate>2015-09-24</StartDate>
-				<StartTime>03:20:07</StartTime>
-				<EndDate>2015-09-24</EndDate>
-				<EndTime>03:20:10</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachannel6</Name>
-					<Description>SPOTtuachannel6</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="197">
-				<IdName>TG</IdName>
-				<StartDate>2015-09-24</StartDate>
-				<StartTime>03:20:10</StartTime>
-				<EndDate>2015-09-24</EndDate>
-				<EndTime>03:22:38</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TG </Name>
-					<Description>TELEGIORNALE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="198">
-				<IdName>Salus_TV_20150601_51285</IdName>
-				<StartDate>2015-09-24</StartDate>
-				<StartTime>03:22:38</StartTime>
-				<EndDate>2015-09-24</EndDate>
-				<EndTime>03:36:22</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Salus 8 giug</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="199">
-				<IdName>MagnificaItaliaCalabria_mpeg2video</IdName>
-				<StartDate>2015-09-24</StartDate>
-				<StartTime>03:36:22</StartTime>
-				<EndDate>2015-09-24</EndDate>
-				<EndTime>04:28:32</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Calabria</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="200">
-				<IdName>1972L'etruscoUccideAncora-JohnMarleyEnzoCerusico</IdName>
-				<StartDate>2015-09-24</StartDate>
-				<StartTime>04:28:32</StartTime>
-				<EndDate>2015-09-24</EndDate>
-				<EndTime>06:09:53</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>John Marley EnzoCerusico</Name>
-					<Description>1972 L'etrusco Uccide Ancora</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="201">
-				<IdName>SPOTC3</IdName>
-				<StartDate>2015-09-24</StartDate>
-				<StartTime>06:09:53</StartTime>
-				<EndDate>2015-09-24</EndDate>
-				<EndTime>06:09:57</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachannel3</Name>
-					<Description>SPOTtuachanne3</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="202">
-				<IdName>CroccantediMandorle,laricettadiGiallozafferano</IdName>
-				<StartDate>2015-09-24</StartDate>
-				<StartTime>06:09:57</StartTime>
-				<EndDate>2015-09-24</EndDate>
-				<EndTime>06:13:42</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>CROCCANTEW DI  MANDORLE</Name>
-					<Description>CROCCANTE DI  AMNDORLE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="203">
-				<IdName>GliAnimalipiPericolosiGiunglaUrbana(ITA)</IdName>
-				<StartDate>2015-09-24</StartDate>
-				<StartTime>06:13:42</StartTime>
-				<EndDate>2015-09-24</EndDate>
-				<EndTime>07:00:44</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Animali pericolosi</Name>
-					<Description>ANIMALI PERICOLOSI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="204">
-				<IdName>Malibùmostwanted_mpeg2video</IdName>
-				<StartDate>2015-09-24</StartDate>
-				<StartTime>07:00:44</StartTime>
-				<EndDate>2015-09-24</EndDate>
-				<EndTime>08:23:20</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>MALIBU MONS WANTED</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="205">
-				<IdName>SPOTTC2</IdName>
-				<StartDate>2015-09-24</StartDate>
-				<StartTime>08:23:20</StartTime>
-				<EndDate>2015-09-24</EndDate>
-				<EndTime>08:23:23</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachanne2</Name>
-					<Description>SPOTtuachanne2</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="206">
-				<IdName>LocriCCdel14062013_mpeg2video</IdName>
-				<StartDate>2015-09-24</StartDate>
-				<StartTime>08:23:23</StartTime>
-				<EndDate>2015-09-24</EndDate>
-				<EndTime>10:10:25</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>CONSIGLIO COMUNALE LOCRI</Name>
-					<Description>CONSIGLIO COMUNALE LOCRIDEL 14062013</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="207">
-				<IdName>agrisapori596x8-2-15</IdName>
-				<StartDate>2015-09-24</StartDate>
-				<StartTime>10:10:25</StartTime>
-				<EndDate>2015-09-24</EndDate>
-				<EndTime>10:41:45</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>GIAGLIONESconosciuto</Name>
-					<Description>Nuovo FiAGRISAPORI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="208">
-				<IdName>TG</IdName>
-				<StartDate>2015-09-24</StartDate>
-				<StartTime>10:41:45</StartTime>
-				<EndDate>2015-09-24</EndDate>
-				<EndTime>10:44:13</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TG </Name>
-					<Description>TELEGIORNALE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="209">
-				<IdName>Un.amore.in.prima.classe.19802°t.</IdName>
-				<StartDate>2015-09-24</StartDate>
-				<StartTime>10:44:13</StartTime>
-				<EndDate>2015-09-24</EndDate>
-				<EndTime>11:26:15</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>UN AMORE IN PRIMA CLASSE 2° T</Name>
-					<Description>UN AMORE IN PRIMA CLASSE 2° T</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="210">
-				<IdName>spottc</IdName>
-				<StartDate>2015-09-24</StartDate>
-				<StartTime>11:26:15</StartTime>
-				<EndDate>2015-09-24</EndDate>
-				<EndTime>11:26:34</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TUA CHANNEL SPOT</Name>
-					<Description>SPOT TUA HANNEL</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="211">
-				<IdName>OSPEDALEGERACEcopiaottima_mpeg2video</IdName>
-				<StartDate>2015-09-24</StartDate>
-				<StartTime>11:26:34</StartTime>
-				<EndDate>2015-09-24</EndDate>
-				<EndTime>11:39:20</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>OSPEDALE GERACE</Name>
-					<Description>Ospedale Gerace Matteo</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="212">
-				<IdName>agrisapori608x9-5-15</IdName>
-				<StartDate>2015-09-24</StartDate>
-				<StartTime>11:39:20</StartTime>
-				<EndDate>2015-09-24</EndDate>
-				<EndTime>12:08:01</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="213">
-				<IdName>L'UltimoTrenoDellaNotte19751°t.</IdName>
-				<StartDate>2015-09-24</StartDate>
-				<StartTime>12:08:01</StartTime>
-				<EndDate>2015-09-24</EndDate>
-				<EndTime>12:54:27</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>L' ULTIMO TRENO DELLA NOTTE 1° T</Name>
-					<Description>L' ULTIMO TRENO DELLA   NOTTE 1° T</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="214">
-				<IdName>SPOTC3</IdName>
-				<StartDate>2015-09-24</StartDate>
-				<StartTime>12:54:27</StartTime>
-				<EndDate>2015-09-24</EndDate>
-				<EndTime>12:54:30</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachannel3</Name>
-					<Description>SPOTtuachanne3</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="215">
-				<IdName>CocktaildiGamberetti,laricettadiGiallozafferano</IdName>
-				<StartDate>2015-09-24</StartDate>
-				<StartTime>12:54:30</StartTime>
-				<EndDate>2015-09-24</EndDate>
-				<EndTime>12:57:29</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>COKTAIL DI  GAMBERETTI</Name>
-					<Description>COKTAIL DI GAMBERETTI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="216">
-				<IdName>TropeaPiccolaGrandeItalia</IdName>
-				<StartDate>2015-09-24</StartDate>
-				<StartTime>12:57:29</StartTime>
-				<EndDate>2015-09-24</EndDate>
-				<EndTime>13:24:23</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Piccola grande Italia</Name>
-					<Description>TROPEA</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="217">
-				<IdName>196355giorniaPechino-CharltonHestonAvaGardnerDavidNiven</IdName>
-				<StartDate>2015-09-24</StartDate>
-				<StartTime>13:24:23</StartTime>
-				<EndDate>2015-09-24</EndDate>
-				<EndTime>15:59:43</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Charloton Esoan Ava Garner</Name>
-					<Description>55  giorni a Pechino</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="218">
-				<IdName>SPOTTC6</IdName>
-				<StartDate>2015-09-24</StartDate>
-				<StartTime>15:59:43</StartTime>
-				<EndDate>2015-09-24</EndDate>
-				<EndTime>15:59:46</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachannel6</Name>
-					<Description>SPOTtuachannel6</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="219">
-				<IdName>TG</IdName>
-				<StartDate>2015-09-24</StartDate>
-				<StartTime>15:59:46</StartTime>
-				<EndDate>2015-09-24</EndDate>
-				<EndTime>16:02:13</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TG </Name>
-					<Description>TELEGIORNALE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="220">
-				<IdName>Musa_TV_20150601_51297</IdName>
-				<StartDate>2015-09-24</StartDate>
-				<StartTime>16:02:13</StartTime>
-				<EndDate>2015-09-24</EndDate>
-				<EndTime>16:19:53</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>musa 8-giu</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="221">
-				<IdName>IpostipibellidellacalabriaDestinationCalabriaGiuseppeScorzaPepoMac@gmailcom_mpeg2video</IdName>
-				<StartDate>2015-09-24</StartDate>
-				<StartTime>16:19:53</StartTime>
-				<EndDate>2015-09-24</EndDate>
-				<EndTime>16:23:53</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>I POSTI PIU  BELLI DELLA CALABRIA</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="222">
-				<IdName>1959Ilgiornodellavendetta-KirkDouglasAnthonyQuinn</IdName>
-				<StartDate>2015-09-24</StartDate>
-				<StartTime>16:23:53</StartTime>
-				<EndDate>2015-09-24</EndDate>
-				<EndTime>17:54:20</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>IL GIORNBO DELLA VENDETTA K. DOUGLAS</Name>
-					<Description>IL  GIORNO DELLA VENDETTA</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="223">
-				<IdName>SPOTTC1</IdName>
-				<StartDate>2015-09-24</StartDate>
-				<StartTime>17:54:20</StartTime>
-				<EndDate>2015-09-24</EndDate>
-				<EndTime>17:54:23</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachannel1</Name>
-					<Description>SPOTtuachannel1</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="224">
-				<IdName>Pennetteai4formaggi</IdName>
-				<StartDate>2015-09-24</StartDate>
-				<StartTime>17:54:23</StartTime>
-				<EndDate>2015-09-24</EndDate>
-				<EndTime>17:57:05</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>PENNETTE 4 FORMAGGI</Name>
-					<Description>PENNETTE 4 FORMAGGI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="225">
-				<IdName>Carnevale2013Flashsulprimocorsomascherato</IdName>
-				<StartDate>2015-09-24</StartDate>
-				<StartTime>17:57:05</StartTime>
-				<EndDate>2015-09-24</EndDate>
-				<EndTime>18:20:09</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>CARNEVALE VENEZIA 2</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="226">
-				<IdName>1962LaCitta'Prigioniera-DavidNivenLeaMassariBenGazzara</IdName>
-				<StartDate>2015-09-24</StartDate>
-				<StartTime>18:20:09</StartTime>
-				<EndDate>2015-09-24</EndDate>
-				<EndTime>20:01:12</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>LA CITTA PRIGIONIERA</Name>
-					<Description>LA CITTA PRIGIONIERA</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="227">
-				<IdName>SPOTTC2</IdName>
-				<StartDate>2015-09-24</StartDate>
-				<StartTime>20:01:12</StartTime>
-				<EndDate>2015-09-24</EndDate>
-				<EndTime>20:01:15</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachanne2</Name>
-					<Description>SPOTtuachanne2</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="228">
-				<IdName>Musa_TV_20150601_51297</IdName>
-				<StartDate>2015-09-24</StartDate>
-				<StartTime>20:01:15</StartTime>
-				<EndDate>2015-09-24</EndDate>
-				<EndTime>20:18:55</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>musa 8-giu</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="229">
-				<IdName>CarnevalediVenezia2013dal26GENNAIOal12FEBBRAIOYouTube</IdName>
-				<StartDate>2015-09-24</StartDate>
-				<StartTime>20:18:55</StartTime>
-				<EndDate>2015-09-24</EndDate>
-				<EndTime>20:29:36</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>CARNEVALE VENEZIA</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="230">
-				<IdName>TG</IdName>
-				<StartDate>2015-09-24</StartDate>
-				<StartTime>20:29:36</StartTime>
-				<EndDate>2015-09-24</EndDate>
-				<EndTime>20:32:03</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TG </Name>
-					<Description>TELEGIORNALE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="231">
-				<IdName>Fantozzisubisceancora</IdName>
-				<StartDate>2015-09-24</StartDate>
-				<StartTime>20:32:03</StartTime>
-				<EndDate>2015-09-24</EndDate>
-				<EndTime>21:55:50</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>FANTOZZI  SUBISCE ANCORA</Name>
-					<Description>FANTOZZI  SUBISCE ANCORA</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="232">
-				<IdName>spottc</IdName>
-				<StartDate>2015-09-24</StartDate>
-				<StartTime>21:55:50</StartTime>
-				<EndDate>2015-09-24</EndDate>
-				<EndTime>21:56:09</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TUA CHANNEL SPOT</Name>
-					<Description>SPOT TUA HANNEL</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="233">
-				<IdName>Salus_TV_20150601_51285</IdName>
-				<StartDate>2015-09-24</StartDate>
-				<StartTime>21:56:09</StartTime>
-				<EndDate>2015-09-24</EndDate>
-				<EndTime>22:09:53</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Salus 8 giug</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="234">
-				<IdName>ReggioCalabriaPiccolaGrandeItalia</IdName>
-				<StartDate>2015-09-24</StartDate>
-				<StartTime>22:09:53</StartTime>
-				<EndDate>2015-09-24</EndDate>
-				<EndTime>22:32:06</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Reggio piccola grande Italia  </Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="235">
-				<IdName>1970Iosonolalegge-BurtLancaster</IdName>
-				<StartDate>2015-09-24</StartDate>
-				<StartTime>22:32:06</StartTime>
-				<EndDate>2015-09-25</EndDate>
-				<EndTime>00:06:59</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Burt Lancaster </Name>
-					<Description>Io sono la legge</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="236">
-				<IdName>SPOTTC2</IdName>
-				<StartDate>2015-09-25</StartDate>
-				<StartTime>00:06:59</StartTime>
-				<EndDate>2015-09-25</EndDate>
-				<EndTime>00:07:03</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachanne2</Name>
-					<Description>SPOTtuachanne2</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="237">
-				<IdName>CorsoUrgenzaEmergenza</IdName>
-				<StartDate>2015-09-25</StartDate>
-				<StartTime>00:07:03</StartTime>
-				<EndDate>2015-09-25</EndDate>
-				<EndTime>01:10:19</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>CORSO URGENZA EMERGENZA</Name>
-					<Description>CORSO  URGENZA EMERGENZA</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="238">
-				<IdName>Atlantis</IdName>
-				<StartDate>2015-09-25</StartDate>
-				<StartTime>01:10:19</StartTime>
-				<EndDate>2015-09-25</EndDate>
-				<EndTime>02:37:55</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>ATLANTIS</Name>
-					<Description>ATLANTIS</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="239">
-				<IdName>1959Ilmattatore-DorianGrayMarioCarotenutoVittorioGassman</IdName>
-				<StartDate>2015-09-25</StartDate>
-				<StartTime>02:37:55</StartTime>
-				<EndDate>2015-09-25</EndDate>
-				<EndTime>04:15:08</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>DORIAN GRAY</Name>
-					<Description>IL MATTATORE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="240">
-				<IdName>spottc</IdName>
-				<StartDate>2015-09-25</StartDate>
-				<StartTime>04:15:08</StartTime>
-				<EndDate>2015-09-25</EndDate>
-				<EndTime>04:15:27</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TUA CHANNEL SPOT</Name>
-					<Description>SPOT TUA HANNEL</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="241">
-				<IdName>TG</IdName>
-				<StartDate>2015-09-25</StartDate>
-				<StartTime>04:15:27</StartTime>
-				<EndDate>2015-09-25</EndDate>
-				<EndTime>04:17:54</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TG </Name>
-					<Description>TELEGIORNALE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="242">
-				<IdName>CocktaildiGamberetti,laricettadiGiallozafferano</IdName>
-				<StartDate>2015-09-25</StartDate>
-				<StartTime>04:17:54</StartTime>
-				<EndDate>2015-09-25</EndDate>
-				<EndTime>04:20:54</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>COKTAIL DI  GAMBERETTI</Name>
-					<Description>COKTAIL DI GAMBERETTI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="243">
-				<IdName>IlBrigantaggio</IdName>
-				<StartDate>2015-09-25</StartDate>
-				<StartTime>04:20:54</StartTime>
-				<EndDate>2015-09-25</EndDate>
-				<EndTime>04:52:58</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>IL  BRIGANTAGGIO</Name>
-					<Description>IL  BRIGANTAGGIO</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="244">
-				<IdName>1969Topaz_1-AlfredHitchcock</IdName>
-				<StartDate>2015-09-25</StartDate>
-				<StartTime>04:52:58</StartTime>
-				<EndDate>2015-09-25</EndDate>
-				<EndTime>05:30:40</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>topsz 1</Name>
-					<Description>topdz 1</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="245">
-				<IdName>SPOTTC6</IdName>
-				<StartDate>2015-09-25</StartDate>
-				<StartTime>05:30:40</StartTime>
-				<EndDate>2015-09-25</EndDate>
-				<EndTime>05:30:44</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachannel6</Name>
-					<Description>SPOTtuachannel6</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="246">
-				<IdName>Pasticciniallemandorle</IdName>
-				<StartDate>2015-09-25</StartDate>
-				<StartTime>05:30:44</StartTime>
-				<EndDate>2015-09-25</EndDate>
-				<EndTime>05:32:59</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>PASTICCINI  ALLE MANDORLE</Name>
-					<Description>PASTICCINI ALLE MANDORLE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="247">
-				<IdName>PianadegliAlbanesi'DomenicadellePalme'PiccolaGrandeItalia</IdName>
-				<StartDate>2015-09-25</StartDate>
-				<StartTime>05:32:59</StartTime>
-				<EndDate>2015-09-25</EndDate>
-				<EndTime>05:47:11</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>PIANA DEGLI ALBANESI</Name>
-					<Description>PIANA DEGLI ALBANESI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="248">
-				<IdName>1960Anoipiacefreddo-TognazziVianelloDeFilippo</IdName>
-				<StartDate>2015-09-25</StartDate>
-				<StartTime>05:47:11</StartTime>
-				<EndDate>2015-09-25</EndDate>
-				<EndTime>07:32:11</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Tognazzi  Vianello De Filippo</Name>
-					<Description>A noi piace caldo</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="249">
-				<IdName>SPOTTC1</IdName>
-				<StartDate>2015-09-25</StartDate>
-				<StartTime>07:32:11</StartTime>
-				<EndDate>2015-09-25</EndDate>
-				<EndTime>07:32:14</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachannel1</Name>
-					<Description>SPOTtuachannel1</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="250">
-				<IdName>inTavola_20150205_48237</IdName>
-				<StartDate>2015-09-25</StartDate>
-				<StartTime>07:32:14</StartTime>
-				<EndDate>2015-09-25</EndDate>
-				<EndTime>07:34:13</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>inTavola_2015 02 05</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="251">
-				<IdName>agrisapori609x17-5-15</IdName>
-				<StartDate>2015-09-25</StartDate>
-				<StartTime>07:34:13</StartTime>
-				<EndDate>2015-09-25</EndDate>
-				<EndTime>08:03:13</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>SPERLONGA</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="252">
-				<IdName>TG</IdName>
-				<StartDate>2015-09-25</StartDate>
-				<StartTime>08:03:13</StartTime>
-				<EndDate>2015-09-25</EndDate>
-				<EndTime>08:05:40</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TG </Name>
-					<Description>TELEGIORNALE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="253">
-				<IdName>1970Chisum-JohnWayne</IdName>
-				<StartDate>2015-09-25</StartDate>
-				<StartTime>08:05:40</StartTime>
-				<EndDate>2015-09-25</EndDate>
-				<EndTime>09:52:13</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>John Wayne</Name>
-					<Description>Chisum</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="254">
-				<IdName>SPOTC3</IdName>
-				<StartDate>2015-09-25</StartDate>
-				<StartTime>09:52:13</StartTime>
-				<EndDate>2015-09-25</EndDate>
-				<EndTime>09:52:16</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachannel3</Name>
-					<Description>SPOTtuachanne3</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="255">
-				<IdName>CroccantediMandorle,laricettadiGiallozafferano</IdName>
-				<StartDate>2015-09-25</StartDate>
-				<StartTime>09:52:16</StartTime>
-				<EndDate>2015-09-25</EndDate>
-				<EndTime>09:56:01</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>CROCCANTEW DI  MANDORLE</Name>
-					<Description>CROCCANTE DI  AMNDORLE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="256">
-				<IdName>STILOELACATTOLICA</IdName>
-				<StartDate>2015-09-25</StartDate>
-				<StartTime>09:56:01</StartTime>
-				<EndDate>2015-09-25</EndDate>
-				<EndTime>10:03:16</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>STILO E LA CATTOLICA</Name>
-					<Description>Stilo e la  cattolica</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="257">
-				<IdName>1963IlDiavolo-AlbertoSordi</IdName>
-				<StartDate>2015-09-25</StartDate>
-				<StartTime>10:03:16</StartTime>
-				<EndDate>2015-09-25</EndDate>
-				<EndTime>11:43:48</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>AlbertoSordi</Name>
-					<Description>1963 Il Diavolo</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="258">
-				<IdName>SPOTTC2</IdName>
-				<StartDate>2015-09-25</StartDate>
-				<StartTime>11:43:48</StartTime>
-				<EndDate>2015-09-25</EndDate>
-				<EndTime>11:43:51</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachanne2</Name>
-					<Description>SPOTtuachanne2</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="259">
-				<IdName>1^LocriCCdel25092014</IdName>
-				<StartDate>2015-09-25</StartDate>
-				<StartTime>11:43:51</StartTime>
-				<EndDate>2015-09-25</EndDate>
-				<EndTime>13:24:06</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>CONSIGLIO  COMUNALE LOCRI</Name>
-					<Description>CONSIGLIO  COMUNALE LOCRI DEL 25092014</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="260">
-				<IdName>VideoRicettaTiramisùGalbani</IdName>
-				<StartDate>2015-09-25</StartDate>
-				<StartTime>13:24:06</StartTime>
-				<EndDate>2015-09-25</EndDate>
-				<EndTime>13:25:47</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TIRAMI SU</Name>
-					<Description>TIRAMI SU</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="261">
-				<IdName>VTS_01</IdName>
-				<StartDate>2015-09-25</StartDate>
-				<StartTime>13:25:47</StartTime>
-				<EndDate>2015-09-25</EndDate>
-				<EndTime>14:58:27</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>ZANDALEE</Name>
-					<Description>ZANDALEE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="262">
-				<IdName>SPOTTC1</IdName>
-				<StartDate>2015-09-25</StartDate>
-				<StartTime>14:58:27</StartTime>
-				<EndDate>2015-09-25</EndDate>
-				<EndTime>14:58:30</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachannel1</Name>
-					<Description>SPOTtuachannel1</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="263">
-				<IdName>TG</IdName>
-				<StartDate>2015-09-25</StartDate>
-				<StartTime>14:58:30</StartTime>
-				<EndDate>2015-09-25</EndDate>
-				<EndTime>15:00:58</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TG </Name>
-					<Description>TELEGIORNALE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="264">
-				<IdName>LocriCCdel14062013_mpeg2video</IdName>
-				<StartDate>2015-09-25</StartDate>
-				<StartTime>15:00:58</StartTime>
-				<EndDate>2015-09-25</EndDate>
-				<EndTime>16:48:00</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>CONSIGLIO COMUNALE LOCRI</Name>
-					<Description>CONSIGLIO COMUNALE LOCRIDEL 14062013</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="265">
-				<IdName>MontaltoUffugoFestadelgranosull'Aia</IdName>
-				<StartDate>2015-09-25</StartDate>
-				<StartTime>16:48:00</StartTime>
-				<EndDate>2015-09-25</EndDate>
-				<EndTime>17:02:29</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>MONTALTO UFFUGO</Name>
-					<Description>MONTALTO  UFFUGO</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="266">
-				<IdName>1963Lospettro-BarbaraSteelePeter</IdName>
-				<StartDate>2015-09-25</StartDate>
-				<StartTime>17:02:29</StartTime>
-				<EndDate>2015-09-25</EndDate>
-				<EndTime>18:36:05</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Barbara Teeel </Name>
-					<Description>Lo spettro</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="267">
-				<IdName>spottc</IdName>
-				<StartDate>2015-09-25</StartDate>
-				<StartTime>18:36:05</StartTime>
-				<EndDate>2015-09-25</EndDate>
-				<EndTime>18:36:24</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TUA CHANNEL SPOT</Name>
-					<Description>SPOT TUA HANNEL</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="268">
-				<IdName>Pennetteai4formaggi</IdName>
-				<StartDate>2015-09-25</StartDate>
-				<StartTime>18:36:24</StartTime>
-				<EndDate>2015-09-25</EndDate>
-				<EndTime>18:39:05</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>PENNETTE 4 FORMAGGI</Name>
-					<Description>PENNETTE 4 FORMAGGI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="269">
-				<IdName>MassafraPiccolaGrandeItalia</IdName>
-				<StartDate>2015-09-25</StartDate>
-				<StartTime>18:39:05</StartTime>
-				<EndDate>2015-09-25</EndDate>
-				<EndTime>19:00:39</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Piccola grande Italia</Name>
-					<Description>Massafra</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="270">
-				<IdName>1969Cinquebamboleperlalunad'Agosto-EdwigeFenechIraFurstenberg</IdName>
-				<StartDate>2015-09-25</StartDate>
-				<StartTime>19:00:39</StartTime>
-				<EndDate>2015-09-25</EndDate>
-				<EndTime>20:19:00</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Edwige Fenech</Name>
-					<Description>cinque bambole per la  luna d'agosto</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="271">
-				<IdName>SPOTTC6</IdName>
-				<StartDate>2015-09-25</StartDate>
-				<StartTime>20:19:00</StartTime>
-				<EndDate>2015-09-25</EndDate>
-				<EndTime>20:19:03</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachannel6</Name>
-					<Description>SPOTtuachannel6</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="272">
-				<IdName>ItaliaEconomia_20150603_51311</IdName>
-				<StartDate>2015-09-25</StartDate>
-				<StartTime>20:19:03</StartTime>
-				<EndDate>2015-09-25</EndDate>
-				<EndTime>20:27:06</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Italai Economia 8 giug</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="273">
-				<IdName>SardegnaVistadalcielo</IdName>
-				<StartDate>2015-09-25</StartDate>
-				<StartTime>20:27:06</StartTime>
-				<EndDate>2015-09-25</EndDate>
-				<EndTime>21:17:30</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Sardegna vista dal cielo</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="274">
-				<IdName>TG</IdName>
-				<StartDate>2015-09-25</StartDate>
-				<StartTime>21:17:30</StartTime>
-				<EndDate>2015-09-25</EndDate>
-				<EndTime>21:19:57</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TG </Name>
-					<Description>TELEGIORNALE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="275">
-				<IdName>1960LaRagazzaConLaValigia</IdName>
-				<StartDate>2015-09-25</StartDate>
-				<StartTime>21:19:57</StartTime>
-				<EndDate>2015-09-25</EndDate>
-				<EndTime>23:10:14</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>La ragazza  con la valigia</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="276">
-				<IdName>SPOTC3</IdName>
-				<StartDate>2015-09-25</StartDate>
-				<StartTime>23:10:14</StartTime>
-				<EndDate>2015-09-25</EndDate>
-				<EndTime>23:10:18</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachannel3</Name>
-					<Description>SPOTtuachanne3</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="277">
-				<IdName>inMoto_20150202_48142</IdName>
-				<StartDate>2015-09-25</StartDate>
-				<StartTime>23:10:18</StartTime>
-				<EndDate>2015-09-25</EndDate>
-				<EndTime>23:12:08</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>inMoto_2015 02 02_</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="278">
-				<IdName>NoepoliPiccolaGrandeItalia</IdName>
-				<StartDate>2015-09-25</StartDate>
-				<StartTime>23:12:08</StartTime>
-				<EndDate>2015-09-25</EndDate>
-				<EndTime>23:28:41</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Piccola grande Italia</Name>
-					<Description>Neapoli</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="279">
-				<IdName>1964Unacasarispettabile-DidiPeregoRiccardoGarrone</IdName>
-				<StartDate>2015-09-25</StartDate>
-				<StartTime>23:28:41</StartTime>
-				<EndDate>2015-09-26</EndDate>
-				<EndTime>00:08:38</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>UNA CASA RISPETTABILE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="280">
-				<IdName>SPOTTC2</IdName>
-				<StartDate>2015-09-26</StartDate>
-				<StartTime>00:08:38</StartTime>
-				<EndDate>2015-09-26</EndDate>
-				<EndTime>00:08:41</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachanne2</Name>
-					<Description>SPOTtuachanne2</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="281">
-				<IdName>2^LocriCCdel25092014</IdName>
-				<StartDate>2015-09-26</StartDate>
-				<StartTime>00:08:41</StartTime>
-				<EndDate>2015-09-26</EndDate>
-				<EndTime>01:34:53</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>CONSIGLIO COMUNALE LOCRI</Name>
-					<Description>2^ LOCRI c c del 25092014</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="282">
-				<IdName>MontaltoUffugoFestadelgranosull'Aia</IdName>
-				<StartDate>2015-09-26</StartDate>
-				<StartTime>01:34:53</StartTime>
-				<EndDate>2015-09-26</EndDate>
-				<EndTime>01:49:22</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>MONTALTO UFFUGO</Name>
-					<Description>MONTALTO  UFFUGO</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="283">
-				<IdName>1967DaUomoAUomo-LeeVanCleef</IdName>
-				<StartDate>2015-09-26</StartDate>
-				<StartTime>01:49:22</StartTime>
-				<EndDate>2015-09-26</EndDate>
-				<EndTime>03:39:39</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>LEE VAN CLEEF</Name>
-					<Description>UOMO AD UOMO</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="284">
-				<IdName>SPOTTC1</IdName>
-				<StartDate>2015-09-26</StartDate>
-				<StartTime>03:39:39</StartTime>
-				<EndDate>2015-09-26</EndDate>
-				<EndTime>03:39:43</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachannel1</Name>
-					<Description>SPOTtuachannel1</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="285">
-				<IdName>TG</IdName>
-				<StartDate>2015-09-26</StartDate>
-				<StartTime>03:39:43</StartTime>
-				<EndDate>2015-09-26</EndDate>
-				<EndTime>03:42:10</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TG </Name>
-					<Description>TELEGIORNALE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="286">
-				<IdName>OSPEDALEGERACEcopiaottima_mpeg2video</IdName>
-				<StartDate>2015-09-26</StartDate>
-				<StartTime>03:42:10</StartTime>
-				<EndDate>2015-09-26</EndDate>
-				<EndTime>03:54:56</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>OSPEDALE GERACE</Name>
-					<Description>Ospedale Gerace Matteo</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="287">
-				<IdName>PraiaaMarePiccolaGrandeItalia</IdName>
-				<StartDate>2015-09-26</StartDate>
-				<StartTime>03:54:56</StartTime>
-				<EndDate>2015-09-26</EndDate>
-				<EndTime>04:19:30</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Piccola grande Italia</Name>
-					<Description>PRAIA A MARE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="288">
-				<IdName>Ragazzepompom_mpeg2video</IdName>
-				<StartDate>2015-09-26</StartDate>
-				<StartTime>04:19:30</StartTime>
-				<EndDate>2015-09-26</EndDate>
-				<EndTime>05:44:45</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Ragazze pom pom</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="289">
-				<IdName>SPOTC3</IdName>
-				<StartDate>2015-09-26</StartDate>
-				<StartTime>05:44:45</StartTime>
-				<EndDate>2015-09-26</EndDate>
-				<EndTime>05:44:48</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachannel3</Name>
-					<Description>SPOTtuachanne3</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="290">
-				<IdName>TG</IdName>
-				<StartDate>2015-09-26</StartDate>
-				<StartTime>05:44:48</StartTime>
-				<EndDate>2015-09-26</EndDate>
-				<EndTime>05:47:15</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TG </Name>
-					<Description>TELEGIORNALE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="291">
-				<IdName>MusicaeTradizioni</IdName>
-				<StartDate>2015-09-26</StartDate>
-				<StartTime>05:47:15</StartTime>
-				<EndDate>2015-09-26</EndDate>
-				<EndTime>05:58:13</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>MUSICA E TRADIZIONI</Name>
-					<Description>MUSICA E TRADIZIONI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="292">
 				<IdName>1961TornaaSettembre-RockHudsonGinaLollobrigida</IdName>
-				<StartDate>2015-09-26</StartDate>
-				<StartTime>05:58:13</StartTime>
-				<EndDate>2015-09-26</EndDate>
-				<EndTime>07:47:03</EndTime>
+				<StartDate>2015-09-27</StartDate>
+				<StartTime>11:43:15</StartTime>
+				<EndDate>2015-09-27</EndDate>
+				<EndTime>13:32:05</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -3797,12 +729,12 @@
 					<Description>Torna a Settembre</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="293">
+			<Event id="57">
 				<IdName>SPOTTC6</IdName>
-				<StartDate>2015-09-26</StartDate>
-				<StartTime>07:47:03</StartTime>
-				<EndDate>2015-09-26</EndDate>
-				<EndTime>07:47:06</EndTime>
+				<StartDate>2015-09-27</StartDate>
+				<StartTime>13:32:05</StartTime>
+				<EndDate>2015-09-27</EndDate>
+				<EndTime>13:32:08</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -3810,12 +742,12 @@
 					<Description>SPOTtuachannel6</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="294">
+			<Event id="58">
 				<IdName>Musa_TV_20150601_51297</IdName>
-				<StartDate>2015-09-26</StartDate>
-				<StartTime>07:47:06</StartTime>
-				<EndDate>2015-09-26</EndDate>
-				<EndTime>08:04:46</EndTime>
+				<StartDate>2015-09-27</StartDate>
+				<StartTime>13:32:08</StartTime>
+				<EndDate>2015-09-27</EndDate>
+				<EndTime>13:49:48</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -3823,12 +755,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="295">
+			<Event id="59">
 				<IdName>GliAnimalipiPericolosiGiunglaUrbana(ITA)</IdName>
-				<StartDate>2015-09-26</StartDate>
-				<StartTime>08:04:46</StartTime>
-				<EndDate>2015-09-26</EndDate>
-				<EndTime>08:51:48</EndTime>
+				<StartDate>2015-09-27</StartDate>
+				<StartTime>13:49:48</StartTime>
+				<EndDate>2015-09-27</EndDate>
+				<EndTime>14:36:50</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -3836,12 +768,12 @@
 					<Description>ANIMALI PERICOLOSI</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="296">
+			<Event id="60">
 				<IdName>TG</IdName>
-				<StartDate>2015-09-26</StartDate>
-				<StartTime>08:51:48</StartTime>
-				<EndDate>2015-09-26</EndDate>
-				<EndTime>08:54:16</EndTime>
+				<StartDate>2015-09-27</StartDate>
+				<StartTime>14:36:50</StartTime>
+				<EndDate>2015-09-27</EndDate>
+				<EndTime>14:38:55</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -3849,12 +781,12 @@
 					<Description>TELEGIORNALE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="297">
+			<Event id="61">
 				<IdName>1967TreFusti,DueBamboleEUnTesoro-ElvisPresley</IdName>
-				<StartDate>2015-09-26</StartDate>
-				<StartTime>08:54:16</StartTime>
-				<EndDate>2015-09-26</EndDate>
-				<EndTime>10:25:17</EndTime>
+				<StartDate>2015-09-27</StartDate>
+				<StartTime>14:38:55</StartTime>
+				<EndDate>2015-09-27</EndDate>
+				<EndTime>16:09:56</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -3862,12 +794,12 @@
 					<Description>1967Tre Fusti ,Due Bambole E Un Tesoro</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="298">
+			<Event id="62">
 				<IdName>spottc</IdName>
-				<StartDate>2015-09-26</StartDate>
-				<StartTime>10:25:17</StartTime>
-				<EndDate>2015-09-26</EndDate>
-				<EndTime>10:25:35</EndTime>
+				<StartDate>2015-09-27</StartDate>
+				<StartTime>16:09:56</StartTime>
+				<EndDate>2015-09-27</EndDate>
+				<EndTime>16:10:15</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -3875,12 +807,12 @@
 					<Description>SPOT TUA HANNEL</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="299">
+			<Event id="63">
 				<IdName>inMoto_20150202_48142</IdName>
-				<StartDate>2015-09-26</StartDate>
-				<StartTime>10:25:35</StartTime>
-				<EndDate>2015-09-26</EndDate>
-				<EndTime>10:27:26</EndTime>
+				<StartDate>2015-09-27</StartDate>
+				<StartTime>16:10:15</StartTime>
+				<EndDate>2015-09-27</EndDate>
+				<EndTime>16:12:05</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -3888,12 +820,12 @@
 					<Description>inMoto_2015 02 02_</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="300">
+			<Event id="64">
 				<IdName>agrisapori608x9-5-15</IdName>
-				<StartDate>2015-09-26</StartDate>
-				<StartTime>10:27:26</StartTime>
-				<EndDate>2015-09-26</EndDate>
-				<EndTime>10:56:07</EndTime>
+				<StartDate>2015-09-27</StartDate>
+				<StartTime>16:12:05</StartTime>
+				<EndDate>2015-09-27</EndDate>
+				<EndTime>16:40:46</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -3901,12 +833,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="301">
+			<Event id="65">
 				<IdName>1962Boccaccio70-VittorioDeSica-SofiaLoren</IdName>
-				<StartDate>2015-09-26</StartDate>
-				<StartTime>10:56:07</StartTime>
-				<EndDate>2015-09-26</EndDate>
-				<EndTime>14:11:34</EndTime>
+				<StartDate>2015-09-27</StartDate>
+				<StartTime>16:40:46</StartTime>
+				<EndDate>2015-09-27</EndDate>
+				<EndTime>19:56:13</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
