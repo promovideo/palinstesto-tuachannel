@@ -1,154 +1,209 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-03/09/2016	05:02:31	1^LocriCCdel25092014	CONSIGLIO  COMUNALE LOCRI	CONSIGLIO  COMUNALE LOCRI DEL 25092014	01:40:14	31	programmi informativi
-03/09/2016	06:42:46	GliAnimalipiPericolosiGiunglaUrbana(ITA)	Animali pericolosi	ANIMALI PERICOLOSI	00:47:02	71	documentari
-03/09/2016	07:29:49	Pubblicità_mpeg2video	PRIMA PUBBL TPOMOVIDEO	PUBBLICITà	00:00:06	11	spot
-03/09/2016	07:29:55	1966Viaggiodinozzeallitaliana-FerruccioAmendolaRenzoMontagnani	VIAGGIO  DI  NOZZE ALL 'ITALIANA	VIAGGIO  DI  NOZZE ALL' ITALIANA	01:30:47	1	Film
-03/09/2016	09:00:42	Pasticciniallemandorle	PASTICCINI  ALLE MANDORLE	PASTICCINI ALLE MANDORLE	00:02:15	31	programmi informativi
-03/09/2016	09:02:57	STILOELACATTOLICA	STILO E LA CATTOLICA	Stilo e la  cattolica	00:07:14	71	documentari
-03/09/2016	09:10:12	TG	TG 	TELEGIORNALE	00:02:55	31	programmi informativi
-03/09/2016	09:13:08	SPOTtuachannel2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	11	spot
-03/09/2016	09:13:11	Ilpadrino	IL PADRINO	Il padrino	02:48:04	1	Film
-03/09/2016	12:01:16	CroccantediMandorle,laricettadiGiallozafferano	CROCCANTEW DI  MANDORLE	CROCCANTE DI  AMNDORLE	00:03:45	31	programmi informativi
-03/09/2016	12:05:01	PianadegliAlbanesi'DomenicadellePalme'PiccolaGrandeItalia	PIANA DEGLI ALBANESI	PIANA DEGLI ALBANESI	00:14:12	71	documentari
-03/09/2016	12:19:13	2012VUEMMESPOT	VUEMMEFAST	VUEMMEFAST	00:00:37	11	spot
-03/09/2016	12:19:50	1964UnaragazzaaSaintTropez-LouisDeFunèsGenevièveGrad	UNA RAGAZZA A SAINT TROPEZ	UNA RAGAZZA A SAINT TROPEZ	01:35:16	1	Film
-03/09/2016	13:55:07	TG	TG 	TELEGIORNALE	00:02:55	31	programmi informativi
-03/09/2016	13:58:03	inTavola_20150205_48237	Sconosciuto	inTavola_2015 02 05	00:01:58	31	programmi informativi
-03/09/2016	14:00:02	MontaltoUffugoFestadelgranosull'Aia	MONTALTO UFFUGO	MONTALTO  UFFUGO	00:14:29	71	documentari
-03/09/2016	14:14:31	Spotoffertaestiva_mpeg2video	SPOT OFEFRTA ESTIVA	SPOT OFFERAT ESTIVA	00:00:46	11	spot
-03/09/2016	14:15:17	1969IlgrandegiornodiJimFlagg-RobertMitchum	Il grande giorno di Jim Flagg	Il grande giorno di Jim Flagg	01:26:19	1	Film
-03/09/2016	15:41:37	TG	TG 	TELEGIORNALE	00:02:55	31	programmi informativi
-03/09/2016	15:44:33	VideoRicettaTiramisùGalbani	TIRAMI SU	TIRAMI SU	00:01:40	71	documentari
-03/09/2016	15:46:14	TG	TG 	TELEGIORNALE	00:02:55	31	programmi informativi
-03/09/2016	15:49:09	SPOTPUBBLICITàPROMOVIDEOTV	Sconosciuto	pubblicità PROMOVIDEOTV	00:00:07	11	spot
-03/09/2016	15:49:17	1966CacciaAllaVolpe-PetersellersLandobuzzanca	caccia alal volpe	caccia alla volpe	01:39:06	1	Film
-03/09/2016	17:28:24	inMoto_20150202_48142	Sconosciuto	inMoto_2015 02 02_	00:01:50	31	programmi informativi
-03/09/2016	17:30:15	PASCOLOABUSIVO	PASCOLO ABUSIVO	PASCOLO ABUSIVO	00:10:03	71	documentari
-03/09/2016	17:40:18	SpotPrepartitaperPROMOVIDEOnuovo(1)	SPOT HIERAX SETTIMANALE	SPOT HIERAX SETTIMANALE	00:00:25	11	spot
-03/09/2016	17:40:44	1970ScipioneDettoL'africano-VittorioGasmanMarcelloMastroianni	Vittorio Gasman Marcello Mastroianni	Scipione detto l'africano	01:44:03	1	Film
-03/09/2016	19:24:48	TG	TG 	TELEGIORNALE	00:02:55	31	programmi informativi
-03/09/2016	19:27:43	CorsoUrgenzaEmergenza	CORSO URGENZA EMERGENZA	CORSO  URGENZA EMERGENZA	01:03:16	31	programmi informativi
-03/09/2016	20:31:00	CariatiPiccolaGrandeItalia	CARIATI	cariati	00:21:41	71	documentari
-03/09/2016	20:52:41	SPOTtraPROMOVIDEOTV9	Sconosciuto	SPOT PROMOVIDEOTV	00:00:03	11	spot
-03/09/2016	20:52:45	Americangraffiti_2_mpeg2video	AMERICAN GRAFFITI_2	AMERICAN GRAFFITI_2	00:50:04	1	Film
-03/09/2016	21:42:50	CocktaildiGamberetti,laricettadiGiallozafferano	COKTAIL DI  GAMBERETTI	COKTAIL DI GAMBERETTI	00:02:59	31	programmi informativi
-03/09/2016	21:45:49	STILOELACATTOLICA	STILO E LA CATTOLICA	Stilo e la  cattolica	00:07:14	71	documentari
-03/09/2016	21:53:04	TG	TG 	TELEGIORNALE	00:02:55	31	programmi informativi
-03/09/2016	21:55:59	SPOTPUBBLICITàPROMOVIDEOTV3	Sconosciuto	SPOTprima PUBBLICITA promovideo	00:00:07	11	spot
-03/09/2016	21:56:07	1967TheAvenger-Tigrenascosta	THE AVENGER	TIGRE  NASCOSTA	00:49:07	1	Film
-03/09/2016	22:45:15	2^LocriCCdel25092014	CONSIGLIO COMUNALE LOCRI	2^ LOCRI c c del 25092014	01:26:11	31	programmi informativi
-04/09/2016	00:11:27	TropeaPiccolaGrandeItalia	Piccola grande Italia	TROPEA	00:26:53	71	documentari
-04/09/2016	00:38:20	PROMOVIDEOSPOT1	PROMOVIDEOSPOT	PROMOVIDEOSPOT	00:00:06	11	spot
-04/09/2016	00:38:27	1962LaViaccia-JeanPaulBelmondo	Belmondo	L viaccia	01:41:43	1	Film
-04/09/2016	02:20:10	TG	TG 	TELEGIORNALE	00:02:55	31	programmi informativi
-04/09/2016	02:23:06	LocriCCdel14062013_mpeg2video	CONSIGLIO COMUNALE LOCRI	CONSIGLIO COMUNALE LOCRIDEL 14062013	01:47:02	31	programmi informativi
-04/09/2016	04:10:08	Potaturadell'OlivonellaLocride3Ed_mpeg2video	Sconosciuto	Potatura  dell' olivo  nella Locride 013	01:51:49	71	documentari
-04/09/2016	06:01:58	SPOTtuachannel4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	11	spot
-04/09/2016	06:02:02	1965Venerialsole-W.ChiariFrancoeCiccioR.Vianello	W. Chiari Franco e Ciccio R. Vianello	Veneri  al  sole	01:45:33	1	Film
-04/09/2016	07:47:35	OSPEDALEGERACEcopiaottima_mpeg2video	OSPEDALE GERACE	Ospedale Gerace Matteo	00:12:45	31	programmi informativi
-04/09/2016	08:00:21	GrotteriaPresepe2012_mpeg2video(1)	GROTTERIA PRESEPE	GROTTERIA PRESEPE	00:46:15	71	documentari
-04/09/2016	08:46:36	TG	TG 	TELEGIORNALE	00:02:55	31	programmi informativi
-04/09/2016	08:49:32	SPOTtraPROMOVIDEOTV10	Sconosciuto	SPOT PROMOVIDEOTV2	00:00:03	11	spot
-04/09/2016	08:49:36	1969Isabelladuchessadeidiavoli-TinoScotti	Tino Scotti 	Isabelal la duchessa dei  diavoli 	01:29:32	1	Film
-04/09/2016	10:19:08	CocktaildiGamberetti,laricettadiGiallozafferano	COKTAIL DI  GAMBERETTI	COKTAIL DI GAMBERETTI	00:02:59	31	programmi informativi
-04/09/2016	10:22:07	IpostipibellidellacalabriaDestinationCalabriaGiuseppeScorzaPepoMac@gmailcom_mpeg2video	Sconosciuto	I POSTI PIU  BELLI DELLA CALABRIA	00:03:59	71	documentari
-04/09/2016	10:26:07	SpotEdilMericisrl25070142014	SPOT EDIL MERICI 014	edil merici spot 7 014	00:00:59	11	spot
-04/09/2016	10:27:06	1968Riuscirannoinostrieroi_1-AlbertoSordiNinoManfredi	SORDI-MANFREDI	RIUSCIRANNO I NOSTRI EROI	01:04:48	1	Film
-04/09/2016	11:31:54	TG	TG 	TELEGIORNALE	00:02:55	31	programmi informativi
-04/09/2016	11:34:50	2^LocriCCdel25092014	CONSIGLIO COMUNALE LOCRI	2^ LOCRI c c del 25092014	01:26:11	31	programmi informativi
-04/09/2016	13:01:02	BonifatiPiccolaGrandeItalia	bonifati	bonifati	00:21:55	71	documentari
-04/09/2016	13:22:57	SPOTtraPROMOVIDEOTV6	Sconosciuto	SPOTtraPROMOVIDEOTV6	00:00:03	11	spot
-04/09/2016	13:23:01	1972MilanoCalibro9-GastoneMoschinBarbaraBouchet	Gastone Moschini 	Milano calibro 9	01:37:23	1	Film
-04/09/2016	15:00:25	1^LocriCCdel25092014	CONSIGLIO  COMUNALE LOCRI	CONSIGLIO  COMUNALE LOCRI DEL 25092014	01:40:14	31	programmi informativi
-04/09/2016	16:40:40	SerraSanBrunoPiccolaGrandeItalia	Piccola Grande Italia	SERRA S. BRUNO	00:20:58	71	documentari
-04/09/2016	17:01:38	TG	TG 	TELEGIORNALE	00:02:55	31	programmi informativi
-04/09/2016	17:04:34	SPOTtraPROMOVIDEOTV8	Sconosciuto	SPOTPROMOVIDEOTV1	00:00:03	11	spot
-04/09/2016	17:04:38	Toto'aColoriFilmCompleto(FullMovie)	TOTO  A COLORI	Tot a  colori	01:32:29	1	Film
-04/09/2016	18:37:07	OSPEDALEGERACEcopiaottima_mpeg2video	OSPEDALE GERACE	Ospedale Gerace Matteo	00:12:45	31	programmi informativi
-04/09/2016	18:49:53	PraiaaMarePiccolaGrandeItalia	Piccola grande Italia	PRAIA A MARE	00:24:33	71	documentari
-04/09/2016	19:14:26	8PROMOVIDEOspot8	Sconosciuto	promovideotv	00:00:06	11	spot
-04/09/2016	19:14:33	1967Nelsole-AlbanoRominaFrancoeCiccio	Albano Romina  Franco e Ciccio	967 Nel sole	01:41:06	1	Film
-04/09/2016	20:55:40	TG	TG 	TELEGIORNALE	00:02:55	31	programmi informativi
-04/09/2016	20:58:36	TG	TG 	TELEGIORNALE	00:02:55	31	programmi informativi
-04/09/2016	21:01:31	MassafraPiccolaGrandeItalia	Piccola grande Italia	Massafra	00:21:33	71	documentari
-04/09/2016	21:23:05	SPOTINTERPUBBLICITARI#2	Sconosciuto	promoradiotv	00:00:07	11	spot
-04/09/2016	21:23:12	1968ElvisPresley-ATuttoGas	A tutto gas	Elvis Presley	01:30:16	1	Film
-04/09/2016	22:53:29	CroccantediMandorle,laricettadiGiallozafferano	CROCCANTEW DI  MANDORLE	CROCCANTE DI  AMNDORLE	00:03:45	31	programmi informativi
-04/09/2016	22:57:14	NoepoliPiccolaGrandeItalia	Piccola grande Italia	Neapoli	00:16:32	71	documentari
-04/09/2016	23:13:46	TG	TG 	TELEGIORNALE	00:02:55	31	programmi informativi
-04/09/2016	23:16:42	Filmato	GERACE IN 2 MINUTI	GERACE	00:02:29	11	spot
-04/09/2016	23:19:11	1968Ilpianetadellescimmie-JamesWhitmoreKimHunter	Sconosciuto	IL PIANETA DELLE SCIMMIE	01:55:02	1	Film
-05/09/2016	01:14:14	CorsoUrgenzaEmergenza	CORSO URGENZA EMERGENZA	CORSO  URGENZA EMERGENZA	01:03:16	31	programmi informativi
-05/09/2016	02:17:30	agrisapori596x8-2-15	GIAGLIONESconosciuto	Nuovo FiAGRISAPORI	00:31:19	71	documentari
-05/09/2016	02:48:50	7PROMOVIDEOspot7	SPOT  PROMOVIDEOTV	SPOT PROMOVIDEOTV	00:00:06	11	spot
-05/09/2016	02:48:57	1968Guerraamoreefuga-PaulNewmanSylvaKoscina	Paul NEWMA kOSCINA	gUERRA AMORE E FUGA	01:42:12	1	Film
-05/09/2016	04:31:09	TG	TG 	TELEGIORNALE	00:02:55	31	programmi informativi
-05/09/2016	04:34:05	inMoto_20150202_48142	Sconosciuto	inMoto_2015 02 02_	00:01:50	31	programmi informativi
-05/09/2016	04:35:56	Atlantis	ATLANTIS	ATLANTIS	01:27:36	71	documentari
-05/09/2016	06:03:32	2012VUEMMESPOT	VUEMMEFAST	VUEMMEFAST	00:00:37	11	spot
-05/09/2016	06:04:09	1965IQuattroFigliDiKatieElder-JohnWayneDeanMartin	John Wayne DeanMartin	 I Quattro Figli Di Katie Elder	01:56:47	1	Film
-05/09/2016	08:00:57	Pennetteai4formaggi	PENNETTE 4 FORMAGGI	PENNETTE 4 FORMAGGI	00:02:41	31	programmi informativi
-05/09/2016	08:03:39	ReggioCalabriaPiccolaGrandeItalia	Sconosciuto	Reggio piccola grande Italia  	00:22:12	71	documentari
-05/09/2016	08:25:52	TG	TG 	TELEGIORNALE	00:02:55	31	programmi informativi
-05/09/2016	08:28:47	SpotAerantiCorallo	AERANTICORALLO	AERANTICORALLO	00:00:45	11	spot
-05/09/2016	08:29:32	1967CasinoRoyale-PeterSellersDavidNivenWoodyAllen1967	Peter Sellers Woody Allen	Casin Royale	02:05:42	1	Film
-05/09/2016	10:35:15	GeraceCC06092014	gerace consiglio  comunale  del 6.10.2014	gerace consiglio  comunale del 6.10.2014	00:36:30	91	messaggi politici autogestiti gratuiti
-05/09/2016	11:11:45	CarnevalediVenezia2013dal26GENNAIOal12FEBBRAIOYouTube	Sconosciuto	CARNEVALE VENEZIA	00:10:41	71	documentari
-05/09/2016	11:22:26	SPOTPUBBLICITàPROMOVIDEOTV3	Sconosciuto	SPOTprima PUBBLICITA promovideo	00:00:07	11	spot
-05/09/2016	11:22:34	TG	TG 	TELEGIORNALE	00:02:55	31	programmi informativi
-05/09/2016	11:25:30	LocriCCdel14062013_mpeg2video	CONSIGLIO COMUNALE LOCRI	CONSIGLIO COMUNALE LOCRIDEL 14062013	01:47:02	31	programmi informativi
-05/09/2016	13:12:32	Caltagirone2010PiccolaGrandeItalia	CALTAGIRONE	CALTAGIRONE	00:24:23	71	documentari
-05/09/2016	13:36:55	PROMOVIDEOSPOT2	SPOT  PROMOVIDEOTV 2	SPOT  PROMOVIDEOTV 2	00:00:06	11	spot
-05/09/2016	13:37:02	1970Elvispresley-ThatsTheWayItIs-ac3	ELVIS PRESLEY	ThatsTheWayItIs-ac3	01:31:59	1	Film
-05/09/2016	15:09:01	inTavola_20150205_48237	Sconosciuto	inTavola_2015 02 05	00:01:58	31	programmi informativi
-05/09/2016	15:11:00	TarantoRIPCortometraggiodiStefanoAngelillo	TARANTOcotrometraggio	TARANTO	00:06:48	71	documentari
-05/09/2016	15:17:48	TG	TG 	TELEGIORNALE	00:02:55	31	programmi informativi
-05/09/2016	15:20:44	SPOTtuachannel3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	11	spot
-05/09/2016	15:20:48	1969Itemerari-GeneHackmanDeborahKerrBurtLancaster	I TEMERARI	Nuovo File	01:42:23	1	Film
-05/09/2016	17:03:12	Pasticciniallemandorle	PASTICCINI  ALLE MANDORLE	PASTICCINI ALLE MANDORLE	00:02:15	31	programmi informativi
-05/09/2016	17:05:27	MagnificaItaliaCalabria_mpeg2video	Sconosciuto	Calabria	00:52:09	71	documentari
-05/09/2016	17:57:37	SpotPrepartitaperPROMOVIDEOultimo(1)	SPOT NUOVO PARTITE HIERAX	SPOT PARTITA HIERAX	00:00:25	11	spot
-05/09/2016	17:58:02	Tadpole_mpeg2video	Sconosciuto	TODPOLE	01:15:05	1	Film
-05/09/2016	19:13:08	TG	TG 	TELEGIORNALE	00:02:55	31	programmi informativi
-05/09/2016	19:16:03	inMoto_20150202_48142	Sconosciuto	inMoto_2015 02 02_	00:01:50	31	programmi informativi
-05/09/2016	19:17:54	Gerace	GERACE	GERACE	00:06:01	71	documentari
-05/09/2016	19:23:55	'ComeEravamo'	COME ERAVAMO	COME ERAVAMO 	00:02:11	11	spot
-05/09/2016	19:26:07	1959Lacentochilometri-MassimoGirottiMarioCarotenutoMarisaMerlini	LA CENTOCHILOMETRI	LA CENTOCHILOMETRI	01:18:57	1	Film
-05/09/2016	20:45:04	1^LocriCCdel25092014	CONSIGLIO  COMUNALE LOCRI	CONSIGLIO  COMUNALE LOCRI DEL 25092014	01:40:14	31	programmi informativi
-05/09/2016	22:25:19	Carnevale2013Flashsulprimocorsomascherato	Sconosciuto	CARNEVALE VENEZIA 2	00:23:04	71	documentari
-05/09/2016	22:48:23	TG	TG 	TELEGIORNALE	00:02:55	31	programmi informativi
-05/09/2016	22:51:19	oroscopo	Sconosciuto	OROSCOPO	00:01:57	11	spot
-05/09/2016	22:53:17	1971Pinocchio1-NinoManfrediFrancoFranchiCiccioIngrassia	PINOCCHIO Manfredi	PINOCCHIO 1	01:08:27	1	Film
-06/09/2016	00:01:44	CorsoUrgenzaEmergenza	CORSO URGENZA EMERGENZA	CORSO  URGENZA EMERGENZA	01:03:16	31	programmi informativi
-06/09/2016	01:05:00	SardegnaVistadalcielo	Sconosciuto	Sardegna vista dal cielo	00:50:23	71	documentari
-06/09/2016	01:55:24	SPOTtraPROMOVIDEOTV9	Sconosciuto	SPOT PROMOVIDEOTV	00:00:03	11	spot
-06/09/2016	01:55:28	1965Giuliettadeglispiriti-GiuliettaMasinaSandraMiloSylvaKoscina	Giulietta Masina	Giulietta degli spiriti	02:18:06	1	Film
-06/09/2016	04:13:34	TG	TG 	TELEGIORNALE	00:02:55	31	programmi informativi
-06/09/2016	04:16:30	2^LocriCCdel25092014	CONSIGLIO COMUNALE LOCRI	2^ LOCRI c c del 25092014	01:26:11	31	programmi informativi
-06/09/2016	05:42:41	MusicaeTradizioni	MUSICA E TRADIZIONI	MUSICA E TRADIZIONI	00:10:57	71	documentari
-06/09/2016	05:53:39	PROMOVIDEOTVinformazioneculturacomunicazione(1)hd	PROMOVIDEOSPOT	PROMOVIDEOSPOT	00:00:21	11	spot
-06/09/2016	05:54:01	1964AProvaDiErrore-HenryFondaWalterMatthau	Henry Fonda Walter Matthau	A Prova Di Errore	01:47:33	1	Film
-06/09/2016	07:41:34	Pennetteai4formaggi	PENNETTE 4 FORMAGGI	PENNETTE 4 FORMAGGI	00:02:41	31	programmi informativi
-06/09/2016	07:44:16	MalfaPiccolaGrandeItalia	Piccola Grande Italia MALFA	Malfa	00:21:29	71	documentari
-06/09/2016	08:05:45	TG	TG 	TELEGIORNALE	00:02:55	31	programmi informativi
-06/09/2016	08:08:41	SPOTtraPROMOVIDEOTV6	Sconosciuto	SPOTtraPROMOVIDEOTV6	00:00:03	11	spot
-06/09/2016	08:08:45	1964Marypoppins_2-JulieAndrewsEdWynn	Sconosciuto	MARYPOPPINS 2	01:13:00	1	Film
-06/09/2016	09:21:45	Pasticciniallemandorle	PASTICCINI  ALLE MANDORLE	PASTICCINI ALLE MANDORLE	00:02:15	31	programmi informativi
-06/09/2016	09:24:01	GliAnimalipiPericolosiGiunglaUrbana(ITA)	Animali pericolosi	ANIMALI PERICOLOSI	00:47:02	71	documentari
-06/09/2016	10:11:03	SPOTPUBBLICITàPROMOVIDEOTV	Sconosciuto	pubblicità PROMOVIDEOTV	00:00:07	11	spot
-06/09/2016	10:11:11	1961AngeliconlaPistola-GlennFordBetteDavisPeterFalk	Gleen Ford Bette Davis	Angeli con la pistola	02:11:10	1	Film
-06/09/2016	12:22:22	TG	TG 	TELEGIORNALE	00:02:55	31	programmi informativi
-06/09/2016	12:25:17	GeraceCC06092014	gerace consiglio  comunale  del 6.10.2014	gerace consiglio  comunale del 6.10.2014	00:36:30	91	messaggi politici autogestiti gratuiti
-06/09/2016	13:01:48	IlBrigantaggio	IL  BRIGANTAGGIO	IL  BRIGANTAGGIO	00:32:04	71	documentari
-06/09/2016	13:33:52	8PROMOVIDEOspot8	Sconosciuto	promovideotv	00:00:06	11	spot
-06/09/2016	13:33:59	JuwannaMann_mpeg2video	Sconosciuto	Juawanna Mann	01:26:54	1	Film
-06/09/2016	15:00:54	TG	TG 	TELEGIORNALE	00:02:55	31	programmi informativi
-06/09/2016	15:03:49	AnimaliSerpentiFascinoLetale(Ita)	ANIMALI SERPENTI	ANIMALI SERPENTI	00:52:05	71	documentari
-06/09/2016	15:55:55	TG	TG 	TELEGIORNALE	00:02:55	31	programmi informativi
-06/09/2016	15:58:51	SPOTINTERPUBBLICITARI#2	Sconosciuto	promoradiotv	00:00:07	11	spot
-06/09/2016	15:58:58	1959UltimaSpiaggia-GregoryPeckAnthonyPerkinsFredAstaireAvaGardner	L' ULTIMA SPIAGGIA	L' ULTIMA SPIAGGIA	02:08:52	1	Film
-06/09/2016	18:07:51	LocriCCdel14062013_mpeg2video	CONSIGLIO COMUNALE LOCRI	CONSIGLIO COMUNALE LOCRIDEL 14062013	01:47:02	31	programmi informativi
-06/09/2016	19:54:53	STILOELACATTOLICA	STILO E LA CATTOLICA	Stilo e la  cattolica	00:07:14	71	documentari
-06/09/2016	20:02:08	spotDIGIII	SPOT DIGII	SPOT PROMOVIDEO	00:00:15	11	spot
-06/09/2016	20:02:23	1968Straziami,MaDiBaciSaziami-NinoManfredi	Manfredi	Straziami  ma  di  baci saziami	01:39:05	1	Film
-06/09/2016	21:41:29	TG	TG 	TELEGIORNALE	00:02:55	31	programmi informativi
+10/09/2016	04:45:36	1963LaGrandeCorsa-TonyCurtisJackLemmon	LA GRANDE CORSA 	Nuovo File	02:34:22	1	Film
+10/09/2016	07:19:59	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	spot tc
+10/09/2016	07:20:02	CroccantediMandorle,laricettadiGiallozafferano	CROCCANTEW DI  MANDORLE	CROCCANTE DI  AMNDORLE	00:03:45	31	programmi informativi
+10/09/2016	07:23:47	MagnificaItaliaCalabria_mpeg2video	Sconosciuto	Calabria	00:52:09	71	documentari
+10/09/2016	08:15:57	TG	TG 	TELEGIORNALE	00:02:50	31	programmi informativi
+10/09/2016	08:18:47	1968GrazieZia-GabrieleFerzettiLisaGastoni	968Grazie Zia	Gabriele Ferzetti Lisa Gastoni	01:31:10	1	Film
+10/09/2016	09:49:57	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	spot tc
+10/09/2016	09:50:01	inTavola_20150205_48237	Sconosciuto	inTavola_2015 02 05	00:01:58	31	programmi informativi
+10/09/2016	09:52:00	NoepoliPiccolaGrandeItalia	Piccola grande Italia	Neapoli	00:16:32	71	documentari
+10/09/2016	10:08:32	1970-Brancaleoneallecrociate-VittorioGassmanPaoloVillaggio	BRANCALEONE ALLE CROCIATE	BRANCALEONE ALLE CROCIATE	01:59:22	1	Film
+10/09/2016	12:07:54	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	spot tc
+10/09/2016	12:07:57	2^LocriCCdel25092014	CONSIGLIO COMUNALE LOCRI	2^ LOCRI c c del 25092014	01:26:11	31	programmi informativi
+10/09/2016	13:34:09	GrotteriaPresepe2012_mpeg2video(1)	GROTTERIA PRESEPE	GROTTERIA PRESEPE	00:46:15	71	documentari
+10/09/2016	14:20:24	1965Iltrattatodieugenetica-PieroFocacciaMaurizioArena	1965Iltrattatodieugenetica-PieroFocacciaMaurizioArena	IL TRATTATO  DI EUGENETICA	00:27:35	1	Film
+10/09/2016	14:48:00	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	spot tc
+10/09/2016	14:48:03	TG	TG 	TELEGIORNALE	00:02:50	31	programmi informativi
+10/09/2016	14:50:53	CocktaildiGamberetti,laricettadiGiallozafferano	COKTAIL DI  GAMBERETTI	COKTAIL DI GAMBERETTI	00:02:59	31	programmi informativi
+10/09/2016	14:53:53	TarantoRIPCortometraggiodiStefanoAngelillo	TARANTOcotrometraggio	TARANTO	00:06:48	71	documentari
+10/09/2016	15:00:41	1959UnMaledettoImbroglio-PietroGermiClaudiaCardinale	Pietro Germi Claudia Cardinale	un maledetto imbroglio	01:49:51	1	Film
+10/09/2016	16:50:32	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	spot tc
+10/09/2016	16:50:51	1^LocriCCdel25092014	CONSIGLIO  COMUNALE LOCRI	CONSIGLIO  COMUNALE LOCRI DEL 25092014	01:40:14	31	programmi informativi
+10/09/2016	18:31:06	PianadegliAlbanesi'DomenicadellePalme'PiccolaGrandeItalia	PIANA DEGLI ALBANESI	PIANA DEGLI ALBANESI	00:14:12	71	documentari
+10/09/2016	18:45:18	1963LeMonachine-CatherineSpaakSylvaKoscinaLandoBuzzanca	1963 Le Monachine	Catherine Spaak Sylva Koscina Lando Buzzanca	01:42:44	1	Film
+10/09/2016	20:28:02	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	spot tc
+10/09/2016	20:28:06	Pasticciniallemandorle	PASTICCINI  ALLE MANDORLE	PASTICCINI ALLE MANDORLE	00:02:15	31	programmi informativi
+10/09/2016	20:30:21	MontaltoUffugoFestadelgranosull'Aia	MONTALTO UFFUGO	MONTALTO  UFFUGO	00:14:29	71	documentari
+10/09/2016	20:44:50	TG	TG 	TELEGIORNALE	00:02:50	31	programmi informativi
+10/09/2016	20:47:41	1972Detenutoinattesadigiudizio_2-AlbertoSordiGianniBonagura	SORDI-GIANNINI	DETENUTO IN ATTESA DI  GIUDIZIO 2	00:51:33	1	Film
+10/09/2016	21:39:14	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	spot tc
+10/09/2016	21:39:17	Musa_TV_20150601_51297	musa 8-giu	Nuovo File	00:17:39	31	programmi informativi
+10/09/2016	21:56:56	agrisapori609x17-5-15	Sconosciuto	SPERLONGA	00:28:59	71	documentari
+10/09/2016	22:25:56	Roma.drogata.la.polizia.non_.puo.intervenire.19752°t.	ROMA DROGATA 2^	ROMA DROGATA 2^	00:41:14	1	Film
+10/09/2016	23:07:10	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	spot tc
+10/09/2016	23:07:13	ItaliaEconomia_20150603_51311	Italai Economia 8 giug	Nuovo File	00:08:03	31	programmi informativi
+10/09/2016	23:15:16	GrotteriaPresepe2012_mpeg2video(1)	GROTTERIA PRESEPE	GROTTERIA PRESEPE	00:46:15	71	documentari
+11/09/2016	00:01:32	1969UnUomoDaMarciapiede-DustinHofman	UN  UOMO  DA MARCIAPIEDE	UN  UOMO DA MARCIAPIEDE	01:47:49	1	Film
+11/09/2016	01:49:21	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	spot tc
+11/09/2016	01:49:40	TG	TG 	TELEGIORNALE	00:02:50	31	programmi informativi
+11/09/2016	01:52:30	CorsoUrgenzaEmergenza	CORSO URGENZA EMERGENZA	CORSO  URGENZA EMERGENZA	01:03:16	31	programmi informativi
+11/09/2016	02:55:47	Gerace	GERACE	GERACE	00:06:01	71	documentari
+11/09/2016	03:01:48	Fantozzi-GrandiMagazzini	FANTOZZI GRANDI MAGAZZINI	GRANDI MAGAZZINI	01:50:35	1	Film
+11/09/2016	04:52:24	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	spot tc
+11/09/2016	04:52:27	inMoto_20150202_48142	Sconosciuto	inMoto_2015 02 02_	00:01:50	31	programmi informativi
+11/09/2016	04:54:18	TarantoRIPCortometraggiodiStefanoAngelillo	TARANTOcotrometraggio	TARANTO	00:06:48	71	documentari
+11/09/2016	05:01:06	1962LaleggendadiEnea-SteveReevesLianaOrfei	LA LEGGENDA DI  ENEA	LA LEGENDA DI  ENEA	01:35:42	1	Film
+11/09/2016	06:36:49	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	spot tc
+11/09/2016	06:36:52	TG	TG 	TELEGIORNALE	00:02:50	31	programmi informativi
+11/09/2016	06:39:42	CariatiPiccolaGrandeItalia	CARIATI	cariati	00:21:41	71	documentari
+11/09/2016	07:01:23	TG	TG 	TELEGIORNALE	00:02:50	31	programmi informativi
+11/09/2016	07:04:13	1971Bubù-MassimoRanieriOttaviaPiccolo	BUBU	BUBU	01:36:34	1	Film
+11/09/2016	08:40:47	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	spot tc
+11/09/2016	08:40:51	OSPEDALEGERACEcopiaottima_mpeg2video	OSPEDALE GERACE	Ospedale Gerace Matteo	00:12:45	31	programmi informativi
+11/09/2016	08:53:36	AnimaliSerpentiFascinoLetale(Ita)	ANIMALI SERPENTI	ANIMALI SERPENTI	00:52:05	71	documentari
+11/09/2016	09:45:42	1973AmoreEGinnastica-SentaBergerLinoCapolicchioAdrianaAsti	Santa  Berger	Amore e ginnastica	01:43:18	1	Film
+11/09/2016	11:29:00	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	spot tc
+11/09/2016	11:29:03	Salus_TV_20150601_51285	Salus 8 giug	Nuovo File	00:13:44	31	programmi informativi
+11/09/2016	11:42:47	Caltagirone2010PiccolaGrandeItalia	CALTAGIRONE	CALTAGIRONE	00:24:23	71	documentari
+11/09/2016	12:07:10	gold.il.segno.del.potere.19741°t.	GOLD  IL SEGNO DEL  POTERE 1°	GOLD  IL SEGNO DEL  POTERE 1°	01:01:09	1	Film
+11/09/2016	13:08:20	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	spot tc
+11/09/2016	13:08:39	TG	TG 	TELEGIORNALE	00:02:50	31	programmi informativi
+11/09/2016	13:11:29	LocriCCdel14062013_mpeg2video	CONSIGLIO COMUNALE LOCRI	CONSIGLIO COMUNALE LOCRIDEL 14062013	01:47:02	31	programmi informativi
+11/09/2016	14:58:31	MassafraPiccolaGrandeItalia	Piccola grande Italia	Massafra	00:21:33	71	documentari
+11/09/2016	15:20:05	Nell'annoDelSignoreManfredi,Sordi,Tognazzi(Filmcompleto)	Sconosciuto	Nell'anno del  Signore	01:57:54	1	Film
+11/09/2016	17:17:59	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	spot tc
+11/09/2016	17:18:03	Pennetteai4formaggi	PENNETTE 4 FORMAGGI	PENNETTE 4 FORMAGGI	00:02:41	31	programmi informativi
+11/09/2016	17:20:45	SardegnaVistadalcielo	Sconosciuto	Sardegna vista dal cielo	00:50:23	71	documentari
+11/09/2016	18:11:08	1972L'UltimaCasaASinistra	L' ultima casa a sinistra	L'ultima casa a sinistra	01:20:52	1	Film
+11/09/2016	19:32:00	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	spot tc
+11/09/2016	19:32:04	TG	TG 	TELEGIORNALE	00:02:50	31	programmi informativi
+11/09/2016	19:34:54	BonifatiPiccolaGrandeItalia	bonifati	bonifati	00:21:55	71	documentari
+11/09/2016	19:56:49	TG	TG 	TELEGIORNALE	00:02:50	31	programmi informativi
+11/09/2016	19:59:40	1962Eilventodisperselanebbia-EvaMarieSaintWarrenBeattyKarlMaldenAngelaLansbury	Eva Marie 	E   il  vento  disperse la  nebbia	01:45:37	1	Film
+11/09/2016	21:45:17	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	spot tc
+11/09/2016	21:45:20	inMoto_20150202_48142	Sconosciuto	inMoto_2015 02 02_	00:01:50	31	programmi informativi
+11/09/2016	21:47:11	NoepoliPiccolaGrandeItalia	Piccola grande Italia	Neapoli	00:16:32	71	documentari
+11/09/2016	22:03:43	Papadiventamamma_mpeg2video	PAPA  DIVENTA  MAMMA	PAPA  DIVENTA  MAMMA	01:20:22	1	Film
+11/09/2016	23:24:06	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	spot tc
+11/09/2016	23:24:25	inTavola_20150205_48237	Sconosciuto	inTavola_2015 02 05	00:01:58	31	programmi informativi
+11/09/2016	23:26:24	PASCOLOABUSIVO	PASCOLO ABUSIVO	PASCOLO ABUSIVO	00:10:03	71	documentari
+11/09/2016	23:36:28	1960NonMangiateLeMargherite-DorisDayDavidNiven	Doris Day David Niven	Non Mangiate Le Margherite	01:46:22	1	Film
+12/09/2016	01:22:51	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	spot tc
+12/09/2016	01:22:54	TG	TG 	TELEGIORNALE	00:02:50	31	programmi informativi
+12/09/2016	01:25:44	ItaliaEconomia_20150603_51311	Italai Economia 8 giug	Nuovo File	00:08:03	31	programmi informativi
+12/09/2016	01:33:47	Potaturadell'OlivonellaLocride3Ed_mpeg2video	Sconosciuto	Potatura  dell' olivo  nella Locride 013	01:51:49	71	documentari
+12/09/2016	03:25:37	1959Improvvisamentel'estatescorsa-ElizabethTaylorCatharineHepburn	Elizabeth Taylor Catharine Hepburn	1959 Improvvisamente l'estate scorsa	01:49:30	1	Film
+12/09/2016	05:15:07	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	spot tc
+12/09/2016	05:15:10	CorsoUrgenzaEmergenza	CORSO URGENZA EMERGENZA	CORSO  URGENZA EMERGENZA	01:03:16	31	programmi informativi
+12/09/2016	06:18:27	MalfaPiccolaGrandeItalia	Piccola Grande Italia MALFA	Malfa	00:21:29	71	documentari
+12/09/2016	06:39:56	Labandadeglionesti_mpeg2video	LA BANDA DEGLI ONESTI	LA BANDA DEGLI  ONESTI	01:40:55	1	Film
+12/09/2016	08:20:52	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	spot tc
+12/09/2016	08:20:55	1^LocriCCdel25092014	CONSIGLIO  COMUNALE LOCRI	CONSIGLIO  COMUNALE LOCRI DEL 25092014	01:40:14	31	programmi informativi
+12/09/2016	10:01:09	PraiaaMarePiccolaGrandeItalia	Piccola grande Italia	PRAIA A MARE	00:24:33	71	documentari
+12/09/2016	10:25:43	TG	TG 	TELEGIORNALE	00:02:50	31	programmi informativi
+12/09/2016	10:28:33	1963Ilsignoredellemosche	1963 Il signore delle mosche	1963 Il signore delle mosche	01:27:03	1	Film
+12/09/2016	11:55:37	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	spot tc
+12/09/2016	11:55:40	Pasticciniallemandorle	PASTICCINI  ALLE MANDORLE	PASTICCINI ALLE MANDORLE	00:02:15	31	programmi informativi
+12/09/2016	11:57:55	SerraSanBrunoPiccolaGrandeItalia	Piccola Grande Italia	SERRA S. BRUNO	00:20:58	71	documentari
+12/09/2016	12:18:54	FantozziVaInPensione	FANTOZZI VA IN PENSIONE	FANTOZZI VA IN PENSIONE	01:34:36	1	Film
+12/09/2016	13:53:30	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	spot tc
+12/09/2016	13:53:34	2^LocriCCdel25092014	CONSIGLIO COMUNALE LOCRI	2^ LOCRI c c del 25092014	01:26:11	31	programmi informativi
+12/09/2016	15:19:45	MusicaeTradizioni	MUSICA E TRADIZIONI	MUSICA E TRADIZIONI	00:10:57	71	documentari
+12/09/2016	15:30:43	1971IquattropistoleridiSantaTrinita-PeterL.Lawrence	Peter L. 	I quattro pistoleri si Santa Trinità	01:33:09	1	Film
+12/09/2016	17:03:53	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	spot tc
+12/09/2016	17:03:56	TG	TG 	TELEGIORNALE	00:02:50	31	programmi informativi
+12/09/2016	17:06:46	Salus_TV_20150601_51285	Salus 8 giug	Nuovo File	00:13:44	31	programmi informativi
+12/09/2016	17:20:30	MagnificaItaliaCalabria_mpeg2video	Sconosciuto	Calabria	00:52:09	71	documentari
+12/09/2016	18:12:40	1972L'etruscoUccideAncora-JohnMarleyEnzoCerusico	John Marley EnzoCerusico	1972 L'etrusco Uccide Ancora	01:41:21	1	Film
+12/09/2016	19:54:02	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	spot tc
+12/09/2016	19:54:05	CroccantediMandorle,laricettadiGiallozafferano	CROCCANTEW DI  MANDORLE	CROCCANTE DI  AMNDORLE	00:03:45	31	programmi informativi
+12/09/2016	19:57:50	GliAnimalipiPericolosiGiunglaUrbana(ITA)	Animali pericolosi	ANIMALI PERICOLOSI	00:47:02	71	documentari
+12/09/2016	20:44:53	Malibùmostwanted_mpeg2video	Sconosciuto	MALIBU MONS WANTED	01:22:35	1	Film
+12/09/2016	22:07:28	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	spot tc
+12/09/2016	22:07:32	LocriCCdel14062013_mpeg2video	CONSIGLIO COMUNALE LOCRI	CONSIGLIO COMUNALE LOCRIDEL 14062013	01:47:02	31	programmi informativi
+12/09/2016	23:54:34	agrisapori596x8-2-15	GIAGLIONESconosciuto	Nuovo FiAGRISAPORI	00:31:19	71	documentari
+13/09/2016	00:25:54	TG	TG 	TELEGIORNALE	00:02:50	31	programmi informativi
+13/09/2016	00:28:44	Un.amore.in.prima.classe.19802°t.	UN AMORE IN PRIMA CLASSE 2° T	UN AMORE IN PRIMA CLASSE 2° T	00:42:02	1	Film
+13/09/2016	01:10:47	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	spot tc
+13/09/2016	01:11:05	OSPEDALEGERACEcopiaottima_mpeg2video	OSPEDALE GERACE	Ospedale Gerace Matteo	00:12:45	31	programmi informativi
+13/09/2016	01:23:51	agrisapori608x9-5-15	Sconosciuto	Nuovo File	00:28:40	71	documentari
+13/09/2016	01:52:32	L'UltimoTrenoDellaNotte19751°t.	L' ULTIMO TRENO DELLA NOTTE 1° T	L' ULTIMO TRENO DELLA   NOTTE 1° T	00:46:26	1	Film
+13/09/2016	02:38:58	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	spot tc
+13/09/2016	02:39:01	CocktaildiGamberetti,laricettadiGiallozafferano	COKTAIL DI  GAMBERETTI	COKTAIL DI GAMBERETTI	00:02:59	31	programmi informativi
+13/09/2016	02:42:00	TropeaPiccolaGrandeItalia	Piccola grande Italia	TROPEA	00:26:53	71	documentari
+13/09/2016	03:08:54	196355giorniaPechino-CharltonHestonAvaGardnerDavidNiven	Charloton Esoan Ava Garner	55  giorni a Pechino	02:35:19	1	Film
+13/09/2016	05:44:14	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	spot tc
+13/09/2016	05:44:17	TG	TG 	TELEGIORNALE	00:02:50	31	programmi informativi
+13/09/2016	05:47:07	Musa_TV_20150601_51297	musa 8-giu	Nuovo File	00:17:39	31	programmi informativi
+13/09/2016	06:04:47	IpostipibellidellacalabriaDestinationCalabriaGiuseppeScorzaPepoMac@gmailcom_mpeg2video	Sconosciuto	I POSTI PIU  BELLI DELLA CALABRIA	00:03:59	71	documentari
+13/09/2016	06:08:47	1959Ilgiornodellavendetta-KirkDouglasAnthonyQuinn	IL GIORNBO DELLA VENDETTA K. DOUGLAS	IL  GIORNO DELLA VENDETTA	01:30:27	1	Film
+13/09/2016	07:39:14	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	spot tc
+13/09/2016	07:39:17	Pennetteai4formaggi	PENNETTE 4 FORMAGGI	PENNETTE 4 FORMAGGI	00:02:41	31	programmi informativi
+13/09/2016	07:41:59	Carnevale2013Flashsulprimocorsomascherato	Sconosciuto	CARNEVALE VENEZIA 2	00:23:04	71	documentari
+13/09/2016	08:05:03	1962LaCitta'Prigioniera-DavidNivenLeaMassariBenGazzara	LA CITTA PRIGIONIERA	LA CITTA PRIGIONIERA	01:41:02	1	Film
+13/09/2016	09:46:06	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	spot tc
+13/09/2016	09:46:09	Musa_TV_20150601_51297	musa 8-giu	Nuovo File	00:17:39	31	programmi informativi
+13/09/2016	10:03:48	CarnevalediVenezia2013dal26GENNAIOal12FEBBRAIOYouTube	Sconosciuto	CARNEVALE VENEZIA	00:10:41	71	documentari
+13/09/2016	10:14:30	TG	TG 	TELEGIORNALE	00:02:50	31	programmi informativi
+13/09/2016	10:17:20	Fantozzisubisceancora	FANTOZZI  SUBISCE ANCORA	FANTOZZI  SUBISCE ANCORA	01:23:46	1	Film
+13/09/2016	11:41:07	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	spot tc
+13/09/2016	11:41:26	Salus_TV_20150601_51285	Salus 8 giug	Nuovo File	00:13:44	31	programmi informativi
+13/09/2016	11:55:10	ReggioCalabriaPiccolaGrandeItalia	Sconosciuto	Reggio piccola grande Italia  	00:22:12	71	documentari
+13/09/2016	12:17:23	1970Iosonolalegge-BurtLancaster	Burt Lancaster 	Io sono la legge	01:34:53	1	Film
+13/09/2016	13:52:16	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	spot tc
+13/09/2016	13:52:19	CorsoUrgenzaEmergenza	CORSO URGENZA EMERGENZA	CORSO  URGENZA EMERGENZA	01:03:16	31	programmi informativi
+13/09/2016	14:55:36	Atlantis	ATLANTIS	ATLANTIS	01:27:36	71	documentari
+13/09/2016	16:23:12	1959Ilmattatore-DorianGrayMarioCarotenutoVittorioGassman	DORIAN GRAY	IL MATTATORE	01:37:12	1	Film
+13/09/2016	18:00:25	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	spot tc
+13/09/2016	18:00:43	TG	TG 	TELEGIORNALE	00:02:50	31	programmi informativi
+13/09/2016	18:03:34	CocktaildiGamberetti,laricettadiGiallozafferano	COKTAIL DI  GAMBERETTI	COKTAIL DI GAMBERETTI	00:02:59	31	programmi informativi
+13/09/2016	18:06:33	IlBrigantaggio	IL  BRIGANTAGGIO	IL  BRIGANTAGGIO	00:32:04	71	documentari
+13/09/2016	18:38:37	1969Topaz_1-AlfredHitchcock	topsz 1	topdz 1	00:37:42	1	Film
+13/09/2016	19:16:20	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	spot tc
+13/09/2016	19:16:23	Pasticciniallemandorle	PASTICCINI  ALLE MANDORLE	PASTICCINI ALLE MANDORLE	00:02:15	31	programmi informativi
+13/09/2016	19:18:39	PianadegliAlbanesi'DomenicadellePalme'PiccolaGrandeItalia	PIANA DEGLI ALBANESI	PIANA DEGLI ALBANESI	00:14:12	71	documentari
+13/09/2016	19:32:51	1960Anoipiacefreddo-TognazziVianelloDeFilippo	Tognazzi  Vianello De Filippo	A noi piace caldo	01:44:59	1	Film
+13/09/2016	21:17:50	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	spot tc
+13/09/2016	21:17:54	inTavola_20150205_48237	Sconosciuto	inTavola_2015 02 05	00:01:58	31	programmi informativi
+13/09/2016	21:19:52	agrisapori609x17-5-15	Sconosciuto	SPERLONGA	00:28:59	71	documentari
+13/09/2016	21:48:52	TG	TG 	TELEGIORNALE	00:02:50	31	programmi informativi
+13/09/2016	21:51:42	1970Chisum-JohnWayne	John Wayne	Chisum	01:46:32	1	Film
+13/09/2016	23:38:15	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	spot tc
+13/09/2016	23:38:18	CroccantediMandorle,laricettadiGiallozafferano	CROCCANTEW DI  MANDORLE	CROCCANTE DI  AMNDORLE	00:03:45	31	programmi informativi
+13/09/2016	23:42:03	STILOELACATTOLICA	STILO E LA CATTOLICA	Stilo e la  cattolica	00:07:14	71	documentari
+13/09/2016	23:49:18	1963IlDiavolo-AlbertoSordi	AlbertoSordi	1963 Il Diavolo	01:40:31	1	Film
+14/09/2016	01:29:50	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	spot tc
+14/09/2016	01:29:53	1^LocriCCdel25092014	CONSIGLIO  COMUNALE LOCRI	CONSIGLIO  COMUNALE LOCRI DEL 25092014	01:40:14	31	programmi informativi
+14/09/2016	03:10:08	VideoRicettaTiramisùGalbani	TIRAMI SU	TIRAMI SU	00:01:40	71	documentari
+14/09/2016	03:11:49	VTS_01	ZANDALEE	ZANDALEE	01:32:40	1	Film
+14/09/2016	04:44:29	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	spot tc
+14/09/2016	04:44:32	TG	TG 	TELEGIORNALE	00:02:50	31	programmi informativi
+14/09/2016	04:47:22	LocriCCdel14062013_mpeg2video	CONSIGLIO COMUNALE LOCRI	CONSIGLIO COMUNALE LOCRIDEL 14062013	01:47:02	31	programmi informativi
+14/09/2016	06:34:25	MontaltoUffugoFestadelgranosull'Aia	MONTALTO UFFUGO	MONTALTO  UFFUGO	00:14:29	71	documentari
+14/09/2016	06:48:54	1963Lospettro-BarbaraSteelePeter	Barbara Teeel 	Lo spettro	01:33:35	1	Film
+14/09/2016	08:22:30	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	spot tc
+14/09/2016	08:22:48	Pennetteai4formaggi	PENNETTE 4 FORMAGGI	PENNETTE 4 FORMAGGI	00:02:41	31	programmi informativi
+14/09/2016	08:25:30	MassafraPiccolaGrandeItalia	Piccola grande Italia	Massafra	00:21:33	71	documentari
+14/09/2016	08:47:04	1969Cinquebamboleperlalunad'Agosto-EdwigeFenechIraFurstenberg	Edwige Fenech	cinque bambole per la  luna d'agosto	01:18:20	1	Film
+14/09/2016	10:05:25	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	spot tc
+14/09/2016	10:05:28	ItaliaEconomia_20150603_51311	Italai Economia 8 giug	Nuovo File	00:08:03	31	programmi informativi
+14/09/2016	10:13:31	SardegnaVistadalcielo	Sconosciuto	Sardegna vista dal cielo	00:50:23	71	documentari
+14/09/2016	11:03:55	TG	TG 	TELEGIORNALE	00:02:50	31	programmi informativi
+14/09/2016	11:06:45	1960LaRagazzaConLaValigia	Sconosciuto	La ragazza  con la valigia	01:50:17	1	Film
+14/09/2016	12:57:02	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	spot tc
+14/09/2016	12:57:05	inMoto_20150202_48142	Sconosciuto	inMoto_2015 02 02_	00:01:50	31	programmi informativi
+14/09/2016	12:58:56	NoepoliPiccolaGrandeItalia	Piccola grande Italia	Neapoli	00:16:32	71	documentari
+14/09/2016	13:15:28	1964Unacasarispettabile-DidiPeregoRiccardoGarrone	Sconosciuto	UNA CASA RISPETTABILE	00:39:57	1	Film
+14/09/2016	13:55:25	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	spot tc
+14/09/2016	13:55:29	2^LocriCCdel25092014	CONSIGLIO COMUNALE LOCRI	2^ LOCRI c c del 25092014	01:26:11	31	programmi informativi
+14/09/2016	15:21:40	MontaltoUffugoFestadelgranosull'Aia	MONTALTO UFFUGO	MONTALTO  UFFUGO	00:14:29	71	documentari
+14/09/2016	15:36:10	1967DaUomoAUomo-LeeVanCleef	LEE VAN CLEEF	UOMO AD UOMO	01:50:16	1	Film
+14/09/2016	17:26:27	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	spot tc
+14/09/2016	17:26:30	TG	TG 	TELEGIORNALE	00:02:50	31	programmi informativi
+14/09/2016	17:29:20	OSPEDALEGERACEcopiaottima_mpeg2video	OSPEDALE GERACE	Ospedale Gerace Matteo	00:12:45	31	programmi informativi
+14/09/2016	17:42:06	PraiaaMarePiccolaGrandeItalia	Piccola grande Italia	PRAIA A MARE	00:24:33	71	documentari
+14/09/2016	18:06:40	Ragazzepompom_mpeg2video	Sconosciuto	Ragazze pom pom	01:25:15	1	Film
+14/09/2016	19:31:55	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	spot tc
+14/09/2016	19:31:58	TG	TG 	TELEGIORNALE	00:02:50	31	programmi informativi
+14/09/2016	19:34:48	MusicaeTradizioni	MUSICA E TRADIZIONI	MUSICA E TRADIZIONI	00:10:57	71	documentari
+14/09/2016	19:45:46	1961TornaaSettembre-RockHudsonGinaLollobrigida	Rock Hudson Gina Lollobrigida	Torna a Settembre	01:48:49	1	Film
+14/09/2016	21:34:36	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	spot tc
+14/09/2016	21:34:39	Musa_TV_20150601_51297	musa 8-giu	Nuovo File	00:17:39	31	programmi informativi
+14/09/2016	21:52:19	GliAnimalipiPericolosiGiunglaUrbana(ITA)	Animali pericolosi	ANIMALI PERICOLOSI	00:47:02	71	documentari
+14/09/2016	22:39:21	TG	TG 	TELEGIORNALE	00:02:50	31	programmi informativi
+14/09/2016	22:42:11	1967TreFusti,DueBamboleEUnTesoro-ElvisPresley	Sconosciuto	1967Tre Fusti ,Due Bambole E Un Tesoro	01:31:01	1	Film
+15/09/2016	00:13:12	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	spot tc
+15/09/2016	00:13:31	inMoto_20150202_48142	Sconosciuto	inMoto_2015 02 02_	00:01:50	31	programmi informativi
+15/09/2016	00:15:22	agrisapori608x9-5-15	Sconosciuto	Nuovo File	00:28:40	71	documentari
+15/09/2016	00:44:03	1962Boccaccio70-VittorioDeSica-SofiaLoren	BOCCACCIO 70	BOCCACCIO 70	03:15:26	1	Film
