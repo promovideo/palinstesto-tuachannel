@@ -2,29 +2,29 @@
 	<ProgramGuide>
 		<Service id="1000" name="tua channel">
 			<Event id="1">
-				<IdName>agrisapori608x9-5-15</IdName>
-				<StartDate>2017-05-13</StartDate>
-				<StartTime>02:44:26</StartTime>
-				<EndDate>2017-05-13</EndDate>
-				<EndTime>03:13:07</EndTime>
+				<IdName>PraiaaMarePiccolaGrandeItalia</IdName>
+				<StartDate>2017-05-19</StartDate>
+				<StartTime>17:44:09</StartTime>
+				<EndDate>2017-05-19</EndDate>
+				<EndTime>18:08:42</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
+					<Name>Piccola grande Italia</Name>
+					<Description>PRAIA A MARE</Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="2">
-				<IdName>1962Boccaccio70-VittorioDeSica-SofiaLoren</IdName>
-				<StartDate>2017-05-13</StartDate>
-				<StartTime>03:13:07</StartTime>
-				<EndDate>2017-05-13</EndDate>
-				<EndTime>06:28:34</EndTime>
+				<IdName>1972L'avventurael'avventura-LinoVenturaAldoMaccione</IdName>
+				<StartDate>2017-05-19</StartDate>
+				<StartTime>18:08:42</StartTime>
+				<EndDate>2017-05-19</EndDate>
+				<EndTime>20:05:03</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
-					<Name>BOCCACCIO 70</Name>
-					<Description>BOCCACCIO 70</Description>
+					<Name>Lino Ventura Aldo Maccione</Name>
+					<Description>1972 L' avventura e l'avventura</Description>
 				</ShortEventDescription>
 			</Event>
 		</Service>
