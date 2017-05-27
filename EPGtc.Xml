@@ -2,29 +2,68 @@
 	<ProgramGuide>
 		<Service id="1000" name="tua channel">
 			<Event id="1">
-				<IdName>PraiaaMarePiccolaGrandeItalia</IdName>
-				<StartDate>2017-05-19</StartDate>
-				<StartTime>17:44:09</StartTime>
-				<EndDate>2017-05-19</EndDate>
-				<EndTime>18:08:42</EndTime>
+				<IdName>GliAnimalipiPericolosiGiunglaUrbana(ITA)</IdName>
+				<StartDate>2017-05-23</StartDate>
+				<StartTime>14:38:39</StartTime>
+				<EndDate>2017-05-23</EndDate>
+				<EndTime>15:25:41</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
-					<Name>Piccola grande Italia</Name>
-					<Description>PRAIA A MARE</Description>
+					<Name>Animali pericolosi</Name>
+					<Description>ANIMALI PERICOLOSI</Description>
 				</ShortEventDescription>
 			</Event>
 			<Event id="2">
-				<IdName>1972L'avventurael'avventura-LinoVenturaAldoMaccione</IdName>
-				<StartDate>2017-05-19</StartDate>
-				<StartTime>18:08:42</StartTime>
-				<EndDate>2017-05-19</EndDate>
-				<EndTime>20:05:03</EndTime>
+				<IdName>spottc</IdName>
+				<StartDate>2017-05-23</StartDate>
+				<StartTime>15:25:41</StartTime>
+				<EndDate>2017-05-23</EndDate>
+				<EndTime>15:26:00</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
-					<Name>Lino Ventura Aldo Maccione</Name>
-					<Description>1972 L' avventura e l'avventura</Description>
+					<Name>TUA CHANNEL SPOT</Name>
+					<Description>SPOT TUA HANNEL</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="3">
+				<IdName>inMoto_20150202_48142</IdName>
+				<StartDate>2017-05-23</StartDate>
+				<StartTime>15:26:00</StartTime>
+				<EndDate>2017-05-23</EndDate>
+				<EndTime>15:27:51</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>inMoto_2015 02 02_</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="4">
+				<IdName>agrisapori608x9-5-15</IdName>
+				<StartDate>2017-05-23</StartDate>
+				<StartTime>15:27:51</StartTime>
+				<EndDate>2017-05-23</EndDate>
+				<EndTime>15:56:32</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>Sconosciuto</Name>
+					<Description>Nuovo File</Description>
+				</ShortEventDescription>
+			</Event>
+			<Event id="5">
+				<IdName>1962Boccaccio70-VittorioDeSica-SofiaLoren</IdName>
+				<StartDate>2017-05-23</StartDate>
+				<StartTime>15:56:32</StartTime>
+				<EndDate>2017-05-23</EndDate>
+				<EndTime>19:11:58</EndTime>
+				<ShortEventDescription>
+					<LanguageCode>ita</LanguageCode>
+					<LanguageName>Italian</LanguageName>
+					<Name>BOCCACCIO 70</Name>
+					<Description>BOCCACCIO 70</Description>
 				</ShortEventDescription>
 			</Event>
 		</Service>
