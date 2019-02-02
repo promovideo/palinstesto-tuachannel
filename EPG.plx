@@ -1,1107 +1,1231 @@
 Data Inizio	Ora Inizio	Codice Evento	Titolo/Descrizione	Episodio/Versione	Durata	IdCategoria	Nome Categoria
-26/01/2019	05:51:35	TropeaPiccolaGrandeItalia	Piccola grande Italia	TROPEA	00:26:53	71	documentari
-26/01/2019	06:18:28	Controsesso_mpeg2video	Sconosciuto	CONTROSESSO	01:47:23	1	Film
-26/01/2019	08:05:52	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	spot tc
-26/01/2019	08:05:56	OSPEDALEGERACEcopiaottima_mpeg2video	OSPEDALE GERACE	Ospedale Gerace Matteo	00:12:45	31	programmi informativi
-26/01/2019	08:18:41	GrotteriaPresepe2012_mpeg2video(1)	GROTTERIA PRESEPE	GROTTERIA PRESEPE	00:46:15	71	documentari
-26/01/2019	09:04:57	AmicimieiattoIII_mpeg2video	Sconosciuto	AMICI MIEI  ATTO III	01:49:20	1	Film
-26/01/2019	10:54:18	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	spot tc
-26/01/2019	10:54:21	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-26/01/2019	10:57:00	consigliocomunalegerace	CONSIGLIO  COMUN GERACE 18 6 016	CONSIGLIO  COMUN 18 06 016	01:28:01	31	programmi informativi
-26/01/2019	12:25:02	STILOELACATTOLICA	STILO E LA CATTOLICA	Stilo e la  cattolica	00:07:14	71	documentari
-26/01/2019	12:32:17	StarshipTroopers-FanteriaDelloSpazio	STARSHIP TROOPERS	STARSHIP TROOPERS	02:04:18	1	Film
-26/01/2019	14:36:36	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	spot tc
-26/01/2019	14:36:54	Pennetteai4formaggi	PENNETTE 4 FORMAGGI	PENNETTE 4 FORMAGGI	00:02:41	31	programmi informativi
-26/01/2019	14:39:36	Caltagirone2010PiccolaGrandeItalia	CALTAGIRONE	CALTAGIRONE	00:24:23	71	documentari
-26/01/2019	15:03:59	Ragazzepompom_mpeg2video	Sconosciuto	Ragazze pom pom	01:25:15	1	Film
-26/01/2019	16:29:15	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	spot tc
-26/01/2019	16:29:18	Geracesedutaconsiliaredel5Ottobre2016(byEL)	seduta consiglio gerace 5 10 106	consiglio gerac 5.10.016	01:30:13	31	programmi informativi
-26/01/2019	17:59:32	Olocausto.Lafabbricadelmale	olocxausto	LA FABBRICA DEL  MALE	01:23:34	71	documentari
-26/01/2019	19:23:07	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-26/01/2019	19:25:46	Cacciaalmarito_mpeg2video_001	Sconosciuto	CACCIA AL MARITO	01:45:42	1	Film
-26/01/2019	21:11:28	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	spot tc
-26/01/2019	21:11:32	GeraceConsiglioComunaleStraordinariodel16Dic2015(byEL)	CONSIGLIO  COMUNALE GERACE 	Consiglio  comunale gerace del 16 dic 015	00:50:31	31	programmi informativi
-26/01/2019	22:02:03	agrisapori-624x30-8-15	grisapori	AGRISAPORI	00:27:35	71	documentari
-26/01/2019	22:29:38	Ritorno.Al.Futuro.2-iTALiAN.DvDRip.DivX-AuDaX	Sconosciuto	Ritorno  al  futuro 2	01:43:36	1	Film
-27/01/2019	00:13:15	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	spot tc
-27/01/2019	00:13:19	premiostadioradio-nona-edizione-cut-tv	premio stadio radio 2017	Nuovo Filepremio stadio radio 2017	02:08:32	31	programmi informativi
-27/01/2019	02:21:51	MusicaeTradizioni	MUSICA E TRADIZIONI	MUSICA E TRADIZIONI	00:10:57	71	documentari
-27/01/2019	02:32:49	A027DaLasVegas_mpeg2video	Sconosciuto	A 27 LAS VEGAS	01:30:34	1	Film
-27/01/2019	04:03:23	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	spot tc
-27/01/2019	04:03:42	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-27/01/2019	04:06:21	CorsoUrgenzaEmergenza	CORSO URGENZA EMERGENZA	CORSO  URGENZA EMERGENZA	01:03:16	31	programmi informativi
-27/01/2019	05:09:38	045-NiloVittoria,ilFiumedellaPreistoria(10')eD	NILO 	IL  LUME DELLA PREISTORIA	00:09:54	71	documentari
-27/01/2019	05:19:33	IlVizietto2°t.	IL VIZIETTO 2° T	IL VIZIETTO 2° T	00:44:25	1	Film
-27/01/2019	06:03:58	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	spot tc
-27/01/2019	06:04:02	INSTANTFUTURE	intant future p7	INSTANT FUTURE p7	00:23:18	31	programmi informativi
-27/01/2019	06:27:20	047-LaRiservaNaturalediAlmaAta(21')eD	LA RISERVA NATURALE DI ALMAT...	Nuovo File	00:20:34	71	documentari
-27/01/2019	06:47:54	Perfavorenontoccatelevecchiette_2_mpeg2video	Sconosciuto	PER FAVORE  NN TOCCATE LE VECCHIETTE 2	00:43:02	1	Film
-27/01/2019	07:30:56	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	spot tc
-27/01/2019	07:30:59	CONSIGLIOCOMGERA25SETT2^Parte	gerace consiglio  comunale	Consiglio  com 2à parte del 25 09 016	02:29:42	31	programmi informativi
-27/01/2019	10:00:42	IlBrigantaggio	IL  BRIGANTAGGIO	IL  BRIGANTAGGIO	00:32:04	71	documentari
-27/01/2019	10:32:46	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-27/01/2019	10:35:25	AttackForce	ATTACK FORCR 	ATTACK FORCE	01:30:35	1	Film
-27/01/2019	12:06:01	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	spot tc
-27/01/2019	12:06:04	ConsigliocomunaleGeracedel30settembre2017	cosiglio comunale gerace 30 sett 017	Nuovo File	01:52:24	31	programmi informativi
-27/01/2019	13:58:29	CariatiPiccolaGrandeItalia	CARIATI	cariati	00:21:41	71	documentari
-27/01/2019	14:20:10	DonCamilloMonsignoremanontroppo	DON CAMILLO   MONSIGNORE	DON CAMILLO MONSIGNORE	01:53:25	1	Film
-27/01/2019	16:13:35	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	spot tc
-27/01/2019	16:13:39	InstantFuturepuntata5	INSTANT FUTURE 5 P	INSTANT FUTURE 5 P	00:22:23	31	programmi informativi
-27/01/2019	16:36:03	AnimaliSerpentiFascinoLetale(Ita)	ANIMALI SERPENTI	ANIMALI SERPENTI	00:52:05	71	documentari
-27/01/2019	17:28:08	Cacciaallavolpe_1_mpeg2video	Sconosciuto	CACCIA ALLA VOLPE 1	00:51:12	1	Film
-27/01/2019	18:19:21	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	spot tc
-27/01/2019	18:19:24	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-27/01/2019	18:22:03	SEDUTACONSIGLIODEL13032017	consiglio gerace 13  3 017	Nuovo File	00:38:35	31	programmi informativi
-27/01/2019	19:00:38	Potaturadell'OlivonellaLocride3Ed_mpeg2video	Sconosciuto	Potatura  dell' olivo  nella Locride 013	01:51:49	71	documentari
-27/01/2019	20:52:28	MenInBlackI_mpeg2video	Sconosciuto	Men In Black I	01:34:00	1	Film
-27/01/2019	22:26:29	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	spot tc
-27/01/2019	22:26:48	consigliocomunalegerace	CONSIGLIO  COMUN GERACE 18 6 016	CONSIGLIO  COMUN 18 06 016	01:28:01	31	programmi informativi
-27/01/2019	23:54:50	agrisapori604x12-4-15	AGRISAPORI	AGRISAPORI	00:29:07	71	documentari
-28/01/2019	00:23:57	Unacoppiaperfetta_mpeg2video	Sconosciuto	Una coppia  perfetta	01:46:00	1	Film
-28/01/2019	02:09:57	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	spot tc
-28/01/2019	02:10:01	GeraceConsiglioComunaleStraordinariodel16Dic2015(byEL)	CONSIGLIO  COMUNALE GERACE 	Consiglio  comunale gerace del 16 dic 015	00:50:31	31	programmi informativi
-28/01/2019	03:00:32	agrisapori613x14-6-15	AGRISAPORI	AGRISAPORI	00:26:49	71	documentari
-28/01/2019	03:27:22	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-28/01/2019	03:30:01	Laclinicadellamore_mpeg2video	Sconosciuto	La clinica dell'amore	01:28:52	1	Film
-28/01/2019	04:58:54	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	spot tc
-28/01/2019	04:58:57	InstantFuture_Puntata1	INSTANT FUTURE 1 P	INSTANT FUTURE 1 P	00:21:25	31	programmi informativi
-28/01/2019	05:20:23	agrisapori608x9-5-15	Sconosciuto	Nuovo File	00:28:40	71	documentari
-28/01/2019	05:49:04	DonCamilloel'onorevolePeppone	Sconosciuto	DON CAMILLO E L 'ONOREVOLE PEPPONE	01:37:00	1	Film
-28/01/2019	07:26:04	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	spot tc
-28/01/2019	07:26:23	Pasticciniallemandorle	PASTICCINI  ALLE MANDORLE	PASTICCINI ALLE MANDORLE	00:02:15	31	programmi informativi
-28/01/2019	07:28:39	DOCUMENTARIOAuschwitz	Auschwitz	Auschwitz	00:26:56	71	documentari
-28/01/2019	07:55:35	Terminator3_mpeg2video	TERMINATOR 3	FILM	01:44:38	1	Film
-28/01/2019	09:40:13	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	spot tc
-28/01/2019	09:40:16	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-28/01/2019	09:42:56	FM21	FORMULA  MOTORI 21	Nuovo File	00:23:58	31	programmi informativi
-28/01/2019	10:06:54	GliAnimalipiPericolosiGiunglaUrbana(ITA)	Animali pericolosi	ANIMALI PERICOLOSI	00:47:02	71	documentari
-28/01/2019	10:53:57	Speed	SPEED	SPEED	01:50:00	1	Film
-28/01/2019	12:43:58	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	spot tc
-28/01/2019	12:44:01	CroccantediMandorle,laricettadiGiallozafferano	CROCCANTEW DI  MANDORLE	CROCCANTE DI  AMNDORLE	00:03:45	31	programmi informativi
-28/01/2019	12:47:46	046-Bangkok,laVeneziad'Oriente(15')eD	BANNGKOC	Nuovo File	00:15:19	71	documentari
-28/01/2019	13:03:05	StarshipTroopers2-Glieroidellafederazione	Sconosciuto	Trooper 2	01:27:52	1	Film
-28/01/2019	14:30:58	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	spot tc
-28/01/2019	14:31:01	CocktaildiGamberetti,laricettadiGiallozafferano	COKTAIL DI  GAMBERETTI	COKTAIL DI GAMBERETTI	00:02:59	31	programmi informativi
-28/01/2019	14:34:00	agrisapori610x24-5-15	AGRISAPORI	AGISAPORI	00:31:12	71	documentari
-28/01/2019	15:05:13	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-28/01/2019	15:07:52	Sia-Chandelier	SIA	CHANDELEIR	00:03:40	1	Film
-28/01/2019	15:11:33	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	spot tc
-28/01/2019	15:11:36	21PIXMINDrev1	PIXMIND	Nuovo File	00:23:59	31	programmi informativi
-28/01/2019	15:35:36	049-LaTerradelSoleRosso(11')eD	LA TERRA DEL   SOLE ROSSO	LA TERRA DEL   SOLE  ROSSO	00:10:48	71	documentari
-28/01/2019	15:46:25	Arma.Da.Taglio.19722°t	ARMA DA TAGLIO 2°	ARMA DA TAGLIO 2°	00:37:18	1	Film
-28/01/2019	16:23:43	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	spot tc
-28/01/2019	16:23:47	InstantFuture_puntata3	INSTANT FUTURE 3 P	INSTANT FUTURE 3 P	00:22:30	31	programmi informativi
-28/01/2019	16:46:17	agrisapori606x27-4-15	AGRISAPORI	AGRISAPORI	00:30:54	71	documentari
-28/01/2019	17:17:11	Il.Diavolo.bn19632°t	IL DIAVOLO B/N SORDI 2°	IL DIAVOLO B/N SORDI 2°	00:53:09	1	Film
-28/01/2019	18:10:20	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	spot tc
-28/01/2019	18:10:24	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-28/01/2019	18:13:03	premiostadioradio-nona-edizione-cut-tv	premio stadio radio 2017	Nuovo Filepremio stadio radio 2017	02:08:32	31	programmi informativi
-28/01/2019	20:21:35	SardegnaVistadalcielo	Sconosciuto	Sardegna vista dal cielo	00:50:23	71	documentari
-28/01/2019	21:11:59	TotoaParigi_mpeg2video	Sconosciuto	Tot a Prigi	01:33:42	1	Film
-28/01/2019	22:45:41	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	spot tc
-28/01/2019	22:46:00	Geracesedutaconsiliaredel5Ottobre2016(byEL)	seduta consiglio gerace 5 10 106	consiglio gerac 5.10.016	01:30:13	31	programmi informativi
-29/01/2019	00:16:13	042-Tanzania,TerradiAmici(14')eD	TANZANIA	Nuovo File	00:14:05	71	documentari
-29/01/2019	00:30:18	Nessunoèperfetto_mpeg2video	nessuno è perfetto	Nessuno è perfetto	01:37:33	1	Film
-29/01/2019	02:07:52	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	spot tc
-29/01/2019	02:07:55	InstantFuturepuntata5	INSTANT FUTURE 5 P	INSTANT FUTURE 5 P	00:22:23	31	programmi informativi
-29/01/2019	02:30:19	Carnevale2013Flashsulprimocorsomascherato	Sconosciuto	CARNEVALE VENEZIA 2	00:23:04	71	documentari
-29/01/2019	02:53:24	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-29/01/2019	02:56:03	Fantozzisubisceancora	FANTOZZI  SUBISCE ANCORA	FANTOZZI  SUBISCE ANCORA	01:23:46	1	Film
-29/01/2019	04:19:50	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	spot tc
-29/01/2019	04:19:53	LocriCCdel14062013_mpeg2video	CONSIGLIO COMUNALE LOCRI	CONSIGLIO COMUNALE LOCRIDEL 14062013	01:47:02	31	programmi informativi
-29/01/2019	06:06:56	agrisapori-621x9-8-15	AGRISAPORI	AGRISAPORI	00:27:11	71	documentari
-29/01/2019	06:34:07	0114-1968PreparatiLaBara-TerenceHill_mpeg2video	Sconosciuto	PREPARATI LA  BARA	01:28:01	1	Film
-29/01/2019	08:02:08	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	spot tc
-29/01/2019	08:02:12	CONSIGLIOCOMGERA25SETT2^Parte	gerace consiglio  comunale	Consiglio  com 2à parte del 25 09 016	02:29:42	31	programmi informativi
-29/01/2019	10:31:54	VideoRicettaTiramisùGalbani	TIRAMI SU	TIRAMI SU	00:01:40	71	documentari
-29/01/2019	10:33:34	InsideI'mdancing	INSIDEL MDANCING	FILM	01:39:53	1	Film
-29/01/2019	12:13:27	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	spot tc
-29/01/2019	12:13:31	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-29/01/2019	12:16:10	INSTANTFUTURE	intant future p7	INSTANT FUTURE p7	00:23:18	31	programmi informativi
-29/01/2019	12:39:28	BonifatiPiccolaGrandeItalia	bonifati	bonifati	00:21:55	71	documentari
-29/01/2019	13:01:23	Azzurro_mpeg2video	Sconosciuto	AZZURRO	01:21:51	1	Film
-29/01/2019	14:23:15	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	spot tc
-29/01/2019	14:23:18	consigliocomunalegeracedel25092016primaparte	CONSIGLIO GERACE DEL 25.09 016	consigl gerace 1^ parte	01:13:36	31	programmi informativi
-29/01/2019	15:36:55	agrisapori596x8-2-15	GIAGLIONESconosciuto	Nuovo FiAGRISAPORI	00:31:19	71	documentari
-29/01/2019	16:08:14	MenInBlackII	Sconosciuto	Men In Black II	01:24:32	1	Film
-29/01/2019	17:32:46	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	spot tc
-29/01/2019	17:32:50	CONSIGLIOGERACEDEL1311016	consiglio gerace PEZZIMNENTI	CONSIGLIO GERACE DE 13  NOV 2016	00:44:22	31	programmi informativi
-29/01/2019	18:17:12	agrisapori627X20-9_15	AGRISAPORI	AGRISAPORI	00:26:45	71	documentari
-29/01/2019	18:43:58	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-29/01/2019	18:46:38	AmiciMieiAttoII_mpeg2video	Sconosciuto	AMICI MIEI  ATTO II	02:07:00	1	Film
-29/01/2019	20:53:38	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	spot tc
-29/01/2019	20:53:56	OSPEDALEGERACEcopiaottima_mpeg2video	OSPEDALE GERACE	Ospedale Gerace Matteo	00:12:45	31	programmi informativi
-29/01/2019	21:06:42	Gerace	GERACE	GERACE	00:06:01	71	documentari
-29/01/2019	21:12:43	OnceWereWarriors2(completo)	ONCE WERRIORS 2	Once were Warriors	01:38:23	1	Film
-29/01/2019	22:51:06	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	spot tc
-29/01/2019	22:51:10	CorsoUrgenzaEmergenza	CORSO URGENZA EMERGENZA	CORSO  URGENZA EMERGENZA	01:03:16	31	programmi informativi
-29/01/2019	23:54:26	050-IlTriangolod'Oro(20')eD	IL TRIANGOLO D 'ORO	IL TRIANGOLO  D 'ORO	00:19:13	71	documentari
-30/01/2019	00:13:40	LabattagliadellaNeretva19692°t.	LA BATTAGLIA DELLA NERETVA 2° T	LA BATTAGLIA DELLA NERETVA 2° T	01:10:07	1	Film
-30/01/2019	01:23:48	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	spot tc
-30/01/2019	01:23:51	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-30/01/2019	01:26:31	Pennetteai4formaggi	PENNETTE 4 FORMAGGI	PENNETTE 4 FORMAGGI	00:02:41	31	programmi informativi
-30/01/2019	01:29:12	Atlantis	ATLANTIS	ATLANTIS	01:27:36	71	documentari
-30/01/2019	02:56:48	CompagnoDonCamillo_mpeg2video	Sconosciuto	COMPAGNO  DON CAMILLO	01:42:17	1	Film
-30/01/2019	04:39:06	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	spot tc
-30/01/2019	04:39:09	inTavola_20150205_48237	Sconosciuto	inTavola_2015 02 05	00:01:58	31	programmi informativi
-30/01/2019	04:41:08	MalfaPiccolaGrandeItalia	Piccola Grande Italia MALFA	Malfa	00:21:29	71	documentari
-30/01/2019	05:02:37	2Fastand2Furios	Sconosciuto	Nuovo File	01:43:10	1	Film
-30/01/2019	06:45:47	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	spot tc
-30/01/2019	06:45:51	ConsigliocomunaleGeracedel30settembre2017	cosiglio comunale gerace 30 sett 017	Nuovo File	01:52:24	31	programmi informativi
-30/01/2019	08:38:15	PianadegliAlbanesi'DomenicadellePalme'PiccolaGrandeItalia	PIANA DEGLI ALBANESI	PIANA DEGLI ALBANESI	00:14:12	71	documentari
-30/01/2019	08:52:27	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-30/01/2019	08:55:07	Senzanomesanzaregole	SENZA NOME SENZA REGOLE	Senza nome senza regole	01:43:39	1	Film
-30/01/2019	10:38:47	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	spot tc
-30/01/2019	10:38:50	consiglioGeracedel288017	Sconosciuto	consiglio 28 8 17	00:20:04	31	programmi informativi
-30/01/2019	10:58:55	agrisapori615x28-6-15	Sconosciuto	AGRISAPORI xpo mi	00:31:34	71	documentari
-30/01/2019	11:30:29	Taxidriver_1_mpeg2video	Sconosciuto	TAX DRIVER 1P	00:55:26	1	Film
-30/01/2019	12:25:56	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	spot tc
-30/01/2019	12:26:14	CONSIGLIOCOMUNALE30MARZO2017	consiglio gerace del 30 3 017	consiglio gerace 30 3 17	00:45:44	31	programmi informativi
-30/01/2019	13:11:59	agrisapori618x19-7-15	AGRISAPORI	La Magdaleine	00:08:48	71	documentari
-30/01/2019	13:20:47	Nell'annoDelSignoreManfredi,Sordi,Tognazzi(Filmcompleto)	Sconosciuto	Nell'anno del  Signore	01:57:54	1	Film
-30/01/2019	15:18:42	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	spot tc
-30/01/2019	15:18:45	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-30/01/2019	15:21:25	Consiglio29ott2016xregia	CONSIGLIO COMUNALE GERACE 	CONS DEL 29 OTT 2016	00:00:02	31	programmi informativi
-30/01/2019	15:21:27	MagnificaItaliaCalabria_mpeg2video	Sconosciuto	Calabria	00:52:09	71	documentari
-30/01/2019	16:13:37	Mettilodiavolotuonelomioinferno_mpeg2video	Sconosciuto	Metti  lo  diavolo  ne lo  tuo inferno	01:20:45	1	Film
-30/01/2019	17:34:22	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	spot tc
-30/01/2019	17:34:26	CorsoUrgenzaEmergenza	CORSO URGENZA EMERGENZA	CORSO  URGENZA EMERGENZA	01:03:16	31	programmi informativi
-30/01/2019	18:37:42	agrisapori-623x23-8-15	AGRISAPORI	AGRISAPORI	00:00:01	71	documentari
-30/01/2019	18:37:44	Statebuoni,Sepotete(TuttoilFilm)SanFilippoNeri(Et+12)	Sconosciuto	STATE  BUONI SE  POTETE	02:29:17	1	Film
-30/01/2019	21:07:01	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	spot tc
-30/01/2019	21:07:05	consigliocomunalegeracedel25092016primaparte	CONSIGLIO GERACE DEL 25.09 016	consigl gerace 1^ parte	01:13:36	31	programmi informativi
-30/01/2019	22:20:41	043-NgoroNgoro,l'UltimaArca(14')eD	NGORO NGORO	Nuovo File	00:13:29	71	documentari
-30/01/2019	22:34:11	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-30/01/2019	22:36:50	Malibùmostwanted_mpeg2video	Sconosciuto	MALIBU MONS WANTED	01:22:35	1	Film
-30/01/2019	23:59:25	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	spot tc
-30/01/2019	23:59:44	InstantFuture_puntata3	INSTANT FUTURE 3 P	INSTANT FUTURE 3 P	00:22:30	31	programmi informativi
-31/01/2019	00:22:14	044-LaSavanadeiSerengheti(15')eD	LA SAVANA	Nuovo File	00:14:19	71	documentari
-31/01/2019	00:36:33	Roma.drogata.la.polizia.non_.puo.intervenire.19752°t.	ROMA DROGATA 2^	ROMA DROGATA 2^	00:41:14	1	Film
-31/01/2019	01:17:47	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	spot tc
-31/01/2019	01:17:51	consigliocomunalegerace	CONSIGLIO  COMUN GERACE 18 6 016	CONSIGLIO  COMUN 18 06 016	01:28:01	31	programmi informativi
-31/01/2019	02:45:53	SerraSanBrunoPiccolaGrandeItalia	Piccola Grande Italia	SERRA S. BRUNO	00:20:58	71	documentari
-31/01/2019	03:06:51	Roma.drogata.la.polizia.non_.puo.intervenire.19751°t.	ROMA DROGATA 1^	ROMA DROGATA 1^	00:48:20	1	Film
-31/01/2019	03:55:12	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	spot tc
-31/01/2019	03:55:15	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-31/01/2019	03:57:54	SEDUTACONSIGLIODEL13032017	consiglio gerace 13  3 017	Nuovo File	00:38:35	31	programmi informativi
-31/01/2019	04:36:30	NoepoliPiccolaGrandeItalia	Piccola grande Italia	Neapoli	00:16:32	71	documentari
-31/01/2019	04:53:02	Iquattrodell'apocalisseLucioFulci(FILMCOMPLETO)	Sconosciuto	I 4 DELL'APOCALISSE	01:44:06	1	Film
-31/01/2019	06:37:08	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	spot tc
-31/01/2019	06:37:12	Pasticciniallemandorle	PASTICCINI  ALLE MANDORLE	PASTICCINI ALLE MANDORLE	00:02:15	31	programmi informativi
-31/01/2019	06:39:27	SardegnaVistadalcielo	Sconosciuto	Sardegna vista dal cielo	00:50:23	71	documentari
-31/01/2019	07:29:51	Ritorno.Al.Futuro.3-iTALiAN.DvDRip.DivX-AuDaX	Sconosciuto	Ritorno  al  futuro 3	01:53:23	1	Film
-31/01/2019	09:23:15	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	spot tc
-31/01/2019	09:23:18	InstantFuturepuntata5	INSTANT FUTURE 5 P	INSTANT FUTURE 5 P	00:22:23	31	programmi informativi
-31/01/2019	09:45:42	PraiaaMarePiccolaGrandeItalia	Piccola grande Italia	PRAIA A MARE	00:24:33	71	documentari
-31/01/2019	10:10:16	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-31/01/2019	10:12:55	Storiediamorieinfedelta_mpeg2video	Sconosciuto	Storie di  amori ed infedeltà	01:23:30	1	Film
-31/01/2019	11:36:26	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	spot tc
-31/01/2019	11:36:29	OSPEDALEGERACEcopiaottima_mpeg2video	OSPEDALE GERACE	Ospedale Gerace Matteo	00:12:45	31	programmi informativi
-31/01/2019	11:49:14	NoepoliPiccolaGrandeItalia	Piccola grande Italia	Neapoli	00:16:32	71	documentari
-31/01/2019	12:05:47	FantozziVaInPensione	FANTOZZI VA IN PENSIONE	FANTOZZI VA IN PENSIONE	01:34:36	1	Film
-31/01/2019	13:40:23	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	spot tc
-31/01/2019	13:40:42	CONSIGLIOCOMUNALE30MARZO2017	consiglio gerace del 30 3 017	consiglio gerace 30 3 17	00:45:44	31	programmi informativi
-31/01/2019	14:26:26	ReggioCalabriaPiccolaGrandeItalia	Sconosciuto	Reggio piccola grande Italia  	00:22:12	71	documentari
-31/01/2019	14:48:39	Speed2-SenzaLimiti	SPOEED 2 SENZA LIMITI	SPEED 2 SENZA LIMITI	01:54:12	1	Film
-31/01/2019	16:42:52	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	spot tc
-31/01/2019	16:42:55	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-31/01/2019	16:45:35	consiglioGeracedel288017	Sconosciuto	consiglio 28 8 17	00:20:04	31	programmi informativi
-31/01/2019	17:05:39	agrisapori-624x30-8-15	grisapori	AGRISAPORI	00:27:35	71	documentari
-31/01/2019	17:33:15	0110-1968-Calmaragazzeoggimisposo-LouisDeFunes_mpeg2video	Sconosciuto	CALMA RAGAZZE  OGGI   MI  SPOSO	01:25:55	1	Film
-31/01/2019	18:59:11	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	spot tc
-31/01/2019	18:59:14	GeraceConsiglioComunaleStraordinariodel16Dic2015(byEL)	CONSIGLIO  COMUNALE GERACE 	Consiglio  comunale gerace del 16 dic 015	00:50:31	31	programmi informativi
-31/01/2019	19:49:45	agrisapori604x12-4-15	AGRISAPORI	AGRISAPORI	00:29:07	71	documentari
-31/01/2019	20:18:52	Schoolofrock	Schoolofrock	SCHOOLOFROK	01:44:45	1	Film
-31/01/2019	22:03:38	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	spot tc
-31/01/2019	22:03:42	CroccantediMandorle,laricettadiGiallozafferano	CROCCANTEW DI  MANDORLE	CROCCANTE DI  AMNDORLE	00:03:45	31	programmi informativi
-31/01/2019	22:07:27	DOCUMENTARIOAuschwitz	Auschwitz	Auschwitz	00:26:56	71	documentari
-31/01/2019	22:34:23	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-31/01/2019	22:37:02	Cosedamaschi_mpeg2video	Sconosciuto	COSE DA MASCHI	01:33:44	1	Film
-01/02/2019	00:10:46	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	spot tc
-01/02/2019	00:10:50	FM21	FORMULA  MOTORI 21	Nuovo File	00:23:58	31	programmi informativi
-01/02/2019	00:34:49	042-Tanzania,TerradiAmici(14')eD	TANZANIA	Nuovo File	00:14:05	71	documentari
-01/02/2019	00:48:54	MammaHoRipersoL'aereoEMiSonoSmarritoANewYork	Mamma ho riperso l' aereo e mi  sono smarrito a New York	Nuovo File	01:48:03	1	Film
-01/02/2019	02:36:57	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	spot tc
-01/02/2019	02:37:01	ConsigliocomunaleGeracedel30settembre2017	cosiglio comunale gerace 30 sett 017	Nuovo File	01:52:24	31	programmi informativi
-01/02/2019	04:29:25	047-LaRiservaNaturalediAlmaAta(21')eD	LA RISERVA NATURALE DI ALMAT...	Nuovo File	00:20:34	71	documentari
-01/02/2019	04:49:59	Qualcosadicuisparlare_mpeg2video	Sconosciuto	Qualcosa di  cui  sparlare	01:40:41	1	Film
-01/02/2019	06:30:41	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	spot tc
-01/02/2019	06:30:44	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-01/02/2019	06:33:23	21PIXMINDrev1	PIXMIND	Nuovo File	00:23:59	31	programmi informativi
-01/02/2019	06:57:23	Caltagirone2010PiccolaGrandeItalia	CALTAGIRONE	CALTAGIRONE	00:24:23	71	documentari
-01/02/2019	07:21:46	Segretaria_mpeg2video	Sconosciuto	Segretaria	01:46:42	1	Film
-01/02/2019	09:08:29	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	spot tc
-01/02/2019	09:08:47	Pennetteai4formaggi	PENNETTE 4 FORMAGGI	PENNETTE 4 FORMAGGI	00:02:41	31	programmi informativi
-01/02/2019	09:11:29	MusicaeTradizioni	MUSICA E TRADIZIONI	MUSICA E TRADIZIONI	00:10:57	71	documentari
-01/02/2019	09:22:27	Ilpadrino	IL PADRINO	Il padrino	02:48:04	1	Film
-01/02/2019	12:10:31	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	spot tc
-01/02/2019	12:10:35	Consiglio29ott2016xregia	CONSIGLIO COMUNALE GERACE 	CONS DEL 29 OTT 2016	00:00:02	31	programmi informativi
-01/02/2019	12:10:37	AnimaliSerpentiFascinoLetale(Ita)	ANIMALI SERPENTI	ANIMALI SERPENTI	00:52:05	71	documentari
-01/02/2019	13:02:42	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-01/02/2019	13:05:22	Rosolinopaternosoldato_mpeg2video	ROSOLINO PATERNO SOLDATO	Rosolino paterno  soldato	01:35:57	1	Film
-01/02/2019	14:41:19	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	spot tc
-01/02/2019	14:41:22	inTavola_20150205_48237	Sconosciuto	inTavola_2015 02 05	00:01:58	31	programmi informativi
-01/02/2019	14:43:21	049-LaTerradelSoleRosso(11')eD	LA TERRA DEL   SOLE ROSSO	LA TERRA DEL   SOLE  ROSSO	00:10:48	71	documentari
-01/02/2019	14:54:10	ChiedimiSeSonoFelice_mpeg2video	CHIEDIMI SE SONO  FELICE	CHIEDIMI SE SONO  FELICE	01:36:35	1	Film
-01/02/2019	16:30:45	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	spot tc
-01/02/2019	16:30:48	premiostadioradio-nona-edizione-cut-tv	premio stadio radio 2017	Nuovo Filepremio stadio radio 2017	02:08:32	31	programmi informativi
-01/02/2019	18:39:20	agrisapori-623x23-8-15	AGRISAPORI	AGRISAPORI	00:00:01	71	documentari
-01/02/2019	18:39:22	CiccioeFrancoSatiricosissimo_mpeg2video	FRANCO FRANCHI INGRASSIA	SATIRICONISSIMO	01:25:00	1	Film
-01/02/2019	20:04:23	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	spot tc
-01/02/2019	20:04:26	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-01/02/2019	20:07:06	LocriCCdel14062013_mpeg2video	CONSIGLIO COMUNALE LOCRI	CONSIGLIO COMUNALE LOCRIDEL 14062013	01:47:02	31	programmi informativi
-01/02/2019	21:54:08	CariatiPiccolaGrandeItalia	CARIATI	cariati	00:21:41	71	documentari
-01/02/2019	22:15:49	Papadiventamamma_mpeg2video	PAPA  DIVENTA  MAMMA	PAPA  DIVENTA  MAMMA	01:20:22	1	Film
-01/02/2019	23:36:12	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	spot tc
-01/02/2019	23:36:31	CONSIGLIOGERACEDEL1311016	consiglio gerace PEZZIMNENTI	CONSIGLIO GERACE DE 13  NOV 2016	00:44:22	31	programmi informativi
-02/02/2019	00:20:53	agrisapori596x8-2-15	GIAGLIONESconosciuto	Nuovo FiAGRISAPORI	00:31:19	71	documentari
-02/02/2019	00:52:13	Tadpole_mpeg2video	Sconosciuto	TODPOLE	01:15:05	1	Film
-02/02/2019	02:07:18	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	spot tc
-02/02/2019	02:07:21	CocktaildiGamberetti,laricettadiGiallozafferano	COKTAIL DI  GAMBERETTI	COKTAIL DI GAMBERETTI	00:02:59	31	programmi informativi
-02/02/2019	02:10:21	TropeaPiccolaGrandeItalia	Piccola grande Italia	TROPEA	00:26:53	71	documentari
-02/02/2019	02:37:14	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-02/02/2019	02:39:53	Perunpugnonellocchio_mpeg2video	Sconosciuto	Per  un  pugno  nell' occhio	01:34:51	1	Film
-02/02/2019	04:14:45	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	spot tc
-02/02/2019	04:14:48	InstantFuture_Puntata1	INSTANT FUTURE 1 P	INSTANT FUTURE 1 P	00:21:25	31	programmi informativi
-02/02/2019	04:36:14	MagnificaItaliaCalabria_mpeg2video	Sconosciuto	Calabria	00:52:09	71	documentari
-02/02/2019	05:28:24	JuwannaMann_mpeg2video	Sconosciuto	Juawanna Mann	01:26:54	1	Film
-02/02/2019	06:55:19	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	spot tc
-02/02/2019	06:55:22	Geracesedutaconsiliaredel5Ottobre2016(byEL)	seduta consiglio gerace 5 10 106	consiglio gerac 5.10.016	01:30:13	31	programmi informativi
-02/02/2019	08:25:36	agrisapori614x21-6-15	Sconosciuto	AGRISAPORI	00:17:56	71	documentari
-02/02/2019	08:43:32	'NataleinCasaCupiello'diEduardodeFilippoINTEGRALE_mpeg2video	Commedia	Natale in casa   Cupiello	02:12:48	1	Film
-02/02/2019	10:56:20	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	spot tc
-02/02/2019	10:56:24	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-02/02/2019	10:59:03	INSTANTFUTURE	intant future p7	INSTANT FUTURE p7	00:23:18	31	programmi informativi
-02/02/2019	11:22:21	MassafraPiccolaGrandeItalia	Piccola grande Italia	Massafra	00:21:33	71	documentari
-02/02/2019	11:43:55	Labandadeglionesti_mpeg2video	LA BANDA DEGLI ONESTI	LA BANDA DEGLI  ONESTI	01:40:55	1	Film
-02/02/2019	13:24:50	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	spot tc
-02/02/2019	13:24:53	CONSIGLIOCOMGERA25SETT2^Parte	gerace consiglio  comunale	Consiglio  com 2à parte del 25 09 016	02:29:42	31	programmi informativi
-02/02/2019	15:54:36	agrisapori627X20-9_15	AGRISAPORI	AGRISAPORI	00:26:45	71	documentari
-02/02/2019	16:21:22	LabattagliadellaNeretva19691°t.	LA BATTAGLIA DELLA NERETVA 1° T	LA BATTAGLIA DELLA NERETVA 1° T	01:14:05	1	Film
-02/02/2019	17:35:27	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	spot tc
-02/02/2019	17:35:45	FM21	FORMULA  MOTORI 21	Nuovo File	00:23:58	31	programmi informativi
-02/02/2019	17:59:44	043-NgoroNgoro,l'UltimaArca(14')eD	NGORO NGORO	Nuovo File	00:13:29	71	documentari
-02/02/2019	18:13:14	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-02/02/2019	18:15:53	Tempimoderni_mpeg2video	Sconosciuto	Tempi  moderni	01:27:33	1	Film
-02/02/2019	19:43:26	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	spot tc
-02/02/2019	19:43:30	InstantFuturepuntata5	INSTANT FUTURE 5 P	INSTANT FUTURE 5 P	00:22:23	31	programmi informativi
-02/02/2019	20:05:54	STILOELACATTOLICA	STILO E LA CATTOLICA	Stilo e la  cattolica	00:07:14	71	documentari
-02/02/2019	20:13:08	UmbertoD(1952)unfilmdiVittorioDeSica	Sconosciuto	Umberto D	01:28:17	1	Film
-02/02/2019	21:41:26	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	spot tc
-02/02/2019	21:41:29	CroccantediMandorle,laricettadiGiallozafferano	CROCCANTEW DI  MANDORLE	CROCCANTE DI  AMNDORLE	00:03:45	31	programmi informativi
-02/02/2019	21:45:15	VideopergiornodellaMemoria,pernondimenticare.	IL GIORNO DELLA  MEMORIA	IL GIORNO  DELLA MEMORIA	00:25:46	71	documentari
-02/02/2019	22:11:01	Bertoldo,BertoldinoeCacasennoSordi,Tognazzi(Filmcompleto)	Sconosciuto	BERTOLDO BERTOLDINO E CACASENNO	01:59:40	1	Film
-03/02/2019	00:10:41	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	spot tc
-03/02/2019	00:10:45	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-03/02/2019	00:13:24	InstantFuture_puntata3	INSTANT FUTURE 3 P	INSTANT FUTURE 3 P	00:22:30	31	programmi informativi
-03/02/2019	00:35:54	045-NiloVittoria,ilFiumedellaPreistoria(10')eD	NILO 	IL  LUME DELLA PREISTORIA	00:09:54	71	documentari
-03/02/2019	00:45:49	ThePrison	Sconosciuto	The  prison	01:45:47	1	Film
-03/02/2019	02:31:37	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	spot tc
-03/02/2019	02:31:40	Consiglio29ott2016xregia	CONSIGLIO COMUNALE GERACE 	CONS DEL 29 OTT 2016	00:00:02	31	programmi informativi
-03/02/2019	02:31:42	IpostipibellidellacalabriaDestinationCalabriaGiuseppeScorzaPepoMac@gmailcom_mpeg2video	Sconosciuto	I POSTI PIU  BELLI DELLA CALABRIA	00:03:59	71	documentari
-03/02/2019	02:35:42	FantozziFracchiaLaBelvaUmana	FANTOZZI FRACCHAI LA BELVAUMANA	LA BELVA  UMANA	01:36:05	1	Film
-03/02/2019	04:11:48	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	spot tc
-03/02/2019	04:11:51	consigliocomunalegerace	CONSIGLIO  COMUN GERACE 18 6 016	CONSIGLIO  COMUN 18 06 016	01:28:01	31	programmi informativi
-03/02/2019	05:39:53	agrisapori617x12-6-15	AGRISAPORI	AGRISAPORI	00:24:51	71	documentari
-03/02/2019	06:04:44	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-03/02/2019	06:07:24	Americangraffiti_1_mpeg2video	AMERICAN GRAFFITI_1	AMERICAN GRAFFITI_1	00:57:34	1	Film
-03/02/2019	07:04:58	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	spot tc
-03/02/2019	07:05:02	InstantFuture_Puntata1	INSTANT FUTURE 1 P	INSTANT FUTURE 1 P	00:21:25	31	programmi informativi
-03/02/2019	07:26:27	GliAnimalipiPericolosiGiunglaUrbana(ITA)	Animali pericolosi	ANIMALI PERICOLOSI	00:47:02	71	documentari
-03/02/2019	08:13:30	BestofMr.Bean_mpeg2video	Sconosciuto	MISTER BEAN	01:11:57	1	Film
-03/02/2019	09:25:27	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	spot tc
-03/02/2019	09:25:30	Pasticciniallemandorle	PASTICCINI  ALLE MANDORLE	PASTICCINI ALLE MANDORLE	00:02:15	31	programmi informativi
-03/02/2019	09:27:46	MontaltoUffugoFestadelgranosull'Aia	MONTALTO UFFUGO	MONTALTO  UFFUGO	00:14:29	71	documentari
-03/02/2019	09:42:15	jerry.lewis.l.idolo.delle.donne.19611°t.	L' IDOLO DELLE DONNE 1°	L' IDOLO DELLE DONNE 1°	00:47:12	1	Film
-03/02/2019	10:29:27	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	spot tc
-03/02/2019	10:29:31	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-03/02/2019	10:32:10	premiostadioradio-nona-edizione-cut-tv	premio stadio radio 2017	Nuovo Filepremio stadio radio 2017	02:08:32	31	programmi informativi
-03/02/2019	12:40:42	MalfaPiccolaGrandeItalia	Piccola Grande Italia MALFA	Malfa	00:21:29	71	documentari
-03/02/2019	13:02:11	CommandPerformance2009iTALiANDVDRipXviDPrEsTiGe	Sconosciuto	Command performance	01:29:22	1	Film
-03/02/2019	14:31:34	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	spot tc
-03/02/2019	14:31:53	CorsoUrgenzaEmergenza	CORSO URGENZA EMERGENZA	CORSO  URGENZA EMERGENZA	01:03:16	31	programmi informativi
-03/02/2019	15:35:09	agrisapori-621x9-8-15	AGRISAPORI	AGRISAPORI	00:27:11	71	documentari
-03/02/2019	16:02:21	X-Men	X - MEN	X - MEN	01:40:02	1	Film
-03/02/2019	17:42:23	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	spot tc
-03/02/2019	17:42:26	CocktaildiGamberetti,laricettadiGiallozafferano	COKTAIL DI  GAMBERETTI	COKTAIL DI GAMBERETTI	00:02:59	31	programmi informativi
-03/02/2019	17:45:25	agrisapori609x17-5-15	Sconosciuto	SPERLONGA	00:28:59	71	documentari
-03/02/2019	18:14:25	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-03/02/2019	18:17:04	AustinPowers2-Laspiacheciprovava	AUSTIN POWERS2	LA SPIA CHE CI  PROVAVA	01:31:07	1	Film
-03/02/2019	19:48:11	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	spot tc
-03/02/2019	19:48:15	Pennetteai4formaggi	PENNETTE 4 FORMAGGI	PENNETTE 4 FORMAGGI	00:02:41	31	programmi informativi
-03/02/2019	19:50:56	Carnevale2013Flashsulprimocorsomascherato	Sconosciuto	CARNEVALE VENEZIA 2	00:23:04	71	documentari
-03/02/2019	20:14:01	StoriadelVaticanoIsegretidiAngelieDemoni	Sconosciuto	STOTIA DEL  VATICANO	01:30:51	1	Film
-03/02/2019	21:44:52	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	spot tc
-03/02/2019	21:44:55	GeraceConsiglioComunaleStraordinariodel16Dic2015(byEL)	CONSIGLIO  COMUNALE GERACE 	Consiglio  comunale gerace del 16 dic 015	00:50:31	31	programmi informativi
-03/02/2019	22:35:26	Gerace	GERACE	GERACE	00:06:01	71	documentari
-03/02/2019	22:41:27	Undollarodififa_mpeg2video	UN DOLLARO  DI  FIFA	UN DOLLARO  DI  FIFA	01:29:53	1	Film
-04/02/2019	00:11:21	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	spot tc
-04/02/2019	00:11:25	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-04/02/2019	00:14:04	OSPEDALEGERACEcopiaottima_mpeg2video	OSPEDALE GERACE	Ospedale Gerace Matteo	00:12:45	31	programmi informativi
-04/02/2019	00:26:49	048-Tokio,EmblemadiunMiracolo(14')eD	TOKIO EMBLEMA DEL MIRACOLO	TOKIO EMBLEMA DEL  MIRACOLO	00:13:57	71	documentari
-04/02/2019	00:40:47	AvventuraaCapri_mpeg2video	Sconosciuto	AVVENTURA A CAPRI	01:23:03	1	Film
-04/02/2019	02:03:50	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	spot tc
-04/02/2019	02:03:54	ConsigliocomunaleGeracedel30settembre2017	cosiglio comunale gerace 30 sett 017	Nuovo File	01:52:24	31	programmi informativi
-04/02/2019	03:56:18	agrisapori616x5-7-15	AGRISAPORI	AGRISAPORI	00:26:08	71	documentari
-04/02/2019	04:22:27	BadBoys	BAD BOYS	BAD BOYS	01:54:04	1	Film
-04/02/2019	06:16:31	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	spot tc
-04/02/2019	06:16:34	LocriCCdel14062013_mpeg2video	CONSIGLIO COMUNALE LOCRI	CONSIGLIO COMUNALE LOCRIDEL 14062013	01:47:02	31	programmi informativi
-04/02/2019	08:03:37	Atlantis	ATLANTIS	ATLANTIS	01:27:36	71	documentari
-04/02/2019	09:31:13	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-04/02/2019	09:33:52	Unmostroemezzo_mpeg2video	Sconosciuto	Un mostro e   mezzo	01:36:32	1	Film
-04/02/2019	11:10:24	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	spot tc
-04/02/2019	11:10:43	Geracesedutaconsiliaredel5Ottobre2016(byEL)	seduta consiglio gerace 5 10 106	consiglio gerac 5.10.016	01:30:13	31	programmi informativi
-04/02/2019	12:40:57	046-Bangkok,laVeneziad'Oriente(15')eD	BANNGKOC	Nuovo File	00:15:19	71	documentari
-04/02/2019	12:56:16	Cacciaallavolpe_2_mpeg2video	Sconosciuto	CACCIA ALLA VOLPE 2	00:43:54	1	Film
-04/02/2019	13:40:10	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	spot tc
-04/02/2019	13:40:14	INSTANTFUTURE	intant future p7	INSTANT FUTURE p7	00:23:18	31	programmi informativi
-04/02/2019	14:03:32	GrotteriaPresepe2012_mpeg2video(1)	GROTTERIA PRESEPE	GROTTERIA PRESEPE	00:46:15	71	documentari
-04/02/2019	14:49:47	AlbertoSordiIlVedovo	Sconosciuto	IL  VEDOVO	01:27:06	1	Film
-04/02/2019	16:16:54	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	spot tc
-04/02/2019	16:16:57	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-04/02/2019	16:19:36	CONSIGLIOCOMGERA25SETT2^Parte	gerace consiglio  comunale	Consiglio  com 2à parte del 25 09 016	02:29:42	31	programmi informativi
-04/02/2019	18:49:18	044-LaSavanadeiSerengheti(15')eD	LA SAVANA	Nuovo File	00:14:19	71	documentari
-04/02/2019	19:03:38	Infiltratospeciale_mpeg2video	Sconosciuto	Infiltrato  speciale	01:34:35	1	Film
-04/02/2019	20:38:13	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	spot tc
-04/02/2019	20:38:16	consiglioGeracedel288017	Sconosciuto	consiglio 28 8 17	00:20:04	31	programmi informativi
-04/02/2019	20:58:21	VideoRicettaTiramisùGalbani	TIRAMI SU	TIRAMI SU	00:01:40	71	documentari
-04/02/2019	21:00:01	MissinginAmerica	Sconosciuto	Missing  America	01:38:23	1	Film
-04/02/2019	22:38:25	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	spot tc
-04/02/2019	22:38:43	CONSIGLIOCOMUNALE30MARZO2017	consiglio gerace del 30 3 017	consiglio gerace 30 3 17	00:45:44	31	programmi informativi
-04/02/2019	23:24:28	PianadegliAlbanesi'DomenicadellePalme'PiccolaGrandeItalia	PIANA DEGLI ALBANESI	PIANA DEGLI ALBANESI	00:14:12	71	documentari
-04/02/2019	23:38:41	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-04/02/2019	23:41:20	LaCarbonarafilmcompleto_mpeg2video	LA  CARBONARA	LA CARBONARA	01:48:07	1	Film
-05/02/2019	01:29:27	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	spot tc
-05/02/2019	01:29:31	inTavola_20150205_48237	Sconosciuto	inTavola_2015 02 05	00:01:58	31	programmi informativi
-05/02/2019	01:31:29	BonifatiPiccolaGrandeItalia	bonifati	bonifati	00:21:55	71	documentari
-05/02/2019	01:53:25	SuamaestavienedaLsVegas_1_mpeg2video	Sconosciuto	SUA MAESTA VIENE DA LAS VEGAS	00:48:24	1	Film
-05/02/2019	02:41:49	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	spot tc
-05/02/2019	02:41:52	SEDUTACONSIGLIODEL13032017	consiglio gerace 13  3 017	Nuovo File	00:38:35	31	programmi informativi
-05/02/2019	03:20:28	051-LeAndedellaCoca(20')eD	LE ANDE DELLA COCA	LE AMNDE DELLA COCA	00:19:27	71	documentari
-05/02/2019	03:39:56	Toto'aColoriFilmCompleto(FullMovie)	TOTO  A COLORI	Tot a  colori	01:32:29	1	Film
-05/02/2019	05:12:25	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	spot tc
-05/02/2019	05:12:29	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-05/02/2019	05:15:08	21PIXMINDrev1	PIXMIND	Nuovo File	00:23:59	31	programmi informativi
-05/02/2019	05:39:08	agrisapori606x27-4-15	AGRISAPORI	AGRISAPORI	00:30:54	71	documentari
-05/02/2019	06:10:02	Treuominieunagamba	TRE   UOMINI ED UNA GAMBA	Tre  uomini ed una  gamba	01:37:43	1	Film
-05/02/2019	07:47:46	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	spot tc
-05/02/2019	07:47:50	CONSIGLIOGERACEDEL1311016	consiglio gerace PEZZIMNENTI	CONSIGLIO GERACE DE 13  NOV 2016	00:44:22	31	programmi informativi
-05/02/2019	08:32:12	agrisapori608x9-5-15	Sconosciuto	Nuovo File	00:28:40	71	documentari
-05/02/2019	09:00:53	LaPretoraE.Fenechv.m.1419761°t.	PRIMO TEMPO FENEC	LA PRETORA	00:48:06	1	Film
-05/02/2019	09:49:00	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	spot tc
-05/02/2019	09:49:03	consigliocomunalegeracedel25092016primaparte	CONSIGLIO GERACE DEL 25.09 016	consigl gerace 1^ parte	01:13:36	31	programmi informativi
-05/02/2019	11:02:40	agrisapori610x24-5-15	AGRISAPORI	AGISAPORI	00:31:12	71	documentari
-05/02/2019	11:33:53	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-05/02/2019	11:36:32	NinoManfrediSpaghettiHouse(1982)_mpeg2video	MANFREDI	SPAGHETTI HOUSE 	01:39:07	1	Film
-05/02/2019	13:15:40	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	spot tc
-05/02/2019	13:15:43	CorsoUrgenzaEmergenza	CORSO URGENZA EMERGENZA	CORSO  URGENZA EMERGENZA	01:03:16	31	programmi informativi
-05/02/2019	14:18:59	050-IlTriangolod'Oro(20')eD	IL TRIANGOLO D 'ORO	IL TRIANGOLO  D 'ORO	00:19:13	71	documentari
-05/02/2019	14:38:13	Scuoladipolizia6_mpeg2video	Sconosciuto	Scuola d i polizia 6	01:19:55	1	Film
-05/02/2019	15:58:08	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	spot tc
-05/02/2019	15:58:27	InstantFuture_Puntata1	INSTANT FUTURE 1 P	INSTANT FUTURE 1 P	00:21:25	31	programmi informativi
-05/02/2019	16:19:53	Olocausto.Lafabbricadelmale	olocxausto	LA FABBRICA DEL  MALE	01:23:34	71	documentari
-05/02/2019	17:43:28	JuwannaMann_mpeg2video	Sconosciuto	Juawanna Mann	01:26:54	1	Film
-05/02/2019	19:10:22	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	spot tc
-05/02/2019	19:10:26	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-05/02/2019	19:13:05	CroccantediMandorle,laricettadiGiallozafferano	CROCCANTEW DI  MANDORLE	CROCCANTE DI  AMNDORLE	00:03:45	31	programmi informativi
-05/02/2019	19:16:50	SerraSanBrunoPiccolaGrandeItalia	Piccola Grande Italia	SERRA S. BRUNO	00:20:58	71	documentari
-05/02/2019	19:37:49	CiccioeFrancoSatiricosissimo_mpeg2video	FRANCO FRANCHI INGRASSIA	SATIRICONISSIMO	01:25:00	1	Film
-05/02/2019	21:02:50	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	spot tc
-05/02/2019	21:02:53	OSPEDALEGERACEcopiaottima_mpeg2video	OSPEDALE GERACE	Ospedale Gerace Matteo	00:12:45	31	programmi informativi
-05/02/2019	21:15:39	CarnevalediVenezia2013dal26GENNAIOal12FEBBRAIOYouTube	Sconosciuto	CARNEVALE VENEZIA	00:10:41	71	documentari
-05/02/2019	21:26:20	Arma.Da.Taglio.19722°t	ARMA DA TAGLIO 2°	ARMA DA TAGLIO 2°	00:37:18	1	Film
-05/02/2019	22:03:39	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	spot tc
-05/02/2019	22:03:42	Pennetteai4formaggi	PENNETTE 4 FORMAGGI	PENNETTE 4 FORMAGGI	00:02:41	31	programmi informativi
-05/02/2019	22:06:24	agrisapori618x19-7-15	AGRISAPORI	La Magdaleine	00:08:48	71	documentari
-05/02/2019	22:15:12	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-05/02/2019	22:17:51	Cacciaallavolpe_2_mpeg2video	Sconosciuto	CACCIA ALLA VOLPE 2	00:43:54	1	Film
-05/02/2019	23:01:46	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	spot tc
-05/02/2019	23:01:49	consigliocomunalegerace	CONSIGLIO  COMUN GERACE 18 6 016	CONSIGLIO  COMUN 18 06 016	01:28:01	31	programmi informativi
-06/02/2019	00:29:51	agrisapori613x14-6-15	AGRISAPORI	AGRISAPORI	00:26:49	71	documentari
-06/02/2019	00:56:41	MenInBlackII	Sconosciuto	Men In Black II	01:24:32	1	Film
-06/02/2019	02:21:13	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	spot tc
-06/02/2019	02:21:16	Geracesedutaconsiliaredel5Ottobre2016(byEL)	seduta consiglio gerace 5 10 106	consiglio gerac 5.10.016	01:30:13	31	programmi informativi
-06/02/2019	03:51:30	Potaturadell'OlivonellaLocride3Ed_mpeg2video	Sconosciuto	Potatura  dell' olivo  nella Locride 013	01:51:49	71	documentari
-06/02/2019	05:43:20	Ritorno.Al.Futuro.2-iTALiAN.DvDRip.DivX-AuDaX	Sconosciuto	Ritorno  al  futuro 2	01:43:36	1	Film
-06/02/2019	07:26:57	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	spot tc
-06/02/2019	07:27:00	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-06/02/2019	07:29:39	Pasticciniallemandorle	PASTICCINI  ALLE MANDORLE	PASTICCINI ALLE MANDORLE	00:02:15	31	programmi informativi
-06/02/2019	07:31:55	IlBrigantaggio	IL  BRIGANTAGGIO	IL  BRIGANTAGGIO	00:32:04	71	documentari
-06/02/2019	08:03:59	LaPretoraE.Fenechv.m.1419762°t.	SECONDO TEMPO FENEC	LA PRETORA	00:46:24	1	Film
-06/02/2019	08:50:23	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	spot tc
-06/02/2019	08:50:27	SEDUTACONSIGLIODEL13032017	consiglio gerace 13  3 017	Nuovo File	00:38:35	31	programmi informativi
-06/02/2019	09:29:02	agrisapori615x28-6-15	Sconosciuto	AGRISAPORI xpo mi	00:31:34	71	documentari
-06/02/2019	10:00:36	filmcompletoPiratiRPolanski1986	PIRATI	Pirati	01:45:39	1	Film
-06/02/2019	11:46:16	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	spot tc
-06/02/2019	11:46:35	CocktaildiGamberetti,laricettadiGiallozafferano	COKTAIL DI  GAMBERETTI	COKTAIL DI GAMBERETTI	00:02:59	31	programmi informativi
-06/02/2019	11:49:34	044-LaSavanadeiSerengheti(15')eD	LA SAVANA	Nuovo File	00:14:19	71	documentari
-06/02/2019	12:03:53	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-06/02/2019	12:06:32	Schoolofrock	Schoolofrock	SCHOOLOFROK	01:44:45	1	Film
-06/02/2019	13:51:18	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	spot tc
-06/02/2019	13:51:22	LocriCCdel14062013_mpeg2video	CONSIGLIO COMUNALE LOCRI	CONSIGLIO COMUNALE LOCRIDEL 14062013	01:47:02	31	programmi informativi
-06/02/2019	15:38:24	agrisapori606x27-4-15	AGRISAPORI	AGRISAPORI	00:30:54	71	documentari
-06/02/2019	16:09:18	Terminator3_mpeg2video	TERMINATOR 3	FILM	01:44:38	1	Film
-06/02/2019	17:53:56	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	spot tc
-06/02/2019	17:54:00	INSTANTFUTURE	intant future p7	INSTANT FUTURE p7	00:23:18	31	programmi informativi
-06/02/2019	18:17:18	Potaturadell'OlivonellaLocride3Ed_mpeg2video	Sconosciuto	Potatura  dell' olivo  nella Locride 013	01:51:49	71	documentari
-06/02/2019	20:09:08	Labandadeglionesti_mpeg2video	LA BANDA DEGLI ONESTI	LA BANDA DEGLI  ONESTI	01:40:55	1	Film
-06/02/2019	21:50:03	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	spot tc
-06/02/2019	21:50:06	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-06/02/2019	21:52:46	ConsigliocomunaleGeracedel30settembre2017	cosiglio comunale gerace 30 sett 017	Nuovo File	01:52:24	31	programmi informativi
-06/02/2019	23:45:10	Atlantis	ATLANTIS	ATLANTIS	01:27:36	71	documentari
-07/02/2019	01:12:46	Cacciaalmarito_mpeg2video_001	Sconosciuto	CACCIA AL MARITO	01:45:42	1	Film
-07/02/2019	02:58:28	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	spot tc
-07/02/2019	02:58:47	premiostadioradio-nona-edizione-cut-tv	premio stadio radio 2017	Nuovo Filepremio stadio radio 2017	02:08:32	31	programmi informativi
-07/02/2019	05:07:19	TropeaPiccolaGrandeItalia	Piccola grande Italia	TROPEA	00:26:53	71	documentari
-07/02/2019	05:34:13	Taxidriver_2_mpeg2video	Sconosciuto	TAX DRIVE 2 P.	00:53:37	1	Film
-07/02/2019	06:27:50	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	spot tc
-07/02/2019	06:27:53	GeraceConsiglioComunaleStraordinariodel16Dic2015(byEL)	CONSIGLIO  COMUNALE GERACE 	Consiglio  comunale gerace del 16 dic 015	00:50:31	31	programmi informativi
-07/02/2019	07:18:24	agrisapori608x9-5-15	Sconosciuto	Nuovo File	00:28:40	71	documentari
-07/02/2019	07:47:05	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-07/02/2019	07:49:45	Fantozzi-GrandiMagazzini	FANTOZZI GRANDI MAGAZZINI	GRANDI MAGAZZINI	01:50:35	1	Film
-07/02/2019	09:40:21	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	spot tc
-07/02/2019	09:40:24	InstantFuturepuntata5	INSTANT FUTURE 5 P	INSTANT FUTURE 5 P	00:22:23	31	programmi informativi
-07/02/2019	10:02:48	agrisapori617x12-6-15	AGRISAPORI	AGRISAPORI	00:24:51	71	documentari
-07/02/2019	10:27:39	Bertoldo,BertoldinoeCacasennoSordi,Tognazzi(Filmcompleto)	Sconosciuto	BERTOLDO BERTOLDINO E CACASENNO	01:59:40	1	Film
-07/02/2019	12:27:20	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	spot tc
-07/02/2019	12:27:23	consiglioGeracedel288017	Sconosciuto	consiglio 28 8 17	00:20:04	31	programmi informativi
-07/02/2019	12:47:28	agrisapori-623x23-8-15	AGRISAPORI	AGRISAPORI	00:00:01	71	documentari
-07/02/2019	12:47:29	NinoManfrediSpaghettiHouse(1982)_mpeg2video	MANFREDI	SPAGHETTI HOUSE 	01:39:07	1	Film
-07/02/2019	14:26:37	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	spot tc
-07/02/2019	14:26:40	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-07/02/2019	14:29:20	CONSIGLIOGERACEDEL1311016	consiglio gerace PEZZIMNENTI	CONSIGLIO GERACE DE 13  NOV 2016	00:44:22	31	programmi informativi
-07/02/2019	15:13:42	agrisapori616x5-7-15	AGRISAPORI	AGRISAPORI	00:26:08	71	documentari
-07/02/2019	15:39:51	Ragazzepompom_mpeg2video	Sconosciuto	Ragazze pom pom	01:25:15	1	Film
-07/02/2019	17:05:06	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	spot tc
-07/02/2019	17:05:25	InstantFuture_puntata3	INSTANT FUTURE 3 P	INSTANT FUTURE 3 P	00:22:30	31	programmi informativi
-07/02/2019	17:27:55	049-LaTerradelSoleRosso(11')eD	LA TERRA DEL   SOLE ROSSO	LA TERRA DEL   SOLE  ROSSO	00:10:48	71	documentari
-07/02/2019	17:38:43	Commissariatodinotturna_mpeg2video	Sconosciuto	COMMISSARIATO  DI   NOTTURNA	01:32:54	1	Film
-07/02/2019	19:11:37	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	spot tc
-07/02/2019	19:11:41	Consiglio29ott2016xregia	CONSIGLIO COMUNALE GERACE 	CONS DEL 29 OTT 2016	00:00:02	31	programmi informativi
-07/02/2019	19:11:43	DOCUMENTARIOAuschwitz	Auschwitz	Auschwitz	00:26:56	71	documentari
-07/02/2019	19:38:39	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-07/02/2019	19:41:18	Senzanomesanzaregole	SENZA NOME SENZA REGOLE	Senza nome senza regole	01:43:39	1	Film
-07/02/2019	21:24:58	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	spot tc
-07/02/2019	21:25:01	inTavola_20150205_48237	Sconosciuto	inTavola_2015 02 05	00:01:58	31	programmi informativi
-07/02/2019	21:27:00	Olocausto.Lafabbricadelmale	olocxausto	LA FABBRICA DEL  MALE	01:23:34	71	documentari
-07/02/2019	22:50:35	SuamaestavienedaLsVegas_1_mpeg2video	Sconosciuto	SUA MAESTA VIENE DA LAS VEGAS	00:48:24	1	Film
-07/02/2019	23:38:59	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	spot tc
-07/02/2019	23:39:02	FM21	FORMULA  MOTORI 21	Nuovo File	00:23:58	31	programmi informativi
-08/02/2019	00:03:01	MontaltoUffugoFestadelgranosull'Aia	MONTALTO UFFUGO	MONTALTO  UFFUGO	00:14:29	71	documentari
-08/02/2019	00:17:31	Ritorno.Al.Futuro.3-iTALiAN.DvDRip.DivX-AuDaX	Sconosciuto	Ritorno  al  futuro 3	01:53:23	1	Film
-08/02/2019	02:10:54	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	spot tc
-08/02/2019	02:10:58	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-08/02/2019	02:13:37	CONSIGLIOCOMGERA25SETT2^Parte	gerace consiglio  comunale	Consiglio  com 2à parte del 25 09 016	02:29:42	31	programmi informativi
-08/02/2019	04:43:20	PianadegliAlbanesi'DomenicadellePalme'PiccolaGrandeItalia	PIANA DEGLI ALBANESI	PIANA DEGLI ALBANESI	00:14:12	71	documentari
-08/02/2019	04:57:32	jerry.lewis.l.idolo.delle.donne.19611°t.	L' IDOLO DELLE DONNE 1°	L' IDOLO DELLE DONNE 1°	00:47:12	1	Film
-08/02/2019	05:44:44	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	spot tc
-08/02/2019	05:45:03	consigliocomunalegeracedel25092016primaparte	CONSIGLIO GERACE DEL 25.09 016	consigl gerace 1^ parte	01:13:36	31	programmi informativi
-08/02/2019	06:58:39	Gerace	GERACE	GERACE	00:06:01	71	documentari
-08/02/2019	07:04:40	CompagnoDonCamillo_mpeg2video	Sconosciuto	COMPAGNO  DON CAMILLO	01:42:17	1	Film
-08/02/2019	08:46:57	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	spot tc
-08/02/2019	08:47:01	CONSIGLIOCOMUNALE30MARZO2017	consiglio gerace del 30 3 017	consiglio gerace 30 3 17	00:45:44	31	programmi informativi
-08/02/2019	09:32:45	SerraSanBrunoPiccolaGrandeItalia	Piccola Grande Italia	SERRA S. BRUNO	00:20:58	71	documentari
-08/02/2019	09:53:44	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-08/02/2019	09:56:23	Nessunoèperfetto_mpeg2video	nessuno è perfetto	Nessuno è perfetto	01:37:33	1	Film
-08/02/2019	11:33:57	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	spot tc
-08/02/2019	11:34:00	21PIXMINDrev1	PIXMIND	Nuovo File	00:23:59	31	programmi informativi
-08/02/2019	11:58:00	046-Bangkok,laVeneziad'Oriente(15')eD	BANNGKOC	Nuovo File	00:15:19	71	documentari
-08/02/2019	12:13:19	Tadpole_mpeg2video	Sconosciuto	TODPOLE	01:15:05	1	Film
-08/02/2019	13:28:24	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	spot tc
-08/02/2019	13:28:28	InstantFuture_puntata3	INSTANT FUTURE 3 P	INSTANT FUTURE 3 P	00:22:30	31	programmi informativi
-08/02/2019	13:50:58	AnimaliSerpentiFascinoLetale(Ita)	ANIMALI SERPENTI	ANIMALI SERPENTI	00:52:05	71	documentari
-08/02/2019	14:43:03	Nell'annoDelSignoreManfredi,Sordi,Tognazzi(Filmcompleto)	Sconosciuto	Nell'anno del  Signore	01:57:54	1	Film
-08/02/2019	16:40:58	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	spot tc
-08/02/2019	16:41:01	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-08/02/2019	16:43:40	Pennetteai4formaggi	PENNETTE 4 FORMAGGI	PENNETTE 4 FORMAGGI	00:02:41	31	programmi informativi
-08/02/2019	16:46:22	agrisapori604x12-4-15	AGRISAPORI	AGRISAPORI	00:29:07	71	documentari
-08/02/2019	17:15:29	LaPretoraE.Fenechv.m.1419761°t.	PRIMO TEMPO FENEC	LA PRETORA	00:48:06	1	Film
-08/02/2019	18:03:36	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	spot tc
-08/02/2019	18:03:40	CONSIGLIOGERACEDEL1311016	consiglio gerace PEZZIMNENTI	CONSIGLIO GERACE DE 13  NOV 2016	00:44:22	31	programmi informativi
-08/02/2019	18:48:02	agrisapori618x19-7-15	AGRISAPORI	La Magdaleine	00:08:48	71	documentari
-08/02/2019	18:56:50	BestofMr.Bean_mpeg2video	Sconosciuto	MISTER BEAN	01:11:57	1	Film
-08/02/2019	20:08:47	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	spot tc
-08/02/2019	20:08:51	CroccantediMandorle,laricettadiGiallozafferano	CROCCANTEW DI  MANDORLE	CROCCANTE DI  AMNDORLE	00:03:45	31	programmi informativi
-08/02/2019	20:12:36	SardegnaVistadalcielo	Sconosciuto	Sardegna vista dal cielo	00:50:23	71	documentari
-08/02/2019	21:03:00	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-08/02/2019	21:05:39	AdrianoCelentanoJoanLuiFilmCompleto	Sconosciuto	JOAN LUI	02:05:39	1	Film
-08/02/2019	23:11:18	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	spot tc
-08/02/2019	23:11:37	consigliocomunalegeracedel25092016primaparte	CONSIGLIO GERACE DEL 25.09 016	consigl gerace 1^ parte	01:13:36	31	programmi informativi
-09/02/2019	00:25:14	GrotteriaPresepe2012_mpeg2video(1)	GROTTERIA PRESEPE	GROTTERIA PRESEPE	00:46:15	71	documentari
-09/02/2019	01:11:29	Taxidriver_1_mpeg2video	Sconosciuto	TAX DRIVER 1P	00:55:26	1	Film
-09/02/2019	02:06:56	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	spot tc
-09/02/2019	02:07:00	CONSIGLIOCOMGERA25SETT2^Parte	gerace consiglio  comunale	Consiglio  com 2à parte del 25 09 016	02:29:42	31	programmi informativi
-09/02/2019	04:36:42	042-Tanzania,TerradiAmici(14')eD	TANZANIA	Nuovo File	00:14:05	71	documentari
-09/02/2019	04:50:47	Azzurro_mpeg2video	Sconosciuto	AZZURRO	01:21:51	1	Film
-09/02/2019	06:12:39	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	spot tc
-09/02/2019	06:12:42	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-09/02/2019	06:15:21	OSPEDALEGERACEcopiaottima_mpeg2video	OSPEDALE GERACE	Ospedale Gerace Matteo	00:12:45	31	programmi informativi
-09/02/2019	06:28:07	agrisapori609x17-5-15	Sconosciuto	SPERLONGA	00:28:59	71	documentari
-09/02/2019	06:57:07	Unbigliettoindue_1_mpeg2video	Un biglietto in due_1 P	Nuovo File	00:43:40	1	Film
-09/02/2019	07:40:47	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	spot tc
-09/02/2019	07:40:50	premiostadioradio-nona-edizione-cut-tv	premio stadio radio 2017	Nuovo Filepremio stadio radio 2017	02:08:32	31	programmi informativi
-09/02/2019	09:49:22	CarnevalediVenezia2013dal26GENNAIOal12FEBBRAIOYouTube	Sconosciuto	CARNEVALE VENEZIA	00:10:41	71	documentari
-09/02/2019	10:00:03	Cacciaallavolpe_1_mpeg2video	Sconosciuto	CACCIA ALLA VOLPE 1	00:51:12	1	Film
-09/02/2019	10:51:16	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	spot tc
-09/02/2019	10:51:34	LocriCCdel14062013_mpeg2video	CONSIGLIO COMUNALE LOCRI	CONSIGLIO COMUNALE LOCRIDEL 14062013	01:47:02	31	programmi informativi
-09/02/2019	12:38:37	ReggioCalabriaPiccolaGrandeItalia	Sconosciuto	Reggio piccola grande Italia  	00:22:12	71	documentari
-09/02/2019	13:00:50	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-09/02/2019	13:03:29	Segretaria_mpeg2video	Sconosciuto	Segretaria	01:46:42	1	Film
-09/02/2019	14:50:11	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	spot tc
-09/02/2019	14:50:15	ConsigliocomunaleGeracedel30settembre2017	cosiglio comunale gerace 30 sett 017	Nuovo File	01:52:24	31	programmi informativi
-09/02/2019	16:42:39	IpostipibellidellacalabriaDestinationCalabriaGiuseppeScorzaPepoMac@gmailcom_mpeg2video	Sconosciuto	I POSTI PIU  BELLI DELLA CALABRIA	00:03:59	71	documentari
-09/02/2019	16:46:39	Adoppiamandata_mpeg2video	Sconosciuto	A DOPPIA MANDATA	01:24:07	1	Film
-09/02/2019	18:10:47	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	spot tc
-09/02/2019	18:10:50	CocktaildiGamberetti,laricettadiGiallozafferano	COKTAIL DI  GAMBERETTI	COKTAIL DI GAMBERETTI	00:02:59	31	programmi informativi
-09/02/2019	18:13:49	051-LeAndedellaCoca(20')eD	LE ANDE DELLA COCA	LE AMNDE DELLA COCA	00:19:27	71	documentari
-09/02/2019	18:33:17	UFOLeProve	Sconosciuto	Ufo le  prove	01:22:13	1	Film
-09/02/2019	19:55:30	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	spot tc
-09/02/2019	19:55:34	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-09/02/2019	19:58:13	consiglioGeracedel288017	Sconosciuto	consiglio 28 8 17	00:20:04	31	programmi informativi
-09/02/2019	20:18:18	BonifatiPiccolaGrandeItalia	bonifati	bonifati	00:21:55	71	documentari
-09/02/2019	20:40:13	ThePrison	Sconosciuto	The  prison	01:45:47	1	Film
-09/02/2019	22:26:01	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	spot tc
-09/02/2019	22:26:04	FM21	FORMULA  MOTORI 21	Nuovo File	00:23:58	31	programmi informativi
-09/02/2019	22:50:03	NoepoliPiccolaGrandeItalia	Piccola grande Italia	Neapoli	00:16:32	71	documentari
-09/02/2019	23:06:35	gold.il.segno.del.potere.19741°t.	GOLD  IL SEGNO DEL  POTERE 1°	GOLD  IL SEGNO DEL  POTERE 1°	01:01:09	1	Film
-10/02/2019	00:07:45	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	spot tc
-10/02/2019	00:07:48	Geracesedutaconsiliaredel5Ottobre2016(byEL)	seduta consiglio gerace 5 10 106	consiglio gerac 5.10.016	01:30:13	31	programmi informativi
-10/02/2019	01:38:02	agrisapori627X20-9_15	AGRISAPORI	AGRISAPORI	00:26:45	71	documentari
-10/02/2019	02:04:47	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-10/02/2019	02:07:27	MammaHoRipersoL'aereoEMiSonoSmarritoANewYork	Mamma ho riperso l' aereo e mi  sono smarrito a New York	Nuovo File	01:48:03	1	Film
-10/02/2019	03:55:31	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	spot tc
-10/02/2019	03:55:34	InstantFuture_Puntata1	INSTANT FUTURE 1 P	INSTANT FUTURE 1 P	00:21:25	31	programmi informativi
-10/02/2019	04:17:00	MassafraPiccolaGrandeItalia	Piccola grande Italia	Massafra	00:21:33	71	documentari
-10/02/2019	04:38:34	Crash.Contatto.Fisico.2004.iTALiAN.MD.DVDRip.XviD-SiLENT	CRASH CONTATTO   FINALE FISICO	CRASH CONTATTO  FINALE	01:48:31	1	Film
-10/02/2019	06:27:05	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	spot tc
-10/02/2019	06:27:08	21PIXMINDrev1	PIXMIND	Nuovo File	00:23:59	31	programmi informativi
-10/02/2019	06:51:08	agrisapori-621x9-8-15	AGRISAPORI	AGRISAPORI	00:27:11	71	documentari
-10/02/2019	07:18:19	Colpitadaimprovvisobenessere_mpeg2video	Sconosciuto	COLPITA DA IMPROVVISO  BENESSERE	01:33:09	1	Film
-10/02/2019	08:51:29	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	spot tc
-10/02/2019	08:51:32	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-10/02/2019	08:54:11	Pasticciniallemandorle	PASTICCINI  ALLE MANDORLE	PASTICCINI ALLE MANDORLE	00:02:15	31	programmi informativi
-10/02/2019	08:56:27	agrisapori-624x30-8-15	grisapori	AGRISAPORI	00:27:35	71	documentari
-10/02/2019	09:24:02	Rosolinopaternosoldato_mpeg2video	ROSOLINO PATERNO SOLDATO	Rosolino paterno  soldato	01:35:57	1	Film
-10/02/2019	11:00:00	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	spot tc
-10/02/2019	11:00:19	CorsoUrgenzaEmergenza	CORSO URGENZA EMERGENZA	CORSO  URGENZA EMERGENZA	01:03:16	31	programmi informativi
-10/02/2019	12:03:35	agrisapori614x21-6-15	Sconosciuto	AGRISAPORI	00:17:56	71	documentari
-10/02/2019	12:21:32	Tempimoderni_mpeg2video	Sconosciuto	Tempi  moderni	01:27:33	1	Film
-10/02/2019	13:49:05	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	spot tc
-10/02/2019	13:49:09	SEDUTACONSIGLIODEL13032017	consiglio gerace 13  3 017	Nuovo File	00:38:35	31	programmi informativi
-10/02/2019	14:27:44	VideopergiornodellaMemoria,pernondimenticare.	IL GIORNO DELLA  MEMORIA	IL GIORNO  DELLA MEMORIA	00:25:46	71	documentari
-10/02/2019	14:53:31	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-10/02/2019	14:56:10	Unbigliettoindue_2_mpeg2video	Un biglietto in due_2 P	Nuovo File	00:44:38	1	Film
-10/02/2019	15:40:48	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	spot tc
-10/02/2019	15:40:52	CONSIGLIOCOMUNALE30MARZO2017	consiglio gerace del 30 3 017	consiglio gerace 30 3 17	00:45:44	31	programmi informativi
-10/02/2019	16:26:36	047-LaRiservaNaturalediAlmaAta(21')eD	LA RISERVA NATURALE DI ALMAT...	Nuovo File	00:20:34	71	documentari
-10/02/2019	16:47:10	Speed	SPEED	SPEED	01:50:00	1	Film
-10/02/2019	18:37:11	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	spot tc
-10/02/2019	18:37:30	GeraceConsiglioComunaleStraordinariodel16Dic2015(byEL)	CONSIGLIO  COMUNALE GERACE 	Consiglio  comunale gerace del 16 dic 015	00:50:31	31	programmi informativi
-10/02/2019	19:28:01	agrisapori596x8-2-15	GIAGLIONESconosciuto	Nuovo FiAGRISAPORI	00:31:19	71	documentari
-10/02/2019	19:59:21	SogniproibitidiDonGaleazzo_mpeg2video	Film	Sogni  proibiti  di  Don Galeazzo	01:28:31	1	Film
-10/02/2019	21:27:52	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	spot tc
-10/02/2019	21:27:55	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-10/02/2019	21:30:35	Consiglio29ott2016xregia	CONSIGLIO COMUNALE GERACE 	CONS DEL 29 OTT 2016	00:00:02	31	programmi informativi
-10/02/2019	21:30:37	043-NgoroNgoro,l'UltimaArca(14')eD	NGORO NGORO	Nuovo File	00:13:29	71	documentari
-10/02/2019	21:44:06	Bowfinger_1_mpeg2video	Sconosciuto	BOWFINGER 1P	00:44:18	1	Film
-10/02/2019	22:28:25	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	spot tc
-10/02/2019	22:28:28	InstantFuturepuntata5	INSTANT FUTURE 5 P	INSTANT FUTURE 5 P	00:22:23	31	programmi informativi
-10/02/2019	22:50:52	050-IlTriangolod'Oro(20')eD	IL TRIANGOLO D 'ORO	IL TRIANGOLO  D 'ORO	00:19:13	71	documentari
-10/02/2019	23:10:06	Toto'aColoriFilmCompleto(FullMovie)	TOTO  A COLORI	Tot a  colori	01:32:29	1	Film
-11/02/2019	00:42:35	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	spot tc
-11/02/2019	00:42:38	consigliocomunalegerace	CONSIGLIO  COMUN GERACE 18 6 016	CONSIGLIO  COMUN 18 06 016	01:28:01	31	programmi informativi
-11/02/2019	02:10:40	048-Tokio,EmblemadiunMiracolo(14')eD	TOKIO EMBLEMA DEL MIRACOLO	TOKIO EMBLEMA DEL  MIRACOLO	00:13:57	71	documentari
-11/02/2019	02:24:37	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-11/02/2019	02:27:17	2Fastand2Furios	Sconosciuto	Nuovo File	01:43:10	1	Film
-11/02/2019	04:10:27	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	spot tc
-11/02/2019	04:10:30	inTavola_20150205_48237	Sconosciuto	inTavola_2015 02 05	00:01:58	31	programmi informativi
-11/02/2019	04:12:29	IlBrigantaggio	IL  BRIGANTAGGIO	IL  BRIGANTAGGIO	00:32:04	71	documentari
-11/02/2019	04:44:33	Unmostroemezzo_mpeg2video	Sconosciuto	Un mostro e   mezzo	01:36:32	1	Film
-11/02/2019	06:21:05	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	spot tc
-11/02/2019	06:21:09	INSTANTFUTURE	intant future p7	INSTANT FUTURE p7	00:23:18	31	programmi informativi
-11/02/2019	06:44:27	MagnificaItaliaCalabria_mpeg2video	Sconosciuto	Calabria	00:52:09	71	documentari
-11/02/2019	07:36:37	SadeSeguil'istinto!(FILMCOMPLETO)	Sconosciuto	Segui  l'istinto	01:34:00	1	Film
-11/02/2019	09:10:37	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	spot tc
-11/02/2019	09:10:41	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-11/02/2019	09:13:20	CorsoUrgenzaEmergenza	CORSO URGENZA EMERGENZA	CORSO  URGENZA EMERGENZA	01:03:16	31	programmi informativi
-11/02/2019	10:16:37	agrisapori613x14-6-15	AGRISAPORI	AGRISAPORI	00:26:49	71	documentari
-11/02/2019	10:43:27	FantozziFracchiaLaBelvaUmana	FANTOZZI FRACCHAI LA BELVAUMANA	LA BELVA  UMANA	01:36:05	1	Film
-11/02/2019	12:19:32	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	spot tc
-11/02/2019	12:19:36	CONSIGLIOCOMUNALE30MARZO2017	consiglio gerace del 30 3 017	consiglio gerace 30 3 17	00:45:44	31	programmi informativi
-11/02/2019	13:05:21	agrisapori610x24-5-15	AGRISAPORI	AGISAPORI	00:31:12	71	documentari
-11/02/2019	13:36:33	Colpogrosso_mpeg2video	Colpogrosso	COLPO  GROSSO	02:02:09	1	Film
-11/02/2019	15:38:43	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	spot tc
-11/02/2019	15:38:46	LocriCCdel14062013_mpeg2video	CONSIGLIO COMUNALE LOCRI	CONSIGLIO COMUNALE LOCRIDEL 14062013	01:47:02	31	programmi informativi
-11/02/2019	17:25:48	MusicaeTradizioni	MUSICA E TRADIZIONI	MUSICA E TRADIZIONI	00:10:57	71	documentari
-11/02/2019	17:36:46	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-11/02/2019	17:39:26	AttackForce	ATTACK FORCR 	ATTACK FORCE	01:30:35	1	Film
-11/02/2019	19:10:01	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	spot tc
-11/02/2019	19:10:04	ConsigliocomunaleGeracedel30settembre2017	cosiglio comunale gerace 30 sett 017	Nuovo File	01:52:24	31	programmi informativi
-11/02/2019	21:02:29	VideoRicettaTiramisùGalbani	TIRAMI SU	TIRAMI SU	00:01:40	71	documentari
-11/02/2019	21:04:09	MenInBlackI_mpeg2video	Sconosciuto	Men In Black I	01:34:00	1	Film
-11/02/2019	22:38:10	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	spot tc
-11/02/2019	22:38:29	CONSIGLIOCOMGERA25SETT2^Parte	gerace consiglio  comunale	Consiglio  com 2à parte del 25 09 016	02:29:42	31	programmi informativi
-12/02/2019	01:08:12	agrisapori615x28-6-15	Sconosciuto	AGRISAPORI xpo mi	00:31:34	71	documentari
-12/02/2019	01:39:46	StarshipTroopers2-Glieroidellafederazione	Sconosciuto	Trooper 2	01:27:52	1	Film
-12/02/2019	03:07:38	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	spot tc
-12/02/2019	03:07:41	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-12/02/2019	03:10:21	consigliocomunalegeracedel25092016primaparte	CONSIGLIO GERACE DEL 25.09 016	consigl gerace 1^ parte	01:13:36	31	programmi informativi
-12/02/2019	04:23:57	Carnevale2013Flashsulprimocorsomascherato	Sconosciuto	CARNEVALE VENEZIA 2	00:23:04	71	documentari
-12/02/2019	04:47:02	Laclinicadellamore_mpeg2video	Sconosciuto	La clinica dell'amore	01:28:52	1	Film
-12/02/2019	06:15:54	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	spot tc
-12/02/2019	06:15:57	FM21	FORMULA  MOTORI 21	Nuovo File	00:23:58	31	programmi informativi
-12/02/2019	06:39:56	MalfaPiccolaGrandeItalia	Piccola Grande Italia MALFA	Malfa	00:21:29	71	documentari
-12/02/2019	07:01:25	Roma.drogata.la.polizia.non_.puo.intervenire.19751°t.	ROMA DROGATA 1^	ROMA DROGATA 1^	00:48:20	1	Film
-12/02/2019	07:49:46	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	spot tc
-12/02/2019	07:50:04	Consiglio29ott2016xregia	CONSIGLIO COMUNALE GERACE 	CONS DEL 29 OTT 2016	00:00:02	31	programmi informativi
-12/02/2019	07:50:06	PraiaaMarePiccolaGrandeItalia	Piccola grande Italia	PRAIA A MARE	00:24:33	71	documentari
-12/02/2019	08:14:40	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-12/02/2019	08:17:20	KarateKid	Sconosciuto	Karate Kid	02:01:36	1	Film
-12/02/2019	10:18:56	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	spot tc
-12/02/2019	10:19:00	21PIXMINDrev1	PIXMIND	Nuovo File	00:23:59	31	programmi informativi
-12/02/2019	10:43:00	Caltagirone2010PiccolaGrandeItalia	CALTAGIRONE	CALTAGIRONE	00:24:23	71	documentari
-12/02/2019	11:07:23	Malibùmostwanted_mpeg2video	Sconosciuto	MALIBU MONS WANTED	01:22:35	1	Film
-12/02/2019	12:29:58	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	spot tc
-12/02/2019	12:30:02	OSPEDALEGERACEcopiaottima_mpeg2video	OSPEDALE GERACE	Ospedale Gerace Matteo	00:12:45	31	programmi informativi
-12/02/2019	12:42:47	CariatiPiccolaGrandeItalia	CARIATI	cariati	00:21:41	71	documentari
-12/02/2019	13:04:29	ChiedimiSeSonoFelice_mpeg2video	CHIEDIMI SE SONO  FELICE	CHIEDIMI SE SONO  FELICE	01:36:35	1	Film
-12/02/2019	14:41:04	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	spot tc
-12/02/2019	14:41:07	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-12/02/2019	14:43:46	InstantFuture_puntata3	INSTANT FUTURE 3 P	INSTANT FUTURE 3 P	00:22:30	31	programmi informativi
-12/02/2019	15:06:16	GliAnimalipiPericolosiGiunglaUrbana(ITA)	Animali pericolosi	ANIMALI PERICOLOSI	00:47:02	71	documentari
-12/02/2019	15:53:19	Tuttoinunanotte_2_mpeg2video	TUTTO IN  UNA NOTTE	TUTTO IN  UNA NOTTE	00:54:37	1	Film
-12/02/2019	16:47:56	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	spot tc
-12/02/2019	16:48:00	consigliocomunalegerace	CONSIGLIO  COMUN GERACE 18 6 016	CONSIGLIO  COMUN 18 06 016	01:28:01	31	programmi informativi
-12/02/2019	18:16:01	STILOELACATTOLICA	STILO E LA CATTOLICA	Stilo e la  cattolica	00:07:14	71	documentari
-12/02/2019	18:23:16	LabattagliadellaNeretva19692°t.	LA BATTAGLIA DELLA NERETVA 2° T	LA BATTAGLIA DELLA NERETVA 2° T	01:10:07	1	Film
-12/02/2019	19:33:24	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	spot tc
-12/02/2019	19:33:43	InstantFuture_Puntata1	INSTANT FUTURE 1 P	INSTANT FUTURE 1 P	00:21:25	31	programmi informativi
-12/02/2019	19:55:08	045-NiloVittoria,ilFiumedellaPreistoria(10')eD	NILO 	IL  LUME DELLA PREISTORIA	00:09:54	71	documentari
-12/02/2019	20:05:03	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-12/02/2019	20:07:43	Ritorno.Al.Futuro.1-iTALiAN.DvDRip	Sconosciuto	Ritorno  al  futuro  1	01:51:13	1	Film
-12/02/2019	21:58:56	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	spot tc
-12/02/2019	21:59:00	Pennetteai4formaggi	PENNETTE 4 FORMAGGI	PENNETTE 4 FORMAGGI	00:02:41	31	programmi informativi
-12/02/2019	22:01:41	DOCUMENTARIOAuschwitz	Auschwitz	Auschwitz	00:26:56	71	documentari
-12/02/2019	22:28:38	Mettilodiavolotuonelomioinferno_mpeg2video	Sconosciuto	Metti  lo  diavolo  ne lo  tuo inferno	01:20:45	1	Film
-12/02/2019	23:49:23	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	spot tc
-12/02/2019	23:49:26	Geracesedutaconsiliaredel5Ottobre2016(byEL)	seduta consiglio gerace 5 10 106	consiglio gerac 5.10.016	01:30:13	31	programmi informativi
-13/02/2019	01:19:40	048-Tokio,EmblemadiunMiracolo(14')eD	TOKIO EMBLEMA DEL MIRACOLO	TOKIO EMBLEMA DEL  MIRACOLO	00:13:57	71	documentari
-13/02/2019	01:33:37	StoriadelVaticanoIsegretidiAngelieDemoni	Sconosciuto	STOTIA DEL  VATICANO	01:30:51	1	Film
-13/02/2019	03:04:28	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	spot tc
-13/02/2019	03:04:32	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-13/02/2019	03:07:11	SEDUTACONSIGLIODEL13032017	consiglio gerace 13  3 017	Nuovo File	00:38:35	31	programmi informativi
-13/02/2019	03:45:47	BonifatiPiccolaGrandeItalia	bonifati	bonifati	00:21:55	71	documentari
-13/02/2019	04:07:42	OnceWereWarriors2(completo)	ONCE WERRIORS 2	Once were Warriors	01:38:23	1	Film
-13/02/2019	05:46:05	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	spot tc
-13/02/2019	05:46:09	GeraceConsiglioComunaleStraordinariodel16Dic2015(byEL)	CONSIGLIO  COMUNALE GERACE 	Consiglio  comunale gerace del 16 dic 015	00:50:31	31	programmi informativi
-13/02/2019	06:36:40	042-Tanzania,TerradiAmici(14')eD	TANZANIA	Nuovo File	00:14:05	71	documentari
-13/02/2019	06:50:45	DonCamilloMonsignoremanontroppo	DON CAMILLO   MONSIGNORE	DON CAMILLO MONSIGNORE	01:53:25	1	Film
-13/02/2019	08:44:11	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	spot tc
-13/02/2019	08:44:14	InstantFuturepuntata5	INSTANT FUTURE 5 P	INSTANT FUTURE 5 P	00:22:23	31	programmi informativi
-13/02/2019	09:06:38	agrisapori-621x9-8-15	AGRISAPORI	AGRISAPORI	00:27:11	71	documentari
-13/02/2019	09:33:49	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-13/02/2019	09:36:29	Il.Diavolo.bn19632°t	IL DIAVOLO B/N SORDI 2°	IL DIAVOLO B/N SORDI 2°	00:53:09	1	Film
-13/02/2019	10:29:38	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	spot tc
-13/02/2019	10:29:41	inTavola_20150205_48237	Sconosciuto	inTavola_2015 02 05	00:01:58	31	programmi informativi
-13/02/2019	10:31:40	MalfaPiccolaGrandeItalia	Piccola Grande Italia MALFA	Malfa	00:21:29	71	documentari
-13/02/2019	10:53:09	Qualcosadicuisparlare_mpeg2video	Sconosciuto	Qualcosa di  cui  sparlare	01:40:41	1	Film
-13/02/2019	12:33:51	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	spot tc
-13/02/2019	12:33:54	INSTANTFUTURE	intant future p7	INSTANT FUTURE p7	00:23:18	31	programmi informativi
-13/02/2019	12:57:12	agrisapori610x24-5-15	AGRISAPORI	AGISAPORI	00:31:12	71	documentari
-13/02/2019	13:28:25	FantozziControTutti	FANTOZZI  CONTRO  TUTTI	FANTOZZI  CONTRO  TUTTI	01:33:33	1	Film
-13/02/2019	15:01:59	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	spot tc
-13/02/2019	15:02:02	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-13/02/2019	15:04:41	consiglioGeracedel288017	Sconosciuto	consiglio 28 8 17	00:20:04	31	programmi informativi
-13/02/2019	15:24:46	NoepoliPiccolaGrandeItalia	Piccola grande Italia	Neapoli	00:16:32	71	documentari
-13/02/2019	15:41:18	IdentitàViolate	IDENTITA' VIOLATE	IDENTITA' VIOLATE	01:38:46	1	Film
-13/02/2019	17:20:04	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	spot tc
-13/02/2019	17:20:07	Pasticciniallemandorle	PASTICCINI  ALLE MANDORLE	PASTICCINI ALLE MANDORLE	00:02:15	31	programmi informativi
-13/02/2019	17:22:23	Caltagirone2010PiccolaGrandeItalia	CALTAGIRONE	CALTAGIRONE	00:24:23	71	documentari
-13/02/2019	17:46:46	jerry.lewis.l.idolo.delle.donne.19612°t.	L' IDOLO DELLE DONNE 2°	L' IDOLO DELLE DONNE 2°	00:44:37	1	Film
-13/02/2019	18:31:23	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	spot tc
-13/02/2019	18:31:27	CocktaildiGamberetti,laricettadiGiallozafferano	COKTAIL DI  GAMBERETTI	COKTAIL DI GAMBERETTI	00:02:59	31	programmi informativi
-13/02/2019	18:34:26	PianadegliAlbanesi'DomenicadellePalme'PiccolaGrandeItalia	PIANA DEGLI ALBANESI	PIANA DEGLI ALBANESI	00:14:12	71	documentari
-13/02/2019	18:48:38	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-13/02/2019	18:51:18	MissinginAmerica	Sconosciuto	Missing  America	01:38:23	1	Film
-13/02/2019	20:29:41	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	spot tc
-13/02/2019	20:30:00	CONSIGLIOGERACEDEL1311016	consiglio gerace PEZZIMNENTI	CONSIGLIO GERACE DE 13  NOV 2016	00:44:22	31	programmi informativi
-13/02/2019	21:14:23	agrisapori613x14-6-15	AGRISAPORI	AGRISAPORI	00:26:49	71	documentari
-13/02/2019	21:41:13	Infiltratospeciale_mpeg2video	Sconosciuto	Infiltrato  speciale	01:34:35	1	Film
-13/02/2019	23:15:48	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	spot tc
-13/02/2019	23:15:51	premiostadioradio-nona-edizione-cut-tv	premio stadio radio 2017	Nuovo Filepremio stadio radio 2017	02:08:32	31	programmi informativi
-14/02/2019	01:24:23	agrisapori596x8-2-15	GIAGLIONESconosciuto	Nuovo FiAGRISAPORI	00:31:19	71	documentari
-14/02/2019	01:55:43	Perfavorenontoccatelevecchiette_2_mpeg2video	Sconosciuto	PER FAVORE  NN TOCCATE LE VECCHIETTE 2	00:43:02	1	Film
-14/02/2019	02:38:45	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	spot tc
-14/02/2019	02:38:49	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-14/02/2019	02:41:28	CroccantediMandorle,laricettadiGiallozafferano	CROCCANTEW DI  MANDORLE	CROCCANTE DI  AMNDORLE	00:03:45	31	programmi informativi
-14/02/2019	02:45:13	agrisapori609x17-5-15	Sconosciuto	SPERLONGA	00:28:59	71	documentari
-14/02/2019	03:14:13	LaCarbonarafilmcompleto_mpeg2video	LA  CARBONARA	LA CARBONARA	01:48:07	1	Film
-14/02/2019	05:02:20	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	spot tc
-14/02/2019	05:02:39	CONSIGLIOCOMGERA25SETT2^Parte	gerace consiglio  comunale	Consiglio  com 2à parte del 25 09 016	02:29:42	31	programmi informativi
-14/02/2019	07:32:21	STILOELACATTOLICA	STILO E LA CATTOLICA	Stilo e la  cattolica	00:07:14	71	documentari
-14/02/2019	07:39:36	Bowfinger_2_mpeg2video	Sconosciuto	BOWFINGER 2 P	00:48:07	1	Film
-14/02/2019	08:27:43	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	spot tc
-14/02/2019	08:27:46	LocriCCdel14062013_mpeg2video	CONSIGLIO COMUNALE LOCRI	CONSIGLIO COMUNALE LOCRIDEL 14062013	01:47:02	31	programmi informativi
-14/02/2019	10:14:49	VideopergiornodellaMemoria,pernondimenticare.	IL GIORNO DELLA  MEMORIA	IL GIORNO  DELLA MEMORIA	00:25:46	71	documentari
-14/02/2019	10:40:35	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-14/02/2019	10:43:14	Raccontiromani_mpeg2video	Sconosciuto	Racconti  romani	01:34:01	1	Film
-14/02/2019	12:17:16	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	spot tc
-14/02/2019	12:17:19	consigliocomunalegerace	CONSIGLIO  COMUN GERACE 18 6 016	CONSIGLIO  COMUN 18 06 016	01:28:01	31	programmi informativi
-14/02/2019	13:45:20	CarnevalediVenezia2013dal26GENNAIOal12FEBBRAIOYouTube	Sconosciuto	CARNEVALE VENEZIA	00:10:41	71	documentari
-14/02/2019	13:56:02	Cosedamaschi_mpeg2video	Sconosciuto	COSE DA MASCHI	01:33:44	1	Film
-14/02/2019	15:29:46	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	spot tc
-14/02/2019	15:29:49	CONSIGLIOGERACEDEL1311016	consiglio gerace PEZZIMNENTI	CONSIGLIO GERACE DE 13  NOV 2016	00:44:22	31	programmi informativi
-14/02/2019	16:14:12	Gerace	GERACE	GERACE	00:06:01	71	documentari
-14/02/2019	16:20:13	Un.amore.in.prima.classe.19801°t.	UN AMORE IN PRIMA CLASSE 1° T	UN AMORE IN PRIMA CLASSE 1° T	00:48:06	1	Film
-14/02/2019	17:08:20	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	spot tc
-14/02/2019	17:08:23	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-14/02/2019	17:11:02	Pasticciniallemandorle	PASTICCINI  ALLE MANDORLE	PASTICCINI ALLE MANDORLE	00:02:15	31	programmi informativi
-14/02/2019	17:13:18	agrisapori615x28-6-15	Sconosciuto	AGRISAPORI xpo mi	00:31:34	71	documentari
-14/02/2019	17:44:52	Americangraffiti_2_mpeg2video	AMERICAN GRAFFITI_2	AMERICAN GRAFFITI_2	00:50:04	1	Film
-14/02/2019	18:34:57	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	spot tc
-14/02/2019	18:35:00	consigliocomunalegeracedel25092016primaparte	CONSIGLIO GERACE DEL 25.09 016	consigl gerace 1^ parte	01:13:36	31	programmi informativi
-14/02/2019	19:48:36	Atlantis	ATLANTIS	ATLANTIS	01:27:36	71	documentari
-14/02/2019	21:16:12	Souvenird'Italie_mpeg2video	Souvenir d'Italy	Souvenir d'Italy	01:44:43	1	Film
-14/02/2019	23:00:56	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	spot tc
-14/02/2019	23:00:59	InstantFuture_puntata3	INSTANT FUTURE 3 P	INSTANT FUTURE 3 P	00:22:30	31	programmi informativi
-14/02/2019	23:23:29	agrisapori617x12-6-15	AGRISAPORI	AGRISAPORI	00:24:51	71	documentari
-14/02/2019	23:48:21	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-14/02/2019	23:51:00	'NataleinCasaCupiello'diEduardodeFilippoINTEGRALE_mpeg2video	Commedia	Natale in casa   Cupiello	02:12:48	1	Film
-15/02/2019	02:03:48	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	spot tc
-15/02/2019	02:03:51	InstantFuture_Puntata1	INSTANT FUTURE 1 P	INSTANT FUTURE 1 P	00:21:25	31	programmi informativi
-15/02/2019	02:25:17	MontaltoUffugoFestadelgranosull'Aia	MONTALTO UFFUGO	MONTALTO  UFFUGO	00:14:29	71	documentari
-15/02/2019	02:39:47	Papadiventamamma_mpeg2video	PAPA  DIVENTA  MAMMA	PAPA  DIVENTA  MAMMA	01:20:22	1	Film
-15/02/2019	04:00:10	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	spot tc
-15/02/2019	04:00:13	OSPEDALEGERACEcopiaottima_mpeg2video	OSPEDALE GERACE	Ospedale Gerace Matteo	00:12:45	31	programmi informativi
-15/02/2019	04:12:59	agrisapori604x12-4-15	AGRISAPORI	AGRISAPORI	00:29:07	71	documentari
-15/02/2019	04:42:06	DonCamilloel'onorevolePeppone	Sconosciuto	DON CAMILLO E L 'ONOREVOLE PEPPONE	01:37:00	1	Film
-15/02/2019	06:19:06	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	spot tc
-15/02/2019	06:19:25	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-15/02/2019	06:22:04	Consiglio29ott2016xregia	CONSIGLIO COMUNALE GERACE 	CONS DEL 29 OTT 2016	00:00:02	31	programmi informativi
-15/02/2019	06:22:06	MassafraPiccolaGrandeItalia	Piccola grande Italia	Massafra	00:21:33	71	documentari
-15/02/2019	06:43:40	IlVizietto2°t.	IL VIZIETTO 2° T	IL VIZIETTO 2° T	00:44:25	1	Film
-15/02/2019	07:28:06	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	spot tc
-15/02/2019	07:28:24	CocktaildiGamberetti,laricettadiGiallozafferano	COKTAIL DI  GAMBERETTI	COKTAIL DI GAMBERETTI	00:02:59	31	programmi informativi
-15/02/2019	07:31:24	agrisapori614x21-6-15	Sconosciuto	AGRISAPORI	00:17:56	71	documentari
-15/02/2019	07:49:20	BadBoys	BAD BOYS	BAD BOYS	01:54:04	1	Film
-15/02/2019	09:43:24	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	spot tc
-15/02/2019	09:43:28	GeraceConsiglioComunaleStraordinariodel16Dic2015(byEL)	CONSIGLIO  COMUNALE GERACE 	Consiglio  comunale gerace del 16 dic 015	00:50:31	31	programmi informativi
-15/02/2019	10:33:59	050-IlTriangolod'Oro(20')eD	IL TRIANGOLO D 'ORO	IL TRIANGOLO  D 'ORO	00:19:13	71	documentari
-15/02/2019	10:53:13	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-15/02/2019	10:55:52	Statebuoni,Sepotete(TuttoilFilm)SanFilippoNeri(Et+12)	Sconosciuto	STATE  BUONI SE  POTETE	02:29:17	1	Film
-15/02/2019	13:25:09	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	spot tc
-15/02/2019	13:25:12	CorsoUrgenzaEmergenza	CORSO URGENZA EMERGENZA	CORSO  URGENZA EMERGENZA	01:03:16	31	programmi informativi
-15/02/2019	14:28:29	MusicaeTradizioni	MUSICA E TRADIZIONI	MUSICA E TRADIZIONI	00:10:57	71	documentari
-15/02/2019	14:39:27	X-Men	X - MEN	X - MEN	01:40:02	1	Film
-15/02/2019	16:19:29	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	spot tc
-15/02/2019	16:19:32	CroccantediMandorle,laricettadiGiallozafferano	CROCCANTEW DI  MANDORLE	CROCCANTE DI  AMNDORLE	00:03:45	31	programmi informativi
-15/02/2019	16:23:18	MagnificaItaliaCalabria_mpeg2video	Sconosciuto	Calabria	00:52:09	71	documentari
-15/02/2019	17:15:28	AltrimentiCiArrabbiamo	Sconosciuto	Nuovo File	01:37:35	1	Film
-15/02/2019	18:53:03	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	spot tc
-15/02/2019	18:53:06	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-15/02/2019	18:55:46	Pennetteai4formaggi	PENNETTE 4 FORMAGGI	PENNETTE 4 FORMAGGI	00:02:41	31	programmi informativi
-15/02/2019	18:58:27	Potaturadell'OlivonellaLocride3Ed_mpeg2video	Sconosciuto	Potatura  dell' olivo  nella Locride 013	01:51:49	71	documentari
-15/02/2019	20:50:17	Fantozzisubisceancora	FANTOZZI  SUBISCE ANCORA	FANTOZZI  SUBISCE ANCORA	01:23:46	1	Film
-15/02/2019	22:14:04	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	spot tc
-15/02/2019	22:14:07	premiostadioradio-nona-edizione-cut-tv	premio stadio radio 2017	Nuovo Filepremio stadio radio 2017	02:08:32	31	programmi informativi
-16/02/2019	00:22:39	agrisapori618x19-7-15	AGRISAPORI	La Magdaleine	00:08:48	71	documentari
-16/02/2019	00:31:27	AlbertoSordiIlVedovo	Sconosciuto	IL  VEDOVO	01:27:06	1	Film
-16/02/2019	01:58:34	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	spot tc
-16/02/2019	01:58:37	consiglioGeracedel288017	Sconosciuto	consiglio 28 8 17	00:20:04	31	programmi informativi
-16/02/2019	02:18:41	TropeaPiccolaGrandeItalia	Piccola grande Italia	TROPEA	00:26:53	71	documentari
-16/02/2019	02:45:35	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-16/02/2019	02:48:14	Storiediamorieinfedelta_mpeg2video	Sconosciuto	Storie di  amori ed infedeltà	01:23:30	1	Film
-16/02/2019	04:11:45	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	spot tc
-16/02/2019	04:11:48	CONSIGLIOCOMUNALE30MARZO2017	consiglio gerace del 30 3 017	consiglio gerace 30 3 17	00:45:44	31	programmi informativi
-16/02/2019	04:57:33	IpostipibellidellacalabriaDestinationCalabriaGiuseppeScorzaPepoMac@gmailcom_mpeg2video	Sconosciuto	I POSTI PIU  BELLI DELLA CALABRIA	00:03:59	71	documentari
-16/02/2019	05:01:33	FantozziInParadiso	FANTOZZI VA  IN PARADISO	FANTOZZI VA IN PARADISO	01:32:30	1	Film
-16/02/2019	06:34:04	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	spot tc
-16/02/2019	06:34:07	FM21	FORMULA  MOTORI 21	Nuovo File	00:23:58	31	programmi informativi
-16/02/2019	06:58:06	047-LaRiservaNaturalediAlmaAta(21')eD	LA RISERVA NATURALE DI ALMAT...	Nuovo File	00:20:34	71	documentari
-16/02/2019	07:18:40	Uomo.Avvisato.Mezzo.Ammazzato.19721°t.	Uomo avvisato mezzo salvato	UOMO  AVVISATO MEZZO AMMAZZATO 1^	00:46:39	1	Film
-16/02/2019	08:05:20	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	spot tc
-16/02/2019	08:05:39	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-16/02/2019	08:08:18	SEDUTACONSIGLIODEL13032017	consiglio gerace 13  3 017	Nuovo File	00:38:35	31	programmi informativi
-16/02/2019	08:46:53	ReggioCalabriaPiccolaGrandeItalia	Sconosciuto	Reggio piccola grande Italia  	00:22:12	71	documentari
-16/02/2019	09:09:06	Uomo.Avvisato.Mezzo.Ammazzato.19722°t.	UOMO  AVVISATO MEZZO AMMAZZATO 2^ 	UOMO  AVVISATO MEZZO AMMAZZATO 2^	00:43:11	1	Film
-16/02/2019	09:52:18	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	spot tc
-16/02/2019	09:52:21	inTavola_20150205_48237	Sconosciuto	inTavola_2015 02 05	00:01:58	31	programmi informativi
-16/02/2019	09:54:20	IlBrigantaggio	IL  BRIGANTAGGIO	IL  BRIGANTAGGIO	00:32:04	71	documentari
-16/02/2019	10:26:24	Wargames_mpeg2video	WARGAMES	Wrgames	01:48:02	1	Film
-16/02/2019	12:14:27	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	spot tc
-16/02/2019	12:14:30	ConsigliocomunaleGeracedel30settembre2017	cosiglio comunale gerace 30 sett 017	Nuovo File	01:52:24	31	programmi informativi
-16/02/2019	14:06:55	agrisapori606x27-4-15	AGRISAPORI	AGRISAPORI	00:30:54	71	documentari
-16/02/2019	14:37:49	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-16/02/2019	14:40:29	ImaginaryHeroes	IMMAGINARY HEROES	Immaginary Heores	01:51:03	1	Film
-16/02/2019	16:31:33	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	spot tc
-16/02/2019	16:31:36	INSTANTFUTURE	intant future p7	INSTANT FUTURE p7	00:23:18	31	programmi informativi
-16/02/2019	16:54:54	Carnevale2013Flashsulprimocorsomascherato	Sconosciuto	CARNEVALE VENEZIA 2	00:23:04	71	documentari
-16/02/2019	17:17:58	0110-1968-Calmaragazzeoggimisposo-LouisDeFunes_mpeg2video	Sconosciuto	CALMA RAGAZZE  OGGI   MI  SPOSO	01:25:55	1	Film
-16/02/2019	18:43:54	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	spot tc
-16/02/2019	18:43:57	21PIXMINDrev1	PIXMIND	Nuovo File	00:23:59	31	programmi informativi
-16/02/2019	19:07:57	PraiaaMarePiccolaGrandeItalia	Piccola grande Italia	PRAIA A MARE	00:24:33	71	documentari
-16/02/2019	19:32:31	StarshipTroopers-FanteriaDelloSpazio	STARSHIP TROOPERS	STARSHIP TROOPERS	02:04:18	1	Film
-16/02/2019	21:36:50	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	spot tc
-16/02/2019	21:36:53	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-16/02/2019	21:39:33	InstantFuturepuntata5	INSTANT FUTURE 5 P	INSTANT FUTURE 5 P	00:22:23	31	programmi informativi
-16/02/2019	22:01:57	SardegnaVistadalcielo	Sconosciuto	Sardegna vista dal cielo	00:50:23	71	documentari
-16/02/2019	22:52:20	7Monacidoro_mpeg2video	7  monaci d  oro	7  MONACI D' ORO	01:33:49	1	Film
-17/02/2019	00:26:09	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	spot tc
-17/02/2019	00:26:13	Geracesedutaconsiliaredel5Ottobre2016(byEL)	seduta consiglio gerace 5 10 106	consiglio gerac 5.10.016	01:30:13	31	programmi informativi
-17/02/2019	01:56:27	Olocausto.Lafabbricadelmale	olocxausto	LA FABBRICA DEL  MALE	01:23:34	71	documentari
-17/02/2019	03:20:02	Controsesso_mpeg2video	Sconosciuto	CONTROSESSO	01:47:23	1	Film
-17/02/2019	05:07:26	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	spot tc
-17/02/2019	05:07:29	InstantFuture_puntata3	INSTANT FUTURE 3 P	INSTANT FUTURE 3 P	00:22:30	31	programmi informativi
-17/02/2019	05:29:59	VideoRicettaTiramisùGalbani	TIRAMI SU	TIRAMI SU	00:01:40	71	documentari
-17/02/2019	05:31:39	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-17/02/2019	05:34:19	UmbertoD(1952)unfilmdiVittorioDeSica	Sconosciuto	Umberto D	01:28:17	1	Film
-17/02/2019	07:02:37	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	spot tc
-17/02/2019	07:02:55	FM21	FORMULA  MOTORI 21	Nuovo File	00:23:58	31	programmi informativi
-17/02/2019	07:26:54	AnimaliSerpentiFascinoLetale(Ita)	ANIMALI SERPENTI	ANIMALI SERPENTI	00:52:05	71	documentari
-17/02/2019	08:18:59	Arma.Da.Taglio.19721°t	ARMA DA TAGLIO 1°	ARMA DA TAGLIO 1°	00:45:44	1	Film
-17/02/2019	09:04:44	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	spot tc
-17/02/2019	09:04:47	consigliocomunalegerace	CONSIGLIO  COMUN GERACE 18 6 016	CONSIGLIO  COMUN 18 06 016	01:28:01	31	programmi informativi
-17/02/2019	10:32:49	CariatiPiccolaGrandeItalia	CARIATI	cariati	00:21:41	71	documentari
-17/02/2019	10:54:30	Speed2-SenzaLimiti	SPOEED 2 SENZA LIMITI	SPEED 2 SENZA LIMITI	01:54:12	1	Film
-17/02/2019	12:48:43	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	spot tc
-17/02/2019	12:48:46	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-17/02/2019	12:51:25	INSTANTFUTURE	intant future p7	INSTANT FUTURE p7	00:23:18	31	programmi informativi
-17/02/2019	13:14:43	agrisapori-623x23-8-15	AGRISAPORI	AGRISAPORI	00:00:01	71	documentari
-17/02/2019	13:14:45	InsideI'mdancing	INSIDEL MDANCING	FILM	01:39:53	1	Film
-17/02/2019	14:54:38	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	spot tc
-17/02/2019	14:54:42	premiostadioradio-nona-edizione-cut-tv	premio stadio radio 2017	Nuovo Filepremio stadio radio 2017	02:08:32	31	programmi informativi
-17/02/2019	17:03:14	agrisapori-624x30-8-15	grisapori	AGRISAPORI	00:27:35	71	documentari
-17/02/2019	17:30:49	Terapiadurto_mpeg2video	Sconosciuto	Terapia d' urto	01:40:39	1	Film
-17/02/2019	19:11:29	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	spot tc
-17/02/2019	19:11:32	OSPEDALEGERACEcopiaottima_mpeg2video	OSPEDALE GERACE	Ospedale Gerace Matteo	00:12:45	31	programmi informativi
-17/02/2019	19:24:18	046-Bangkok,laVeneziad'Oriente(15')eD	BANNGKOC	Nuovo File	00:15:19	71	documentari
-17/02/2019	19:39:37	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-17/02/2019	19:42:16	Undollarodififa_mpeg2video	UN DOLLARO  DI  FIFA	UN DOLLARO  DI  FIFA	01:29:53	1	Film
-17/02/2019	21:12:10	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	spot tc
-17/02/2019	21:12:29	InstantFuture_Puntata1	INSTANT FUTURE 1 P	INSTANT FUTURE 1 P	00:21:25	31	programmi informativi
-17/02/2019	21:33:54	049-LaTerradelSoleRosso(11')eD	LA TERRA DEL   SOLE ROSSO	LA TERRA DEL   SOLE  ROSSO	00:10:48	71	documentari
-17/02/2019	21:44:43	'IlsegretodiSantaVittoria'(1969)conAnnaMagnanieAnthonyQuinn_mpeg2video	Sconosciuto	IL SEGRETO DI SANTA  VITTORIA	02:13:14	1	Film
-17/02/2019	23:57:57	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	spot tc
-17/02/2019	23:58:01	GeraceConsiglioComunaleStraordinariodel16Dic2015(byEL)	CONSIGLIO  COMUNALE GERACE 	Consiglio  comunale gerace del 16 dic 015	00:50:31	31	programmi informativi
-18/02/2019	00:48:32	agrisapori608x9-5-15	Sconosciuto	Nuovo File	00:28:40	71	documentari
-18/02/2019	01:17:13	CommandPerformance2009iTALiANDVDRipXviDPrEsTiGe	Sconosciuto	Command performance	01:29:22	1	Film
-18/02/2019	02:46:35	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	spot tc
-18/02/2019	02:46:39	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-18/02/2019	02:49:18	CroccantediMandorle,laricettadiGiallozafferano	CROCCANTEW DI  MANDORLE	CROCCANTE DI  AMNDORLE	00:03:45	31	programmi informativi
-18/02/2019	02:53:04	agrisapori627X20-9_15	AGRISAPORI	AGRISAPORI	00:26:45	71	documentari
-18/02/2019	03:19:49	AmiciMieiAttoII_mpeg2video	Sconosciuto	AMICI MIEI  ATTO II	02:07:00	1	Film
-18/02/2019	05:26:50	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	spot tc
-18/02/2019	05:26:53	CONSIGLIOCOMGERA25SETT2^Parte	gerace consiglio  comunale	Consiglio  com 2à parte del 25 09 016	02:29:42	31	programmi informativi
-18/02/2019	07:56:35	GliAnimalipiPericolosiGiunglaUrbana(ITA)	Animali pericolosi	ANIMALI PERICOLOSI	00:47:02	71	documentari
-18/02/2019	08:43:38	Ritornoalfuturo3_1_mpeg2video	RIRORNO  AL  FUTURO 3	Ritorno  al  futuro 3	01:00:22	1	Film
-18/02/2019	09:44:00	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	spot tc
-18/02/2019	09:44:03	Consiglio29ott2016xregia	CONSIGLIO COMUNALE GERACE 	CONS DEL 29 OTT 2016	00:00:02	31	programmi informativi
-18/02/2019	09:44:06	SerraSanBrunoPiccolaGrandeItalia	Piccola Grande Italia	SERRA S. BRUNO	00:20:58	71	documentari
-18/02/2019	10:05:04	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-18/02/2019	10:07:44	Unacoppiaperfetta_mpeg2video	Sconosciuto	Una coppia  perfetta	01:46:00	1	Film
-18/02/2019	11:53:44	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	spot tc
-18/02/2019	11:53:47	CONSIGLIOGERACEDEL1311016	consiglio gerace PEZZIMNENTI	CONSIGLIO GERACE DE 13  NOV 2016	00:44:22	31	programmi informativi
-18/02/2019	12:38:09	agrisapori616x5-7-15	AGRISAPORI	AGRISAPORI	00:26:08	71	documentari
-18/02/2019	13:04:18	Sia-Chandelier	SIA	CHANDELEIR	00:03:40	1	Film
-18/02/2019	13:07:59	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	spot tc
-18/02/2019	13:08:18	Pasticciniallemandorle	PASTICCINI  ALLE MANDORLE	PASTICCINI ALLE MANDORLE	00:02:15	31	programmi informativi
-18/02/2019	13:10:33	GrotteriaPresepe2012_mpeg2video(1)	GROTTERIA PRESEPE	GROTTERIA PRESEPE	00:46:15	71	documentari
-18/02/2019	13:56:48	Roma.drogata.la.polizia.non_.puo.intervenire.19752°t.	ROMA DROGATA 2^	ROMA DROGATA 2^	00:41:14	1	Film
-18/02/2019	14:38:03	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	spot tc
-18/02/2019	14:38:06	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-18/02/2019	14:40:45	inTavola_20150205_48237	Sconosciuto	inTavola_2015 02 05	00:01:58	31	programmi informativi
-18/02/2019	14:42:44	043-NgoroNgoro,l'UltimaArca(14')eD	NGORO NGORO	Nuovo File	00:13:29	71	documentari
-18/02/2019	14:56:14	LARIVOLTADEIPRETORIANIFilmpeplum1964diAlfonsoBresciacompletoinItaliano	Sconosciuto	LARIVOLTA DEI PRETORIANI	01:33:20	1	Film
-18/02/2019	16:29:34	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	spot tc
-18/02/2019	16:29:37	21PIXMINDrev1	PIXMIND	Nuovo File	00:23:59	31	programmi informativi
-18/02/2019	16:53:37	044-LaSavanadeiSerengheti(15')eD	LA SAVANA	Nuovo File	00:14:19	71	documentari
-18/02/2019	17:07:56	LabattagliadellaNeretva19691°t.	LA BATTAGLIA DELLA NERETVA 1° T	LA BATTAGLIA DELLA NERETVA 1° T	01:14:05	1	Film
-18/02/2019	18:22:01	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	spot tc
-18/02/2019	18:22:05	consigliocomunalegeracedel25092016primaparte	CONSIGLIO GERACE DEL 25.09 016	consigl gerace 1^ parte	01:13:36	31	programmi informativi
-18/02/2019	19:35:41	045-NiloVittoria,ilFiumedellaPreistoria(10')eD	NILO 	IL  LUME DELLA PREISTORIA	00:09:54	71	documentari
-18/02/2019	19:45:36	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-18/02/2019	19:48:15	L'isoladeisopravvissuti	Sconosciuto	L' isola dei sopravvissuti 	01:31:43	1	Film
-18/02/2019	21:19:59	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	spot tc
-18/02/2019	21:20:18	Pennetteai4formaggi	PENNETTE 4 FORMAGGI	PENNETTE 4 FORMAGGI	00:02:41	31	programmi informativi
-18/02/2019	21:23:00	051-LeAndedellaCoca(20')eD	LE ANDE DELLA COCA	LE AMNDE DELLA COCA	00:19:27	71	documentari
-18/02/2019	21:42:27	CityofGhost_mpeg2video	Sconosciuto	CYTY OF GHOST	01:51:42	1	Film
-18/02/2019	23:34:10	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	spot tc
-18/02/2019	23:34:13	SEDUTACONSIGLIODEL13032017	consiglio gerace 13  3 017	Nuovo File	00:38:35	31	programmi informativi
-19/02/2019	00:12:49	043-NgoroNgoro,l'UltimaArca(14')eD	NGORO NGORO	Nuovo File	00:13:29	71	documentari
-19/02/2019	00:26:18	Sedottiebidonati	Sconosciuto	Sedotti ed abbandonati	01:37:13	1	Film
-19/02/2019	02:03:31	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	spot tc
-19/02/2019	02:03:35	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-19/02/2019	02:06:14	ConsigliocomunaleGeracedel30settembre2017	cosiglio comunale gerace 30 sett 017	Nuovo File	01:52:24	31	programmi informativi
-19/02/2019	03:58:39	agrisapori-624x30-8-15	grisapori	AGRISAPORI	00:27:35	71	documentari
-19/02/2019	04:26:14	Perunpugnonellocchio_mpeg2video	Sconosciuto	Per  un  pugno  nell' occhio	01:34:51	1	Film
-19/02/2019	06:01:06	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	spot tc
-19/02/2019	06:01:10	CocktaildiGamberetti,laricettadiGiallozafferano	COKTAIL DI  GAMBERETTI	COKTAIL DI GAMBERETTI	00:02:59	31	programmi informativi
-19/02/2019	06:04:09	agrisapori618x19-7-15	AGRISAPORI	La Magdaleine	00:08:48	71	documentari
-19/02/2019	06:12:57	LichiamaronoBrigantifilmcompleto	LI CHIAMARONO BRIGANTI	LI CHIAMARONO BRIGANTI	02:00:51	1	Film
-19/02/2019	08:13:49	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	spot tc
-19/02/2019	08:13:52	consiglioGeracedel288017	Sconosciuto	consiglio 28 8 17	00:20:04	31	programmi informativi
-19/02/2019	08:33:57	agrisapori627X20-9_15	AGRISAPORI	AGRISAPORI	00:26:45	71	documentari
-19/02/2019	09:00:43	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-19/02/2019	09:03:22	gold.il.segno.del.potere.19742°t.	GOLD  IL SEGNO DEL  POTERE 2°	GOLD  IL SEGNO DEL  POTERE 2°	00:57:54	1	Film
-19/02/2019	10:01:17	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	spot tc
-19/02/2019	10:01:36	InstantFuturepuntata5	INSTANT FUTURE 5 P	INSTANT FUTURE 5 P	00:22:23	31	programmi informativi
-19/02/2019	10:23:59	agrisapori616x5-7-15	AGRISAPORI	AGRISAPORI	00:26:08	71	documentari
-19/02/2019	10:50:08	0114-1968PreparatiLaBara-TerenceHill_mpeg2video	Sconosciuto	PREPARATI LA  BARA	01:28:01	1	Film
-19/02/2019	12:18:09	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	spot tc
-19/02/2019	12:18:13	CorsoUrgenzaEmergenza	CORSO URGENZA EMERGENZA	CORSO  URGENZA EMERGENZA	01:03:16	31	programmi informativi
-19/02/2019	13:21:29	agrisapori609x17-5-15	Sconosciuto	SPERLONGA	00:28:59	71	documentari
-19/02/2019	13:50:29	FantozziVaInPensione	FANTOZZI VA IN PENSIONE	FANTOZZI VA IN PENSIONE	01:34:36	1	Film
-19/02/2019	15:25:05	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	spot tc
-19/02/2019	15:25:08	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-19/02/2019	15:27:48	LocriCCdel14062013_mpeg2video	CONSIGLIO COMUNALE LOCRI	CONSIGLIO COMUNALE LOCRIDEL 14062013	01:47:02	31	programmi informativi
-19/02/2019	17:14:50	050-IlTriangolod'Oro(20')eD	IL TRIANGOLO D 'ORO	IL TRIANGOLO  D 'ORO	00:19:13	71	documentari
-19/02/2019	17:34:03	AvventuraaCapri_mpeg2video	Sconosciuto	AVVENTURA A CAPRI	01:23:03	1	Film
-19/02/2019	18:57:07	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	spot tc
-19/02/2019	18:57:10	CONSIGLIOCOMUNALE30MARZO2017	consiglio gerace del 30 3 017	consiglio gerace 30 3 17	00:45:44	31	programmi informativi
-19/02/2019	19:42:55	agrisapori596x8-2-15	GIAGLIONESconosciuto	Nuovo FiAGRISAPORI	00:31:19	71	documentari
-19/02/2019	20:14:15	Americangraffiti_1_mpeg2video	AMERICAN GRAFFITI_1	AMERICAN GRAFFITI_1	00:57:34	1	Film
-19/02/2019	21:11:49	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	spot tc
-19/02/2019	21:11:53	Geracesedutaconsiliaredel5Ottobre2016(byEL)	seduta consiglio gerace 5 10 106	consiglio gerac 5.10.016	01:30:13	31	programmi informativi
-19/02/2019	22:42:07	IpostipibellidellacalabriaDestinationCalabriaGiuseppeScorzaPepoMac@gmailcom_mpeg2video	Sconosciuto	I POSTI PIU  BELLI DELLA CALABRIA	00:03:59	71	documentari
-19/02/2019	22:46:06	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-19/02/2019	22:48:46	Un.amore.in.prima.classe.19802°t.	UN AMORE IN PRIMA CLASSE 2° T	UN AMORE IN PRIMA CLASSE 2° T	00:42:02	1	Film
-19/02/2019	23:30:49	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	spot tc
-19/02/2019	23:30:52	GeraceConsiglioComunaleStraordinariodel16Dic2015(byEL)	CONSIGLIO  COMUNALE GERACE 	Consiglio  comunale gerace del 16 dic 015	00:50:31	31	programmi informativi
-20/02/2019	00:21:23	VideopergiornodellaMemoria,pernondimenticare.	IL GIORNO DELLA  MEMORIA	IL GIORNO  DELLA MEMORIA	00:25:46	71	documentari
-20/02/2019	00:47:10	Bellezzesullaspiaggia_mpeg2video	Sconosciuto	BELLEZZE SULLA SPIAGGIA	01:23:08	1	Film
-20/02/2019	02:10:19	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	spot tc
-20/02/2019	02:10:22	LocriCCdel14062013_mpeg2video	CONSIGLIO COMUNALE LOCRI	CONSIGLIO COMUNALE LOCRIDEL 14062013	01:47:02	31	programmi informativi
-20/02/2019	03:57:24	SerraSanBrunoPiccolaGrandeItalia	Piccola Grande Italia	SERRA S. BRUNO	00:20:58	71	documentari
-20/02/2019	04:18:22	Ilpadrino	IL PADRINO	Il padrino	02:48:04	1	Film
-20/02/2019	07:06:27	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	spot tc
-20/02/2019	07:06:30	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-20/02/2019	07:09:09	Consiglio29ott2016xregia	CONSIGLIO COMUNALE GERACE 	CONS DEL 29 OTT 2016	00:00:02	31	programmi informativi
-20/02/2019	07:09:12	MagnificaItaliaCalabria_mpeg2video	Sconosciuto	Calabria	00:52:09	71	documentari
-20/02/2019	08:01:22	A027DaLasVegas_mpeg2video	Sconosciuto	A 27 LAS VEGAS	01:30:34	1	Film
-20/02/2019	09:31:56	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	spot tc
-20/02/2019	09:31:59	21PIXMINDrev1	PIXMIND	Nuovo File	00:23:59	31	programmi informativi
-20/02/2019	09:55:59	MalfaPiccolaGrandeItalia	Piccola Grande Italia MALFA	Malfa	00:21:29	71	documentari
-20/02/2019	10:17:28	AustinPowers2-Laspiacheciprovava	AUSTIN POWERS2	LA SPIA CHE CI  PROVAVA	01:31:07	1	Film
-20/02/2019	11:48:36	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	spot tc
-20/02/2019	11:48:39	InstantFuturepuntata5	INSTANT FUTURE 5 P	INSTANT FUTURE 5 P	00:22:23	31	programmi informativi
-20/02/2019	12:11:03	DOCUMENTARIOAuschwitz	Auschwitz	Auschwitz	00:26:56	71	documentari
-20/02/2019	12:37:59	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-20/02/2019	12:40:38	EttoreScolaC'eravamotantoamati(1974)_mpeg2video	Sconosciuto	CERAVAMO TANTO  AMATI	02:00:23	1	Film
-20/02/2019	14:41:02	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	spot tc
-20/02/2019	14:41:21	CocktaildiGamberetti,laricettadiGiallozafferano	COKTAIL DI  GAMBERETTI	COKTAIL DI GAMBERETTI	00:02:59	31	programmi informativi
-20/02/2019	14:44:20	042-Tanzania,TerradiAmici(14')eD	TANZANIA	Nuovo File	00:14:05	71	documentari
-20/02/2019	14:58:25	MenInBlackI	Sconosciuto	Men In Black I	01:34:00	1	Film
-20/02/2019	16:32:26	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	spot tc
-20/02/2019	16:32:29	CONSIGLIOCOMUNALE30MARZO2017	consiglio gerace del 30 3 017	consiglio gerace 30 3 17	00:45:44	31	programmi informativi
-20/02/2019	17:18:14	agrisapori-623x23-8-15	AGRISAPORI	AGRISAPORI	00:00:01	71	documentari
-20/02/2019	17:18:16	Scherzidaprete_mpeg2video	Sconosciuto	Scherzi da prete	01:27:51	1	Film
-20/02/2019	18:46:08	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	spot tc
-20/02/2019	18:46:11	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-20/02/2019	18:48:50	CroccantediMandorle,laricettadiGiallozafferano	CROCCANTEW DI  MANDORLE	CROCCANTE DI  AMNDORLE	00:03:45	31	programmi informativi
-20/02/2019	18:52:36	GrotteriaPresepe2012_mpeg2video(1)	GROTTERIA PRESEPE	GROTTERIA PRESEPE	00:46:15	71	documentari
-20/02/2019	19:38:51	Iquattrodell'apocalisseLucioFulci(FILMCOMPLETO)	Sconosciuto	I 4 DELL'APOCALISSE	01:44:06	1	Film
-20/02/2019	21:22:57	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	spot tc
-20/02/2019	21:23:01	inTavola_20150205_48237	Sconosciuto	inTavola_2015 02 05	00:01:58	31	programmi informativi
-20/02/2019	21:25:00	Olocausto.Lafabbricadelmale	olocxausto	LA FABBRICA DEL  MALE	01:23:34	71	documentari
-20/02/2019	22:48:35	Il.Diavolo.bn19631°t	IL DIAVOLO B/N SORDI 1°	IL DIAVOLO B/N SORDI 1°	00:51:44	1	Film
-20/02/2019	23:40:19	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	spot tc
-20/02/2019	23:40:38	OSPEDALEGERACEcopiaottima_mpeg2video	OSPEDALE GERACE	Ospedale Gerace Matteo	00:12:45	31	programmi informativi
-20/02/2019	23:53:24	ReggioCalabriaPiccolaGrandeItalia	Sconosciuto	Reggio piccola grande Italia  	00:22:12	71	documentari
-21/02/2019	00:15:36	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-21/02/2019	00:18:16	AmicimieiattoIII_mpeg2video	Sconosciuto	AMICI MIEI  ATTO III	01:49:20	1	Film
-21/02/2019	02:07:37	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	spot tc
-21/02/2019	02:07:40	CONSIGLIOGERACEDEL1311016	consiglio gerace PEZZIMNENTI	CONSIGLIO GERACE DE 13  NOV 2016	00:44:22	31	programmi informativi
-21/02/2019	02:52:03	MusicaeTradizioni	MUSICA E TRADIZIONI	MUSICA E TRADIZIONI	00:10:57	71	documentari
-21/02/2019	03:03:01	TotoaParigi_mpeg2video	Sconosciuto	Tot a Prigi	01:33:42	1	Film
-21/02/2019	04:36:43	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	spot tc
-21/02/2019	04:36:46	CONSIGLIOCOMGERA25SETT2^Parte	gerace consiglio  comunale	Consiglio  com 2à parte del 25 09 016	02:29:42	31	programmi informativi
-21/02/2019	07:06:28	CariatiPiccolaGrandeItalia	CARIATI	cariati	00:21:41	71	documentari
-21/02/2019	07:28:10	Treuominieunagamba	TRE   UOMINI ED UNA GAMBA	Tre  uomini ed una  gamba	01:37:43	1	Film
-21/02/2019	09:05:54	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	spot tc
-21/02/2019	09:05:57	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-21/02/2019	09:08:36	CorsoUrgenzaEmergenza	CORSO URGENZA EMERGENZA	CORSO  URGENZA EMERGENZA	01:03:16	31	programmi informativi
-21/02/2019	10:11:53	agrisapori608x9-5-15	Sconosciuto	Nuovo File	00:28:40	71	documentari
-21/02/2019	10:40:34	AbramoIsaccoGiacobbeIsraeleGOIMFEDBCEIMFFMI	Sconosciuto	ABRAMO ISACCO GIACOBBE	01:26:07	1	Film
-21/02/2019	12:06:41	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	spot tc
-21/02/2019	12:07:00	InstantFuture_Puntata1	INSTANT FUTURE 1 P	INSTANT FUTURE 1 P	00:21:25	31	programmi informativi
-21/02/2019	12:28:26	Gerace	GERACE	GERACE	00:06:01	71	documentari
-21/02/2019	12:34:27	FantozziControTutti	FANTOZZI  CONTRO  TUTTI	FANTOZZI  CONTRO  TUTTI	01:33:33	1	Film
-21/02/2019	14:08:00	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	spot tc
-21/02/2019	14:08:04	consiglioGeracedel288017	Sconosciuto	consiglio 28 8 17	00:20:04	31	programmi informativi
-21/02/2019	14:28:08	CarnevalediVenezia2013dal26GENNAIOal12FEBBRAIOYouTube	Sconosciuto	CARNEVALE VENEZIA	00:10:41	71	documentari
-21/02/2019	14:38:50	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-21/02/2019	14:41:29	Souvenird'Italie_mpeg2video	Souvenir d'Italy	Souvenir d'Italy	01:44:43	1	Film
-21/02/2019	16:26:12	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	spot tc
-21/02/2019	16:26:15	InstantFuture_puntata3	INSTANT FUTURE 3 P	INSTANT FUTURE 3 P	00:22:30	31	programmi informativi
-21/02/2019	16:48:45	044-LaSavanadeiSerengheti(15')eD	LA SAVANA	Nuovo File	00:14:19	71	documentari
-21/02/2019	17:03:05	Ilpadrino	IL PADRINO	Il padrino	02:48:04	1	Film
-21/02/2019	19:51:09	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	spot tc
-21/02/2019	19:51:12	consigliocomunalegerace	CONSIGLIO  COMUN GERACE 18 6 016	CONSIGLIO  COMUN 18 06 016	01:28:01	31	programmi informativi
-21/02/2019	21:19:14	IlBrigantaggio	IL  BRIGANTAGGIO	IL  BRIGANTAGGIO	00:32:04	71	documentari
-21/02/2019	21:51:18	X-Men	X - MEN	X - MEN	01:40:02	1	Film
-21/02/2019	23:31:20	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	spot tc
-21/02/2019	23:31:24	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-21/02/2019	23:34:03	Pasticciniallemandorle	PASTICCINI  ALLE MANDORLE	PASTICCINI ALLE MANDORLE	00:02:15	31	programmi informativi
-21/02/2019	23:36:19	agrisapori606x27-4-15	AGRISAPORI	AGRISAPORI	00:30:54	71	documentari
-22/02/2019	00:07:13	Infiltratospeciale_mpeg2video	Sconosciuto	Infiltrato  speciale	01:34:35	1	Film
-22/02/2019	01:41:48	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	spot tc
-22/02/2019	01:42:07	Pennetteai4formaggi	PENNETTE 4 FORMAGGI	PENNETTE 4 FORMAGGI	00:02:41	31	programmi informativi
-22/02/2019	01:44:49	Atlantis	ATLANTIS	ATLANTIS	01:27:36	71	documentari
-22/02/2019	03:12:25	Nell'annoDelSignoreManfredi,Sordi,Tognazzi(Filmcompleto)	Sconosciuto	Nell'anno del  Signore	01:57:54	1	Film
-22/02/2019	05:10:20	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	spot tc
-22/02/2019	05:10:23	SEDUTACONSIGLIODEL13032017	consiglio gerace 13  3 017	Nuovo File	00:38:35	31	programmi informativi
-22/02/2019	05:48:59	agrisapori614x21-6-15	Sconosciuto	AGRISAPORI	00:17:56	71	documentari
-22/02/2019	06:06:55	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-22/02/2019	06:09:35	MissinginAmerica	Sconosciuto	Missing  America	01:38:23	1	Film
-22/02/2019	07:47:58	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	spot tc
-22/02/2019	07:48:02	consigliocomunalegeracedel25092016primaparte	CONSIGLIO GERACE DEL 25.09 016	consigl gerace 1^ parte	01:13:36	31	programmi informativi
-22/02/2019	09:01:38	PianadegliAlbanesi'DomenicadellePalme'PiccolaGrandeItalia	PIANA DEGLI ALBANESI	PIANA DEGLI ALBANESI	00:14:12	71	documentari
-22/02/2019	09:15:50	BadBoys	BAD BOYS	BAD BOYS	01:54:04	1	Film
-22/02/2019	11:09:55	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	spot tc
-22/02/2019	11:09:58	ConsigliocomunaleGeracedel30settembre2017	cosiglio comunale gerace 30 sett 017	Nuovo File	01:52:24	31	programmi informativi
-22/02/2019	13:02:23	AnimaliSerpentiFascinoLetale(Ita)	ANIMALI SERPENTI	ANIMALI SERPENTI	00:52:05	71	documentari
-22/02/2019	13:54:28	Perfavorenontoccatelevecchiette_2_mpeg2video	Sconosciuto	PER FAVORE  NN TOCCATE LE VECCHIETTE 2	00:43:02	1	Film
-22/02/2019	14:37:30	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	spot tc
-22/02/2019	14:37:33	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-22/02/2019	14:40:13	FM21	FORMULA  MOTORI 21	Nuovo File	00:23:58	31	programmi informativi
-22/02/2019	15:04:11	agrisapori615x28-6-15	Sconosciuto	AGRISAPORI xpo mi	00:31:34	71	documentari
-22/02/2019	15:35:45	MammaHoRipersoL'aereoEMiSonoSmarritoANewYork	Mamma ho riperso l' aereo e mi  sono smarrito a New York	Nuovo File	01:48:03	1	Film
-22/02/2019	17:23:49	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	spot tc
-22/02/2019	17:23:53	INSTANTFUTURE	intant future p7	INSTANT FUTURE p7	00:23:18	31	programmi informativi
-22/02/2019	17:47:11	047-LaRiservaNaturalediAlmaAta(21')eD	LA RISERVA NATURALE DI ALMAT...	Nuovo File	00:20:34	71	documentari
-22/02/2019	18:07:45	0110-1968-Calmaragazzeoggimisposo-LouisDeFunes_mpeg2video	Sconosciuto	CALMA RAGAZZE  OGGI   MI  SPOSO	01:25:55	1	Film
-22/02/2019	19:33:41	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	spot tc
-22/02/2019	19:33:44	premiostadioradio-nona-edizione-cut-tv	premio stadio radio 2017	Nuovo Filepremio stadio radio 2017	02:08:32	31	programmi informativi
-22/02/2019	21:42:16	048-Tokio,EmblemadiunMiracolo(14')eD	TOKIO EMBLEMA DEL MIRACOLO	TOKIO EMBLEMA DEL  MIRACOLO	00:13:57	71	documentari
-22/02/2019	21:56:14	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-22/02/2019	21:58:53	Arma.Da.Taglio.19721°t	ARMA DA TAGLIO 1°	ARMA DA TAGLIO 1°	00:45:44	1	Film
-22/02/2019	22:44:37	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	spot tc
-22/02/2019	22:44:41	Geracesedutaconsiliaredel5Ottobre2016(byEL)	seduta consiglio gerace 5 10 106	consiglio gerac 5.10.016	01:30:13	31	programmi informativi
-23/02/2019	00:14:55	agrisapori613x14-6-15	AGRISAPORI	AGRISAPORI	00:26:49	71	documentari
-23/02/2019	00:41:45	Colpogrosso_mpeg2video	Colpogrosso	COLPO  GROSSO	02:02:09	1	Film
-23/02/2019	02:43:54	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	spot tc
-23/02/2019	02:43:58	CONSIGLIOGERACEDEL1311016	consiglio gerace PEZZIMNENTI	CONSIGLIO GERACE DE 13  NOV 2016	00:44:22	31	programmi informativi
-23/02/2019	03:28:20	MontaltoUffugoFestadelgranosull'Aia	MONTALTO UFFUGO	MONTALTO  UFFUGO	00:14:29	71	documentari
-23/02/2019	03:42:49	AbramoIsaccoGiacobbeIsraeleGOIMFEDBCEIMFFMI	Sconosciuto	ABRAMO ISACCO GIACOBBE	01:26:07	1	Film
-23/02/2019	05:08:57	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	spot tc
-23/02/2019	05:09:00	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-23/02/2019	05:11:39	CorsoUrgenzaEmergenza	CORSO URGENZA EMERGENZA	CORSO  URGENZA EMERGENZA	01:03:16	31	programmi informativi
-23/02/2019	06:14:56	BonifatiPiccolaGrandeItalia	bonifati	bonifati	00:21:55	71	documentari
-23/02/2019	06:36:51	gold.il.segno.del.potere.19742°t.	GOLD  IL SEGNO DEL  POTERE 2°	GOLD  IL SEGNO DEL  POTERE 2°	00:57:54	1	Film
-23/02/2019	07:34:46	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	spot tc
-23/02/2019	07:35:05	Geracesedutaconsiliaredel5Ottobre2016(byEL)	seduta consiglio gerace 5 10 106	consiglio gerac 5.10.016	01:30:13	31	programmi informativi
-23/02/2019	09:05:19	agrisapori-621x9-8-15	AGRISAPORI	AGRISAPORI	00:27:11	71	documentari
-23/02/2019	09:32:30	LaPretoraE.Fenechv.m.1419762°t.	SECONDO TEMPO FENEC	LA PRETORA	00:46:24	1	Film
-23/02/2019	10:18:54	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	spot tc
-23/02/2019	10:18:57	inTavola_20150205_48237	Sconosciuto	inTavola_2015 02 05	00:01:58	31	programmi informativi
-23/02/2019	10:20:56	PraiaaMarePiccolaGrandeItalia	Piccola grande Italia	PRAIA A MARE	00:24:33	71	documentari
-23/02/2019	10:45:30	TG	TG 	TELEGIORNALE	00:02:39	31	programmi informativi
-23/02/2019	10:48:10	Rosolinopaternosoldato_mpeg2video	ROSOLINO PATERNO SOLDATO	Rosolino paterno  soldato	01:35:57	1	Film
-23/02/2019	12:24:07	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	spot tc
-23/02/2019	12:24:26	21PIXMINDrev1	PIXMIND	Nuovo File	00:23:59	31	programmi informativi
-23/02/2019	12:48:26	TropeaPiccolaGrandeItalia	Piccola grande Italia	TROPEA	00:26:53	71	documentari
-23/02/2019	13:15:19	Senzanomesanzaregole	SENZA NOME SENZA REGOLE	Senza nome senza regole	01:43:39	1	Film
-23/02/2019	14:58:59	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	spot tc
-23/02/2019	14:59:02	GeraceConsiglioComunaleStraordinariodel16Dic2015(byEL)	CONSIGLIO  COMUNALE GERACE 	Consiglio  comunale gerace del 16 dic 015	00:50:31	31	programmi informativi
-23/02/2019	15:49:34	SardegnaVistadalcielo	Sconosciuto	Sardegna vista dal cielo	00:50:23	71	documentari
-23/02/2019	16:39:57	UFOLeProve	Sconosciuto	Ufo le  prove	01:22:13	1	Film
+02/02/2019	04:53:42	Malibùmostwanted_mpeg2video	Sconosciuto	MALIBU MONS WANTED	01:22:35	1	
+02/02/2019	06:16:18	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	
+02/02/2019	06:16:21	LocriCCdel14062013_mpeg2video	CONSIGLIO COMUNALE LOCRI	CONSIGLIO COMUNALE LOCRIDEL 14062013	01:47:02	31	
+02/02/2019	08:03:23	agrisapori596x8-2-15	GIAGLIONESconosciuto	Nuovo FiAGRISAPORI	00:31:19	71	
+02/02/2019	08:34:43	TG	TG 	TELEGIORNALE	00:02:40	31	
+02/02/2019	08:37:24	Un.amore.in.prima.classe.19802°t.	UN AMORE IN PRIMA CLASSE 2° T	UN AMORE IN PRIMA CLASSE 2° T	00:42:02	1	
+02/02/2019	09:19:27	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	
+02/02/2019	09:19:45	OSPEDALEGERACEcopiaottima_mpeg2video	OSPEDALE GERACE	Ospedale Gerace Matteo	00:12:45	31	
+02/02/2019	09:32:31	agrisapori608x9-5-15	Sconosciuto	Nuovo File	00:28:40	71	
+02/02/2019	10:01:12	L'UltimoTrenoDellaNotte19751°t.	L' ULTIMO TRENO DELLA NOTTE 1° T	L' ULTIMO TRENO DELLA   NOTTE 1° T	00:46:26	1	
+02/02/2019	10:47:38	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	
+02/02/2019	10:47:41	CocktaildiGamberetti,laricettadiGiallozafferano	COKTAIL DI  GAMBERETTI	COKTAIL DI GAMBERETTI	00:02:59	31	
+02/02/2019	10:50:40	TropeaPiccolaGrandeItalia	Piccola grande Italia	TROPEA	00:26:53	71	
+02/02/2019	11:17:34	196355giorniaPechino-CharltonHestonAvaGardnerDavidNiven	Charloton Esoan Ava Garner	55  giorni a Pechino	02:35:19	1	
+02/02/2019	13:52:54	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	
+02/02/2019	13:52:57	TG	TG 	TELEGIORNALE	00:02:40	31	
+02/02/2019	13:55:38	Musa_TV_20150601_51297	musa 8-giu	Nuovo File	00:17:39	31	
+02/02/2019	14:13:17	IpostipibellidellacalabriaDestinationCalabriaGiuseppeScorzaPepoMac@gmailcom_mpeg2video	Sconosciuto	I POSTI PIU  BELLI DELLA CALABRIA	00:03:59	71	
+02/02/2019	14:17:17	1959Ilgiornodellavendetta-KirkDouglasAnthonyQuinn	IL GIORNBO DELLA VENDETTA K. DOUGLAS	IL  GIORNO DELLA VENDETTA	01:30:27	1	
+02/02/2019	15:47:44	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	
+02/02/2019	15:47:48	Pennetteai4formaggi	PENNETTE 4 FORMAGGI	PENNETTE 4 FORMAGGI	00:02:41	31	
+02/02/2019	15:50:29	Carnevale2013Flashsulprimocorsomascherato	Sconosciuto	CARNEVALE VENEZIA 2	00:23:04	71	
+02/02/2019	16:13:34	1962LaCitta'Prigioniera-DavidNivenLeaMassariBenGazzara	LA CITTA PRIGIONIERA	LA CITTA PRIGIONIERA	01:41:02	1	
+02/02/2019	17:54:36	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	
+02/02/2019	17:54:40	Musa_TV_20150601_51297	musa 8-giu	Nuovo File	00:17:39	31	
+02/02/2019	18:12:19	CarnevalediVenezia2013dal26GENNAIOal12FEBBRAIOYouTube	Sconosciuto	CARNEVALE VENEZIA	00:10:41	71	
+02/02/2019	18:23:01	TG	TG 	TELEGIORNALE	00:02:40	31	
+02/02/2019	18:25:41	Fantozzisubisceancora	FANTOZZI  SUBISCE ANCORA	FANTOZZI  SUBISCE ANCORA	01:23:46	1	
+02/02/2019	19:49:28	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	
+02/02/2019	19:49:47	Salus_TV_20150601_51285	Salus 8 giug	Nuovo File	00:13:44	31	
+02/02/2019	20:03:31	ReggioCalabriaPiccolaGrandeItalia	Sconosciuto	Reggio piccola grande Italia  	00:22:12	71	
+02/02/2019	20:25:44	1970Iosonolalegge-BurtLancaster	Burt Lancaster 	Io sono la legge	01:34:53	1	
+02/02/2019	22:00:37	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	
+02/02/2019	22:00:40	CorsoUrgenzaEmergenza	CORSO URGENZA EMERGENZA	CORSO  URGENZA EMERGENZA	01:03:16	31	
+02/02/2019	23:03:57	Atlantis	ATLANTIS	ATLANTIS	01:27:36	71	
+03/02/2019	00:31:33	1959Ilmattatore-DorianGrayMarioCarotenutoVittorioGassman	DORIAN GRAY	IL MATTATORE	01:37:12	1	
+03/02/2019	02:08:46	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	
+03/02/2019	02:09:05	TG	TG 	TELEGIORNALE	00:02:40	31	
+03/02/2019	02:11:45	CocktaildiGamberetti,laricettadiGiallozafferano	COKTAIL DI  GAMBERETTI	COKTAIL DI GAMBERETTI	00:02:59	31	
+03/02/2019	02:14:45	IlBrigantaggio	IL  BRIGANTAGGIO	IL  BRIGANTAGGIO	00:32:04	71	
+03/02/2019	02:46:49	1969Topaz_1-AlfredHitchcock	topsz 1	topdz 1	00:37:42	1	
+03/02/2019	03:24:32	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	
+03/02/2019	03:24:35	Pasticciniallemandorle	PASTICCINI  ALLE MANDORLE	PASTICCINI ALLE MANDORLE	00:02:15	31	
+03/02/2019	03:26:50	PianadegliAlbanesi'DomenicadellePalme'PiccolaGrandeItalia	PIANA DEGLI ALBANESI	PIANA DEGLI ALBANESI	00:14:12	71	
+03/02/2019	03:41:03	1960Anoipiacefreddo-TognazziVianelloDeFilippo	Tognazzi  Vianello De Filippo	A noi piace caldo	01:44:59	1	
+03/02/2019	05:26:02	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	
+03/02/2019	05:26:05	inTavola_20150205_48237	Sconosciuto	inTavola_2015 02 05	00:01:58	31	
+03/02/2019	05:28:04	agrisapori609x17-5-15	Sconosciuto	SPERLONGA	00:28:59	71	
+03/02/2019	05:57:04	TG	TG 	TELEGIORNALE	00:02:40	31	
+03/02/2019	05:59:45	1970Chisum-JohnWayne	John Wayne	Chisum	01:46:32	1	
+03/02/2019	07:46:17	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	
+03/02/2019	07:46:21	CroccantediMandorle,laricettadiGiallozafferano	CROCCANTEW DI  MANDORLE	CROCCANTE DI  AMNDORLE	00:03:45	31	
+03/02/2019	07:50:06	STILOELACATTOLICA	STILO E LA CATTOLICA	Stilo e la  cattolica	00:07:14	71	
+03/02/2019	07:57:20	1963IlDiavolo-AlbertoSordi	AlbertoSordi	1963 Il Diavolo	01:40:31	1	
+03/02/2019	09:37:52	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	
+03/02/2019	09:37:56	1^LocriCCdel25092014	CONSIGLIO  COMUNALE LOCRI	CONSIGLIO  COMUNALE LOCRI DEL 25092014	01:40:14	31	
+03/02/2019	11:18:11	VideoRicettaTiramisùGalbani	TIRAMI SU	TIRAMI SU	00:01:40	71	
+03/02/2019	11:19:51	VTS_01	ZANDALEE	ZANDALEE	01:32:40	1	
+03/02/2019	12:52:31	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	
+03/02/2019	12:52:35	TG	TG 	TELEGIORNALE	00:02:40	31	
+03/02/2019	12:55:15	LocriCCdel14062013_mpeg2video	CONSIGLIO COMUNALE LOCRI	CONSIGLIO COMUNALE LOCRIDEL 14062013	01:47:02	31	
+03/02/2019	14:42:18	MontaltoUffugoFestadelgranosull'Aia	MONTALTO UFFUGO	MONTALTO  UFFUGO	00:14:29	71	
+03/02/2019	14:56:47	1963Lospettro-BarbaraSteelePeter	Barbara Teeel 	Lo spettro	01:33:35	1	
+03/02/2019	16:30:23	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	
+03/02/2019	16:30:41	Pennetteai4formaggi	PENNETTE 4 FORMAGGI	PENNETTE 4 FORMAGGI	00:02:41	31	
+03/02/2019	16:33:23	MassafraPiccolaGrandeItalia	Piccola grande Italia	Massafra	00:21:33	71	
+03/02/2019	16:54:57	1969Cinquebamboleperlalunad'Agosto-EdwigeFenechIraFurstenberg	Edwige Fenech	cinque bambole per la  luna d'agosto	01:18:20	1	
+03/02/2019	18:13:18	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	
+03/02/2019	18:13:21	ItaliaEconomia_20150603_51311	Italai Economia 8 giug	Nuovo File	00:08:03	31	
+03/02/2019	18:21:24	SardegnaVistadalcielo	Sconosciuto	Sardegna vista dal cielo	00:50:23	71	
+03/02/2019	19:11:48	TG	TG 	TELEGIORNALE	00:02:40	31	
+03/02/2019	19:14:28	1960LaRagazzaConLaValigia	Sconosciuto	La ragazza  con la valigia	01:50:17	1	
+03/02/2019	21:04:46	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	
+03/02/2019	21:04:49	inMoto_20150202_48142	Sconosciuto	inMoto_2015 02 02_	00:01:50	31	
+03/02/2019	21:06:39	NoepoliPiccolaGrandeItalia	Piccola grande Italia	Neapoli	00:16:32	71	
+03/02/2019	21:23:12	1964Unacasarispettabile-DidiPeregoRiccardoGarrone	Sconosciuto	UNA CASA RISPETTABILE	00:39:57	1	
+03/02/2019	22:03:09	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	
+03/02/2019	22:03:12	2^LocriCCdel25092014	CONSIGLIO COMUNALE LOCRI	2^ LOCRI c c del 25092014	01:26:11	31	
+03/02/2019	23:29:24	MontaltoUffugoFestadelgranosull'Aia	MONTALTO UFFUGO	MONTALTO  UFFUGO	00:14:29	71	
+03/02/2019	23:43:53	1967DaUomoAUomo-LeeVanCleef	LEE VAN CLEEF	UOMO AD UOMO	01:50:16	1	
+04/02/2019	01:34:10	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	
+04/02/2019	01:34:14	TG	TG 	TELEGIORNALE	00:02:40	31	
+04/02/2019	01:36:55	OSPEDALEGERACEcopiaottima_mpeg2video	OSPEDALE GERACE	Ospedale Gerace Matteo	00:12:45	31	
+04/02/2019	01:49:40	PraiaaMarePiccolaGrandeItalia	Piccola grande Italia	PRAIA A MARE	00:24:33	71	
+04/02/2019	02:14:14	Ragazzepompom_mpeg2video	Sconosciuto	Ragazze pom pom	01:25:15	1	
+04/02/2019	03:39:29	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	
+04/02/2019	03:39:32	TG	TG 	TELEGIORNALE	00:02:40	31	
+04/02/2019	03:42:13	MusicaeTradizioni	MUSICA E TRADIZIONI	MUSICA E TRADIZIONI	00:10:57	71	
+04/02/2019	03:53:11	1961TornaaSettembre-RockHudsonGinaLollobrigida	Rock Hudson Gina Lollobrigida	Torna a Settembre	01:48:49	1	
+04/02/2019	05:42:01	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	
+04/02/2019	05:42:04	Musa_TV_20150601_51297	musa 8-giu	Nuovo File	00:17:39	31	
+04/02/2019	05:59:43	GliAnimalipiPericolosiGiunglaUrbana(ITA)	Animali pericolosi	ANIMALI PERICOLOSI	00:47:02	71	
+04/02/2019	06:46:46	TG	TG 	TELEGIORNALE	00:02:40	31	
+04/02/2019	06:49:27	1967TreFusti,DueBamboleEUnTesoro-ElvisPresley	Sconosciuto	1967Tre Fusti ,Due Bambole E Un Tesoro	01:31:01	1	
+04/02/2019	08:20:28	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	
+04/02/2019	08:20:47	inMoto_20150202_48142	Sconosciuto	inMoto_2015 02 02_	00:01:50	31	
+04/02/2019	08:22:37	agrisapori608x9-5-15	Sconosciuto	Nuovo File	00:28:40	71	
+04/02/2019	08:51:18	1962Boccaccio70-VittorioDeSica-SofiaLoren	BOCCACCIO 70	BOCCACCIO 70	03:15:26	1	
+04/02/2019	12:06:45	TG	TG 	TELEGIORNALE	00:02:39	31	
+04/02/2019	12:09:24	Il.Diavolo.bn19631°t	IL DIAVOLO B/N SORDI 1°	IL DIAVOLO B/N SORDI 1°	00:51:44	1	
+04/02/2019	13:01:09	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	
+04/02/2019	13:01:12	SEDUTACONSIGLIODEL13032017	consiglio gerace 13  3 017	Nuovo File	00:38:35	31	
+04/02/2019	13:39:48	MassafraPiccolaGrandeItalia	Piccola grande Italia	Massafra	00:21:33	71	
+04/02/2019	14:01:21	Sedottiebidonati	Sconosciuto	Sedotti ed abbandonati	01:37:13	1	
+04/02/2019	15:38:34	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	
+04/02/2019	15:38:53	consigliocomunalegeracedel25092016primaparte	CONSIGLIO GERACE DEL 25.09 016	consigl gerace 1^ parte	01:13:36	31	
+04/02/2019	16:52:30	IpostipibellidellacalabriaDestinationCalabriaGiuseppeScorzaPepoMac@gmailcom_mpeg2video	Sconosciuto	I POSTI PIU  BELLI DELLA CALABRIA	00:03:59	71	
+04/02/2019	16:56:29	Unbigliettoindue_1_mpeg2video	Un biglietto in due_1 P	Nuovo File	00:43:40	1	
+04/02/2019	17:40:10	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	
+04/02/2019	17:40:13	TG	TG 	TELEGIORNALE	00:02:39	31	
+04/02/2019	17:42:52	InstantFuture_Puntata1	INSTANT FUTURE 1 P	INSTANT FUTURE 1 P	00:21:25	31	
+04/02/2019	18:04:18	CarnevalediVenezia2013dal26GENNAIOal12FEBBRAIOYouTube	Sconosciuto	CARNEVALE VENEZIA	00:10:41	71	
+04/02/2019	18:15:00	LichiamaronoBrigantifilmcompleto	LI CHIAMARONO BRIGANTI	LI CHIAMARONO BRIGANTI	02:00:51	1	
+04/02/2019	20:15:51	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	
+04/02/2019	20:15:55	consiglioGeracedel288017	Sconosciuto	consiglio 28 8 17	00:20:04	31	
+04/02/2019	20:35:59	VideopergiornodellaMemoria,pernondimenticare.	IL GIORNO DELLA  MEMORIA	IL GIORNO  DELLA MEMORIA	00:25:46	71	
+04/02/2019	21:01:45	Terapiadurto_mpeg2video	Sconosciuto	Terapia d' urto	01:40:39	1	
+04/02/2019	22:42:25	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	
+04/02/2019	22:42:29	21PIXMINDrev1	PIXMIND	Nuovo File	00:23:59	31	
+04/02/2019	23:06:28	MontaltoUffugoFestadelgranosull'Aia	MONTALTO UFFUGO	MONTALTO  UFFUGO	00:14:29	71	
+04/02/2019	23:20:58	TG	TG 	TELEGIORNALE	00:02:39	31	
+04/02/2019	23:23:37	AbramoIsaccoGiacobbeIsraeleGOIMFEDBCEIMFFMI	Sconosciuto	ABRAMO ISACCO GIACOBBE	01:26:07	1	
+05/02/2019	00:49:44	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	
+05/02/2019	00:49:48	InstantFuture_puntata3	INSTANT FUTURE 3 P	INSTANT FUTURE 3 P	00:22:30	31	
+05/02/2019	01:12:18	TropeaPiccolaGrandeItalia	Piccola grande Italia	TROPEA	00:26:53	71	
+05/02/2019	01:39:11	Controsesso_mpeg2video	Sconosciuto	CONTROSESSO	01:47:23	1	
+05/02/2019	03:26:35	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	
+05/02/2019	03:26:38	OSPEDALEGERACEcopiaottima_mpeg2video	OSPEDALE GERACE	Ospedale Gerace Matteo	00:12:45	31	
+05/02/2019	03:39:24	GrotteriaPresepe2012_mpeg2video(1)	GROTTERIA PRESEPE	GROTTERIA PRESEPE	00:46:15	71	
+05/02/2019	04:25:39	AmicimieiattoIII_mpeg2video	Sconosciuto	AMICI MIEI  ATTO III	01:49:20	1	
+05/02/2019	06:15:00	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	
+05/02/2019	06:15:04	TG	TG 	TELEGIORNALE	00:02:39	31	
+05/02/2019	06:17:43	consigliocomunalegerace	CONSIGLIO  COMUN GERACE 18 6 016	CONSIGLIO  COMUN 18 06 016	01:28:01	31	
+05/02/2019	07:45:45	STILOELACATTOLICA	STILO E LA CATTOLICA	Stilo e la  cattolica	00:07:14	71	
+05/02/2019	07:52:59	StarshipTroopers-FanteriaDelloSpazio	STARSHIP TROOPERS	STARSHIP TROOPERS	02:04:18	1	
+05/02/2019	09:57:18	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	
+05/02/2019	09:57:37	Pennetteai4formaggi	PENNETTE 4 FORMAGGI	PENNETTE 4 FORMAGGI	00:02:41	31	
+05/02/2019	10:00:19	Caltagirone2010PiccolaGrandeItalia	CALTAGIRONE	CALTAGIRONE	00:24:23	71	
+05/02/2019	10:24:42	Ragazzepompom_mpeg2video	Sconosciuto	Ragazze pom pom	01:25:15	1	
+05/02/2019	11:49:57	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	
+05/02/2019	11:50:00	Geracesedutaconsiliaredel5Ottobre2016(byEL)	seduta consiglio gerace 5 10 106	consiglio gerac 5.10.016	01:30:13	31	
+05/02/2019	13:20:14	Olocausto.Lafabbricadelmale	olocxausto	LA FABBRICA DEL  MALE	01:23:34	71	
+05/02/2019	14:43:49	TG	TG 	TELEGIORNALE	00:02:39	31	
+05/02/2019	14:46:29	Cacciaalmarito_mpeg2video_001	Sconosciuto	CACCIA AL MARITO	01:45:42	1	
+05/02/2019	16:32:11	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	
+05/02/2019	16:32:14	GeraceConsiglioComunaleStraordinariodel16Dic2015(byEL)	CONSIGLIO  COMUNALE GERACE 	Consiglio  comunale gerace del 16 dic 015	00:50:31	31	
+05/02/2019	17:22:45	agrisapori-624x30-8-15	grisapori	AGRISAPORI	00:27:35	71	
+05/02/2019	17:50:21	Ritorno.Al.Futuro.2-iTALiAN.DvDRip.DivX-AuDaX	Sconosciuto	Ritorno  al  futuro 2	01:43:36	1	
+05/02/2019	19:33:58	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	
+05/02/2019	19:34:01	premiostadioradio-nona-edizione-cut-tv	premio stadio radio 2017	Nuovo Filepremio stadio radio 2017	02:08:32	31	
+05/02/2019	21:42:33	MusicaeTradizioni	MUSICA E TRADIZIONI	MUSICA E TRADIZIONI	00:10:57	71	
+05/02/2019	21:53:31	A027DaLasVegas_mpeg2video	Sconosciuto	A 27 LAS VEGAS	01:30:34	1	
+05/02/2019	23:24:06	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	
+05/02/2019	23:24:24	TG	TG 	TELEGIORNALE	00:02:39	31	
+05/02/2019	23:27:04	CorsoUrgenzaEmergenza	CORSO URGENZA EMERGENZA	CORSO  URGENZA EMERGENZA	01:03:16	31	
+06/02/2019	00:30:20	045-NiloVittoria,ilFiumedellaPreistoria(10')eD	NILO 	IL  LUME DELLA PREISTORIA	00:09:54	71	
+06/02/2019	00:40:15	IlVizietto2°t.	IL VIZIETTO 2° T	IL VIZIETTO 2° T	00:44:25	1	
+06/02/2019	01:24:41	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	
+06/02/2019	01:24:44	INSTANTFUTURE	intant future p7	INSTANT FUTURE p7	00:23:18	31	
+06/02/2019	01:48:02	047-LaRiservaNaturalediAlmaAta(21')eD	LA RISERVA NATURALE DI ALMAT...	Nuovo File	00:20:34	71	
+06/02/2019	02:08:36	Perfavorenontoccatelevecchiette_2_mpeg2video	Sconosciuto	PER FAVORE  NN TOCCATE LE VECCHIETTE 2	00:43:02	1	
+06/02/2019	02:51:38	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	
+06/02/2019	02:51:42	CONSIGLIOCOMGERA25SETT2^Parte	gerace consiglio  comunale	Consiglio  com 2à parte del 25 09 016	02:29:42	31	
+06/02/2019	05:21:24	IlBrigantaggio	IL  BRIGANTAGGIO	IL  BRIGANTAGGIO	00:32:04	71	
+06/02/2019	05:53:29	TG	TG 	TELEGIORNALE	00:02:39	31	
+06/02/2019	05:56:08	AttackForce	ATTACK FORCR 	ATTACK FORCE	01:30:35	1	
+06/02/2019	07:26:43	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	
+06/02/2019	07:26:46	ConsigliocomunaleGeracedel30settembre2017	cosiglio comunale gerace 30 sett 017	Nuovo File	01:52:24	31	
+06/02/2019	09:19:11	CariatiPiccolaGrandeItalia	CARIATI	cariati	00:21:41	71	
+06/02/2019	09:40:52	DonCamilloMonsignoremanontroppo	DON CAMILLO   MONSIGNORE	DON CAMILLO MONSIGNORE	01:53:25	1	
+06/02/2019	11:34:18	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	
+06/02/2019	11:34:21	InstantFuturepuntata5	INSTANT FUTURE 5 P	INSTANT FUTURE 5 P	00:22:23	31	
+06/02/2019	11:56:45	AnimaliSerpentiFascinoLetale(Ita)	ANIMALI SERPENTI	ANIMALI SERPENTI	00:52:05	71	
+06/02/2019	12:48:51	Cacciaallavolpe_1_mpeg2video	Sconosciuto	CACCIA ALLA VOLPE 1	00:51:12	1	
+06/02/2019	13:40:03	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	
+06/02/2019	13:40:06	TG	TG 	TELEGIORNALE	00:02:39	31	
+06/02/2019	13:42:46	SEDUTACONSIGLIODEL13032017	consiglio gerace 13  3 017	Nuovo File	00:38:35	31	
+06/02/2019	14:21:21	Potaturadell'OlivonellaLocride3Ed_mpeg2video	Sconosciuto	Potatura  dell' olivo  nella Locride 013	01:51:49	71	
+06/02/2019	16:13:11	MenInBlackI_mpeg2video	Sconosciuto	Men In Black I	01:34:00	1	
+06/02/2019	17:47:12	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	
+06/02/2019	17:47:30	consigliocomunalegerace	CONSIGLIO  COMUN GERACE 18 6 016	CONSIGLIO  COMUN 18 06 016	01:28:01	31	
+06/02/2019	19:15:32	agrisapori604x12-4-15	AGRISAPORI	AGRISAPORI	00:29:07	71	
+06/02/2019	19:44:39	Unacoppiaperfetta_mpeg2video	Sconosciuto	Una coppia  perfetta	01:46:00	1	
+06/02/2019	21:30:40	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	
+06/02/2019	21:30:43	GeraceConsiglioComunaleStraordinariodel16Dic2015(byEL)	CONSIGLIO  COMUNALE GERACE 	Consiglio  comunale gerace del 16 dic 015	00:50:31	31	
+06/02/2019	22:21:14	agrisapori613x14-6-15	AGRISAPORI	AGRISAPORI	00:26:49	71	
+06/02/2019	22:48:04	TG	TG 	TELEGIORNALE	00:02:39	31	
+06/02/2019	22:50:44	Laclinicadellamore_mpeg2video	Sconosciuto	La clinica dell'amore	01:28:52	1	
+07/02/2019	00:19:36	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	
+07/02/2019	00:19:40	InstantFuture_Puntata1	INSTANT FUTURE 1 P	INSTANT FUTURE 1 P	00:21:25	31	
+07/02/2019	00:41:05	agrisapori608x9-5-15	Sconosciuto	Nuovo File	00:28:40	71	
+07/02/2019	01:09:46	DonCamilloel'onorevolePeppone	Sconosciuto	DON CAMILLO E L 'ONOREVOLE PEPPONE	01:37:00	1	
+07/02/2019	02:46:47	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	
+07/02/2019	02:47:06	Pasticciniallemandorle	PASTICCINI  ALLE MANDORLE	PASTICCINI ALLE MANDORLE	00:02:15	31	
+07/02/2019	02:49:21	DOCUMENTARIOAuschwitz	Auschwitz	Auschwitz	00:26:56	71	
+07/02/2019	03:16:17	Terminator3_mpeg2video	TERMINATOR 3	FILM	01:44:38	1	
+07/02/2019	05:00:55	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	
+07/02/2019	05:00:59	TG	TG 	TELEGIORNALE	00:02:39	31	
+07/02/2019	05:03:38	FM21	FORMULA  MOTORI 21	Nuovo File	00:23:58	31	
+07/02/2019	05:27:37	GliAnimalipiPericolosiGiunglaUrbana(ITA)	Animali pericolosi	ANIMALI PERICOLOSI	00:47:02	71	
+07/02/2019	06:14:40	Speed	SPEED	SPEED	01:50:00	1	
+07/02/2019	08:04:40	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	
+07/02/2019	08:04:44	CroccantediMandorle,laricettadiGiallozafferano	CROCCANTEW DI  MANDORLE	CROCCANTE DI  AMNDORLE	00:03:45	31	
+07/02/2019	08:08:29	046-Bangkok,laVeneziad'Oriente(15')eD	BANNGKOC	Nuovo File	00:15:19	71	
+07/02/2019	08:23:48	StarshipTroopers2-Glieroidellafederazione	Sconosciuto	Trooper 2	01:27:52	1	
+07/02/2019	09:51:40	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	
+07/02/2019	09:51:43	CocktaildiGamberetti,laricettadiGiallozafferano	COKTAIL DI  GAMBERETTI	COKTAIL DI GAMBERETTI	00:02:59	31	
+07/02/2019	09:54:43	agrisapori610x24-5-15	AGRISAPORI	AGISAPORI	00:31:12	71	
+07/02/2019	10:25:55	TG	TG 	TELEGIORNALE	00:02:39	31	
+07/02/2019	10:28:35	Sia-Chandelier	SIA	CHANDELEIR	00:03:40	1	
+07/02/2019	10:32:16	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	
+07/02/2019	10:32:19	21PIXMINDrev1	PIXMIND	Nuovo File	00:23:59	31	
+07/02/2019	10:56:19	049-LaTerradelSoleRosso(11')eD	LA TERRA DEL   SOLE ROSSO	LA TERRA DEL   SOLE  ROSSO	00:10:48	71	
+07/02/2019	11:07:07	Arma.Da.Taglio.19722°t	ARMA DA TAGLIO 2°	ARMA DA TAGLIO 2°	00:37:18	1	
+07/02/2019	11:44:26	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	
+07/02/2019	11:44:29	InstantFuture_puntata3	INSTANT FUTURE 3 P	INSTANT FUTURE 3 P	00:22:30	31	
+07/02/2019	12:06:59	agrisapori606x27-4-15	AGRISAPORI	AGRISAPORI	00:30:54	71	
+07/02/2019	12:37:54	Il.Diavolo.bn19632°t	IL DIAVOLO B/N SORDI 2°	IL DIAVOLO B/N SORDI 2°	00:53:09	1	
+07/02/2019	13:31:03	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	
+07/02/2019	13:31:06	TG	TG 	TELEGIORNALE	00:02:39	31	
+07/02/2019	13:33:46	premiostadioradio-nona-edizione-cut-tv	premio stadio radio 2017	Nuovo Filepremio stadio radio 2017	02:08:32	31	
+07/02/2019	15:42:18	SardegnaVistadalcielo	Sconosciuto	Sardegna vista dal cielo	00:50:23	71	
+07/02/2019	16:32:41	TotoaParigi_mpeg2video	Sconosciuto	Tot a Prigi	01:33:42	1	
+07/02/2019	18:06:23	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	
+07/02/2019	18:06:42	Geracesedutaconsiliaredel5Ottobre2016(byEL)	seduta consiglio gerace 5 10 106	consiglio gerac 5.10.016	01:30:13	31	
+07/02/2019	19:36:56	042-Tanzania,TerradiAmici(14')eD	TANZANIA	Nuovo File	00:14:05	71	
+07/02/2019	19:51:01	Nessunoèperfetto_mpeg2video	nessuno è perfetto	Nessuno è perfetto	01:37:33	1	
+07/02/2019	21:28:34	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	
+07/02/2019	21:28:38	InstantFuturepuntata5	INSTANT FUTURE 5 P	INSTANT FUTURE 5 P	00:22:23	31	
+07/02/2019	21:51:02	Carnevale2013Flashsulprimocorsomascherato	Sconosciuto	CARNEVALE VENEZIA 2	00:23:04	71	
+07/02/2019	22:14:06	TG	TG 	TELEGIORNALE	00:02:39	31	
+07/02/2019	22:16:45	Fantozzisubisceancora	FANTOZZI  SUBISCE ANCORA	FANTOZZI  SUBISCE ANCORA	01:23:46	1	
+07/02/2019	23:40:32	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	
+07/02/2019	23:40:36	LocriCCdel14062013_mpeg2video	CONSIGLIO COMUNALE LOCRI	CONSIGLIO COMUNALE LOCRIDEL 14062013	01:47:02	31	
+08/02/2019	01:27:38	agrisapori-621x9-8-15	AGRISAPORI	AGRISAPORI	00:27:11	71	
+08/02/2019	01:54:49	0114-1968PreparatiLaBara-TerenceHill_mpeg2video	Sconosciuto	PREPARATI LA  BARA	01:28:01	1	
+08/02/2019	03:22:51	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	
+08/02/2019	03:22:54	CONSIGLIOCOMGERA25SETT2^Parte	gerace consiglio  comunale	Consiglio  com 2à parte del 25 09 016	02:29:42	31	
+08/02/2019	05:52:36	VideoRicettaTiramisùGalbani	TIRAMI SU	TIRAMI SU	00:01:40	71	
+08/02/2019	05:54:17	InsideI'mdancing	INSIDEL MDANCING	FILM	01:39:53	1	
+08/02/2019	07:34:10	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	
+08/02/2019	07:34:13	TG	TG 	TELEGIORNALE	00:02:39	31	
+08/02/2019	07:36:52	INSTANTFUTURE	intant future p7	INSTANT FUTURE p7	00:23:18	31	
+08/02/2019	08:00:10	BonifatiPiccolaGrandeItalia	bonifati	bonifati	00:21:55	71	
+08/02/2019	08:22:06	Azzurro_mpeg2video	Sconosciuto	AZZURRO	01:21:51	1	
+08/02/2019	09:43:58	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	
+08/02/2019	09:44:01	consigliocomunalegeracedel25092016primaparte	CONSIGLIO GERACE DEL 25.09 016	consigl gerace 1^ parte	01:13:36	31	
+08/02/2019	10:57:37	agrisapori596x8-2-15	GIAGLIONESconosciuto	Nuovo FiAGRISAPORI	00:31:19	71	
+08/02/2019	11:28:57	MenInBlackII	Sconosciuto	Men In Black II	01:24:32	1	
+08/02/2019	12:53:29	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	
+08/02/2019	12:53:32	CONSIGLIOGERACEDEL1311016	consiglio gerace PEZZIMNENTI	CONSIGLIO GERACE DE 13  NOV 2016	00:44:22	31	
+08/02/2019	13:37:55	agrisapori627X20-9_15	AGRISAPORI	AGRISAPORI	00:26:45	71	
+08/02/2019	14:04:41	TG	TG 	TELEGIORNALE	00:02:39	31	
+08/02/2019	14:07:20	AmiciMieiAttoII_mpeg2video	Sconosciuto	AMICI MIEI  ATTO II	02:07:00	1	
+08/02/2019	16:14:20	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	
+08/02/2019	16:14:39	OSPEDALEGERACEcopiaottima_mpeg2video	OSPEDALE GERACE	Ospedale Gerace Matteo	00:12:45	31	
+08/02/2019	16:27:24	Gerace	GERACE	GERACE	00:06:01	71	
+08/02/2019	16:33:25	OnceWereWarriors2(completo)	ONCE WERRIORS 2	Once were Warriors	01:38:23	1	
+08/02/2019	18:11:49	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	
+08/02/2019	18:11:52	CorsoUrgenzaEmergenza	CORSO URGENZA EMERGENZA	CORSO  URGENZA EMERGENZA	01:03:16	31	
+08/02/2019	19:15:09	050-IlTriangolod'Oro(20')eD	IL TRIANGOLO D 'ORO	IL TRIANGOLO  D 'ORO	00:19:13	71	
+08/02/2019	19:34:22	LabattagliadellaNeretva19692°t.	LA BATTAGLIA DELLA NERETVA 2° T	LA BATTAGLIA DELLA NERETVA 2° T	01:10:07	1	
+08/02/2019	20:44:30	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	
+08/02/2019	20:44:34	TG	TG 	TELEGIORNALE	00:02:39	31	
+08/02/2019	20:47:13	Pennetteai4formaggi	PENNETTE 4 FORMAGGI	PENNETTE 4 FORMAGGI	00:02:41	31	
+08/02/2019	20:49:55	Atlantis	ATLANTIS	ATLANTIS	01:27:36	71	
+08/02/2019	22:17:31	CompagnoDonCamillo_mpeg2video	Sconosciuto	COMPAGNO  DON CAMILLO	01:42:17	1	
+08/02/2019	23:59:48	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	
+08/02/2019	23:59:52	inTavola_20150205_48237	Sconosciuto	inTavola_2015 02 05	00:01:58	31	
+09/02/2019	00:01:50	MalfaPiccolaGrandeItalia	Piccola Grande Italia MALFA	Malfa	00:21:29	71	
+09/02/2019	00:23:20	2Fastand2Furios	Sconosciuto	Nuovo File	01:43:10	1	
+09/02/2019	02:06:30	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	
+09/02/2019	02:06:33	ConsigliocomunaleGeracedel30settembre2017	cosiglio comunale gerace 30 sett 017	Nuovo File	01:52:24	31	
+09/02/2019	03:58:58	PianadegliAlbanesi'DomenicadellePalme'PiccolaGrandeItalia	PIANA DEGLI ALBANESI	PIANA DEGLI ALBANESI	00:14:12	71	
+09/02/2019	04:13:10	TG	TG 	TELEGIORNALE	00:02:39	31	
+09/02/2019	04:15:49	Senzanomesanzaregole	SENZA NOME SENZA REGOLE	Senza nome senza regole	01:43:39	1	
+09/02/2019	05:59:29	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	
+09/02/2019	05:59:33	consiglioGeracedel288017	Sconosciuto	consiglio 28 8 17	00:20:04	31	
+09/02/2019	06:19:37	agrisapori615x28-6-15	Sconosciuto	AGRISAPORI xpo mi	00:31:34	71	
+09/02/2019	06:51:11	Taxidriver_1_mpeg2video	Sconosciuto	TAX DRIVER 1P	00:55:26	1	
+09/02/2019	07:46:38	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	
+09/02/2019	07:46:57	CONSIGLIOCOMUNALE30MARZO2017	consiglio gerace del 30 3 017	consiglio gerace 30 3 17	00:45:44	31	
+09/02/2019	08:32:42	agrisapori618x19-7-15	AGRISAPORI	La Magdaleine	00:08:48	71	
+09/02/2019	08:41:30	Nell'annoDelSignoreManfredi,Sordi,Tognazzi(Filmcompleto)	Sconosciuto	Nell'anno del  Signore	01:57:54	1	
+09/02/2019	10:39:25	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	
+09/02/2019	10:39:28	TG	TG 	TELEGIORNALE	00:02:39	31	
+09/02/2019	10:42:07	Consiglio29ott2016xregia	CONSIGLIO COMUNALE GERACE 	CONS DEL 29 OTT 2016	00:00:02	31	
+09/02/2019	10:42:09	MagnificaItaliaCalabria_mpeg2video	Sconosciuto	Calabria	00:52:09	71	
+09/02/2019	11:34:19	Mettilodiavolotuonelomioinferno_mpeg2video	Sconosciuto	Metti  lo  diavolo  ne lo  tuo inferno	01:20:45	1	
+09/02/2019	12:55:05	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	
+09/02/2019	12:55:08	CorsoUrgenzaEmergenza	CORSO URGENZA EMERGENZA	CORSO  URGENZA EMERGENZA	01:03:16	31	
+09/02/2019	13:58:25	agrisapori-623x23-8-15	AGRISAPORI	AGRISAPORI	00:00:01	71	
+09/02/2019	13:58:27	Statebuoni,Sepotete(TuttoilFilm)SanFilippoNeri(Et+12)	Sconosciuto	STATE  BUONI SE  POTETE	02:29:17	1	
+09/02/2019	16:27:44	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	
+09/02/2019	16:27:47	consigliocomunalegeracedel25092016primaparte	CONSIGLIO GERACE DEL 25.09 016	consigl gerace 1^ parte	01:13:36	31	
+09/02/2019	17:41:24	043-NgoroNgoro,l'UltimaArca(14')eD	NGORO NGORO	Nuovo File	00:13:29	71	
+09/02/2019	17:54:53	TG	TG 	TELEGIORNALE	00:02:39	31	
+09/02/2019	17:57:33	Malibùmostwanted_mpeg2video	Sconosciuto	MALIBU MONS WANTED	01:22:35	1	
+09/02/2019	19:20:08	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	
+09/02/2019	19:20:27	InstantFuture_puntata3	INSTANT FUTURE 3 P	INSTANT FUTURE 3 P	00:22:30	31	
+09/02/2019	19:42:57	044-LaSavanadeiSerengheti(15')eD	LA SAVANA	Nuovo File	00:14:19	71	
+09/02/2019	19:57:16	Roma.drogata.la.polizia.non_.puo.intervenire.19752°t.	ROMA DROGATA 2^	ROMA DROGATA 2^	00:41:14	1	
+09/02/2019	20:38:30	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	
+09/02/2019	20:38:33	consigliocomunalegerace	CONSIGLIO  COMUN GERACE 18 6 016	CONSIGLIO  COMUN 18 06 016	01:28:01	31	
+09/02/2019	22:06:35	SerraSanBrunoPiccolaGrandeItalia	Piccola Grande Italia	SERRA S. BRUNO	00:20:58	71	
+09/02/2019	22:27:34	Roma.drogata.la.polizia.non_.puo.intervenire.19751°t.	ROMA DROGATA 1^	ROMA DROGATA 1^	00:48:20	1	
+09/02/2019	23:15:54	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	
+09/02/2019	23:15:58	TG	TG 	TELEGIORNALE	00:02:39	31	
+09/02/2019	23:18:37	SEDUTACONSIGLIODEL13032017	consiglio gerace 13  3 017	Nuovo File	00:38:35	31	
+09/02/2019	23:57:12	NoepoliPiccolaGrandeItalia	Piccola grande Italia	Neapoli	00:16:32	71	
+10/02/2019	00:13:45	Iquattrodell'apocalisseLucioFulci(FILMCOMPLETO)	Sconosciuto	I 4 DELL'APOCALISSE	01:44:06	1	
+10/02/2019	01:57:51	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	
+10/02/2019	01:57:54	Pasticciniallemandorle	PASTICCINI  ALLE MANDORLE	PASTICCINI ALLE MANDORLE	00:02:15	31	
+10/02/2019	02:00:10	SardegnaVistadalcielo	Sconosciuto	Sardegna vista dal cielo	00:50:23	71	
+10/02/2019	02:50:33	Ritorno.Al.Futuro.3-iTALiAN.DvDRip.DivX-AuDaX	Sconosciuto	Ritorno  al  futuro 3	01:53:23	1	
+10/02/2019	04:43:57	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	
+10/02/2019	04:44:00	InstantFuturepuntata5	INSTANT FUTURE 5 P	INSTANT FUTURE 5 P	00:22:23	31	
+10/02/2019	05:06:24	PraiaaMarePiccolaGrandeItalia	Piccola grande Italia	PRAIA A MARE	00:24:33	71	
+10/02/2019	05:30:58	TG	TG 	TELEGIORNALE	00:02:39	31	
+10/02/2019	05:33:37	Storiediamorieinfedelta_mpeg2video	Sconosciuto	Storie di  amori ed infedeltà	01:23:30	1	
+10/02/2019	06:57:08	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	
+10/02/2019	06:57:11	OSPEDALEGERACEcopiaottima_mpeg2video	OSPEDALE GERACE	Ospedale Gerace Matteo	00:12:45	31	
+10/02/2019	07:09:57	NoepoliPiccolaGrandeItalia	Piccola grande Italia	Neapoli	00:16:32	71	
+10/02/2019	07:26:29	FantozziVaInPensione	FANTOZZI VA IN PENSIONE	FANTOZZI VA IN PENSIONE	01:34:36	1	
+10/02/2019	09:01:05	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	
+10/02/2019	09:01:24	CONSIGLIOCOMUNALE30MARZO2017	consiglio gerace del 30 3 017	consiglio gerace 30 3 17	00:45:44	31	
+10/02/2019	09:47:09	ReggioCalabriaPiccolaGrandeItalia	Sconosciuto	Reggio piccola grande Italia  	00:22:12	71	
+10/02/2019	10:09:22	Speed2-SenzaLimiti	SPOEED 2 SENZA LIMITI	SPEED 2 SENZA LIMITI	01:54:12	1	
+10/02/2019	12:03:34	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	
+10/02/2019	12:03:38	TG	TG 	TELEGIORNALE	00:02:39	31	
+10/02/2019	12:06:17	consiglioGeracedel288017	Sconosciuto	consiglio 28 8 17	00:20:04	31	
+10/02/2019	12:26:22	agrisapori-624x30-8-15	grisapori	AGRISAPORI	00:27:35	71	
+10/02/2019	12:53:57	0110-1968-Calmaragazzeoggimisposo-LouisDeFunes_mpeg2video	Sconosciuto	CALMA RAGAZZE  OGGI   MI  SPOSO	01:25:55	1	
+10/02/2019	14:19:53	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	
+10/02/2019	14:19:57	GeraceConsiglioComunaleStraordinariodel16Dic2015(byEL)	CONSIGLIO  COMUNALE GERACE 	Consiglio  comunale gerace del 16 dic 015	00:50:31	31	
+10/02/2019	15:10:28	agrisapori604x12-4-15	AGRISAPORI	AGRISAPORI	00:29:07	71	
+10/02/2019	15:39:35	Schoolofrock	Schoolofrock	SCHOOLOFROK	01:44:45	1	
+10/02/2019	17:24:21	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	
+10/02/2019	17:24:24	CroccantediMandorle,laricettadiGiallozafferano	CROCCANTEW DI  MANDORLE	CROCCANTE DI  AMNDORLE	00:03:45	31	
+10/02/2019	17:28:09	DOCUMENTARIOAuschwitz	Auschwitz	Auschwitz	00:26:56	71	
+10/02/2019	17:55:06	TG	TG 	TELEGIORNALE	00:02:39	31	
+10/02/2019	17:57:45	Cosedamaschi_mpeg2video	Sconosciuto	COSE DA MASCHI	01:33:44	1	
+10/02/2019	19:31:29	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	
+10/02/2019	19:31:32	FM21	FORMULA  MOTORI 21	Nuovo File	00:23:58	31	
+10/02/2019	19:55:31	042-Tanzania,TerradiAmici(14')eD	TANZANIA	Nuovo File	00:14:05	71	
+10/02/2019	20:09:36	MammaHoRipersoL'aereoEMiSonoSmarritoANewYork	Mamma ho riperso l' aereo e mi  sono smarrito a New York	Nuovo File	01:48:03	1	
+10/02/2019	21:57:40	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	
+10/02/2019	21:57:43	ConsigliocomunaleGeracedel30settembre2017	cosiglio comunale gerace 30 sett 017	Nuovo File	01:52:24	31	
+10/02/2019	23:50:08	047-LaRiservaNaturalediAlmaAta(21')eD	LA RISERVA NATURALE DI ALMAT...	Nuovo File	00:20:34	71	
+11/02/2019	00:10:42	Qualcosadicuisparlare_mpeg2video	Sconosciuto	Qualcosa di  cui  sparlare	01:40:41	1	
+11/02/2019	01:51:23	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	
+11/02/2019	01:51:26	TG	TG 	TELEGIORNALE	00:02:39	31	
+11/02/2019	01:54:06	21PIXMINDrev1	PIXMIND	Nuovo File	00:23:59	31	
+11/02/2019	02:18:06	Caltagirone2010PiccolaGrandeItalia	CALTAGIRONE	CALTAGIRONE	00:24:23	71	
+11/02/2019	02:42:29	Segretaria_mpeg2video	Sconosciuto	Segretaria	01:46:42	1	
+11/02/2019	04:29:11	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	
+11/02/2019	04:29:30	Pennetteai4formaggi	PENNETTE 4 FORMAGGI	PENNETTE 4 FORMAGGI	00:02:41	31	
+11/02/2019	04:32:12	MusicaeTradizioni	MUSICA E TRADIZIONI	MUSICA E TRADIZIONI	00:10:57	71	
+11/02/2019	04:43:10	Ilpadrino	IL PADRINO	Il padrino	02:48:04	1	
+11/02/2019	07:31:14	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	
+11/02/2019	07:31:17	Consiglio29ott2016xregia	CONSIGLIO COMUNALE GERACE 	CONS DEL 29 OTT 2016	00:00:02	31	
+11/02/2019	07:31:19	AnimaliSerpentiFascinoLetale(Ita)	ANIMALI SERPENTI	ANIMALI SERPENTI	00:52:05	71	
+11/02/2019	08:23:25	TG	TG 	TELEGIORNALE	00:02:39	31	
+11/02/2019	08:26:04	Rosolinopaternosoldato_mpeg2video	ROSOLINO PATERNO SOLDATO	Rosolino paterno  soldato	01:35:57	1	
+11/02/2019	10:02:02	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	
+11/02/2019	10:02:05	inTavola_20150205_48237	Sconosciuto	inTavola_2015 02 05	00:01:58	31	
+11/02/2019	10:04:04	049-LaTerradelSoleRosso(11')eD	LA TERRA DEL   SOLE ROSSO	LA TERRA DEL   SOLE  ROSSO	00:10:48	71	
+11/02/2019	10:14:52	ChiedimiSeSonoFelice_mpeg2video	CHIEDIMI SE SONO  FELICE	CHIEDIMI SE SONO  FELICE	01:36:35	1	
+11/02/2019	11:51:27	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	
+11/02/2019	11:51:31	premiostadioradio-nona-edizione-cut-tv	premio stadio radio 2017	Nuovo Filepremio stadio radio 2017	02:08:32	31	
+11/02/2019	14:00:03	agrisapori-623x23-8-15	AGRISAPORI	AGRISAPORI	00:00:01	71	
+11/02/2019	14:00:05	CiccioeFrancoSatiricosissimo_mpeg2video	FRANCO FRANCHI INGRASSIA	SATIRICONISSIMO	01:25:00	1	
+11/02/2019	15:25:05	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	
+11/02/2019	15:25:09	TG	TG 	TELEGIORNALE	00:02:39	31	
+11/02/2019	15:27:48	LocriCCdel14062013_mpeg2video	CONSIGLIO COMUNALE LOCRI	CONSIGLIO COMUNALE LOCRIDEL 14062013	01:47:02	31	
+11/02/2019	17:14:50	CariatiPiccolaGrandeItalia	CARIATI	cariati	00:21:41	71	
+11/02/2019	17:36:32	Papadiventamamma_mpeg2video	PAPA  DIVENTA  MAMMA	PAPA  DIVENTA  MAMMA	01:20:22	1	
+11/02/2019	18:56:54	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	
+11/02/2019	18:57:13	CONSIGLIOGERACEDEL1311016	consiglio gerace PEZZIMNENTI	CONSIGLIO GERACE DE 13  NOV 2016	00:44:22	31	
+11/02/2019	19:41:36	agrisapori596x8-2-15	GIAGLIONESconosciuto	Nuovo FiAGRISAPORI	00:31:19	71	
+11/02/2019	20:12:55	Tadpole_mpeg2video	Sconosciuto	TODPOLE	01:15:05	1	
+11/02/2019	21:28:00	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	
+11/02/2019	21:28:04	CocktaildiGamberetti,laricettadiGiallozafferano	COKTAIL DI  GAMBERETTI	COKTAIL DI GAMBERETTI	00:02:59	31	
+11/02/2019	21:31:03	TropeaPiccolaGrandeItalia	Piccola grande Italia	TROPEA	00:26:53	71	
+11/02/2019	21:57:57	TG	TG 	TELEGIORNALE	00:02:39	31	
+11/02/2019	22:00:36	Perunpugnonellocchio_mpeg2video	Sconosciuto	Per  un  pugno  nell' occhio	01:34:51	1	
+11/02/2019	23:35:28	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	
+11/02/2019	23:35:31	InstantFuture_Puntata1	INSTANT FUTURE 1 P	INSTANT FUTURE 1 P	00:21:25	31	
+11/02/2019	23:56:57	MagnificaItaliaCalabria_mpeg2video	Sconosciuto	Calabria	00:52:09	71	
+12/02/2019	00:49:07	JuwannaMann_mpeg2video	Sconosciuto	Juawanna Mann	01:26:54	1	
+12/02/2019	02:16:01	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	
+12/02/2019	02:16:05	Geracesedutaconsiliaredel5Ottobre2016(byEL)	seduta consiglio gerace 5 10 106	consiglio gerac 5.10.016	01:30:13	31	
+12/02/2019	03:46:18	agrisapori614x21-6-15	Sconosciuto	AGRISAPORI	00:17:56	71	
+12/02/2019	04:04:15	'NataleinCasaCupiello'diEduardodeFilippoINTEGRALE_mpeg2video	Commedia	Natale in casa   Cupiello	02:12:48	1	
+12/02/2019	06:17:03	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	
+12/02/2019	06:17:06	TG	TG 	TELEGIORNALE	00:02:39	31	
+12/02/2019	06:19:46	INSTANTFUTURE	intant future p7	INSTANT FUTURE p7	00:23:18	31	
+12/02/2019	06:43:04	MassafraPiccolaGrandeItalia	Piccola grande Italia	Massafra	00:21:33	71	
+12/02/2019	07:04:37	Labandadeglionesti_mpeg2video	LA BANDA DEGLI ONESTI	LA BANDA DEGLI  ONESTI	01:40:55	1	
+12/02/2019	08:45:33	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	
+12/02/2019	08:45:36	CONSIGLIOCOMGERA25SETT2^Parte	gerace consiglio  comunale	Consiglio  com 2à parte del 25 09 016	02:29:42	31	
+12/02/2019	11:15:18	agrisapori627X20-9_15	AGRISAPORI	AGRISAPORI	00:26:45	71	
+12/02/2019	11:42:04	LabattagliadellaNeretva19691°t.	LA BATTAGLIA DELLA NERETVA 1° T	LA BATTAGLIA DELLA NERETVA 1° T	01:14:05	1	
+12/02/2019	12:56:09	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	
+12/02/2019	12:56:28	FM21	FORMULA  MOTORI 21	Nuovo File	00:23:58	31	
+12/02/2019	13:20:27	043-NgoroNgoro,l'UltimaArca(14')eD	NGORO NGORO	Nuovo File	00:13:29	71	
+12/02/2019	13:33:56	TG	TG 	TELEGIORNALE	00:02:39	31	
+12/02/2019	13:36:36	Tempimoderni_mpeg2video	Sconosciuto	Tempi  moderni	01:27:33	1	
+12/02/2019	15:04:09	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	
+12/02/2019	15:04:12	InstantFuturepuntata5	INSTANT FUTURE 5 P	INSTANT FUTURE 5 P	00:22:23	31	
+12/02/2019	15:26:36	STILOELACATTOLICA	STILO E LA CATTOLICA	Stilo e la  cattolica	00:07:14	71	
+12/02/2019	15:33:51	UmbertoD(1952)unfilmdiVittorioDeSica	Sconosciuto	Umberto D	01:28:17	1	
+12/02/2019	17:02:09	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	
+12/02/2019	17:02:12	CroccantediMandorle,laricettadiGiallozafferano	CROCCANTEW DI  MANDORLE	CROCCANTE DI  AMNDORLE	00:03:45	31	
+12/02/2019	17:05:57	VideopergiornodellaMemoria,pernondimenticare.	IL GIORNO DELLA  MEMORIA	IL GIORNO  DELLA MEMORIA	00:25:46	71	
+12/02/2019	17:31:44	Bertoldo,BertoldinoeCacasennoSordi,Tognazzi(Filmcompleto)	Sconosciuto	BERTOLDO BERTOLDINO E CACASENNO	01:59:40	1	
+12/02/2019	19:31:24	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	
+12/02/2019	19:31:27	TG	TG 	TELEGIORNALE	00:02:39	31	
+12/02/2019	19:34:06	InstantFuture_puntata3	INSTANT FUTURE 3 P	INSTANT FUTURE 3 P	00:22:30	31	
+12/02/2019	19:56:36	045-NiloVittoria,ilFiumedellaPreistoria(10')eD	NILO 	IL  LUME DELLA PREISTORIA	00:09:54	71	
+12/02/2019	20:06:31	ThePrison	Sconosciuto	The  prison	01:45:47	1	
+12/02/2019	21:52:19	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	
+12/02/2019	21:52:23	Consiglio29ott2016xregia	CONSIGLIO COMUNALE GERACE 	CONS DEL 29 OTT 2016	00:00:02	31	
+12/02/2019	21:52:25	IpostipibellidellacalabriaDestinationCalabriaGiuseppeScorzaPepoMac@gmailcom_mpeg2video	Sconosciuto	I POSTI PIU  BELLI DELLA CALABRIA	00:03:59	71	
+12/02/2019	21:56:24	FantozziFracchiaLaBelvaUmana	FANTOZZI FRACCHAI LA BELVAUMANA	LA BELVA  UMANA	01:36:05	1	
+12/02/2019	23:32:30	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	
+12/02/2019	23:32:34	consigliocomunalegerace	CONSIGLIO  COMUN GERACE 18 6 016	CONSIGLIO  COMUN 18 06 016	01:28:01	31	
+13/02/2019	01:00:35	agrisapori617x12-6-15	AGRISAPORI	AGRISAPORI	00:24:51	71	
+13/02/2019	01:25:27	TG	TG 	TELEGIORNALE	00:02:39	31	
+13/02/2019	01:28:06	Americangraffiti_1_mpeg2video	AMERICAN GRAFFITI_1	AMERICAN GRAFFITI_1	00:57:34	1	
+13/02/2019	02:25:41	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	
+13/02/2019	02:25:44	InstantFuture_Puntata1	INSTANT FUTURE 1 P	INSTANT FUTURE 1 P	00:21:25	31	
+13/02/2019	02:47:10	GliAnimalipiPericolosiGiunglaUrbana(ITA)	Animali pericolosi	ANIMALI PERICOLOSI	00:47:02	71	
+13/02/2019	03:34:13	BestofMr.Bean_mpeg2video	Sconosciuto	MISTER BEAN	01:11:57	1	
+13/02/2019	04:46:10	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	
+13/02/2019	04:46:13	Pasticciniallemandorle	PASTICCINI  ALLE MANDORLE	PASTICCINI ALLE MANDORLE	00:02:15	31	
+13/02/2019	04:48:28	MontaltoUffugoFestadelgranosull'Aia	MONTALTO UFFUGO	MONTALTO  UFFUGO	00:14:29	71	
+13/02/2019	05:02:58	jerry.lewis.l.idolo.delle.donne.19611°t.	L' IDOLO DELLE DONNE 1°	L' IDOLO DELLE DONNE 1°	00:47:12	1	
+13/02/2019	05:50:10	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	
+13/02/2019	05:50:13	TG	TG 	TELEGIORNALE	00:02:39	31	
+13/02/2019	05:52:53	premiostadioradio-nona-edizione-cut-tv	premio stadio radio 2017	Nuovo Filepremio stadio radio 2017	02:08:32	31	
+13/02/2019	08:01:25	MalfaPiccolaGrandeItalia	Piccola Grande Italia MALFA	Malfa	00:21:29	71	
+13/02/2019	08:22:54	CommandPerformance2009iTALiANDVDRipXviDPrEsTiGe	Sconosciuto	Command performance	01:29:22	1	
+13/02/2019	09:52:17	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	
+13/02/2019	09:52:35	CorsoUrgenzaEmergenza	CORSO URGENZA EMERGENZA	CORSO  URGENZA EMERGENZA	01:03:16	31	
+13/02/2019	10:55:52	agrisapori-621x9-8-15	AGRISAPORI	AGRISAPORI	00:27:11	71	
+13/02/2019	11:23:03	X-Men	X - MEN	X - MEN	01:40:02	1	
+13/02/2019	13:03:05	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	
+13/02/2019	13:03:08	CocktaildiGamberetti,laricettadiGiallozafferano	COKTAIL DI  GAMBERETTI	COKTAIL DI GAMBERETTI	00:02:59	31	
+13/02/2019	13:06:08	agrisapori609x17-5-15	Sconosciuto	SPERLONGA	00:28:59	71	
+13/02/2019	13:35:07	TG	TG 	TELEGIORNALE	00:02:39	31	
+13/02/2019	13:37:47	AustinPowers2-Laspiacheciprovava	AUSTIN POWERS2	LA SPIA CHE CI  PROVAVA	01:31:07	1	
+13/02/2019	15:08:54	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	
+13/02/2019	15:08:57	Pennetteai4formaggi	PENNETTE 4 FORMAGGI	PENNETTE 4 FORMAGGI	00:02:41	31	
+13/02/2019	15:11:39	Carnevale2013Flashsulprimocorsomascherato	Sconosciuto	CARNEVALE VENEZIA 2	00:23:04	71	
+13/02/2019	15:34:43	StoriadelVaticanoIsegretidiAngelieDemoni	Sconosciuto	STOTIA DEL  VATICANO	01:30:51	1	
+13/02/2019	17:05:35	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	
+13/02/2019	17:05:38	GeraceConsiglioComunaleStraordinariodel16Dic2015(byEL)	CONSIGLIO  COMUNALE GERACE 	Consiglio  comunale gerace del 16 dic 015	00:50:31	31	
+13/02/2019	17:56:09	Gerace	GERACE	GERACE	00:06:01	71	
+13/02/2019	18:02:10	Undollarodififa_mpeg2video	UN DOLLARO  DI  FIFA	UN DOLLARO  DI  FIFA	01:29:53	1	
+13/02/2019	19:32:04	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	
+13/02/2019	19:32:07	TG	TG 	TELEGIORNALE	00:02:39	31	
+13/02/2019	19:34:46	OSPEDALEGERACEcopiaottima_mpeg2video	OSPEDALE GERACE	Ospedale Gerace Matteo	00:12:45	31	
+13/02/2019	19:47:32	048-Tokio,EmblemadiunMiracolo(14')eD	TOKIO EMBLEMA DEL MIRACOLO	TOKIO EMBLEMA DEL  MIRACOLO	00:13:57	71	
+13/02/2019	20:01:29	AvventuraaCapri_mpeg2video	Sconosciuto	AVVENTURA A CAPRI	01:23:03	1	
+13/02/2019	21:24:33	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	
+13/02/2019	21:24:36	ConsigliocomunaleGeracedel30settembre2017	cosiglio comunale gerace 30 sett 017	Nuovo File	01:52:24	31	
+13/02/2019	23:17:01	agrisapori616x5-7-15	AGRISAPORI	AGRISAPORI	00:26:08	71	
+13/02/2019	23:43:09	BadBoys	BAD BOYS	BAD BOYS	01:54:04	1	
+14/02/2019	01:37:14	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	
+14/02/2019	01:37:17	LocriCCdel14062013_mpeg2video	CONSIGLIO COMUNALE LOCRI	CONSIGLIO COMUNALE LOCRIDEL 14062013	01:47:02	31	
+14/02/2019	03:24:19	Atlantis	ATLANTIS	ATLANTIS	01:27:36	71	
+14/02/2019	04:51:55	TG	TG 	TELEGIORNALE	00:02:39	31	
+14/02/2019	04:54:35	Unmostroemezzo_mpeg2video	Sconosciuto	Un mostro e   mezzo	01:36:32	1	
+14/02/2019	06:31:07	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	
+14/02/2019	06:31:25	Geracesedutaconsiliaredel5Ottobre2016(byEL)	seduta consiglio gerace 5 10 106	consiglio gerac 5.10.016	01:30:13	31	
+14/02/2019	08:01:39	046-Bangkok,laVeneziad'Oriente(15')eD	BANNGKOC	Nuovo File	00:15:19	71	
+14/02/2019	08:16:58	Cacciaallavolpe_2_mpeg2video	Sconosciuto	CACCIA ALLA VOLPE 2	00:43:54	1	
+14/02/2019	09:00:53	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	
+14/02/2019	09:00:56	INSTANTFUTURE	intant future p7	INSTANT FUTURE p7	00:23:18	31	
+14/02/2019	09:24:14	GrotteriaPresepe2012_mpeg2video(1)	GROTTERIA PRESEPE	GROTTERIA PRESEPE	00:46:15	71	
+14/02/2019	10:10:30	AlbertoSordiIlVedovo	Sconosciuto	IL  VEDOVO	01:27:06	1	
+14/02/2019	11:37:36	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	
+14/02/2019	11:37:39	TG	TG 	TELEGIORNALE	00:02:39	31	
+14/02/2019	11:40:19	CONSIGLIOCOMGERA25SETT2^Parte	gerace consiglio  comunale	Consiglio  com 2à parte del 25 09 016	02:29:42	31	
+14/02/2019	14:10:01	044-LaSavanadeiSerengheti(15')eD	LA SAVANA	Nuovo File	00:14:19	71	
+14/02/2019	14:24:20	Infiltratospeciale_mpeg2video	Sconosciuto	Infiltrato  speciale	01:34:35	1	
+14/02/2019	15:58:55	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	
+14/02/2019	15:58:59	consiglioGeracedel288017	Sconosciuto	consiglio 28 8 17	00:20:04	31	
+14/02/2019	16:19:03	VideoRicettaTiramisùGalbani	TIRAMI SU	TIRAMI SU	00:01:40	71	
+14/02/2019	16:20:44	MissinginAmerica	Sconosciuto	Missing  America	01:38:23	1	
+14/02/2019	17:59:07	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	
+14/02/2019	17:59:26	CONSIGLIOCOMUNALE30MARZO2017	consiglio gerace del 30 3 017	consiglio gerace 30 3 17	00:45:44	31	
+14/02/2019	18:45:11	PianadegliAlbanesi'DomenicadellePalme'PiccolaGrandeItalia	PIANA DEGLI ALBANESI	PIANA DEGLI ALBANESI	00:14:12	71	
+14/02/2019	18:59:23	TG	TG 	TELEGIORNALE	00:02:39	31	
+14/02/2019	19:02:02	LaCarbonarafilmcompleto_mpeg2video	LA  CARBONARA	LA CARBONARA	01:48:07	1	
+14/02/2019	20:50:10	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	
+14/02/2019	20:50:13	inTavola_20150205_48237	Sconosciuto	inTavola_2015 02 05	00:01:58	31	
+14/02/2019	20:52:12	BonifatiPiccolaGrandeItalia	bonifati	bonifati	00:21:55	71	
+14/02/2019	21:14:07	SuamaestavienedaLsVegas_1_mpeg2video	Sconosciuto	SUA MAESTA VIENE DA LAS VEGAS	00:48:24	1	
+14/02/2019	22:02:31	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	
+14/02/2019	22:02:35	SEDUTACONSIGLIODEL13032017	consiglio gerace 13  3 017	Nuovo File	00:38:35	31	
+14/02/2019	22:41:10	051-LeAndedellaCoca(20')eD	LE ANDE DELLA COCA	LE AMNDE DELLA COCA	00:19:27	71	
+14/02/2019	23:00:38	Toto'aColoriFilmCompleto(FullMovie)	TOTO  A COLORI	Tot a  colori	01:32:29	1	
+15/02/2019	00:33:08	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	
+15/02/2019	00:33:11	TG	TG 	TELEGIORNALE	00:02:39	31	
+15/02/2019	00:35:51	21PIXMINDrev1	PIXMIND	Nuovo File	00:23:59	31	
+15/02/2019	00:59:50	agrisapori606x27-4-15	AGRISAPORI	AGRISAPORI	00:30:54	71	
+15/02/2019	01:30:45	Treuominieunagamba	TRE   UOMINI ED UNA GAMBA	Tre  uomini ed una  gamba	01:37:43	1	
+15/02/2019	03:08:29	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	
+15/02/2019	03:08:32	CONSIGLIOGERACEDEL1311016	consiglio gerace PEZZIMNENTI	CONSIGLIO GERACE DE 13  NOV 2016	00:44:22	31	
+15/02/2019	03:52:55	agrisapori608x9-5-15	Sconosciuto	Nuovo File	00:28:40	71	
+15/02/2019	04:21:36	LaPretoraE.Fenechv.m.1419761°t.	PRIMO TEMPO FENEC	LA PRETORA	00:48:06	1	
+15/02/2019	05:09:43	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	
+15/02/2019	05:09:46	consigliocomunalegeracedel25092016primaparte	CONSIGLIO GERACE DEL 25.09 016	consigl gerace 1^ parte	01:13:36	31	
+15/02/2019	06:23:22	agrisapori610x24-5-15	AGRISAPORI	AGISAPORI	00:31:12	71	
+15/02/2019	06:54:35	TG	TG 	TELEGIORNALE	00:02:39	31	
+15/02/2019	06:57:15	NinoManfrediSpaghettiHouse(1982)_mpeg2video	MANFREDI	SPAGHETTI HOUSE 	01:39:07	1	
+15/02/2019	08:36:22	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	
+15/02/2019	08:36:25	CorsoUrgenzaEmergenza	CORSO URGENZA EMERGENZA	CORSO  URGENZA EMERGENZA	01:03:16	31	
+15/02/2019	09:39:42	050-IlTriangolod'Oro(20')eD	IL TRIANGOLO D 'ORO	IL TRIANGOLO  D 'ORO	00:19:13	71	
+15/02/2019	09:58:55	Scuoladipolizia6_mpeg2video	Sconosciuto	Scuola d i polizia 6	01:19:55	1	
+15/02/2019	11:18:51	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	
+15/02/2019	11:19:09	InstantFuture_Puntata1	INSTANT FUTURE 1 P	INSTANT FUTURE 1 P	00:21:25	31	
+15/02/2019	11:40:35	Olocausto.Lafabbricadelmale	olocxausto	LA FABBRICA DEL  MALE	01:23:34	71	
+15/02/2019	13:04:10	JuwannaMann_mpeg2video	Sconosciuto	Juawanna Mann	01:26:54	1	
+15/02/2019	14:31:05	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	
+15/02/2019	14:31:08	TG	TG 	TELEGIORNALE	00:02:39	31	
+15/02/2019	14:33:48	CroccantediMandorle,laricettadiGiallozafferano	CROCCANTEW DI  MANDORLE	CROCCANTE DI  AMNDORLE	00:03:45	31	
+15/02/2019	14:37:33	SerraSanBrunoPiccolaGrandeItalia	Piccola Grande Italia	SERRA S. BRUNO	00:20:58	71	
+15/02/2019	14:58:31	CiccioeFrancoSatiricosissimo_mpeg2video	FRANCO FRANCHI INGRASSIA	SATIRICONISSIMO	01:25:00	1	
+15/02/2019	16:23:32	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	
+15/02/2019	16:23:36	OSPEDALEGERACEcopiaottima_mpeg2video	OSPEDALE GERACE	Ospedale Gerace Matteo	00:12:45	31	
+15/02/2019	16:36:21	CarnevalediVenezia2013dal26GENNAIOal12FEBBRAIOYouTube	Sconosciuto	CARNEVALE VENEZIA	00:10:41	71	
+15/02/2019	16:47:03	Arma.Da.Taglio.19722°t	ARMA DA TAGLIO 2°	ARMA DA TAGLIO 2°	00:37:18	1	
+15/02/2019	17:24:21	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	
+15/02/2019	17:24:25	Pennetteai4formaggi	PENNETTE 4 FORMAGGI	PENNETTE 4 FORMAGGI	00:02:41	31	
+15/02/2019	17:27:06	agrisapori618x19-7-15	AGRISAPORI	La Magdaleine	00:08:48	71	
+15/02/2019	17:35:55	TG	TG 	TELEGIORNALE	00:02:39	31	
+15/02/2019	17:38:34	Cacciaallavolpe_2_mpeg2video	Sconosciuto	CACCIA ALLA VOLPE 2	00:43:54	1	
+15/02/2019	18:22:29	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	
+15/02/2019	18:22:32	consigliocomunalegerace	CONSIGLIO  COMUN GERACE 18 6 016	CONSIGLIO  COMUN 18 06 016	01:28:01	31	
+15/02/2019	19:50:33	agrisapori613x14-6-15	AGRISAPORI	AGRISAPORI	00:26:49	71	
+15/02/2019	20:17:23	MenInBlackII	Sconosciuto	Men In Black II	01:24:32	1	
+15/02/2019	21:41:55	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	
+15/02/2019	21:41:59	Geracesedutaconsiliaredel5Ottobre2016(byEL)	seduta consiglio gerace 5 10 106	consiglio gerac 5.10.016	01:30:13	31	
+15/02/2019	23:12:13	Potaturadell'OlivonellaLocride3Ed_mpeg2video	Sconosciuto	Potatura  dell' olivo  nella Locride 013	01:51:49	71	
+16/02/2019	01:04:02	Ritorno.Al.Futuro.2-iTALiAN.DvDRip.DivX-AuDaX	Sconosciuto	Ritorno  al  futuro 2	01:43:36	1	
+16/02/2019	02:47:39	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	
+16/02/2019	02:47:43	TG	TG 	TELEGIORNALE	00:02:39	31	
+16/02/2019	02:50:22	Pasticciniallemandorle	PASTICCINI  ALLE MANDORLE	PASTICCINI ALLE MANDORLE	00:02:15	31	
+16/02/2019	02:52:37	IlBrigantaggio	IL  BRIGANTAGGIO	IL  BRIGANTAGGIO	00:32:04	71	
+16/02/2019	03:24:42	LaPretoraE.Fenechv.m.1419762°t.	SECONDO TEMPO FENEC	LA PRETORA	00:46:24	1	
+16/02/2019	04:11:06	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	
+16/02/2019	04:11:09	SEDUTACONSIGLIODEL13032017	consiglio gerace 13  3 017	Nuovo File	00:38:35	31	
+16/02/2019	04:49:45	agrisapori615x28-6-15	Sconosciuto	AGRISAPORI xpo mi	00:31:34	71	
+16/02/2019	05:21:19	filmcompletoPiratiRPolanski1986	PIRATI	Pirati	01:45:39	1	
+16/02/2019	07:06:58	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	
+16/02/2019	07:07:17	CocktaildiGamberetti,laricettadiGiallozafferano	COKTAIL DI  GAMBERETTI	COKTAIL DI GAMBERETTI	00:02:59	31	
+16/02/2019	07:10:17	044-LaSavanadeiSerengheti(15')eD	LA SAVANA	Nuovo File	00:14:19	71	
+16/02/2019	07:24:36	TG	TG 	TELEGIORNALE	00:02:39	31	
+16/02/2019	07:27:15	Schoolofrock	Schoolofrock	SCHOOLOFROK	01:44:45	1	
+16/02/2019	09:12:01	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	
+16/02/2019	09:12:04	LocriCCdel14062013_mpeg2video	CONSIGLIO COMUNALE LOCRI	CONSIGLIO COMUNALE LOCRIDEL 14062013	01:47:02	31	
+16/02/2019	10:59:06	agrisapori606x27-4-15	AGRISAPORI	AGRISAPORI	00:30:54	71	
+16/02/2019	11:30:01	Terminator3_mpeg2video	TERMINATOR 3	FILM	01:44:38	1	
+16/02/2019	13:14:39	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	
+16/02/2019	13:14:42	INSTANTFUTURE	intant future p7	INSTANT FUTURE p7	00:23:18	31	
+16/02/2019	13:38:00	Potaturadell'OlivonellaLocride3Ed_mpeg2video	Sconosciuto	Potatura  dell' olivo  nella Locride 013	01:51:49	71	
+16/02/2019	15:29:50	Labandadeglionesti_mpeg2video	LA BANDA DEGLI ONESTI	LA BANDA DEGLI  ONESTI	01:40:55	1	
+16/02/2019	17:10:45	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	
+16/02/2019	17:10:49	TG	TG 	TELEGIORNALE	00:02:39	31	
+16/02/2019	17:13:28	ConsigliocomunaleGeracedel30settembre2017	cosiglio comunale gerace 30 sett 017	Nuovo File	01:52:24	31	
+16/02/2019	19:05:53	Atlantis	ATLANTIS	ATLANTIS	01:27:36	71	
+16/02/2019	20:33:29	Cacciaalmarito_mpeg2video_001	Sconosciuto	CACCIA AL MARITO	01:45:42	1	
+16/02/2019	22:19:11	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	
+16/02/2019	22:19:30	premiostadioradio-nona-edizione-cut-tv	premio stadio radio 2017	Nuovo Filepremio stadio radio 2017	02:08:32	31	
+17/02/2019	00:28:02	TropeaPiccolaGrandeItalia	Piccola grande Italia	TROPEA	00:26:53	71	
+17/02/2019	00:54:55	Taxidriver_2_mpeg2video	Sconosciuto	TAX DRIVE 2 P.	00:53:37	1	
+17/02/2019	01:48:33	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	
+17/02/2019	01:48:36	GeraceConsiglioComunaleStraordinariodel16Dic2015(byEL)	CONSIGLIO  COMUNALE GERACE 	Consiglio  comunale gerace del 16 dic 015	00:50:31	31	
+17/02/2019	02:39:07	agrisapori608x9-5-15	Sconosciuto	Nuovo File	00:28:40	71	
+17/02/2019	03:07:48	TG	TG 	TELEGIORNALE	00:02:39	31	
+17/02/2019	03:10:27	Fantozzi-GrandiMagazzini	FANTOZZI GRANDI MAGAZZINI	GRANDI MAGAZZINI	01:50:35	1	
+17/02/2019	05:01:03	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	
+17/02/2019	05:01:07	InstantFuturepuntata5	INSTANT FUTURE 5 P	INSTANT FUTURE 5 P	00:22:23	31	
+17/02/2019	05:23:30	agrisapori617x12-6-15	AGRISAPORI	AGRISAPORI	00:24:51	71	
+17/02/2019	05:48:22	Bertoldo,BertoldinoeCacasennoSordi,Tognazzi(Filmcompleto)	Sconosciuto	BERTOLDO BERTOLDINO E CACASENNO	01:59:40	1	
+17/02/2019	07:48:02	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	
+17/02/2019	07:48:06	consiglioGeracedel288017	Sconosciuto	consiglio 28 8 17	00:20:04	31	
+17/02/2019	08:08:10	agrisapori-623x23-8-15	AGRISAPORI	AGRISAPORI	00:00:01	71	
+17/02/2019	08:08:12	NinoManfrediSpaghettiHouse(1982)_mpeg2video	MANFREDI	SPAGHETTI HOUSE 	01:39:07	1	
+17/02/2019	09:47:20	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	
+17/02/2019	09:47:23	TG	TG 	TELEGIORNALE	00:02:39	31	
+17/02/2019	09:50:02	CONSIGLIOGERACEDEL1311016	consiglio gerace PEZZIMNENTI	CONSIGLIO GERACE DE 13  NOV 2016	00:44:22	31	
+17/02/2019	10:34:25	agrisapori616x5-7-15	AGRISAPORI	AGRISAPORI	00:26:08	71	
+17/02/2019	11:00:33	Ragazzepompom_mpeg2video	Sconosciuto	Ragazze pom pom	01:25:15	1	
+17/02/2019	12:25:49	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	
+17/02/2019	12:26:07	InstantFuture_puntata3	INSTANT FUTURE 3 P	INSTANT FUTURE 3 P	00:22:30	31	
+17/02/2019	12:48:37	049-LaTerradelSoleRosso(11')eD	LA TERRA DEL   SOLE ROSSO	LA TERRA DEL   SOLE  ROSSO	00:10:48	71	
+17/02/2019	12:59:26	Commissariatodinotturna_mpeg2video	Sconosciuto	COMMISSARIATO  DI   NOTTURNA	01:32:54	1	
+17/02/2019	14:32:20	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	
+17/02/2019	14:32:23	Consiglio29ott2016xregia	CONSIGLIO COMUNALE GERACE 	CONS DEL 29 OTT 2016	00:00:02	31	
+17/02/2019	14:32:25	DOCUMENTARIOAuschwitz	Auschwitz	Auschwitz	00:26:56	71	
+17/02/2019	14:59:21	TG	TG 	TELEGIORNALE	00:02:39	31	
+17/02/2019	15:02:01	Senzanomesanzaregole	SENZA NOME SENZA REGOLE	Senza nome senza regole	01:43:39	1	
+17/02/2019	16:45:41	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	
+17/02/2019	16:45:44	inTavola_20150205_48237	Sconosciuto	inTavola_2015 02 05	00:01:58	31	
+17/02/2019	16:47:43	Olocausto.Lafabbricadelmale	olocxausto	LA FABBRICA DEL  MALE	01:23:34	71	
+17/02/2019	18:11:17	SuamaestavienedaLsVegas_1_mpeg2video	Sconosciuto	SUA MAESTA VIENE DA LAS VEGAS	00:48:24	1	
+17/02/2019	18:59:41	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	
+17/02/2019	18:59:45	FM21	FORMULA  MOTORI 21	Nuovo File	00:23:58	31	
+17/02/2019	19:23:44	MontaltoUffugoFestadelgranosull'Aia	MONTALTO UFFUGO	MONTALTO  UFFUGO	00:14:29	71	
+17/02/2019	19:38:13	Ritorno.Al.Futuro.3-iTALiAN.DvDRip.DivX-AuDaX	Sconosciuto	Ritorno  al  futuro 3	01:53:23	1	
+17/02/2019	21:31:37	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	
+17/02/2019	21:31:40	TG	TG 	TELEGIORNALE	00:02:39	31	
+17/02/2019	21:34:20	CONSIGLIOCOMGERA25SETT2^Parte	gerace consiglio  comunale	Consiglio  com 2à parte del 25 09 016	02:29:42	31	
+18/02/2019	00:04:02	PianadegliAlbanesi'DomenicadellePalme'PiccolaGrandeItalia	PIANA DEGLI ALBANESI	PIANA DEGLI ALBANESI	00:14:12	71	
+18/02/2019	00:18:14	jerry.lewis.l.idolo.delle.donne.19611°t.	L' IDOLO DELLE DONNE 1°	L' IDOLO DELLE DONNE 1°	00:47:12	1	
+18/02/2019	01:05:26	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	
+18/02/2019	01:05:45	consigliocomunalegeracedel25092016primaparte	CONSIGLIO GERACE DEL 25.09 016	consigl gerace 1^ parte	01:13:36	31	
+18/02/2019	02:19:22	Gerace	GERACE	GERACE	00:06:01	71	
+18/02/2019	02:25:23	CompagnoDonCamillo_mpeg2video	Sconosciuto	COMPAGNO  DON CAMILLO	01:42:17	1	
+18/02/2019	04:07:40	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	
+18/02/2019	04:07:43	CONSIGLIOCOMUNALE30MARZO2017	consiglio gerace del 30 3 017	consiglio gerace 30 3 17	00:45:44	31	
+18/02/2019	04:53:28	SerraSanBrunoPiccolaGrandeItalia	Piccola Grande Italia	SERRA S. BRUNO	00:20:58	71	
+18/02/2019	05:14:27	TG	TG 	TELEGIORNALE	00:02:39	31	
+18/02/2019	05:17:06	Nessunoèperfetto_mpeg2video	nessuno è perfetto	Nessuno è perfetto	01:37:33	1	
+18/02/2019	06:54:39	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	
+18/02/2019	06:54:43	21PIXMINDrev1	PIXMIND	Nuovo File	00:23:59	31	
+18/02/2019	07:18:43	046-Bangkok,laVeneziad'Oriente(15')eD	BANNGKOC	Nuovo File	00:15:19	71	
+18/02/2019	07:34:02	Tadpole_mpeg2video	Sconosciuto	TODPOLE	01:15:05	1	
+18/02/2019	08:49:07	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	
+18/02/2019	08:49:10	InstantFuture_puntata3	INSTANT FUTURE 3 P	INSTANT FUTURE 3 P	00:22:30	31	
+18/02/2019	09:11:40	AnimaliSerpentiFascinoLetale(Ita)	ANIMALI SERPENTI	ANIMALI SERPENTI	00:52:05	71	
+18/02/2019	10:03:46	Nell'annoDelSignoreManfredi,Sordi,Tognazzi(Filmcompleto)	Sconosciuto	Nell'anno del  Signore	01:57:54	1	
+18/02/2019	12:01:40	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	
+18/02/2019	12:01:44	TG	TG 	TELEGIORNALE	00:02:39	31	
+18/02/2019	12:04:23	Pennetteai4formaggi	PENNETTE 4 FORMAGGI	PENNETTE 4 FORMAGGI	00:02:41	31	
+18/02/2019	12:07:05	agrisapori604x12-4-15	AGRISAPORI	AGRISAPORI	00:29:07	71	
+18/02/2019	12:36:12	LaPretoraE.Fenechv.m.1419761°t.	PRIMO TEMPO FENEC	LA PRETORA	00:48:06	1	
+18/02/2019	13:24:19	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	
+18/02/2019	13:24:22	CONSIGLIOGERACEDEL1311016	consiglio gerace PEZZIMNENTI	CONSIGLIO GERACE DE 13  NOV 2016	00:44:22	31	
+18/02/2019	14:08:45	agrisapori618x19-7-15	AGRISAPORI	La Magdaleine	00:08:48	71	
+18/02/2019	14:17:33	BestofMr.Bean_mpeg2video	Sconosciuto	MISTER BEAN	01:11:57	1	
+18/02/2019	15:29:30	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	
+18/02/2019	15:29:33	CroccantediMandorle,laricettadiGiallozafferano	CROCCANTEW DI  MANDORLE	CROCCANTE DI  AMNDORLE	00:03:45	31	
+18/02/2019	15:33:19	SardegnaVistadalcielo	Sconosciuto	Sardegna vista dal cielo	00:50:23	71	
+18/02/2019	16:23:42	TG	TG 	TELEGIORNALE	00:02:39	31	
+18/02/2019	16:26:22	AdrianoCelentanoJoanLuiFilmCompleto	Sconosciuto	JOAN LUI	02:05:39	1	
+18/02/2019	18:32:01	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	
+18/02/2019	18:32:20	consigliocomunalegeracedel25092016primaparte	CONSIGLIO GERACE DEL 25.09 016	consigl gerace 1^ parte	01:13:36	31	
+18/02/2019	19:45:56	GrotteriaPresepe2012_mpeg2video(1)	GROTTERIA PRESEPE	GROTTERIA PRESEPE	00:46:15	71	
+18/02/2019	20:32:12	Taxidriver_1_mpeg2video	Sconosciuto	TAX DRIVER 1P	00:55:26	1	
+18/02/2019	21:27:39	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	
+18/02/2019	21:27:42	CONSIGLIOCOMGERA25SETT2^Parte	gerace consiglio  comunale	Consiglio  com 2à parte del 25 09 016	02:29:42	31	
+18/02/2019	23:57:24	042-Tanzania,TerradiAmici(14')eD	TANZANIA	Nuovo File	00:14:05	71	
+19/02/2019	00:11:29	Azzurro_mpeg2video	Sconosciuto	AZZURRO	01:21:51	1	
+19/02/2019	01:33:21	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	
+19/02/2019	01:33:25	TG	TG 	TELEGIORNALE	00:02:39	31	
+19/02/2019	01:36:04	OSPEDALEGERACEcopiaottima_mpeg2video	OSPEDALE GERACE	Ospedale Gerace Matteo	00:12:45	31	
+19/02/2019	01:48:50	agrisapori609x17-5-15	Sconosciuto	SPERLONGA	00:28:59	71	
+19/02/2019	02:17:49	Unbigliettoindue_1_mpeg2video	Un biglietto in due_1 P	Nuovo File	00:43:40	1	
+19/02/2019	03:01:29	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	
+19/02/2019	03:01:32	premiostadioradio-nona-edizione-cut-tv	premio stadio radio 2017	Nuovo Filepremio stadio radio 2017	02:08:32	31	
+19/02/2019	05:10:05	CarnevalediVenezia2013dal26GENNAIOal12FEBBRAIOYouTube	Sconosciuto	CARNEVALE VENEZIA	00:10:41	71	
+19/02/2019	05:20:46	Cacciaallavolpe_1_mpeg2video	Sconosciuto	CACCIA ALLA VOLPE 1	00:51:12	1	
+19/02/2019	06:11:58	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	
+19/02/2019	06:12:17	LocriCCdel14062013_mpeg2video	CONSIGLIO COMUNALE LOCRI	CONSIGLIO COMUNALE LOCRIDEL 14062013	01:47:02	31	
+19/02/2019	07:59:19	ReggioCalabriaPiccolaGrandeItalia	Sconosciuto	Reggio piccola grande Italia  	00:22:12	71	
+19/02/2019	08:21:32	TG	TG 	TELEGIORNALE	00:02:39	31	
+19/02/2019	08:24:11	Segretaria_mpeg2video	Sconosciuto	Segretaria	01:46:42	1	
+19/02/2019	10:10:54	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	
+19/02/2019	10:10:57	ConsigliocomunaleGeracedel30settembre2017	cosiglio comunale gerace 30 sett 017	Nuovo File	01:52:24	31	
+19/02/2019	12:03:22	IpostipibellidellacalabriaDestinationCalabriaGiuseppeScorzaPepoMac@gmailcom_mpeg2video	Sconosciuto	I POSTI PIU  BELLI DELLA CALABRIA	00:03:59	71	
+19/02/2019	12:07:22	Adoppiamandata_mpeg2video	Sconosciuto	A DOPPIA MANDATA	01:24:07	1	
+19/02/2019	13:31:29	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	
+19/02/2019	13:31:33	CocktaildiGamberetti,laricettadiGiallozafferano	COKTAIL DI  GAMBERETTI	COKTAIL DI GAMBERETTI	00:02:59	31	
+19/02/2019	13:34:32	051-LeAndedellaCoca(20')eD	LE ANDE DELLA COCA	LE AMNDE DELLA COCA	00:19:27	71	
+19/02/2019	13:54:00	UFOLeProve	Sconosciuto	Ufo le  prove	01:22:13	1	
+19/02/2019	15:16:13	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	
+19/02/2019	15:16:16	TG	TG 	TELEGIORNALE	00:02:39	31	
+19/02/2019	15:18:56	consiglioGeracedel288017	Sconosciuto	consiglio 28 8 17	00:20:04	31	
+19/02/2019	15:39:00	BonifatiPiccolaGrandeItalia	bonifati	bonifati	00:21:55	71	
+19/02/2019	16:00:56	ThePrison	Sconosciuto	The  prison	01:45:47	1	
+19/02/2019	17:46:43	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	
+19/02/2019	17:46:47	FM21	FORMULA  MOTORI 21	Nuovo File	00:23:58	31	
+19/02/2019	18:10:46	NoepoliPiccolaGrandeItalia	Piccola grande Italia	Neapoli	00:16:32	71	
+19/02/2019	18:27:18	gold.il.segno.del.potere.19741°t.	GOLD  IL SEGNO DEL  POTERE 1°	GOLD  IL SEGNO DEL  POTERE 1°	01:01:09	1	
+19/02/2019	19:28:27	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	
+19/02/2019	19:28:30	Geracesedutaconsiliaredel5Ottobre2016(byEL)	seduta consiglio gerace 5 10 106	consiglio gerac 5.10.016	01:30:13	31	
+19/02/2019	20:58:44	agrisapori627X20-9_15	AGRISAPORI	AGRISAPORI	00:26:45	71	
+19/02/2019	21:25:30	TG	TG 	TELEGIORNALE	00:02:39	31	
+19/02/2019	21:28:09	MammaHoRipersoL'aereoEMiSonoSmarritoANewYork	Mamma ho riperso l' aereo e mi  sono smarrito a New York	Nuovo File	01:48:03	1	
+19/02/2019	23:16:13	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	
+19/02/2019	23:16:17	InstantFuture_Puntata1	INSTANT FUTURE 1 P	INSTANT FUTURE 1 P	00:21:25	31	
+19/02/2019	23:37:43	MassafraPiccolaGrandeItalia	Piccola grande Italia	Massafra	00:21:33	71	
+19/02/2019	23:59:16	Crash.Contatto.Fisico.2004.iTALiAN.MD.DVDRip.XviD-SiLENT	CRASH CONTATTO   FINALE FISICO	CRASH CONTATTO  FINALE	01:48:31	1	
+20/02/2019	01:47:47	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	
+20/02/2019	01:47:51	21PIXMINDrev1	PIXMIND	Nuovo File	00:23:59	31	
+20/02/2019	02:11:51	agrisapori-621x9-8-15	AGRISAPORI	AGRISAPORI	00:27:11	71	
+20/02/2019	02:39:02	Colpitadaimprovvisobenessere_mpeg2video	Sconosciuto	COLPITA DA IMPROVVISO  BENESSERE	01:33:09	1	
+20/02/2019	04:12:12	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	
+20/02/2019	04:12:15	TG	TG 	TELEGIORNALE	00:02:39	31	
+20/02/2019	04:14:54	Pasticciniallemandorle	PASTICCINI  ALLE MANDORLE	PASTICCINI ALLE MANDORLE	00:02:15	31	
+20/02/2019	04:17:09	agrisapori-624x30-8-15	grisapori	AGRISAPORI	00:27:35	71	
+20/02/2019	04:44:45	Rosolinopaternosoldato_mpeg2video	ROSOLINO PATERNO SOLDATO	Rosolino paterno  soldato	01:35:57	1	
+20/02/2019	06:20:43	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	
+20/02/2019	06:21:01	CorsoUrgenzaEmergenza	CORSO URGENZA EMERGENZA	CORSO  URGENZA EMERGENZA	01:03:16	31	
+20/02/2019	07:24:18	agrisapori614x21-6-15	Sconosciuto	AGRISAPORI	00:17:56	71	
+20/02/2019	07:42:14	Tempimoderni_mpeg2video	Sconosciuto	Tempi  moderni	01:27:33	1	
+20/02/2019	09:09:48	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	
+20/02/2019	09:09:51	SEDUTACONSIGLIODEL13032017	consiglio gerace 13  3 017	Nuovo File	00:38:35	31	
+20/02/2019	09:48:27	VideopergiornodellaMemoria,pernondimenticare.	IL GIORNO DELLA  MEMORIA	IL GIORNO  DELLA MEMORIA	00:25:46	71	
+20/02/2019	10:14:13	TG	TG 	TELEGIORNALE	00:02:39	31	
+20/02/2019	10:16:53	Unbigliettoindue_2_mpeg2video	Un biglietto in due_2 P	Nuovo File	00:44:38	1	
+20/02/2019	11:01:31	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	
+20/02/2019	11:01:34	CONSIGLIOCOMUNALE30MARZO2017	consiglio gerace del 30 3 017	consiglio gerace 30 3 17	00:45:44	31	
+20/02/2019	11:47:19	047-LaRiservaNaturalediAlmaAta(21')eD	LA RISERVA NATURALE DI ALMAT...	Nuovo File	00:20:34	71	
+20/02/2019	12:07:53	Speed	SPEED	SPEED	01:50:00	1	
+20/02/2019	13:57:54	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	
+20/02/2019	13:58:12	GeraceConsiglioComunaleStraordinariodel16Dic2015(byEL)	CONSIGLIO  COMUNALE GERACE 	Consiglio  comunale gerace del 16 dic 015	00:50:31	31	
+20/02/2019	14:48:44	agrisapori596x8-2-15	GIAGLIONESconosciuto	Nuovo FiAGRISAPORI	00:31:19	71	
+20/02/2019	15:20:03	SogniproibitidiDonGaleazzo_mpeg2video	Film	Sogni  proibiti  di  Don Galeazzo	01:28:31	1	
+20/02/2019	16:48:34	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	
+20/02/2019	16:48:38	TG	TG 	TELEGIORNALE	00:02:39	31	
+20/02/2019	16:51:17	Consiglio29ott2016xregia	CONSIGLIO COMUNALE GERACE 	CONS DEL 29 OTT 2016	00:00:02	31	
+20/02/2019	16:51:19	043-NgoroNgoro,l'UltimaArca(14')eD	NGORO NGORO	Nuovo File	00:13:29	71	
+20/02/2019	17:04:49	Bowfinger_1_mpeg2video	Sconosciuto	BOWFINGER 1P	00:44:18	1	
+20/02/2019	17:49:07	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	
+20/02/2019	17:49:11	InstantFuturepuntata5	INSTANT FUTURE 5 P	INSTANT FUTURE 5 P	00:22:23	31	
+20/02/2019	18:11:35	050-IlTriangolod'Oro(20')eD	IL TRIANGOLO D 'ORO	IL TRIANGOLO  D 'ORO	00:19:13	71	
+20/02/2019	18:30:48	Toto'aColoriFilmCompleto(FullMovie)	TOTO  A COLORI	Tot a  colori	01:32:29	1	
+20/02/2019	20:03:18	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	
+20/02/2019	20:03:21	consigliocomunalegerace	CONSIGLIO  COMUN GERACE 18 6 016	CONSIGLIO  COMUN 18 06 016	01:28:01	31	
+20/02/2019	21:31:23	048-Tokio,EmblemadiunMiracolo(14')eD	TOKIO EMBLEMA DEL MIRACOLO	TOKIO EMBLEMA DEL  MIRACOLO	00:13:57	71	
+20/02/2019	21:45:20	TG	TG 	TELEGIORNALE	00:02:39	31	
+20/02/2019	21:47:59	2Fastand2Furios	Sconosciuto	Nuovo File	01:43:10	1	
+20/02/2019	23:31:10	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	
+20/02/2019	23:31:13	inTavola_20150205_48237	Sconosciuto	inTavola_2015 02 05	00:01:58	31	
+20/02/2019	23:33:11	IlBrigantaggio	IL  BRIGANTAGGIO	IL  BRIGANTAGGIO	00:32:04	71	
+21/02/2019	00:05:16	Unmostroemezzo_mpeg2video	Sconosciuto	Un mostro e   mezzo	01:36:32	1	
+21/02/2019	01:41:48	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	
+21/02/2019	01:41:51	INSTANTFUTURE	intant future p7	INSTANT FUTURE p7	00:23:18	31	
+21/02/2019	02:05:09	MagnificaItaliaCalabria_mpeg2video	Sconosciuto	Calabria	00:52:09	71	
+21/02/2019	02:57:19	SadeSeguil'istinto!(FILMCOMPLETO)	Sconosciuto	Segui  l'istinto	01:34:00	1	
+21/02/2019	04:31:20	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	
+21/02/2019	04:31:23	TG	TG 	TELEGIORNALE	00:02:39	31	
+21/02/2019	04:34:03	CorsoUrgenzaEmergenza	CORSO URGENZA EMERGENZA	CORSO  URGENZA EMERGENZA	01:03:16	31	
+21/02/2019	05:37:19	agrisapori613x14-6-15	AGRISAPORI	AGRISAPORI	00:26:49	71	
+21/02/2019	06:04:09	FantozziFracchiaLaBelvaUmana	FANTOZZI FRACCHAI LA BELVAUMANA	LA BELVA  UMANA	01:36:05	1	
+21/02/2019	07:40:15	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	
+21/02/2019	07:40:18	CONSIGLIOCOMUNALE30MARZO2017	consiglio gerace del 30 3 017	consiglio gerace 30 3 17	00:45:44	31	
+21/02/2019	08:26:03	agrisapori610x24-5-15	AGRISAPORI	AGISAPORI	00:31:12	71	
+21/02/2019	08:57:16	Colpogrosso_mpeg2video	Colpogrosso	COLPO  GROSSO	02:02:09	1	
+21/02/2019	10:59:26	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	
+21/02/2019	10:59:29	LocriCCdel14062013_mpeg2video	CONSIGLIO COMUNALE LOCRI	CONSIGLIO COMUNALE LOCRIDEL 14062013	01:47:02	31	
+21/02/2019	12:46:31	MusicaeTradizioni	MUSICA E TRADIZIONI	MUSICA E TRADIZIONI	00:10:57	71	
+21/02/2019	12:57:29	TG	TG 	TELEGIORNALE	00:02:39	31	
+21/02/2019	13:00:08	AttackForce	ATTACK FORCR 	ATTACK FORCE	01:30:35	1	
+21/02/2019	14:30:44	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	
+21/02/2019	14:30:47	ConsigliocomunaleGeracedel30settembre2017	cosiglio comunale gerace 30 sett 017	Nuovo File	01:52:24	31	
+21/02/2019	16:23:12	VideoRicettaTiramisùGalbani	TIRAMI SU	TIRAMI SU	00:01:40	71	
+21/02/2019	16:24:52	MenInBlackI_mpeg2video	Sconosciuto	Men In Black I	01:34:00	1	
+21/02/2019	17:58:53	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	
+21/02/2019	17:59:12	CONSIGLIOCOMGERA25SETT2^Parte	gerace consiglio  comunale	Consiglio  com 2à parte del 25 09 016	02:29:42	31	
+21/02/2019	20:28:54	agrisapori615x28-6-15	Sconosciuto	AGRISAPORI xpo mi	00:31:34	71	
+21/02/2019	21:00:28	StarshipTroopers2-Glieroidellafederazione	Sconosciuto	Trooper 2	01:27:52	1	
+21/02/2019	22:28:20	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	
+21/02/2019	22:28:24	TG	TG 	TELEGIORNALE	00:02:39	31	
+21/02/2019	22:31:03	consigliocomunalegeracedel25092016primaparte	CONSIGLIO GERACE DEL 25.09 016	consigl gerace 1^ parte	01:13:36	31	
+21/02/2019	23:44:40	Carnevale2013Flashsulprimocorsomascherato	Sconosciuto	CARNEVALE VENEZIA 2	00:23:04	71	
+22/02/2019	00:07:44	Laclinicadellamore_mpeg2video	Sconosciuto	La clinica dell'amore	01:28:52	1	
+22/02/2019	01:36:37	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	
+22/02/2019	01:36:40	FM21	FORMULA  MOTORI 21	Nuovo File	00:23:58	31	
+22/02/2019	02:00:39	MalfaPiccolaGrandeItalia	Piccola Grande Italia MALFA	Malfa	00:21:29	71	
+22/02/2019	02:22:08	Roma.drogata.la.polizia.non_.puo.intervenire.19751°t.	ROMA DROGATA 1^	ROMA DROGATA 1^	00:48:20	1	
+22/02/2019	03:10:28	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	
+22/02/2019	03:10:47	Consiglio29ott2016xregia	CONSIGLIO COMUNALE GERACE 	CONS DEL 29 OTT 2016	00:00:02	31	
+22/02/2019	03:10:49	PraiaaMarePiccolaGrandeItalia	Piccola grande Italia	PRAIA A MARE	00:24:33	71	
+22/02/2019	03:35:23	TG	TG 	TELEGIORNALE	00:02:39	31	
+22/02/2019	03:38:02	KarateKid	Sconosciuto	Karate Kid	02:01:36	1	
+22/02/2019	05:39:39	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	
+22/02/2019	05:39:42	21PIXMINDrev1	PIXMIND	Nuovo File	00:23:59	31	
+22/02/2019	06:03:42	Caltagirone2010PiccolaGrandeItalia	CALTAGIRONE	CALTAGIRONE	00:24:23	71	
+22/02/2019	06:28:06	Malibùmostwanted_mpeg2video	Sconosciuto	MALIBU MONS WANTED	01:22:35	1	
+22/02/2019	07:50:41	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	
+22/02/2019	07:50:44	OSPEDALEGERACEcopiaottima_mpeg2video	OSPEDALE GERACE	Ospedale Gerace Matteo	00:12:45	31	
+22/02/2019	08:03:30	CariatiPiccolaGrandeItalia	CARIATI	cariati	00:21:41	71	
+22/02/2019	08:25:11	ChiedimiSeSonoFelice_mpeg2video	CHIEDIMI SE SONO  FELICE	CHIEDIMI SE SONO  FELICE	01:36:35	1	
+22/02/2019	10:01:46	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	
+22/02/2019	10:01:50	TG	TG 	TELEGIORNALE	00:02:39	31	
+22/02/2019	10:04:29	InstantFuture_puntata3	INSTANT FUTURE 3 P	INSTANT FUTURE 3 P	00:22:30	31	
+22/02/2019	10:26:59	GliAnimalipiPericolosiGiunglaUrbana(ITA)	Animali pericolosi	ANIMALI PERICOLOSI	00:47:02	71	
+22/02/2019	11:14:02	Tuttoinunanotte_2_mpeg2video	TUTTO IN  UNA NOTTE	TUTTO IN  UNA NOTTE	00:54:37	1	
+22/02/2019	12:08:39	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	
+22/02/2019	12:08:42	consigliocomunalegerace	CONSIGLIO  COMUN GERACE 18 6 016	CONSIGLIO  COMUN 18 06 016	01:28:01	31	
+22/02/2019	13:36:44	STILOELACATTOLICA	STILO E LA CATTOLICA	Stilo e la  cattolica	00:07:14	71	
+22/02/2019	13:43:59	LabattagliadellaNeretva19692°t.	LA BATTAGLIA DELLA NERETVA 2° T	LA BATTAGLIA DELLA NERETVA 2° T	01:10:07	1	
+22/02/2019	14:54:07	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	
+22/02/2019	14:54:25	InstantFuture_Puntata1	INSTANT FUTURE 1 P	INSTANT FUTURE 1 P	00:21:25	31	
+22/02/2019	15:15:51	045-NiloVittoria,ilFiumedellaPreistoria(10')eD	NILO 	IL  LUME DELLA PREISTORIA	00:09:54	71	
+22/02/2019	15:25:46	TG	TG 	TELEGIORNALE	00:02:39	31	
+22/02/2019	15:28:25	Ritorno.Al.Futuro.1-iTALiAN.DvDRip	Sconosciuto	Ritorno  al  futuro  1	01:51:13	1	
+22/02/2019	17:19:39	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	
+22/02/2019	17:19:42	Pennetteai4formaggi	PENNETTE 4 FORMAGGI	PENNETTE 4 FORMAGGI	00:02:41	31	
+22/02/2019	17:22:24	DOCUMENTARIOAuschwitz	Auschwitz	Auschwitz	00:26:56	71	
+22/02/2019	17:49:20	Mettilodiavolotuonelomioinferno_mpeg2video	Sconosciuto	Metti  lo  diavolo  ne lo  tuo inferno	01:20:45	1	
+22/02/2019	19:10:06	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	
+22/02/2019	19:10:09	Geracesedutaconsiliaredel5Ottobre2016(byEL)	seduta consiglio gerace 5 10 106	consiglio gerac 5.10.016	01:30:13	31	
+22/02/2019	20:40:23	048-Tokio,EmblemadiunMiracolo(14')eD	TOKIO EMBLEMA DEL MIRACOLO	TOKIO EMBLEMA DEL  MIRACOLO	00:13:57	71	
+22/02/2019	20:54:20	StoriadelVaticanoIsegretidiAngelieDemoni	Sconosciuto	STOTIA DEL  VATICANO	01:30:51	1	
+22/02/2019	22:25:11	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	
+22/02/2019	22:25:14	TG	TG 	TELEGIORNALE	00:02:39	31	
+22/02/2019	22:27:54	SEDUTACONSIGLIODEL13032017	consiglio gerace 13  3 017	Nuovo File	00:38:35	31	
+22/02/2019	23:06:29	BonifatiPiccolaGrandeItalia	bonifati	bonifati	00:21:55	71	
+22/02/2019	23:28:25	OnceWereWarriors2(completo)	ONCE WERRIORS 2	Once were Warriors	01:38:23	1	
+23/02/2019	01:06:48	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	
+23/02/2019	01:06:51	GeraceConsiglioComunaleStraordinariodel16Dic2015(byEL)	CONSIGLIO  COMUNALE GERACE 	Consiglio  comunale gerace del 16 dic 015	00:50:31	31	
+23/02/2019	01:57:23	042-Tanzania,TerradiAmici(14')eD	TANZANIA	Nuovo File	00:14:05	71	
+23/02/2019	02:11:28	DonCamilloMonsignoremanontroppo	DON CAMILLO   MONSIGNORE	DON CAMILLO MONSIGNORE	01:53:25	1	
+23/02/2019	04:04:53	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	
+23/02/2019	04:04:57	InstantFuturepuntata5	INSTANT FUTURE 5 P	INSTANT FUTURE 5 P	00:22:23	31	
+23/02/2019	04:27:21	agrisapori-621x9-8-15	AGRISAPORI	AGRISAPORI	00:27:11	71	
+23/02/2019	04:54:32	TG	TG 	TELEGIORNALE	00:02:39	31	
+23/02/2019	04:57:11	Il.Diavolo.bn19632°t	IL DIAVOLO B/N SORDI 2°	IL DIAVOLO B/N SORDI 2°	00:53:09	1	
+23/02/2019	05:50:20	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	
+23/02/2019	05:50:24	inTavola_20150205_48237	Sconosciuto	inTavola_2015 02 05	00:01:58	31	
+23/02/2019	05:52:23	MalfaPiccolaGrandeItalia	Piccola Grande Italia MALFA	Malfa	00:21:29	71	
+23/02/2019	06:13:52	Qualcosadicuisparlare_mpeg2video	Sconosciuto	Qualcosa di  cui  sparlare	01:40:41	1	
+23/02/2019	07:54:33	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	
+23/02/2019	07:54:37	INSTANTFUTURE	intant future p7	INSTANT FUTURE p7	00:23:18	31	
+23/02/2019	08:17:55	agrisapori610x24-5-15	AGRISAPORI	AGISAPORI	00:31:12	71	
+23/02/2019	08:49:07	FantozziControTutti	FANTOZZI  CONTRO  TUTTI	FANTOZZI  CONTRO  TUTTI	01:33:33	1	
+23/02/2019	10:22:41	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	
+23/02/2019	10:22:44	TG	TG 	TELEGIORNALE	00:02:39	31	
+23/02/2019	10:25:24	consiglioGeracedel288017	Sconosciuto	consiglio 28 8 17	00:20:04	31	
+23/02/2019	10:45:28	NoepoliPiccolaGrandeItalia	Piccola grande Italia	Neapoli	00:16:32	71	
+23/02/2019	11:02:00	IdentitàViolate	IDENTITA' VIOLATE	IDENTITA' VIOLATE	01:38:46	1	
+23/02/2019	12:40:46	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	
+23/02/2019	12:40:50	Pasticciniallemandorle	PASTICCINI  ALLE MANDORLE	PASTICCINI ALLE MANDORLE	00:02:15	31	
+23/02/2019	12:43:05	Caltagirone2010PiccolaGrandeItalia	CALTAGIRONE	CALTAGIRONE	00:24:23	71	
+23/02/2019	13:07:28	jerry.lewis.l.idolo.delle.donne.19612°t.	L' IDOLO DELLE DONNE 2°	L' IDOLO DELLE DONNE 2°	00:44:37	1	
+23/02/2019	13:52:06	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	
+23/02/2019	13:52:09	CocktaildiGamberetti,laricettadiGiallozafferano	COKTAIL DI  GAMBERETTI	COKTAIL DI GAMBERETTI	00:02:59	31	
+23/02/2019	13:55:09	PianadegliAlbanesi'DomenicadellePalme'PiccolaGrandeItalia	PIANA DEGLI ALBANESI	PIANA DEGLI ALBANESI	00:14:12	71	
+23/02/2019	14:09:21	TG	TG 	TELEGIORNALE	00:02:39	31	
+23/02/2019	14:12:00	MissinginAmerica	Sconosciuto	Missing  America	01:38:23	1	
+23/02/2019	15:50:24	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	
+23/02/2019	15:50:43	CONSIGLIOGERACEDEL1311016	consiglio gerace PEZZIMNENTI	CONSIGLIO GERACE DE 13  NOV 2016	00:44:22	31	
+23/02/2019	16:35:05	agrisapori613x14-6-15	AGRISAPORI	AGRISAPORI	00:26:49	71	
+23/02/2019	17:01:55	Infiltratospeciale_mpeg2video	Sconosciuto	Infiltrato  speciale	01:34:35	1	
+23/02/2019	18:36:30	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	
+23/02/2019	18:36:34	premiostadioradio-nona-edizione-cut-tv	premio stadio radio 2017	Nuovo Filepremio stadio radio 2017	02:08:32	31	
+23/02/2019	20:45:06	agrisapori596x8-2-15	GIAGLIONESconosciuto	Nuovo FiAGRISAPORI	00:31:19	71	
+23/02/2019	21:16:26	Perfavorenontoccatelevecchiette_2_mpeg2video	Sconosciuto	PER FAVORE  NN TOCCATE LE VECCHIETTE 2	00:43:02	1	
+23/02/2019	21:59:28	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	
+23/02/2019	21:59:31	TG	TG 	TELEGIORNALE	00:02:39	31	
+23/02/2019	22:02:10	CroccantediMandorle,laricettadiGiallozafferano	CROCCANTEW DI  MANDORLE	CROCCANTE DI  AMNDORLE	00:03:45	31	
+23/02/2019	22:05:56	agrisapori609x17-5-15	Sconosciuto	SPERLONGA	00:28:59	71	
+23/02/2019	22:34:55	LaCarbonarafilmcompleto_mpeg2video	LA  CARBONARA	LA CARBONARA	01:48:07	1	
+24/02/2019	00:23:03	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	
+24/02/2019	00:23:21	CONSIGLIOCOMGERA25SETT2^Parte	gerace consiglio  comunale	Consiglio  com 2à parte del 25 09 016	02:29:42	31	
+24/02/2019	02:53:04	STILOELACATTOLICA	STILO E LA CATTOLICA	Stilo e la  cattolica	00:07:14	71	
+24/02/2019	03:00:18	Bowfinger_2_mpeg2video	Sconosciuto	BOWFINGER 2 P	00:48:07	1	
+24/02/2019	03:48:25	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	
+24/02/2019	03:48:29	LocriCCdel14062013_mpeg2video	CONSIGLIO COMUNALE LOCRI	CONSIGLIO COMUNALE LOCRIDEL 14062013	01:47:02	31	
+24/02/2019	05:35:31	VideopergiornodellaMemoria,pernondimenticare.	IL GIORNO DELLA  MEMORIA	IL GIORNO  DELLA MEMORIA	00:25:46	71	
+24/02/2019	06:01:17	TG	TG 	TELEGIORNALE	00:02:39	31	
+24/02/2019	06:03:57	Raccontiromani_mpeg2video	Sconosciuto	Racconti  romani	01:34:01	1	
+24/02/2019	07:37:58	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	
+24/02/2019	07:38:01	consigliocomunalegerace	CONSIGLIO  COMUN GERACE 18 6 016	CONSIGLIO  COMUN 18 06 016	01:28:01	31	
+24/02/2019	09:06:03	CarnevalediVenezia2013dal26GENNAIOal12FEBBRAIOYouTube	Sconosciuto	CARNEVALE VENEZIA	00:10:41	71	
+24/02/2019	09:16:44	Cosedamaschi_mpeg2video	Sconosciuto	COSE DA MASCHI	01:33:44	1	
+24/02/2019	10:50:28	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	
+24/02/2019	10:50:32	CONSIGLIOGERACEDEL1311016	consiglio gerace PEZZIMNENTI	CONSIGLIO GERACE DE 13  NOV 2016	00:44:22	31	
+24/02/2019	11:34:54	Gerace	GERACE	GERACE	00:06:01	71	
+24/02/2019	11:40:55	Un.amore.in.prima.classe.19801°t.	UN AMORE IN PRIMA CLASSE 1° T	UN AMORE IN PRIMA CLASSE 1° T	00:48:06	1	
+24/02/2019	12:29:02	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	
+24/02/2019	12:29:06	TG	TG 	TELEGIORNALE	00:02:39	31	
+24/02/2019	12:31:45	Pasticciniallemandorle	PASTICCINI  ALLE MANDORLE	PASTICCINI ALLE MANDORLE	00:02:15	31	
+24/02/2019	12:34:00	agrisapori615x28-6-15	Sconosciuto	AGRISAPORI xpo mi	00:31:34	71	
+24/02/2019	13:05:34	Americangraffiti_2_mpeg2video	AMERICAN GRAFFITI_2	AMERICAN GRAFFITI_2	00:50:04	1	
+24/02/2019	13:55:39	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	
+24/02/2019	13:55:42	consigliocomunalegeracedel25092016primaparte	CONSIGLIO GERACE DEL 25.09 016	consigl gerace 1^ parte	01:13:36	31	
+24/02/2019	15:09:19	Atlantis	ATLANTIS	ATLANTIS	01:27:36	71	
+24/02/2019	16:36:55	Souvenird'Italie_mpeg2video	Souvenir d'Italy	Souvenir d'Italy	01:44:43	1	
+24/02/2019	18:21:38	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	
+24/02/2019	18:21:42	InstantFuture_puntata3	INSTANT FUTURE 3 P	INSTANT FUTURE 3 P	00:22:30	31	
+24/02/2019	18:44:12	agrisapori617x12-6-15	AGRISAPORI	AGRISAPORI	00:24:51	71	
+24/02/2019	19:09:03	TG	TG 	TELEGIORNALE	00:02:39	31	
+24/02/2019	19:11:42	'NataleinCasaCupiello'diEduardodeFilippoINTEGRALE_mpeg2video	Commedia	Natale in casa   Cupiello	02:12:48	1	
+24/02/2019	21:24:31	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	
+24/02/2019	21:24:34	InstantFuture_Puntata1	INSTANT FUTURE 1 P	INSTANT FUTURE 1 P	00:21:25	31	
+24/02/2019	21:46:00	MontaltoUffugoFestadelgranosull'Aia	MONTALTO UFFUGO	MONTALTO  UFFUGO	00:14:29	71	
+24/02/2019	22:00:29	Papadiventamamma_mpeg2video	PAPA  DIVENTA  MAMMA	PAPA  DIVENTA  MAMMA	01:20:22	1	
+24/02/2019	23:20:52	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	
+24/02/2019	23:20:56	OSPEDALEGERACEcopiaottima_mpeg2video	OSPEDALE GERACE	Ospedale Gerace Matteo	00:12:45	31	
+24/02/2019	23:33:41	agrisapori604x12-4-15	AGRISAPORI	AGRISAPORI	00:29:07	71	
+25/02/2019	00:02:48	DonCamilloel'onorevolePeppone	Sconosciuto	DON CAMILLO E L 'ONOREVOLE PEPPONE	01:37:00	1	
+25/02/2019	01:39:49	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	
+25/02/2019	01:40:08	TG	TG 	TELEGIORNALE	00:02:39	31	
+25/02/2019	01:42:47	Consiglio29ott2016xregia	CONSIGLIO COMUNALE GERACE 	CONS DEL 29 OTT 2016	00:00:02	31	
+25/02/2019	01:42:49	MassafraPiccolaGrandeItalia	Piccola grande Italia	Massafra	00:21:33	71	
+25/02/2019	02:04:23	IlVizietto2°t.	IL VIZIETTO 2° T	IL VIZIETTO 2° T	00:44:25	1	
+25/02/2019	02:48:48	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	
+25/02/2019	02:49:07	CocktaildiGamberetti,laricettadiGiallozafferano	COKTAIL DI  GAMBERETTI	COKTAIL DI GAMBERETTI	00:02:59	31	
+25/02/2019	02:52:06	agrisapori614x21-6-15	Sconosciuto	AGRISAPORI	00:17:56	71	
+25/02/2019	03:10:03	BadBoys	BAD BOYS	BAD BOYS	01:54:04	1	
+25/02/2019	05:04:07	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	
+25/02/2019	05:04:10	GeraceConsiglioComunaleStraordinariodel16Dic2015(byEL)	CONSIGLIO  COMUNALE GERACE 	Consiglio  comunale gerace del 16 dic 015	00:50:31	31	
+25/02/2019	05:54:42	050-IlTriangolod'Oro(20')eD	IL TRIANGOLO D 'ORO	IL TRIANGOLO  D 'ORO	00:19:13	71	
+25/02/2019	06:13:55	TG	TG 	TELEGIORNALE	00:02:39	31	
+25/02/2019	06:16:34	Statebuoni,Sepotete(TuttoilFilm)SanFilippoNeri(Et+12)	Sconosciuto	STATE  BUONI SE  POTETE	02:29:17	1	
+25/02/2019	08:45:52	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	
+25/02/2019	08:45:55	CorsoUrgenzaEmergenza	CORSO URGENZA EMERGENZA	CORSO  URGENZA EMERGENZA	01:03:16	31	
+25/02/2019	09:49:12	MusicaeTradizioni	MUSICA E TRADIZIONI	MUSICA E TRADIZIONI	00:10:57	71	
+25/02/2019	10:00:10	X-Men	X - MEN	X - MEN	01:40:02	1	
+25/02/2019	11:40:12	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	
+25/02/2019	11:40:15	CroccantediMandorle,laricettadiGiallozafferano	CROCCANTEW DI  MANDORLE	CROCCANTE DI  AMNDORLE	00:03:45	31	
+25/02/2019	11:44:00	MagnificaItaliaCalabria_mpeg2video	Sconosciuto	Calabria	00:52:09	71	
+25/02/2019	12:36:10	AltrimentiCiArrabbiamo	Sconosciuto	Nuovo File	01:37:35	1	
+25/02/2019	14:13:45	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	
+25/02/2019	14:13:49	TG	TG 	TELEGIORNALE	00:02:39	31	
+25/02/2019	14:16:28	Pennetteai4formaggi	PENNETTE 4 FORMAGGI	PENNETTE 4 FORMAGGI	00:02:41	31	
+25/02/2019	14:19:10	Potaturadell'OlivonellaLocride3Ed_mpeg2video	Sconosciuto	Potatura  dell' olivo  nella Locride 013	01:51:49	71	
+25/02/2019	16:11:00	Fantozzisubisceancora	FANTOZZI  SUBISCE ANCORA	FANTOZZI  SUBISCE ANCORA	01:23:46	1	
+25/02/2019	17:34:47	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	
+25/02/2019	17:34:50	premiostadioradio-nona-edizione-cut-tv	premio stadio radio 2017	Nuovo Filepremio stadio radio 2017	02:08:32	31	
+25/02/2019	19:43:22	agrisapori618x19-7-15	AGRISAPORI	La Magdaleine	00:08:48	71	
+25/02/2019	19:52:10	AlbertoSordiIlVedovo	Sconosciuto	IL  VEDOVO	01:27:06	1	
+25/02/2019	21:19:16	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	
+25/02/2019	21:19:20	consiglioGeracedel288017	Sconosciuto	consiglio 28 8 17	00:20:04	31	
+25/02/2019	21:39:24	TropeaPiccolaGrandeItalia	Piccola grande Italia	TROPEA	00:26:53	71	
+25/02/2019	22:06:17	TG	TG 	TELEGIORNALE	00:02:39	31	
+25/02/2019	22:08:57	Storiediamorieinfedelta_mpeg2video	Sconosciuto	Storie di  amori ed infedeltà	01:23:30	1	
+25/02/2019	23:32:27	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	
+25/02/2019	23:32:31	CONSIGLIOCOMUNALE30MARZO2017	consiglio gerace del 30 3 017	consiglio gerace 30 3 17	00:45:44	31	
+26/02/2019	00:18:16	IpostipibellidellacalabriaDestinationCalabriaGiuseppeScorzaPepoMac@gmailcom_mpeg2video	Sconosciuto	I POSTI PIU  BELLI DELLA CALABRIA	00:03:59	71	
+26/02/2019	00:22:15	FantozziInParadiso	FANTOZZI VA  IN PARADISO	FANTOZZI VA IN PARADISO	01:32:30	1	
+26/02/2019	01:54:46	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	
+26/02/2019	01:54:50	FM21	FORMULA  MOTORI 21	Nuovo File	00:23:58	31	
+26/02/2019	02:18:49	047-LaRiservaNaturalediAlmaAta(21')eD	LA RISERVA NATURALE DI ALMAT...	Nuovo File	00:20:34	71	
+26/02/2019	02:39:23	Uomo.Avvisato.Mezzo.Ammazzato.19721°t.	Uomo avvisato mezzo salvato	UOMO  AVVISATO MEZZO AMMAZZATO 1^	00:46:39	1	
+26/02/2019	03:26:02	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	
+26/02/2019	03:26:21	TG	TG 	TELEGIORNALE	00:02:39	31	
+26/02/2019	03:29:01	SEDUTACONSIGLIODEL13032017	consiglio gerace 13  3 017	Nuovo File	00:38:35	31	
+26/02/2019	04:07:36	ReggioCalabriaPiccolaGrandeItalia	Sconosciuto	Reggio piccola grande Italia  	00:22:12	71	
+26/02/2019	04:29:49	Uomo.Avvisato.Mezzo.Ammazzato.19722°t.	UOMO  AVVISATO MEZZO AMMAZZATO 2^ 	UOMO  AVVISATO MEZZO AMMAZZATO 2^	00:43:11	1	
+26/02/2019	05:13:00	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	
+26/02/2019	05:13:04	inTavola_20150205_48237	Sconosciuto	inTavola_2015 02 05	00:01:58	31	
+26/02/2019	05:15:03	IlBrigantaggio	IL  BRIGANTAGGIO	IL  BRIGANTAGGIO	00:32:04	71	
+26/02/2019	05:47:07	Wargames_mpeg2video	WARGAMES	Wrgames	01:48:02	1	
+26/02/2019	07:35:09	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	
+26/02/2019	07:35:13	ConsigliocomunaleGeracedel30settembre2017	cosiglio comunale gerace 30 sett 017	Nuovo File	01:52:24	31	
+26/02/2019	09:27:37	agrisapori606x27-4-15	AGRISAPORI	AGRISAPORI	00:30:54	71	
+26/02/2019	09:58:32	TG	TG 	TELEGIORNALE	00:02:39	31	
+26/02/2019	10:01:11	ImaginaryHeroes	IMMAGINARY HEROES	Immaginary Heores	01:51:03	1	
+26/02/2019	11:52:15	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	
+26/02/2019	11:52:18	INSTANTFUTURE	intant future p7	INSTANT FUTURE p7	00:23:18	31	
+26/02/2019	12:15:36	Carnevale2013Flashsulprimocorsomascherato	Sconosciuto	CARNEVALE VENEZIA 2	00:23:04	71	
+26/02/2019	12:38:41	0110-1968-Calmaragazzeoggimisposo-LouisDeFunes_mpeg2video	Sconosciuto	CALMA RAGAZZE  OGGI   MI  SPOSO	01:25:55	1	
+26/02/2019	14:04:37	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	
+26/02/2019	14:04:40	21PIXMINDrev1	PIXMIND	Nuovo File	00:23:59	31	
+26/02/2019	14:28:40	PraiaaMarePiccolaGrandeItalia	Piccola grande Italia	PRAIA A MARE	00:24:33	71	
+26/02/2019	14:53:14	StarshipTroopers-FanteriaDelloSpazio	STARSHIP TROOPERS	STARSHIP TROOPERS	02:04:18	1	
+26/02/2019	16:57:33	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	
+26/02/2019	16:57:36	TG	TG 	TELEGIORNALE	00:02:39	31	
+26/02/2019	17:00:15	InstantFuturepuntata5	INSTANT FUTURE 5 P	INSTANT FUTURE 5 P	00:22:23	31	
+26/02/2019	17:22:39	SardegnaVistadalcielo	Sconosciuto	Sardegna vista dal cielo	00:50:23	71	
+26/02/2019	18:13:03	7Monacidoro_mpeg2video	7  monaci d  oro	7  MONACI D' ORO	01:33:49	1	
+26/02/2019	19:46:52	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	
+26/02/2019	19:46:55	Geracesedutaconsiliaredel5Ottobre2016(byEL)	seduta consiglio gerace 5 10 106	consiglio gerac 5.10.016	01:30:13	31	
+26/02/2019	21:17:09	Olocausto.Lafabbricadelmale	olocxausto	LA FABBRICA DEL  MALE	01:23:34	71	
+26/02/2019	22:40:44	Controsesso_mpeg2video	Sconosciuto	CONTROSESSO	01:47:23	1	
+27/02/2019	00:28:08	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	
+27/02/2019	00:28:11	InstantFuture_puntata3	INSTANT FUTURE 3 P	INSTANT FUTURE 3 P	00:22:30	31	
+27/02/2019	00:50:41	VideoRicettaTiramisùGalbani	TIRAMI SU	TIRAMI SU	00:01:40	71	
+27/02/2019	00:52:22	TG	TG 	TELEGIORNALE	00:02:39	31	
+27/02/2019	00:55:01	UmbertoD(1952)unfilmdiVittorioDeSica	Sconosciuto	Umberto D	01:28:17	1	
+27/02/2019	02:23:19	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	
+27/02/2019	02:23:38	FM21	FORMULA  MOTORI 21	Nuovo File	00:23:58	31	
+27/02/2019	02:47:36	AnimaliSerpentiFascinoLetale(Ita)	ANIMALI SERPENTI	ANIMALI SERPENTI	00:52:05	71	
+27/02/2019	03:39:42	Arma.Da.Taglio.19721°t	ARMA DA TAGLIO 1°	ARMA DA TAGLIO 1°	00:45:44	1	
+27/02/2019	04:25:26	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	
+27/02/2019	04:25:30	consigliocomunalegerace	CONSIGLIO  COMUN GERACE 18 6 016	CONSIGLIO  COMUN 18 06 016	01:28:01	31	
+27/02/2019	05:53:32	CariatiPiccolaGrandeItalia	CARIATI	cariati	00:21:41	71	
+27/02/2019	06:15:13	Speed2-SenzaLimiti	SPOEED 2 SENZA LIMITI	SPEED 2 SENZA LIMITI	01:54:12	1	
+27/02/2019	08:09:25	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	
+27/02/2019	08:09:29	TG	TG 	TELEGIORNALE	00:02:39	31	
+27/02/2019	08:12:08	INSTANTFUTURE	intant future p7	INSTANT FUTURE p7	00:23:18	31	
+27/02/2019	08:35:26	agrisapori-623x23-8-15	AGRISAPORI	AGRISAPORI	00:00:01	71	
+27/02/2019	08:35:28	InsideI'mdancing	INSIDEL MDANCING	FILM	01:39:53	1	
+27/02/2019	10:15:21	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	
+27/02/2019	10:15:24	premiostadioradio-nona-edizione-cut-tv	premio stadio radio 2017	Nuovo Filepremio stadio radio 2017	02:08:32	31	
+27/02/2019	12:23:56	agrisapori-624x30-8-15	grisapori	AGRISAPORI	00:27:35	71	
+27/02/2019	12:51:32	Terapiadurto_mpeg2video	Sconosciuto	Terapia d' urto	01:40:39	1	
+27/02/2019	14:32:12	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	
+27/02/2019	14:32:15	OSPEDALEGERACEcopiaottima_mpeg2video	OSPEDALE GERACE	Ospedale Gerace Matteo	00:12:45	31	
+27/02/2019	14:45:00	046-Bangkok,laVeneziad'Oriente(15')eD	BANNGKOC	Nuovo File	00:15:19	71	
+27/02/2019	15:00:19	TG	TG 	TELEGIORNALE	00:02:39	31	
+27/02/2019	15:02:59	Undollarodififa_mpeg2video	UN DOLLARO  DI  FIFA	UN DOLLARO  DI  FIFA	01:29:53	1	
+27/02/2019	16:32:52	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	
+27/02/2019	16:33:11	InstantFuture_Puntata1	INSTANT FUTURE 1 P	INSTANT FUTURE 1 P	00:21:25	31	
+27/02/2019	16:54:37	049-LaTerradelSoleRosso(11')eD	LA TERRA DEL   SOLE ROSSO	LA TERRA DEL   SOLE  ROSSO	00:10:48	71	
+27/02/2019	17:05:25	'IlsegretodiSantaVittoria'(1969)conAnnaMagnanieAnthonyQuinn_mpeg2video	Sconosciuto	IL SEGRETO DI SANTA  VITTORIA	02:13:14	1	
+27/02/2019	19:18:40	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	
+27/02/2019	19:18:43	GeraceConsiglioComunaleStraordinariodel16Dic2015(byEL)	CONSIGLIO  COMUNALE GERACE 	Consiglio  comunale gerace del 16 dic 015	00:50:31	31	
+27/02/2019	20:09:15	agrisapori608x9-5-15	Sconosciuto	Nuovo File	00:28:40	71	
+27/02/2019	20:37:55	CommandPerformance2009iTALiANDVDRipXviDPrEsTiGe	Sconosciuto	Command performance	01:29:22	1	
+27/02/2019	22:07:18	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	
+27/02/2019	22:07:21	TG	TG 	TELEGIORNALE	00:02:39	31	
+27/02/2019	22:10:01	CroccantediMandorle,laricettadiGiallozafferano	CROCCANTEW DI  MANDORLE	CROCCANTE DI  AMNDORLE	00:03:45	31	
+27/02/2019	22:13:46	agrisapori627X20-9_15	AGRISAPORI	AGRISAPORI	00:26:45	71	
+27/02/2019	22:40:32	AmiciMieiAttoII_mpeg2video	Sconosciuto	AMICI MIEI  ATTO II	02:07:00	1	
+28/02/2019	00:47:32	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	
+28/02/2019	00:47:35	CONSIGLIOCOMGERA25SETT2^Parte	gerace consiglio  comunale	Consiglio  com 2à parte del 25 09 016	02:29:42	31	
+28/02/2019	03:17:18	GliAnimalipiPericolosiGiunglaUrbana(ITA)	Animali pericolosi	ANIMALI PERICOLOSI	00:47:02	71	
+28/02/2019	04:04:20	Ritornoalfuturo3_1_mpeg2video	RIRORNO  AL  FUTURO 3	Ritorno  al  futuro 3	01:00:22	1	
+28/02/2019	05:04:43	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	
+28/02/2019	05:04:46	Consiglio29ott2016xregia	CONSIGLIO COMUNALE GERACE 	CONS DEL 29 OTT 2016	00:00:02	31	
+28/02/2019	05:04:48	SerraSanBrunoPiccolaGrandeItalia	Piccola Grande Italia	SERRA S. BRUNO	00:20:58	71	
+28/02/2019	05:25:47	TG	TG 	TELEGIORNALE	00:02:39	31	
+28/02/2019	05:28:26	Unacoppiaperfetta_mpeg2video	Sconosciuto	Una coppia  perfetta	01:46:00	1	
+28/02/2019	07:14:26	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	
+28/02/2019	07:14:29	CONSIGLIOGERACEDEL1311016	consiglio gerace PEZZIMNENTI	CONSIGLIO GERACE DE 13  NOV 2016	00:44:22	31	
+28/02/2019	07:58:52	agrisapori616x5-7-15	AGRISAPORI	AGRISAPORI	00:26:08	71	
+28/02/2019	08:25:00	Sia-Chandelier	SIA	CHANDELEIR	00:03:40	1	
+28/02/2019	08:28:41	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	
+28/02/2019	08:29:00	Pasticciniallemandorle	PASTICCINI  ALLE MANDORLE	PASTICCINI ALLE MANDORLE	00:02:15	31	
+28/02/2019	08:31:15	GrotteriaPresepe2012_mpeg2video(1)	GROTTERIA PRESEPE	GROTTERIA PRESEPE	00:46:15	71	
+28/02/2019	09:17:31	Roma.drogata.la.polizia.non_.puo.intervenire.19752°t.	ROMA DROGATA 2^	ROMA DROGATA 2^	00:41:14	1	
+28/02/2019	09:58:45	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	
+28/02/2019	09:58:49	TG	TG 	TELEGIORNALE	00:02:39	31	
+28/02/2019	10:01:28	inTavola_20150205_48237	Sconosciuto	inTavola_2015 02 05	00:01:58	31	
+28/02/2019	10:03:27	043-NgoroNgoro,l'UltimaArca(14')eD	NGORO NGORO	Nuovo File	00:13:29	71	
+28/02/2019	10:16:56	LARIVOLTADEIPRETORIANIFilmpeplum1964diAlfonsoBresciacompletoinItaliano	Sconosciuto	LARIVOLTA DEI PRETORIANI	01:33:20	1	
+28/02/2019	11:50:17	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	
+28/02/2019	11:50:20	21PIXMINDrev1	PIXMIND	Nuovo File	00:23:59	31	
+28/02/2019	12:14:20	044-LaSavanadeiSerengheti(15')eD	LA SAVANA	Nuovo File	00:14:19	71	
+28/02/2019	12:28:39	LabattagliadellaNeretva19691°t.	LA BATTAGLIA DELLA NERETVA 1° T	LA BATTAGLIA DELLA NERETVA 1° T	01:14:05	1	
+28/02/2019	13:42:44	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	
+28/02/2019	13:42:47	consigliocomunalegeracedel25092016primaparte	CONSIGLIO GERACE DEL 25.09 016	consigl gerace 1^ parte	01:13:36	31	
+28/02/2019	14:56:24	045-NiloVittoria,ilFiumedellaPreistoria(10')eD	NILO 	IL  LUME DELLA PREISTORIA	00:09:54	71	
+28/02/2019	15:06:18	TG	TG 	TELEGIORNALE	00:02:39	31	
+28/02/2019	15:08:58	L'isoladeisopravvissuti	Sconosciuto	L' isola dei sopravvissuti 	01:31:43	1	
+28/02/2019	16:40:42	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	
+28/02/2019	16:41:00	Pennetteai4formaggi	PENNETTE 4 FORMAGGI	PENNETTE 4 FORMAGGI	00:02:41	31	
+28/02/2019	16:43:42	051-LeAndedellaCoca(20')eD	LE ANDE DELLA COCA	LE AMNDE DELLA COCA	00:19:27	71	
+28/02/2019	17:03:10	CityofGhost_mpeg2video	Sconosciuto	CYTY OF GHOST	01:51:42	1	
+28/02/2019	18:54:53	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	
+28/02/2019	18:54:56	SEDUTACONSIGLIODEL13032017	consiglio gerace 13  3 017	Nuovo File	00:38:35	31	
+28/02/2019	19:33:31	043-NgoroNgoro,l'UltimaArca(14')eD	NGORO NGORO	Nuovo File	00:13:29	71	
+28/02/2019	19:47:01	Sedottiebidonati	Sconosciuto	Sedotti ed abbandonati	01:37:13	1	
+28/02/2019	21:24:14	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	
+28/02/2019	21:24:17	TG	TG 	TELEGIORNALE	00:02:39	31	
+28/02/2019	21:26:57	ConsigliocomunaleGeracedel30settembre2017	cosiglio comunale gerace 30 sett 017	Nuovo File	01:52:24	31	
+28/02/2019	23:19:21	agrisapori-624x30-8-15	grisapori	AGRISAPORI	00:27:35	71	
+28/02/2019	23:46:57	Perunpugnonellocchio_mpeg2video	Sconosciuto	Per  un  pugno  nell' occhio	01:34:51	1	
+01/03/2019	01:21:49	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	
+01/03/2019	01:21:52	CocktaildiGamberetti,laricettadiGiallozafferano	COKTAIL DI  GAMBERETTI	COKTAIL DI GAMBERETTI	00:02:59	31	
+01/03/2019	01:24:52	agrisapori618x19-7-15	AGRISAPORI	La Magdaleine	00:08:48	71	
+01/03/2019	01:33:40	LichiamaronoBrigantifilmcompleto	LI CHIAMARONO BRIGANTI	LI CHIAMARONO BRIGANTI	02:00:51	1	
+01/03/2019	03:34:31	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	
+01/03/2019	03:34:35	consiglioGeracedel288017	Sconosciuto	consiglio 28 8 17	00:20:04	31	
+01/03/2019	03:54:39	agrisapori627X20-9_15	AGRISAPORI	AGRISAPORI	00:26:45	71	
+01/03/2019	04:21:25	TG	TG 	TELEGIORNALE	00:02:39	31	
+01/03/2019	04:24:05	gold.il.segno.del.potere.19742°t.	GOLD  IL SEGNO DEL  POTERE 2°	GOLD  IL SEGNO DEL  POTERE 2°	00:57:54	1	
+01/03/2019	05:21:59	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	
+01/03/2019	05:22:18	InstantFuturepuntata5	INSTANT FUTURE 5 P	INSTANT FUTURE 5 P	00:22:23	31	
+01/03/2019	05:44:42	agrisapori616x5-7-15	AGRISAPORI	AGRISAPORI	00:26:08	71	
+01/03/2019	06:10:51	0114-1968PreparatiLaBara-TerenceHill_mpeg2video	Sconosciuto	PREPARATI LA  BARA	01:28:01	1	
+01/03/2019	07:38:52	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	
+01/03/2019	07:38:55	CorsoUrgenzaEmergenza	CORSO URGENZA EMERGENZA	CORSO  URGENZA EMERGENZA	01:03:16	31	
+01/03/2019	08:42:12	agrisapori609x17-5-15	Sconosciuto	SPERLONGA	00:28:59	71	
+01/03/2019	09:11:12	FantozziVaInPensione	FANTOZZI VA IN PENSIONE	FANTOZZI VA IN PENSIONE	01:34:36	1	
+01/03/2019	10:45:48	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	
+01/03/2019	10:45:51	TG	TG 	TELEGIORNALE	00:02:39	31	
+01/03/2019	10:48:30	LocriCCdel14062013_mpeg2video	CONSIGLIO COMUNALE LOCRI	CONSIGLIO COMUNALE LOCRIDEL 14062013	01:47:02	31	
+01/03/2019	12:35:32	050-IlTriangolod'Oro(20')eD	IL TRIANGOLO D 'ORO	IL TRIANGOLO  D 'ORO	00:19:13	71	
+01/03/2019	12:54:46	AvventuraaCapri_mpeg2video	Sconosciuto	AVVENTURA A CAPRI	01:23:03	1	
+01/03/2019	14:17:50	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	
+01/03/2019	14:17:53	CONSIGLIOCOMUNALE30MARZO2017	consiglio gerace del 30 3 017	consiglio gerace 30 3 17	00:45:44	31	
+01/03/2019	15:03:38	agrisapori596x8-2-15	GIAGLIONESconosciuto	Nuovo FiAGRISAPORI	00:31:19	71	
+01/03/2019	15:34:58	Americangraffiti_1_mpeg2video	AMERICAN GRAFFITI_1	AMERICAN GRAFFITI_1	00:57:34	1	
+01/03/2019	16:32:32	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	
+01/03/2019	16:32:35	Geracesedutaconsiliaredel5Ottobre2016(byEL)	seduta consiglio gerace 5 10 106	consiglio gerac 5.10.016	01:30:13	31	
+01/03/2019	18:02:49	IpostipibellidellacalabriaDestinationCalabriaGiuseppeScorzaPepoMac@gmailcom_mpeg2video	Sconosciuto	I POSTI PIU  BELLI DELLA CALABRIA	00:03:59	71	
+01/03/2019	18:06:49	TG	TG 	TELEGIORNALE	00:02:39	31	
+01/03/2019	18:09:28	Un.amore.in.prima.classe.19802°t.	UN AMORE IN PRIMA CLASSE 2° T	UN AMORE IN PRIMA CLASSE 2° T	00:42:02	1	
+01/03/2019	18:51:31	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	
+01/03/2019	18:51:35	GeraceConsiglioComunaleStraordinariodel16Dic2015(byEL)	CONSIGLIO  COMUNALE GERACE 	Consiglio  comunale gerace del 16 dic 015	00:50:31	31	
+01/03/2019	19:42:06	VideopergiornodellaMemoria,pernondimenticare.	IL GIORNO DELLA  MEMORIA	IL GIORNO  DELLA MEMORIA	00:25:46	71	
+01/03/2019	20:07:52	Bellezzesullaspiaggia_mpeg2video	Sconosciuto	BELLEZZE SULLA SPIAGGIA	01:23:08	1	
+01/03/2019	21:31:01	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	
+01/03/2019	21:31:04	LocriCCdel14062013_mpeg2video	CONSIGLIO COMUNALE LOCRI	CONSIGLIO COMUNALE LOCRIDEL 14062013	01:47:02	31	
+01/03/2019	23:18:06	SerraSanBrunoPiccolaGrandeItalia	Piccola Grande Italia	SERRA S. BRUNO	00:20:58	71	
+01/03/2019	23:39:05	Ilpadrino	IL PADRINO	Il padrino	02:48:04	1	
+02/03/2019	02:27:09	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	
+02/03/2019	02:27:13	TG	TG 	TELEGIORNALE	00:02:39	31	
+02/03/2019	02:29:52	Consiglio29ott2016xregia	CONSIGLIO COMUNALE GERACE 	CONS DEL 29 OTT 2016	00:00:02	31	
+02/03/2019	02:29:54	MagnificaItaliaCalabria_mpeg2video	Sconosciuto	Calabria	00:52:09	71	
+02/03/2019	03:22:04	A027DaLasVegas_mpeg2video	Sconosciuto	A 27 LAS VEGAS	01:30:34	1	
+02/03/2019	04:52:38	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	
+02/03/2019	04:52:42	21PIXMINDrev1	PIXMIND	Nuovo File	00:23:59	31	
+02/03/2019	05:16:42	MalfaPiccolaGrandeItalia	Piccola Grande Italia MALFA	Malfa	00:21:29	71	
+02/03/2019	05:38:11	AustinPowers2-Laspiacheciprovava	AUSTIN POWERS2	LA SPIA CHE CI  PROVAVA	01:31:07	1	
+02/03/2019	07:09:18	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	
+02/03/2019	07:09:22	InstantFuturepuntata5	INSTANT FUTURE 5 P	INSTANT FUTURE 5 P	00:22:23	31	
+02/03/2019	07:31:46	DOCUMENTARIOAuschwitz	Auschwitz	Auschwitz	00:26:56	71	
+02/03/2019	07:58:42	TG	TG 	TELEGIORNALE	00:02:39	31	
+02/03/2019	08:01:21	EttoreScolaC'eravamotantoamati(1974)_mpeg2video	Sconosciuto	CERAVAMO TANTO  AMATI	02:00:23	1	
+02/03/2019	10:01:45	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	
+02/03/2019	10:02:03	CocktaildiGamberetti,laricettadiGiallozafferano	COKTAIL DI  GAMBERETTI	COKTAIL DI GAMBERETTI	00:02:59	31	
+02/03/2019	10:05:03	042-Tanzania,TerradiAmici(14')eD	TANZANIA	Nuovo File	00:14:05	71	
+02/03/2019	10:19:08	MenInBlackI	Sconosciuto	Men In Black I	01:34:00	1	
+02/03/2019	11:53:09	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	
+02/03/2019	11:53:12	CONSIGLIOCOMUNALE30MARZO2017	consiglio gerace del 30 3 017	consiglio gerace 30 3 17	00:45:44	31	
+02/03/2019	12:38:57	agrisapori-623x23-8-15	AGRISAPORI	AGRISAPORI	00:00:01	71	
+02/03/2019	12:38:58	Scherzidaprete_mpeg2video	Sconosciuto	Scherzi da prete	01:27:51	1	
+02/03/2019	14:06:50	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	
+02/03/2019	14:06:54	TG	TG 	TELEGIORNALE	00:02:39	31	
+02/03/2019	14:09:33	CroccantediMandorle,laricettadiGiallozafferano	CROCCANTEW DI  MANDORLE	CROCCANTE DI  AMNDORLE	00:03:45	31	
+02/03/2019	14:13:18	GrotteriaPresepe2012_mpeg2video(1)	GROTTERIA PRESEPE	GROTTERIA PRESEPE	00:46:15	71	
+02/03/2019	14:59:34	Iquattrodell'apocalisseLucioFulci(FILMCOMPLETO)	Sconosciuto	I 4 DELL'APOCALISSE	01:44:06	1	
+02/03/2019	16:43:40	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	
+02/03/2019	16:43:43	inTavola_20150205_48237	Sconosciuto	inTavola_2015 02 05	00:01:58	31	
+02/03/2019	16:45:42	Olocausto.Lafabbricadelmale	olocxausto	LA FABBRICA DEL  MALE	01:23:34	71	
+02/03/2019	18:09:17	Il.Diavolo.bn19631°t	IL DIAVOLO B/N SORDI 1°	IL DIAVOLO B/N SORDI 1°	00:51:44	1	
+02/03/2019	19:01:02	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	
+02/03/2019	19:01:21	OSPEDALEGERACEcopiaottima_mpeg2video	OSPEDALE GERACE	Ospedale Gerace Matteo	00:12:45	31	
+02/03/2019	19:14:06	ReggioCalabriaPiccolaGrandeItalia	Sconosciuto	Reggio piccola grande Italia  	00:22:12	71	
+02/03/2019	19:36:19	TG	TG 	TELEGIORNALE	00:02:39	31	
+02/03/2019	19:38:58	AmicimieiattoIII_mpeg2video	Sconosciuto	AMICI MIEI  ATTO III	01:49:20	1	
+02/03/2019	21:28:19	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	
+02/03/2019	21:28:23	CONSIGLIOGERACEDEL1311016	consiglio gerace PEZZIMNENTI	CONSIGLIO GERACE DE 13  NOV 2016	00:44:22	31	
+02/03/2019	22:12:45	MusicaeTradizioni	MUSICA E TRADIZIONI	MUSICA E TRADIZIONI	00:10:57	71	
+02/03/2019	22:23:43	TotoaParigi_mpeg2video	Sconosciuto	Tot a Prigi	01:33:42	1	
+02/03/2019	23:57:25	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	
+02/03/2019	23:57:29	CONSIGLIOCOMGERA25SETT2^Parte	gerace consiglio  comunale	Consiglio  com 2à parte del 25 09 016	02:29:42	31	
+03/03/2019	02:27:11	CariatiPiccolaGrandeItalia	CARIATI	cariati	00:21:41	71	
+03/03/2019	02:48:52	Treuominieunagamba	TRE   UOMINI ED UNA GAMBA	Tre  uomini ed una  gamba	01:37:43	1	
+03/03/2019	04:26:36	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	
+03/03/2019	04:26:40	TG	TG 	TELEGIORNALE	00:02:39	31	
+03/03/2019	04:29:19	CorsoUrgenzaEmergenza	CORSO URGENZA EMERGENZA	CORSO  URGENZA EMERGENZA	01:03:16	31	
+03/03/2019	05:32:36	agrisapori608x9-5-15	Sconosciuto	Nuovo File	00:28:40	71	
+03/03/2019	06:01:17	AbramoIsaccoGiacobbeIsraeleGOIMFEDBCEIMFFMI	Sconosciuto	ABRAMO ISACCO GIACOBBE	01:26:07	1	
+03/03/2019	07:27:24	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	
+03/03/2019	07:27:42	InstantFuture_Puntata1	INSTANT FUTURE 1 P	INSTANT FUTURE 1 P	00:21:25	31	
+03/03/2019	07:49:08	Gerace	GERACE	GERACE	00:06:01	71	
+03/03/2019	07:55:09	FantozziControTutti	FANTOZZI  CONTRO  TUTTI	FANTOZZI  CONTRO  TUTTI	01:33:33	1	
+03/03/2019	09:28:43	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	
+03/03/2019	09:28:46	consiglioGeracedel288017	Sconosciuto	consiglio 28 8 17	00:20:04	31	
+03/03/2019	09:48:51	CarnevalediVenezia2013dal26GENNAIOal12FEBBRAIOYouTube	Sconosciuto	CARNEVALE VENEZIA	00:10:41	71	
+03/03/2019	09:59:32	TG	TG 	TELEGIORNALE	00:02:39	31	
+03/03/2019	10:02:12	Souvenird'Italie_mpeg2video	Souvenir d'Italy	Souvenir d'Italy	01:44:43	1	
+03/03/2019	11:46:55	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	
+03/03/2019	11:46:58	InstantFuture_puntata3	INSTANT FUTURE 3 P	INSTANT FUTURE 3 P	00:22:30	31	
+03/03/2019	12:09:28	044-LaSavanadeiSerengheti(15')eD	LA SAVANA	Nuovo File	00:14:19	71	
+03/03/2019	12:23:47	Ilpadrino	IL PADRINO	Il padrino	02:48:04	1	
+03/03/2019	15:11:51	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	
+03/03/2019	15:11:55	consigliocomunalegerace	CONSIGLIO  COMUN GERACE 18 6 016	CONSIGLIO  COMUN 18 06 016	01:28:01	31	
+03/03/2019	16:39:56	IlBrigantaggio	IL  BRIGANTAGGIO	IL  BRIGANTAGGIO	00:32:04	71	
+03/03/2019	17:12:01	X-Men	X - MEN	X - MEN	01:40:02	1	
+03/03/2019	18:52:03	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	
+03/03/2019	18:52:06	TG	TG 	TELEGIORNALE	00:02:39	31	
+03/03/2019	18:54:46	Pasticciniallemandorle	PASTICCINI  ALLE MANDORLE	PASTICCINI ALLE MANDORLE	00:02:15	31	
+03/03/2019	18:57:01	agrisapori606x27-4-15	AGRISAPORI	AGRISAPORI	00:30:54	71	
+03/03/2019	19:27:56	Infiltratospeciale_mpeg2video	Sconosciuto	Infiltrato  speciale	01:34:35	1	
+03/03/2019	21:02:31	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	
+03/03/2019	21:02:50	Pennetteai4formaggi	PENNETTE 4 FORMAGGI	PENNETTE 4 FORMAGGI	00:02:41	31	
+03/03/2019	21:05:31	Atlantis	ATLANTIS	ATLANTIS	01:27:36	71	
+03/03/2019	22:33:07	Nell'annoDelSignoreManfredi,Sordi,Tognazzi(Filmcompleto)	Sconosciuto	Nell'anno del  Signore	01:57:54	1	
+04/03/2019	00:31:02	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	
+04/03/2019	00:31:06	SEDUTACONSIGLIODEL13032017	consiglio gerace 13  3 017	Nuovo File	00:38:35	31	
+04/03/2019	01:09:41	agrisapori614x21-6-15	Sconosciuto	AGRISAPORI	00:17:56	71	
+04/03/2019	01:27:38	TG	TG 	TELEGIORNALE	00:02:39	31	
+04/03/2019	01:30:17	MissinginAmerica	Sconosciuto	Missing  America	01:38:23	1	
+04/03/2019	03:08:41	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	
+04/03/2019	03:08:44	consigliocomunalegeracedel25092016primaparte	CONSIGLIO GERACE DEL 25.09 016	consigl gerace 1^ parte	01:13:36	31	
+04/03/2019	04:22:21	PianadegliAlbanesi'DomenicadellePalme'PiccolaGrandeItalia	PIANA DEGLI ALBANESI	PIANA DEGLI ALBANESI	00:14:12	71	
+04/03/2019	04:36:33	BadBoys	BAD BOYS	BAD BOYS	01:54:04	1	
+04/03/2019	06:30:37	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	
+04/03/2019	06:30:41	ConsigliocomunaleGeracedel30settembre2017	cosiglio comunale gerace 30 sett 017	Nuovo File	01:52:24	31	
+04/03/2019	08:23:05	AnimaliSerpentiFascinoLetale(Ita)	ANIMALI SERPENTI	ANIMALI SERPENTI	00:52:05	71	
+04/03/2019	09:15:11	Perfavorenontoccatelevecchiette_2_mpeg2video	Sconosciuto	PER FAVORE  NN TOCCATE LE VECCHIETTE 2	00:43:02	1	
+04/03/2019	09:58:13	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	
+04/03/2019	09:58:16	TG	TG 	TELEGIORNALE	00:02:39	31	
+04/03/2019	10:00:55	FM21	FORMULA  MOTORI 21	Nuovo File	00:23:58	31	
+04/03/2019	10:24:54	agrisapori615x28-6-15	Sconosciuto	AGRISAPORI xpo mi	00:31:34	71	
+04/03/2019	10:56:28	MammaHoRipersoL'aereoEMiSonoSmarritoANewYork	Mamma ho riperso l' aereo e mi  sono smarrito a New York	Nuovo File	01:48:03	1	
+04/03/2019	12:44:32	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	
+04/03/2019	12:44:35	INSTANTFUTURE	intant future p7	INSTANT FUTURE p7	00:23:18	31	
+04/03/2019	13:07:53	047-LaRiservaNaturalediAlmaAta(21')eD	LA RISERVA NATURALE DI ALMAT...	Nuovo File	00:20:34	71	
+04/03/2019	13:28:27	0110-1968-Calmaragazzeoggimisposo-LouisDeFunes_mpeg2video	Sconosciuto	CALMA RAGAZZE  OGGI   MI  SPOSO	01:25:55	1	
+04/03/2019	14:54:23	SPOTTC6	SPOTtuachannel6	SPOTtuachannel6	00:00:03	111	
+04/03/2019	14:54:27	premiostadioradio-nona-edizione-cut-tv	premio stadio radio 2017	Nuovo Filepremio stadio radio 2017	02:08:32	31	
+04/03/2019	17:02:59	048-Tokio,EmblemadiunMiracolo(14')eD	TOKIO EMBLEMA DEL MIRACOLO	TOKIO EMBLEMA DEL  MIRACOLO	00:13:57	71	
+04/03/2019	17:16:56	TG	TG 	TELEGIORNALE	00:02:39	31	
+04/03/2019	17:19:36	Arma.Da.Taglio.19721°t	ARMA DA TAGLIO 1°	ARMA DA TAGLIO 1°	00:45:44	1	
+04/03/2019	18:05:20	SPOTTC1	SPOTtuachannel1	SPOTtuachannel1	00:00:03	111	
+04/03/2019	18:05:23	Geracesedutaconsiliaredel5Ottobre2016(byEL)	seduta consiglio gerace 5 10 106	consiglio gerac 5.10.016	01:30:13	31	
+04/03/2019	19:35:37	agrisapori613x14-6-15	AGRISAPORI	AGRISAPORI	00:26:49	71	
+04/03/2019	20:02:27	Colpogrosso_mpeg2video	Colpogrosso	COLPO  GROSSO	02:02:09	1	
+04/03/2019	22:04:37	SPOTC3	SPOTtuachannel3	SPOTtuachanne3	00:00:03	111	
+04/03/2019	22:04:40	CONSIGLIOGERACEDEL1311016	consiglio gerace PEZZIMNENTI	CONSIGLIO GERACE DE 13  NOV 2016	00:44:22	31	
+04/03/2019	22:49:03	MontaltoUffugoFestadelgranosull'Aia	MONTALTO UFFUGO	MONTALTO  UFFUGO	00:14:29	71	
+04/03/2019	23:03:32	AbramoIsaccoGiacobbeIsraeleGOIMFEDBCEIMFFMI	Sconosciuto	ABRAMO ISACCO GIACOBBE	01:26:07	1	
+05/03/2019	00:29:39	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	
+05/03/2019	00:29:43	TG	TG 	TELEGIORNALE	00:02:39	31	
+05/03/2019	00:32:22	CorsoUrgenzaEmergenza	CORSO URGENZA EMERGENZA	CORSO  URGENZA EMERGENZA	01:03:16	31	
+05/03/2019	01:35:39	BonifatiPiccolaGrandeItalia	bonifati	bonifati	00:21:55	71	
+05/03/2019	01:57:34	gold.il.segno.del.potere.19742°t.	GOLD  IL SEGNO DEL  POTERE 2°	GOLD  IL SEGNO DEL  POTERE 2°	00:57:54	1	
+05/03/2019	02:55:29	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	
+05/03/2019	02:55:48	Geracesedutaconsiliaredel5Ottobre2016(byEL)	seduta consiglio gerace 5 10 106	consiglio gerac 5.10.016	01:30:13	31	
+05/03/2019	04:26:01	agrisapori-621x9-8-15	AGRISAPORI	AGRISAPORI	00:27:11	71	
+05/03/2019	04:53:13	LaPretoraE.Fenechv.m.1419762°t.	SECONDO TEMPO FENEC	LA PRETORA	00:46:24	1	
+05/03/2019	05:39:37	SPOTTC4	SPOTtuachanne4	SPOTtuachanne4	00:00:03	111	
+05/03/2019	05:39:40	inTavola_20150205_48237	Sconosciuto	inTavola_2015 02 05	00:01:58	31	
+05/03/2019	05:41:39	PraiaaMarePiccolaGrandeItalia	Piccola grande Italia	PRAIA A MARE	00:24:33	71	
+05/03/2019	06:06:13	TG	TG 	TELEGIORNALE	00:02:39	31	
+05/03/2019	06:08:52	Rosolinopaternosoldato_mpeg2video	ROSOLINO PATERNO SOLDATO	Rosolino paterno  soldato	01:35:57	1	
+05/03/2019	07:44:50	spottc	TUA CHANNEL SPOT	SPOT TUA HANNEL	00:00:18	111	
+05/03/2019	07:45:08	21PIXMINDrev1	PIXMIND	Nuovo File	00:23:59	31	
+05/03/2019	08:09:08	TropeaPiccolaGrandeItalia	Piccola grande Italia	TROPEA	00:26:53	71	
+05/03/2019	08:36:02	Senzanomesanzaregole	SENZA NOME SENZA REGOLE	Senza nome senza regole	01:43:39	1	
+05/03/2019	10:19:42	SPOTTC2	SPOTtuachanne2	SPOTtuachanne2	00:00:03	111	
+05/03/2019	10:19:45	GeraceConsiglioComunaleStraordinariodel16Dic2015(byEL)	CONSIGLIO  COMUNALE GERACE 	Consiglio  comunale gerace del 16 dic 015	00:50:31	31	
+05/03/2019	11:10:16	SardegnaVistadalcielo	Sconosciuto	Sardegna vista dal cielo	00:50:23	71	
+05/03/2019	12:00:40	UFOLeProve	Sconosciuto	Ufo le  prove	01:22:13	1	
