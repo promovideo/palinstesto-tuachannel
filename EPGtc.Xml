@@ -2,1220 +2,11 @@
 	<ProgramGuide>
 		<Service id="1000" name="tua channel">
 			<Event id="1">
-				<IdName>BonifatiPiccolaGrandeItalia</IdName>
-				<StartDate>2020-02-01</StartDate>
-				<StartTime>06:05:03</StartTime>
-				<EndDate>2020-02-01</EndDate>
-				<EndTime>06:26:58</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>bonifati</Name>
-					<Description>bonifati</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="2">
-				<IdName>OnceWereWarriors2(completo)</IdName>
-				<StartDate>2020-02-01</StartDate>
-				<StartTime>06:26:58</StartTime>
-				<EndDate>2020-02-01</EndDate>
-				<EndTime>08:05:22</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>ONCE WERRIORS 2</Name>
-					<Description>Once were Warriors</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="3">
-				<IdName>SPOTTC6</IdName>
-				<StartDate>2020-02-01</StartDate>
-				<StartTime>08:05:22</StartTime>
-				<EndDate>2020-02-01</EndDate>
-				<EndTime>08:05:25</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachannel6</Name>
-					<Description>SPOTtuachannel6</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="4">
-				<IdName>GeraceConsiglioComunaleStraordinariodel16Dic2015(byEL)</IdName>
-				<StartDate>2020-02-01</StartDate>
-				<StartTime>08:05:25</StartTime>
-				<EndDate>2020-02-01</EndDate>
-				<EndTime>08:55:56</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>CONSIGLIO  COMUNALE GERACE </Name>
-					<Description>Consiglio  comunale gerace del 16 dic 015</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="5">
-				<IdName>042-Tanzania,TerradiAmici(14')eD</IdName>
-				<StartDate>2020-02-01</StartDate>
-				<StartTime>08:55:56</StartTime>
-				<EndDate>2020-02-01</EndDate>
-				<EndTime>09:10:01</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TANZANIA</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="6">
-				<IdName>DonCamilloMonsignoremanontroppo</IdName>
-				<StartDate>2020-02-01</StartDate>
-				<StartTime>09:10:01</StartTime>
-				<EndDate>2020-02-01</EndDate>
-				<EndTime>11:03:27</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>DON CAMILLO   MONSIGNORE</Name>
-					<Description>DON CAMILLO MONSIGNORE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="7">
-				<IdName>SPOTTC4</IdName>
-				<StartDate>2020-02-01</StartDate>
-				<StartTime>11:03:27</StartTime>
-				<EndDate>2020-02-01</EndDate>
-				<EndTime>11:03:30</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachanne4</Name>
-					<Description>SPOTtuachanne4</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="8">
-				<IdName>InstantFuturepuntata5</IdName>
-				<StartDate>2020-02-01</StartDate>
-				<StartTime>11:03:30</StartTime>
-				<EndDate>2020-02-01</EndDate>
-				<EndTime>11:25:54</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>INSTANT FUTURE 5 P</Name>
-					<Description>INSTANT FUTURE 5 P</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="9">
-				<IdName>agrisapori-621x9-8-15</IdName>
-				<StartDate>2020-02-01</StartDate>
-				<StartTime>11:25:54</StartTime>
-				<EndDate>2020-02-01</EndDate>
-				<EndTime>11:53:05</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>AGRISAPORI</Name>
-					<Description>AGRISAPORI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="10">
-				<IdName>TG</IdName>
-				<StartDate>2020-02-01</StartDate>
-				<StartTime>11:53:05</StartTime>
-				<EndDate>2020-02-01</EndDate>
-				<EndTime>11:55:45</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TG </Name>
-					<Description>TELEGIORNALE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="11">
-				<IdName>Il.Diavolo.bn19632°t</IdName>
-				<StartDate>2020-02-01</StartDate>
-				<StartTime>11:55:45</StartTime>
-				<EndDate>2020-02-01</EndDate>
-				<EndTime>12:48:54</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>IL DIAVOLO B/N SORDI 2°</Name>
-					<Description>IL DIAVOLO B/N SORDI 2°</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="12">
-				<IdName>SPOTTC1</IdName>
-				<StartDate>2020-02-01</StartDate>
-				<StartTime>12:48:54</StartTime>
-				<EndDate>2020-02-01</EndDate>
-				<EndTime>12:48:57</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachannel1</Name>
-					<Description>SPOTtuachannel1</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="13">
-				<IdName>inTavola_20150205_48237</IdName>
-				<StartDate>2020-02-01</StartDate>
-				<StartTime>12:48:57</StartTime>
-				<EndDate>2020-02-01</EndDate>
-				<EndTime>12:50:56</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>inTavola_2015 02 05</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="14">
-				<IdName>MalfaPiccolaGrandeItalia</IdName>
-				<StartDate>2020-02-01</StartDate>
-				<StartTime>12:50:56</StartTime>
-				<EndDate>2020-02-01</EndDate>
-				<EndTime>13:12:25</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Piccola Grande Italia MALFA</Name>
-					<Description>Malfa</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="15">
-				<IdName>Qualcosadicuisparlare_mpeg2video</IdName>
-				<StartDate>2020-02-01</StartDate>
-				<StartTime>13:12:25</StartTime>
-				<EndDate>2020-02-01</EndDate>
-				<EndTime>14:53:07</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Qualcosa di  cui  sparlare</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="16">
-				<IdName>SPOTTC4</IdName>
-				<StartDate>2020-02-01</StartDate>
-				<StartTime>14:53:07</StartTime>
-				<EndDate>2020-02-01</EndDate>
-				<EndTime>14:53:10</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachanne4</Name>
-					<Description>SPOTtuachanne4</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="17">
-				<IdName>INSTANTFUTURE</IdName>
-				<StartDate>2020-02-01</StartDate>
-				<StartTime>14:53:10</StartTime>
-				<EndDate>2020-02-01</EndDate>
-				<EndTime>15:16:28</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>intant future p7</Name>
-					<Description>INSTANT FUTURE p7</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="18">
-				<IdName>agrisapori610x24-5-15</IdName>
-				<StartDate>2020-02-01</StartDate>
-				<StartTime>15:16:28</StartTime>
-				<EndDate>2020-02-01</EndDate>
-				<EndTime>15:47:41</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>AGRISAPORI</Name>
-					<Description>AGISAPORI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="19">
-				<IdName>FantozziControTutti</IdName>
-				<StartDate>2020-02-01</StartDate>
-				<StartTime>15:47:41</StartTime>
-				<EndDate>2020-02-01</EndDate>
-				<EndTime>17:21:15</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>FANTOZZI  CONTRO  TUTTI</Name>
-					<Description>FANTOZZI  CONTRO  TUTTI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="20">
-				<IdName>SPOTC3</IdName>
-				<StartDate>2020-02-01</StartDate>
-				<StartTime>17:21:15</StartTime>
-				<EndDate>2020-02-01</EndDate>
-				<EndTime>17:21:18</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachannel3</Name>
-					<Description>SPOTtuachanne3</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="21">
-				<IdName>TG</IdName>
-				<StartDate>2020-02-01</StartDate>
-				<StartTime>17:21:18</StartTime>
-				<EndDate>2020-02-01</EndDate>
-				<EndTime>17:23:57</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TG </Name>
-					<Description>TELEGIORNALE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="22">
-				<IdName>consiglioGeracedel288017</IdName>
-				<StartDate>2020-02-01</StartDate>
-				<StartTime>17:23:57</StartTime>
-				<EndDate>2020-02-01</EndDate>
-				<EndTime>17:44:02</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>consiglio 28 8 17</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="23">
-				<IdName>NoepoliPiccolaGrandeItalia</IdName>
-				<StartDate>2020-02-01</StartDate>
-				<StartTime>17:44:02</StartTime>
-				<EndDate>2020-02-01</EndDate>
-				<EndTime>18:00:34</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Piccola grande Italia</Name>
-					<Description>Neapoli</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="24">
-				<IdName>IdentitàViolate</IdName>
-				<StartDate>2020-02-01</StartDate>
-				<StartTime>18:00:34</StartTime>
-				<EndDate>2020-02-01</EndDate>
-				<EndTime>19:39:20</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>IDENTITA' VIOLATE</Name>
-					<Description>IDENTITA' VIOLATE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="25">
-				<IdName>SPOTTC2</IdName>
-				<StartDate>2020-02-01</StartDate>
-				<StartTime>19:39:20</StartTime>
-				<EndDate>2020-02-01</EndDate>
-				<EndTime>19:39:23</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachanne2</Name>
-					<Description>SPOTtuachanne2</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="26">
-				<IdName>Pasticciniallemandorle</IdName>
-				<StartDate>2020-02-01</StartDate>
-				<StartTime>19:39:23</StartTime>
-				<EndDate>2020-02-01</EndDate>
-				<EndTime>19:41:39</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>PASTICCINI  ALLE MANDORLE</Name>
-					<Description>PASTICCINI ALLE MANDORLE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="27">
-				<IdName>Caltagirone2010PiccolaGrandeItalia</IdName>
-				<StartDate>2020-02-01</StartDate>
-				<StartTime>19:41:39</StartTime>
-				<EndDate>2020-02-01</EndDate>
-				<EndTime>20:06:02</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>CALTAGIRONE</Name>
-					<Description>CALTAGIRONE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="28">
-				<IdName>jerry.lewis.l.idolo.delle.donne.19612°t.</IdName>
-				<StartDate>2020-02-01</StartDate>
-				<StartTime>20:06:02</StartTime>
-				<EndDate>2020-02-01</EndDate>
-				<EndTime>20:50:39</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>L' IDOLO DELLE DONNE 2°</Name>
-					<Description>L' IDOLO DELLE DONNE 2°</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="29">
-				<IdName>SPOTTC6</IdName>
-				<StartDate>2020-02-01</StartDate>
-				<StartTime>20:50:39</StartTime>
-				<EndDate>2020-02-01</EndDate>
-				<EndTime>20:50:43</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachannel6</Name>
-					<Description>SPOTtuachannel6</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="30">
-				<IdName>CocktaildiGamberetti,laricettadiGiallozafferano</IdName>
-				<StartDate>2020-02-01</StartDate>
-				<StartTime>20:50:43</StartTime>
-				<EndDate>2020-02-01</EndDate>
-				<EndTime>20:53:42</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>COKTAIL DI  GAMBERETTI</Name>
-					<Description>COKTAIL DI GAMBERETTI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="31">
-				<IdName>PianadegliAlbanesi'DomenicadellePalme'PiccolaGrandeItalia</IdName>
-				<StartDate>2020-02-01</StartDate>
-				<StartTime>20:53:42</StartTime>
-				<EndDate>2020-02-01</EndDate>
-				<EndTime>21:07:54</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>PIANA DEGLI ALBANESI</Name>
-					<Description>PIANA DEGLI ALBANESI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="32">
-				<IdName>TG</IdName>
-				<StartDate>2020-02-01</StartDate>
-				<StartTime>21:07:54</StartTime>
-				<EndDate>2020-02-01</EndDate>
-				<EndTime>21:10:34</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TG </Name>
-					<Description>TELEGIORNALE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="33">
-				<IdName>MissinginAmerica</IdName>
-				<StartDate>2020-02-01</StartDate>
-				<StartTime>21:10:34</StartTime>
-				<EndDate>2020-02-01</EndDate>
-				<EndTime>22:48:58</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Missing  America</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="34">
-				<IdName>spottc</IdName>
-				<StartDate>2020-02-01</StartDate>
-				<StartTime>22:48:58</StartTime>
-				<EndDate>2020-02-01</EndDate>
-				<EndTime>22:49:16</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TUA CHANNEL SPOT</Name>
-					<Description>SPOT TUA HANNEL</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="35">
-				<IdName>CONSIGLIOGERACEDEL1311016</IdName>
-				<StartDate>2020-02-01</StartDate>
-				<StartTime>22:49:16</StartTime>
-				<EndDate>2020-02-01</EndDate>
-				<EndTime>23:33:39</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>consiglio gerace PEZZIMNENTI</Name>
-					<Description>CONSIGLIO GERACE DE 13  NOV 2016</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="36">
-				<IdName>agrisapori613x14-6-15</IdName>
-				<StartDate>2020-02-01</StartDate>
-				<StartTime>23:33:39</StartTime>
-				<EndDate>2020-02-02</EndDate>
-				<EndTime>00:00:29</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>AGRISAPORI</Name>
-					<Description>AGRISAPORI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="37">
-				<IdName>Infiltratospeciale_mpeg2video</IdName>
-				<StartDate>2020-02-02</StartDate>
-				<StartTime>00:00:29</StartTime>
-				<EndDate>2020-02-02</EndDate>
-				<EndTime>01:35:04</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Infiltrato  speciale</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="38">
-				<IdName>SPOTTC4</IdName>
-				<StartDate>2020-02-02</StartDate>
-				<StartTime>01:35:04</StartTime>
-				<EndDate>2020-02-02</EndDate>
-				<EndTime>01:35:07</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachanne4</Name>
-					<Description>SPOTtuachanne4</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="39">
-				<IdName>premiostadioradio-nona-edizione-cut-tv</IdName>
-				<StartDate>2020-02-02</StartDate>
-				<StartTime>01:35:07</StartTime>
-				<EndDate>2020-02-02</EndDate>
-				<EndTime>03:43:39</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>premio stadio radio 2017</Name>
-					<Description>Nuovo Filepremio stadio radio 2017</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="40">
-				<IdName>agrisapori596x8-2-15</IdName>
-				<StartDate>2020-02-02</StartDate>
-				<StartTime>03:43:39</StartTime>
-				<EndDate>2020-02-02</EndDate>
-				<EndTime>04:14:59</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>GIAGLIONESconosciuto</Name>
-					<Description>Nuovo FiAGRISAPORI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="41">
-				<IdName>Perfavorenontoccatelevecchiette_2_mpeg2video</IdName>
-				<StartDate>2020-02-02</StartDate>
-				<StartTime>04:14:59</StartTime>
-				<EndDate>2020-02-02</EndDate>
-				<EndTime>04:58:01</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>PER FAVORE  NN TOCCATE LE VECCHIETTE 2</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="42">
-				<IdName>SPOTTC1</IdName>
-				<StartDate>2020-02-02</StartDate>
-				<StartTime>04:58:01</StartTime>
-				<EndDate>2020-02-02</EndDate>
-				<EndTime>04:58:05</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachannel1</Name>
-					<Description>SPOTtuachannel1</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="43">
-				<IdName>TG</IdName>
-				<StartDate>2020-02-02</StartDate>
-				<StartTime>04:58:05</StartTime>
-				<EndDate>2020-02-02</EndDate>
-				<EndTime>05:00:44</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TG </Name>
-					<Description>TELEGIORNALE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="44">
-				<IdName>CroccantediMandorle,laricettadiGiallozafferano</IdName>
-				<StartDate>2020-02-02</StartDate>
-				<StartTime>05:00:44</StartTime>
-				<EndDate>2020-02-02</EndDate>
-				<EndTime>05:04:29</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>CROCCANTEW DI  MANDORLE</Name>
-					<Description>CROCCANTE DI  AMNDORLE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="45">
-				<IdName>agrisapori609x17-5-15</IdName>
-				<StartDate>2020-02-02</StartDate>
-				<StartTime>05:04:29</StartTime>
-				<EndDate>2020-02-02</EndDate>
-				<EndTime>05:33:29</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>SPERLONGA</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="46">
-				<IdName>LaCarbonarafilmcompleto_mpeg2video</IdName>
-				<StartDate>2020-02-02</StartDate>
-				<StartTime>05:33:29</StartTime>
-				<EndDate>2020-02-02</EndDate>
-				<EndTime>07:21:36</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>LA  CARBONARA</Name>
-					<Description>LA CARBONARA</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="47">
-				<IdName>spottc</IdName>
-				<StartDate>2020-02-02</StartDate>
-				<StartTime>07:21:36</StartTime>
-				<EndDate>2020-02-02</EndDate>
-				<EndTime>07:21:55</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TUA CHANNEL SPOT</Name>
-					<Description>SPOT TUA HANNEL</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="48">
-				<IdName>CONSIGLIOCOMGERA25SETT2^Parte</IdName>
-				<StartDate>2020-02-02</StartDate>
-				<StartTime>07:21:55</StartTime>
-				<EndDate>2020-02-02</EndDate>
-				<EndTime>09:51:37</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>gerace consiglio  comunale</Name>
-					<Description>Consiglio  com 2à parte del 25 09 016</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="49">
-				<IdName>STILOELACATTOLICA</IdName>
-				<StartDate>2020-02-02</StartDate>
-				<StartTime>09:51:37</StartTime>
-				<EndDate>2020-02-02</EndDate>
-				<EndTime>09:58:52</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>STILO E LA CATTOLICA</Name>
-					<Description>Stilo e la  cattolica</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="50">
-				<IdName>Bowfinger_2_mpeg2video</IdName>
-				<StartDate>2020-02-02</StartDate>
-				<StartTime>09:58:52</StartTime>
-				<EndDate>2020-02-02</EndDate>
-				<EndTime>10:46:59</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>BOWFINGER 2 P</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="51">
-				<IdName>SPOTTC6</IdName>
-				<StartDate>2020-02-02</StartDate>
-				<StartTime>10:46:59</StartTime>
-				<EndDate>2020-02-02</EndDate>
-				<EndTime>10:47:02</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachannel6</Name>
-					<Description>SPOTtuachannel6</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="52">
-				<IdName>LocriCCdel14062013_mpeg2video</IdName>
-				<StartDate>2020-02-02</StartDate>
-				<StartTime>10:47:02</StartTime>
-				<EndDate>2020-02-02</EndDate>
-				<EndTime>12:34:05</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>CONSIGLIO COMUNALE LOCRI</Name>
-					<Description>CONSIGLIO COMUNALE LOCRIDEL 14062013</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="53">
-				<IdName>VideopergiornodellaMemoria,pernondimenticare.</IdName>
-				<StartDate>2020-02-02</StartDate>
-				<StartTime>12:34:05</StartTime>
-				<EndDate>2020-02-02</EndDate>
-				<EndTime>12:59:51</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>IL GIORNO DELLA  MEMORIA</Name>
-					<Description>IL GIORNO  DELLA MEMORIA</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="54">
-				<IdName>TG</IdName>
-				<StartDate>2020-02-02</StartDate>
-				<StartTime>12:59:51</StartTime>
-				<EndDate>2020-02-02</EndDate>
-				<EndTime>13:02:30</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TG </Name>
-					<Description>TELEGIORNALE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="55">
-				<IdName>Raccontiromani_mpeg2video</IdName>
-				<StartDate>2020-02-02</StartDate>
-				<StartTime>13:02:30</StartTime>
-				<EndDate>2020-02-02</EndDate>
-				<EndTime>14:36:32</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Racconti  romani</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="56">
-				<IdName>SPOTC3</IdName>
-				<StartDate>2020-02-02</StartDate>
-				<StartTime>14:36:32</StartTime>
-				<EndDate>2020-02-02</EndDate>
-				<EndTime>14:36:35</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachannel3</Name>
-					<Description>SPOTtuachanne3</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="57">
-				<IdName>consigliocomunalegerace</IdName>
-				<StartDate>2020-02-02</StartDate>
-				<StartTime>14:36:35</StartTime>
-				<EndDate>2020-02-02</EndDate>
-				<EndTime>16:04:37</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>CONSIGLIO  COMUN GERACE 18 6 016</Name>
-					<Description>CONSIGLIO  COMUN 18 06 016</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="58">
-				<IdName>CarnevalediVenezia2013dal26GENNAIOal12FEBBRAIOYouTube</IdName>
-				<StartDate>2020-02-02</StartDate>
-				<StartTime>16:04:37</StartTime>
-				<EndDate>2020-02-02</EndDate>
-				<EndTime>16:15:18</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>CARNEVALE VENEZIA</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="59">
-				<IdName>Cosedamaschi_mpeg2video</IdName>
-				<StartDate>2020-02-02</StartDate>
-				<StartTime>16:15:18</StartTime>
-				<EndDate>2020-02-02</EndDate>
-				<EndTime>17:49:02</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>COSE DA MASCHI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="60">
-				<IdName>SPOTTC2</IdName>
-				<StartDate>2020-02-02</StartDate>
-				<StartTime>17:49:02</StartTime>
-				<EndDate>2020-02-02</EndDate>
-				<EndTime>17:49:06</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachanne2</Name>
-					<Description>SPOTtuachanne2</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="61">
-				<IdName>CONSIGLIOGERACEDEL1311016</IdName>
-				<StartDate>2020-02-02</StartDate>
-				<StartTime>17:49:06</StartTime>
-				<EndDate>2020-02-02</EndDate>
-				<EndTime>18:33:28</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>consiglio gerace PEZZIMNENTI</Name>
-					<Description>CONSIGLIO GERACE DE 13  NOV 2016</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="62">
-				<IdName>Gerace</IdName>
-				<StartDate>2020-02-02</StartDate>
-				<StartTime>18:33:28</StartTime>
-				<EndDate>2020-02-02</EndDate>
-				<EndTime>18:39:29</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>GERACE</Name>
-					<Description>GERACE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="63">
-				<IdName>Un.amore.in.prima.classe.19801°t.</IdName>
-				<StartDate>2020-02-02</StartDate>
-				<StartTime>18:39:29</StartTime>
-				<EndDate>2020-02-02</EndDate>
-				<EndTime>19:27:36</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>UN AMORE IN PRIMA CLASSE 1° T</Name>
-					<Description>UN AMORE IN PRIMA CLASSE 1° T</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="64">
-				<IdName>SPOTTC2</IdName>
-				<StartDate>2020-02-02</StartDate>
-				<StartTime>19:27:36</StartTime>
-				<EndDate>2020-02-02</EndDate>
-				<EndTime>19:27:39</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachanne2</Name>
-					<Description>SPOTtuachanne2</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="65">
-				<IdName>TG</IdName>
-				<StartDate>2020-02-02</StartDate>
-				<StartTime>19:27:39</StartTime>
-				<EndDate>2020-02-02</EndDate>
-				<EndTime>19:30:19</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TG </Name>
-					<Description>TELEGIORNALE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="66">
-				<IdName>Pasticciniallemandorle</IdName>
-				<StartDate>2020-02-02</StartDate>
-				<StartTime>19:30:19</StartTime>
-				<EndDate>2020-02-02</EndDate>
-				<EndTime>19:32:34</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>PASTICCINI  ALLE MANDORLE</Name>
-					<Description>PASTICCINI ALLE MANDORLE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="67">
-				<IdName>agrisapori615x28-6-15</IdName>
-				<StartDate>2020-02-02</StartDate>
-				<StartTime>19:32:34</StartTime>
-				<EndDate>2020-02-02</EndDate>
-				<EndTime>20:04:08</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>AGRISAPORI xpo mi</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="68">
-				<IdName>Americangraffiti_2_mpeg2video</IdName>
-				<StartDate>2020-02-02</StartDate>
-				<StartTime>20:04:08</StartTime>
-				<EndDate>2020-02-02</EndDate>
-				<EndTime>20:54:13</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>AMERICAN GRAFFITI_2</Name>
-					<Description>AMERICAN GRAFFITI_2</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="69">
-				<IdName>SPOTC3</IdName>
-				<StartDate>2020-02-02</StartDate>
-				<StartTime>20:54:13</StartTime>
-				<EndDate>2020-02-02</EndDate>
-				<EndTime>20:54:16</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachannel3</Name>
-					<Description>SPOTtuachanne3</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="70">
-				<IdName>consigliocomunalegeracedel25092016primaparte</IdName>
-				<StartDate>2020-02-02</StartDate>
-				<StartTime>20:54:16</StartTime>
-				<EndDate>2020-02-02</EndDate>
-				<EndTime>22:07:52</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>CONSIGLIO GERACE DEL 25.09 016</Name>
-					<Description>consigl gerace 1^ parte</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="71">
-				<IdName>Atlantis</IdName>
-				<StartDate>2020-02-02</StartDate>
-				<StartTime>22:07:52</StartTime>
-				<EndDate>2020-02-02</EndDate>
-				<EndTime>23:35:29</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>ATLANTIS</Name>
-					<Description>ATLANTIS</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="72">
-				<IdName>Souvenird'Italie_mpeg2video</IdName>
-				<StartDate>2020-02-02</StartDate>
-				<StartTime>23:35:29</StartTime>
-				<EndDate>2020-02-03</EndDate>
-				<EndTime>01:20:12</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Souvenir d'Italy</Name>
-					<Description>Souvenir d'Italy</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="73">
-				<IdName>SPOTTC4</IdName>
-				<StartDate>2020-02-03</StartDate>
-				<StartTime>01:20:12</StartTime>
-				<EndDate>2020-02-03</EndDate>
-				<EndTime>01:20:15</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachanne4</Name>
-					<Description>SPOTtuachanne4</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="74">
-				<IdName>InstantFuture_puntata3</IdName>
-				<StartDate>2020-02-03</StartDate>
-				<StartTime>01:20:15</StartTime>
-				<EndDate>2020-02-03</EndDate>
-				<EndTime>01:42:45</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>INSTANT FUTURE 3 P</Name>
-					<Description>INSTANT FUTURE 3 P</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="75">
-				<IdName>agrisapori617x12-6-15</IdName>
-				<StartDate>2020-02-03</StartDate>
-				<StartTime>01:42:45</StartTime>
-				<EndDate>2020-02-03</EndDate>
-				<EndTime>02:07:37</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>AGRISAPORI</Name>
-					<Description>AGRISAPORI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="76">
-				<IdName>TG</IdName>
-				<StartDate>2020-02-03</StartDate>
-				<StartTime>02:07:37</StartTime>
-				<EndDate>2020-02-03</EndDate>
-				<EndTime>02:10:16</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TG </Name>
-					<Description>TELEGIORNALE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="77">
-				<IdName>'NataleinCasaCupiello'diEduardodeFilippoINTEGRALE_mpeg2video</IdName>
-				<StartDate>2020-02-03</StartDate>
-				<StartTime>02:10:16</StartTime>
-				<EndDate>2020-02-03</EndDate>
-				<EndTime>04:23:04</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Commedia</Name>
-					<Description>Natale in casa   Cupiello</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="78">
-				<IdName>SPOTTC6</IdName>
-				<StartDate>2020-02-03</StartDate>
-				<StartTime>04:23:04</StartTime>
-				<EndDate>2020-02-03</EndDate>
-				<EndTime>04:23:08</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachannel6</Name>
-					<Description>SPOTtuachannel6</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="79">
-				<IdName>InstantFuture_Puntata1</IdName>
-				<StartDate>2020-02-03</StartDate>
-				<StartTime>04:23:08</StartTime>
-				<EndDate>2020-02-03</EndDate>
-				<EndTime>04:44:33</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>INSTANT FUTURE 1 P</Name>
-					<Description>INSTANT FUTURE 1 P</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="80">
-				<IdName>MontaltoUffugoFestadelgranosull'Aia</IdName>
-				<StartDate>2020-02-03</StartDate>
-				<StartTime>04:44:33</StartTime>
-				<EndDate>2020-02-03</EndDate>
-				<EndTime>04:59:03</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>MONTALTO UFFUGO</Name>
-					<Description>MONTALTO  UFFUGO</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="81">
-				<IdName>Papadiventamamma_mpeg2video</IdName>
-				<StartDate>2020-02-03</StartDate>
-				<StartTime>04:59:03</StartTime>
-				<EndDate>2020-02-03</EndDate>
-				<EndTime>06:19:26</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>PAPA  DIVENTA  MAMMA</Name>
-					<Description>PAPA  DIVENTA  MAMMA</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="82">
-				<IdName>SPOTTC1</IdName>
-				<StartDate>2020-02-03</StartDate>
-				<StartTime>06:19:26</StartTime>
-				<EndDate>2020-02-03</EndDate>
-				<EndTime>06:19:29</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachannel1</Name>
-					<Description>SPOTtuachannel1</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="83">
-				<IdName>OSPEDALEGERACEcopiaottima_mpeg2video</IdName>
-				<StartDate>2020-02-03</StartDate>
-				<StartTime>06:19:29</StartTime>
-				<EndDate>2020-02-03</EndDate>
-				<EndTime>06:32:15</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>OSPEDALE GERACE</Name>
-					<Description>Ospedale Gerace Matteo</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="84">
-				<IdName>agrisapori604x12-4-15</IdName>
-				<StartDate>2020-02-03</StartDate>
-				<StartTime>06:32:15</StartTime>
-				<EndDate>2020-02-03</EndDate>
-				<EndTime>07:01:22</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>AGRISAPORI</Name>
-					<Description>AGRISAPORI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="85">
-				<IdName>DonCamilloel'onorevolePeppone</IdName>
-				<StartDate>2020-02-03</StartDate>
-				<StartTime>07:01:22</StartTime>
-				<EndDate>2020-02-03</EndDate>
-				<EndTime>08:38:22</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>DON CAMILLO E L 'ONOREVOLE PEPPONE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="86">
-				<IdName>spottc</IdName>
-				<StartDate>2020-02-03</StartDate>
-				<StartTime>08:38:22</StartTime>
-				<EndDate>2020-02-03</EndDate>
-				<EndTime>08:38:41</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TUA CHANNEL SPOT</Name>
-					<Description>SPOT TUA HANNEL</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="87">
-				<IdName>TG</IdName>
-				<StartDate>2020-02-03</StartDate>
-				<StartTime>08:38:41</StartTime>
-				<EndDate>2020-02-03</EndDate>
-				<EndTime>08:41:21</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TG </Name>
-					<Description>TELEGIORNALE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="88">
-				<IdName>Consiglio29ott2016xregia</IdName>
-				<StartDate>2020-02-03</StartDate>
-				<StartTime>08:41:21</StartTime>
-				<EndDate>2020-02-03</EndDate>
-				<EndTime>08:41:23</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>CONSIGLIO COMUNALE GERACE </Name>
-					<Description>CONS DEL 29 OTT 2016</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="89">
-				<IdName>MassafraPiccolaGrandeItalia</IdName>
-				<StartDate>2020-02-03</StartDate>
-				<StartTime>08:41:23</StartTime>
-				<EndDate>2020-02-03</EndDate>
-				<EndTime>09:02:56</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Piccola grande Italia</Name>
-					<Description>Massafra</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="90">
-				<IdName>IlVizietto2°t.</IdName>
-				<StartDate>2020-02-03</StartDate>
-				<StartTime>09:02:56</StartTime>
-				<EndDate>2020-02-03</EndDate>
-				<EndTime>09:47:22</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>IL VIZIETTO 2° T</Name>
-					<Description>IL VIZIETTO 2° T</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="91">
-				<IdName>spottc</IdName>
-				<StartDate>2020-02-03</StartDate>
-				<StartTime>09:47:22</StartTime>
-				<EndDate>2020-02-03</EndDate>
-				<EndTime>09:47:41</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TUA CHANNEL SPOT</Name>
-					<Description>SPOT TUA HANNEL</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="92">
-				<IdName>CocktaildiGamberetti,laricettadiGiallozafferano</IdName>
-				<StartDate>2020-02-03</StartDate>
-				<StartTime>09:47:41</StartTime>
-				<EndDate>2020-02-03</EndDate>
-				<EndTime>09:50:40</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>COKTAIL DI  GAMBERETTI</Name>
-					<Description>COKTAIL DI GAMBERETTI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="93">
-				<IdName>agrisapori614x21-6-15</IdName>
-				<StartDate>2020-02-03</StartDate>
-				<StartTime>09:50:40</StartTime>
-				<EndDate>2020-02-03</EndDate>
-				<EndTime>10:08:36</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>AGRISAPORI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="94">
 				<IdName>BadBoys</IdName>
-				<StartDate>2020-02-03</StartDate>
-				<StartTime>10:08:36</StartTime>
-				<EndDate>2020-02-03</EndDate>
-				<EndTime>12:02:41</EndTime>
+				<StartDate>2020-02-08</StartDate>
+				<StartTime>03:57:31</StartTime>
+				<EndDate>2020-02-08</EndDate>
+				<EndTime>05:51:35</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -1223,129 +14,12 @@
 					<Description>BAD BOYS</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="95">
-				<IdName>SPOTTC2</IdName>
-				<StartDate>2020-02-03</StartDate>
-				<StartTime>12:02:41</StartTime>
-				<EndDate>2020-02-03</EndDate>
-				<EndTime>12:02:44</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachanne2</Name>
-					<Description>SPOTtuachanne2</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="96">
-				<IdName>GeraceConsiglioComunaleStraordinariodel16Dic2015(byEL)</IdName>
-				<StartDate>2020-02-03</StartDate>
-				<StartTime>12:02:44</StartTime>
-				<EndDate>2020-02-03</EndDate>
-				<EndTime>12:53:15</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>CONSIGLIO  COMUNALE GERACE </Name>
-					<Description>Consiglio  comunale gerace del 16 dic 015</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="97">
-				<IdName>050-IlTriangolod'Oro(20')eD</IdName>
-				<StartDate>2020-02-03</StartDate>
-				<StartTime>12:53:15</StartTime>
-				<EndDate>2020-02-03</EndDate>
-				<EndTime>13:12:29</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>IL TRIANGOLO D 'ORO</Name>
-					<Description>IL TRIANGOLO  D 'ORO</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="98">
-				<IdName>TG</IdName>
-				<StartDate>2020-02-03</StartDate>
-				<StartTime>13:12:29</StartTime>
-				<EndDate>2020-02-03</EndDate>
-				<EndTime>13:15:08</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TG </Name>
-					<Description>TELEGIORNALE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="99">
-				<IdName>Statebuoni,Sepotete(TuttoilFilm)SanFilippoNeri(Et+12)</IdName>
-				<StartDate>2020-02-03</StartDate>
-				<StartTime>13:15:08</StartTime>
-				<EndDate>2020-02-03</EndDate>
-				<EndTime>15:44:25</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>STATE  BUONI SE  POTETE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="100">
-				<IdName>SPOTTC6</IdName>
-				<StartDate>2020-02-03</StartDate>
-				<StartTime>15:44:25</StartTime>
-				<EndDate>2020-02-03</EndDate>
-				<EndTime>15:44:29</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachannel6</Name>
-					<Description>SPOTtuachannel6</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="101">
-				<IdName>CorsoUrgenzaEmergenza</IdName>
-				<StartDate>2020-02-03</StartDate>
-				<StartTime>15:44:29</StartTime>
-				<EndDate>2020-02-03</EndDate>
-				<EndTime>16:47:45</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>CORSO URGENZA EMERGENZA</Name>
-					<Description>CORSO  URGENZA EMERGENZA</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="102">
-				<IdName>MusicaeTradizioni</IdName>
-				<StartDate>2020-02-03</StartDate>
-				<StartTime>16:47:45</StartTime>
-				<EndDate>2020-02-03</EndDate>
-				<EndTime>16:58:43</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>MUSICA E TRADIZIONI</Name>
-					<Description>MUSICA E TRADIZIONI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="103">
-				<IdName>X-Men</IdName>
-				<StartDate>2020-02-03</StartDate>
-				<StartTime>16:58:43</StartTime>
-				<EndDate>2020-02-03</EndDate>
-				<EndTime>18:38:45</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>X - MEN</Name>
-					<Description>X - MEN</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="104">
+			<Event id="2">
 				<IdName>SPOTTC4</IdName>
-				<StartDate>2020-02-03</StartDate>
-				<StartTime>18:38:45</StartTime>
-				<EndDate>2020-02-03</EndDate>
-				<EndTime>18:38:49</EndTime>
+				<StartDate>2020-02-08</StartDate>
+				<StartTime>05:51:35</StartTime>
+				<EndDate>2020-02-08</EndDate>
+				<EndTime>05:51:39</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -1353,467 +27,12 @@
 					<Description>SPOTtuachanne4</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="105">
-				<IdName>CroccantediMandorle,laricettadiGiallozafferano</IdName>
-				<StartDate>2020-02-03</StartDate>
-				<StartTime>18:38:49</StartTime>
-				<EndDate>2020-02-03</EndDate>
-				<EndTime>18:42:34</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>CROCCANTEW DI  MANDORLE</Name>
-					<Description>CROCCANTE DI  AMNDORLE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="106">
-				<IdName>MagnificaItaliaCalabria_mpeg2video</IdName>
-				<StartDate>2020-02-03</StartDate>
-				<StartTime>18:42:34</StartTime>
-				<EndDate>2020-02-03</EndDate>
-				<EndTime>19:34:44</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Calabria</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="107">
-				<IdName>AltrimentiCiArrabbiamo</IdName>
-				<StartDate>2020-02-03</StartDate>
-				<StartTime>19:34:44</StartTime>
-				<EndDate>2020-02-03</EndDate>
-				<EndTime>21:12:19</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="108">
-				<IdName>SPOTTC1</IdName>
-				<StartDate>2020-02-03</StartDate>
-				<StartTime>21:12:19</StartTime>
-				<EndDate>2020-02-03</EndDate>
-				<EndTime>21:12:22</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachannel1</Name>
-					<Description>SPOTtuachannel1</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="109">
-				<IdName>TG</IdName>
-				<StartDate>2020-02-03</StartDate>
-				<StartTime>21:12:22</StartTime>
-				<EndDate>2020-02-03</EndDate>
-				<EndTime>21:15:02</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TG </Name>
-					<Description>TELEGIORNALE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="110">
-				<IdName>Pennetteai4formaggi</IdName>
-				<StartDate>2020-02-03</StartDate>
-				<StartTime>21:15:02</StartTime>
-				<EndDate>2020-02-03</EndDate>
-				<EndTime>21:17:43</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>PENNETTE 4 FORMAGGI</Name>
-					<Description>PENNETTE 4 FORMAGGI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="111">
-				<IdName>Potaturadell'OlivonellaLocride3Ed_mpeg2video</IdName>
-				<StartDate>2020-02-03</StartDate>
-				<StartTime>21:17:43</StartTime>
-				<EndDate>2020-02-03</EndDate>
-				<EndTime>23:09:33</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Potatura  dell' olivo  nella Locride 013</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="112">
-				<IdName>Fantozzisubisceancora</IdName>
-				<StartDate>2020-02-03</StartDate>
-				<StartTime>23:09:33</StartTime>
-				<EndDate>2020-02-04</EndDate>
-				<EndTime>00:33:20</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>FANTOZZI  SUBISCE ANCORA</Name>
-					<Description>FANTOZZI  SUBISCE ANCORA</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="113">
-				<IdName>SPOTC3</IdName>
-				<StartDate>2020-02-04</StartDate>
-				<StartTime>00:33:20</StartTime>
-				<EndDate>2020-02-04</EndDate>
-				<EndTime>00:33:23</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachannel3</Name>
-					<Description>SPOTtuachanne3</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="114">
-				<IdName>premiostadioradio-nona-edizione-cut-tv</IdName>
-				<StartDate>2020-02-04</StartDate>
-				<StartTime>00:33:23</StartTime>
-				<EndDate>2020-02-04</EndDate>
-				<EndTime>02:41:55</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>premio stadio radio 2017</Name>
-					<Description>Nuovo Filepremio stadio radio 2017</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="115">
-				<IdName>agrisapori618x19-7-15</IdName>
-				<StartDate>2020-02-04</StartDate>
-				<StartTime>02:41:55</StartTime>
-				<EndDate>2020-02-04</EndDate>
-				<EndTime>02:50:44</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>AGRISAPORI</Name>
-					<Description>La Magdaleine</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="116">
-				<IdName>AlbertoSordiIlVedovo</IdName>
-				<StartDate>2020-02-04</StartDate>
-				<StartTime>02:50:44</StartTime>
-				<EndDate>2020-02-04</EndDate>
-				<EndTime>04:17:50</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>IL  VEDOVO</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="117">
-				<IdName>SPOTC3</IdName>
-				<StartDate>2020-02-04</StartDate>
-				<StartTime>04:17:50</StartTime>
-				<EndDate>2020-02-04</EndDate>
-				<EndTime>04:17:53</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachannel3</Name>
-					<Description>SPOTtuachanne3</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="118">
-				<IdName>consiglioGeracedel288017</IdName>
-				<StartDate>2020-02-04</StartDate>
-				<StartTime>04:17:53</StartTime>
-				<EndDate>2020-02-04</EndDate>
-				<EndTime>04:37:58</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>consiglio 28 8 17</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="119">
-				<IdName>TropeaPiccolaGrandeItalia</IdName>
-				<StartDate>2020-02-04</StartDate>
-				<StartTime>04:37:58</StartTime>
-				<EndDate>2020-02-04</EndDate>
-				<EndTime>05:04:51</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Piccola grande Italia</Name>
-					<Description>TROPEA</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="120">
-				<IdName>TG</IdName>
-				<StartDate>2020-02-04</StartDate>
-				<StartTime>05:04:51</StartTime>
-				<EndDate>2020-02-04</EndDate>
-				<EndTime>05:07:30</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TG </Name>
-					<Description>TELEGIORNALE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="121">
-				<IdName>Storiediamorieinfedelta_mpeg2video</IdName>
-				<StartDate>2020-02-04</StartDate>
-				<StartTime>05:07:30</StartTime>
-				<EndDate>2020-02-04</EndDate>
-				<EndTime>06:31:01</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Storie di  amori ed infedeltà</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="122">
-				<IdName>SPOTTC2</IdName>
-				<StartDate>2020-02-04</StartDate>
-				<StartTime>06:31:01</StartTime>
-				<EndDate>2020-02-04</EndDate>
-				<EndTime>06:31:04</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachanne2</Name>
-					<Description>SPOTtuachanne2</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="123">
-				<IdName>CONSIGLIOCOMUNALE30MARZO2017</IdName>
-				<StartDate>2020-02-04</StartDate>
-				<StartTime>06:31:04</StartTime>
-				<EndDate>2020-02-04</EndDate>
-				<EndTime>07:16:49</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>consiglio gerace del 30 3 017</Name>
-					<Description>consiglio gerace 30 3 17</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="124">
-				<IdName>IpostipibellidellacalabriaDestinationCalabriaGiuseppeScorzaPepoMac@gmailcom_mpeg2video</IdName>
-				<StartDate>2020-02-04</StartDate>
-				<StartTime>07:16:49</StartTime>
-				<EndDate>2020-02-04</EndDate>
-				<EndTime>07:20:49</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>I POSTI PIU  BELLI DELLA CALABRIA</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="125">
-				<IdName>FantozziInParadiso</IdName>
-				<StartDate>2020-02-04</StartDate>
-				<StartTime>07:20:49</StartTime>
-				<EndDate>2020-02-04</EndDate>
-				<EndTime>08:53:20</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>FANTOZZI VA  IN PARADISO</Name>
-					<Description>FANTOZZI VA IN PARADISO</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="126">
-				<IdName>SPOTTC6</IdName>
-				<StartDate>2020-02-04</StartDate>
-				<StartTime>08:53:20</StartTime>
-				<EndDate>2020-02-04</EndDate>
-				<EndTime>08:53:23</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachannel6</Name>
-					<Description>SPOTtuachannel6</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="127">
-				<IdName>FM21</IdName>
-				<StartDate>2020-02-04</StartDate>
-				<StartTime>08:53:23</StartTime>
-				<EndDate>2020-02-04</EndDate>
-				<EndTime>09:17:22</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>FORMULA  MOTORI 21</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="128">
-				<IdName>047-LaRiservaNaturalediAlmaAta(21')eD</IdName>
-				<StartDate>2020-02-04</StartDate>
-				<StartTime>09:17:22</StartTime>
-				<EndDate>2020-02-04</EndDate>
-				<EndTime>09:37:56</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>LA RISERVA NATURALE DI ALMAT...</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="129">
-				<IdName>Uomo.Avvisato.Mezzo.Ammazzato.19721°t.</IdName>
-				<StartDate>2020-02-04</StartDate>
-				<StartTime>09:37:56</StartTime>
-				<EndDate>2020-02-04</EndDate>
-				<EndTime>10:24:36</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Uomo avvisato mezzo salvato</Name>
-					<Description>UOMO  AVVISATO MEZZO AMMAZZATO 1^</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="130">
-				<IdName>spottc</IdName>
-				<StartDate>2020-02-04</StartDate>
-				<StartTime>10:24:36</StartTime>
-				<EndDate>2020-02-04</EndDate>
-				<EndTime>10:24:55</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TUA CHANNEL SPOT</Name>
-					<Description>SPOT TUA HANNEL</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="131">
-				<IdName>TG</IdName>
-				<StartDate>2020-02-04</StartDate>
-				<StartTime>10:24:55</StartTime>
-				<EndDate>2020-02-04</EndDate>
-				<EndTime>10:27:34</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TG </Name>
-					<Description>TELEGIORNALE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="132">
-				<IdName>SEDUTACONSIGLIODEL13032017</IdName>
-				<StartDate>2020-02-04</StartDate>
-				<StartTime>10:27:34</StartTime>
-				<EndDate>2020-02-04</EndDate>
-				<EndTime>11:06:10</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>consiglio gerace 13  3 017</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="133">
-				<IdName>ReggioCalabriaPiccolaGrandeItalia</IdName>
-				<StartDate>2020-02-04</StartDate>
-				<StartTime>11:06:10</StartTime>
-				<EndDate>2020-02-04</EndDate>
-				<EndTime>11:28:22</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Reggio piccola grande Italia  </Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="134">
-				<IdName>Uomo.Avvisato.Mezzo.Ammazzato.19722°t.</IdName>
-				<StartDate>2020-02-04</StartDate>
-				<StartTime>11:28:22</StartTime>
-				<EndDate>2020-02-04</EndDate>
-				<EndTime>12:11:34</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>UOMO  AVVISATO MEZZO AMMAZZATO 2^ </Name>
-					<Description>UOMO  AVVISATO MEZZO AMMAZZATO 2^</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="135">
-				<IdName>SPOTTC4</IdName>
-				<StartDate>2020-02-04</StartDate>
-				<StartTime>12:11:34</StartTime>
-				<EndDate>2020-02-04</EndDate>
-				<EndTime>12:11:37</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachanne4</Name>
-					<Description>SPOTtuachanne4</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="136">
-				<IdName>inTavola_20150205_48237</IdName>
-				<StartDate>2020-02-04</StartDate>
-				<StartTime>12:11:37</StartTime>
-				<EndDate>2020-02-04</EndDate>
-				<EndTime>12:13:36</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>inTavola_2015 02 05</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="137">
-				<IdName>IlBrigantaggio</IdName>
-				<StartDate>2020-02-04</StartDate>
-				<StartTime>12:13:36</StartTime>
-				<EndDate>2020-02-04</EndDate>
-				<EndTime>12:45:41</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>IL  BRIGANTAGGIO</Name>
-					<Description>IL  BRIGANTAGGIO</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="138">
-				<IdName>Wargames_mpeg2video</IdName>
-				<StartDate>2020-02-04</StartDate>
-				<StartTime>12:45:41</StartTime>
-				<EndDate>2020-02-04</EndDate>
-				<EndTime>14:33:43</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>WARGAMES</Name>
-					<Description>Wrgames</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="139">
-				<IdName>SPOTTC1</IdName>
-				<StartDate>2020-02-04</StartDate>
-				<StartTime>14:33:43</StartTime>
-				<EndDate>2020-02-04</EndDate>
-				<EndTime>14:33:46</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachannel1</Name>
-					<Description>SPOTtuachannel1</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="140">
+			<Event id="3">
 				<IdName>ConsigliocomunaleGeracedel30settembre2017</IdName>
-				<StartDate>2020-02-04</StartDate>
-				<StartTime>14:33:46</StartTime>
-				<EndDate>2020-02-04</EndDate>
-				<EndTime>16:26:11</EndTime>
+				<StartDate>2020-02-08</StartDate>
+				<StartTime>05:51:39</StartTime>
+				<EndDate>2020-02-08</EndDate>
+				<EndTime>07:44:03</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -1821,51 +40,38 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="141">
-				<IdName>agrisapori606x27-4-15</IdName>
-				<StartDate>2020-02-04</StartDate>
-				<StartTime>16:26:11</StartTime>
-				<EndDate>2020-02-04</EndDate>
-				<EndTime>16:57:05</EndTime>
+			<Event id="4">
+				<IdName>AnimaliSerpentiFascinoLetale(Ita)</IdName>
+				<StartDate>2020-02-08</StartDate>
+				<StartTime>07:44:03</StartTime>
+				<EndDate>2020-02-08</EndDate>
+				<EndTime>08:36:09</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
-					<Name>AGRISAPORI</Name>
-					<Description>AGRISAPORI</Description>
+					<Name>ANIMALI SERPENTI</Name>
+					<Description>ANIMALI SERPENTI</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="142">
-				<IdName>TG</IdName>
-				<StartDate>2020-02-04</StartDate>
-				<StartTime>16:57:05</StartTime>
-				<EndDate>2020-02-04</EndDate>
-				<EndTime>16:59:45</EndTime>
+			<Event id="5">
+				<IdName>Perfavorenontoccatelevecchiette_2_mpeg2video</IdName>
+				<StartDate>2020-02-08</StartDate>
+				<StartTime>08:36:09</StartTime>
+				<EndDate>2020-02-08</EndDate>
+				<EndTime>09:19:11</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
-					<Name>TG </Name>
-					<Description>TELEGIORNALE</Description>
+					<Name>Sconosciuto</Name>
+					<Description>PER FAVORE  NN TOCCATE LE VECCHIETTE 2</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="143">
-				<IdName>ImaginaryHeroes</IdName>
-				<StartDate>2020-02-04</StartDate>
-				<StartTime>16:59:45</StartTime>
-				<EndDate>2020-02-04</EndDate>
-				<EndTime>18:50:49</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>IMMAGINARY HEROES</Name>
-					<Description>Immaginary Heores</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="144">
+			<Event id="6">
 				<IdName>SPOTC3</IdName>
-				<StartDate>2020-02-04</StartDate>
-				<StartTime>18:50:49</StartTime>
-				<EndDate>2020-02-04</EndDate>
-				<EndTime>18:50:52</EndTime>
+				<StartDate>2020-02-08</StartDate>
+				<StartTime>09:19:11</StartTime>
+				<EndDate>2020-02-08</EndDate>
+				<EndTime>09:19:14</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -1873,298 +79,25 @@
 					<Description>SPOTtuachanne3</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="145">
-				<IdName>INSTANTFUTURE</IdName>
-				<StartDate>2020-02-04</StartDate>
-				<StartTime>18:50:52</StartTime>
-				<EndDate>2020-02-04</EndDate>
-				<EndTime>19:14:10</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>intant future p7</Name>
-					<Description>INSTANT FUTURE p7</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="146">
-				<IdName>Carnevale2013Flashsulprimocorsomascherato</IdName>
-				<StartDate>2020-02-04</StartDate>
-				<StartTime>19:14:10</StartTime>
-				<EndDate>2020-02-04</EndDate>
-				<EndTime>19:37:14</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>CARNEVALE VENEZIA 2</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="147">
-				<IdName>0110-1968-Calmaragazzeoggimisposo-LouisDeFunes_mpeg2video</IdName>
-				<StartDate>2020-02-04</StartDate>
-				<StartTime>19:37:14</StartTime>
-				<EndDate>2020-02-04</EndDate>
-				<EndTime>21:03:10</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>CALMA RAGAZZE  OGGI   MI  SPOSO</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="148">
-				<IdName>SPOTTC6</IdName>
-				<StartDate>2020-02-04</StartDate>
-				<StartTime>21:03:10</StartTime>
-				<EndDate>2020-02-04</EndDate>
-				<EndTime>21:03:14</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachannel6</Name>
-					<Description>SPOTtuachannel6</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="149">
-				<IdName>21PIXMINDrev1</IdName>
-				<StartDate>2020-02-04</StartDate>
-				<StartTime>21:03:14</StartTime>
-				<EndDate>2020-02-04</EndDate>
-				<EndTime>21:27:14</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>PIXMIND</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="150">
-				<IdName>PraiaaMarePiccolaGrandeItalia</IdName>
-				<StartDate>2020-02-04</StartDate>
-				<StartTime>21:27:14</StartTime>
-				<EndDate>2020-02-04</EndDate>
-				<EndTime>21:51:47</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Piccola grande Italia</Name>
-					<Description>PRAIA A MARE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="151">
-				<IdName>StarshipTroopers-FanteriaDelloSpazio</IdName>
-				<StartDate>2020-02-04</StartDate>
-				<StartTime>21:51:47</StartTime>
-				<EndDate>2020-02-04</EndDate>
-				<EndTime>23:56:06</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>STARSHIP TROOPERS</Name>
-					<Description>STARSHIP TROOPERS</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="152">
-				<IdName>SPOTTC1</IdName>
-				<StartDate>2020-02-04</StartDate>
-				<StartTime>23:56:06</StartTime>
-				<EndDate>2020-02-04</EndDate>
-				<EndTime>23:56:10</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachannel1</Name>
-					<Description>SPOTtuachannel1</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="153">
+			<Event id="7">
 				<IdName>TG</IdName>
-				<StartDate>2020-02-04</StartDate>
-				<StartTime>23:56:10</StartTime>
-				<EndDate>2020-02-04</EndDate>
-				<EndTime>23:58:49</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TG </Name>
-					<Description>TELEGIORNALE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="154">
-				<IdName>InstantFuturepuntata5</IdName>
-				<StartDate>2020-02-04</StartDate>
-				<StartTime>23:58:49</StartTime>
-				<EndDate>2020-02-05</EndDate>
-				<EndTime>00:21:13</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>INSTANT FUTURE 5 P</Name>
-					<Description>INSTANT FUTURE 5 P</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="155">
-				<IdName>SardegnaVistadalcielo</IdName>
-				<StartDate>2020-02-05</StartDate>
-				<StartTime>00:21:13</StartTime>
-				<EndDate>2020-02-05</EndDate>
-				<EndTime>01:11:37</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Sardegna vista dal cielo</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="156">
-				<IdName>7Monacidoro_mpeg2video</IdName>
-				<StartDate>2020-02-05</StartDate>
-				<StartTime>01:11:37</StartTime>
-				<EndDate>2020-02-05</EndDate>
-				<EndTime>02:45:26</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>7  monaci d  oro</Name>
-					<Description>7  MONACI D' ORO</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="157">
-				<IdName>SPOTTC2</IdName>
-				<StartDate>2020-02-05</StartDate>
-				<StartTime>02:45:26</StartTime>
-				<EndDate>2020-02-05</EndDate>
-				<EndTime>02:45:29</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachanne2</Name>
-					<Description>SPOTtuachanne2</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="158">
-				<IdName>Geracesedutaconsiliaredel5Ottobre2016(byEL)</IdName>
-				<StartDate>2020-02-05</StartDate>
-				<StartTime>02:45:29</StartTime>
-				<EndDate>2020-02-05</EndDate>
-				<EndTime>04:15:43</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>seduta consiglio gerace 5 10 106</Name>
-					<Description>consiglio gerac 5.10.016</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="159">
-				<IdName>Olocausto.Lafabbricadelmale</IdName>
-				<StartDate>2020-02-05</StartDate>
-				<StartTime>04:15:43</StartTime>
-				<EndDate>2020-02-05</EndDate>
-				<EndTime>05:39:18</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>olocxausto</Name>
-					<Description>LA FABBRICA DEL  MALE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="160">
-				<IdName>Controsesso_mpeg2video</IdName>
-				<StartDate>2020-02-05</StartDate>
-				<StartTime>05:39:18</StartTime>
-				<EndDate>2020-02-05</EndDate>
-				<EndTime>07:26:42</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>CONTROSESSO</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="161">
-				<IdName>SPOTTC4</IdName>
-				<StartDate>2020-02-05</StartDate>
-				<StartTime>07:26:42</StartTime>
-				<EndDate>2020-02-05</EndDate>
-				<EndTime>07:26:45</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachanne4</Name>
-					<Description>SPOTtuachanne4</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="162">
-				<IdName>InstantFuture_puntata3</IdName>
-				<StartDate>2020-02-05</StartDate>
-				<StartTime>07:26:45</StartTime>
-				<EndDate>2020-02-05</EndDate>
-				<EndTime>07:49:15</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>INSTANT FUTURE 3 P</Name>
-					<Description>INSTANT FUTURE 3 P</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="163">
-				<IdName>VideoRicettaTiramisùGalbani</IdName>
-				<StartDate>2020-02-05</StartDate>
-				<StartTime>07:49:15</StartTime>
-				<EndDate>2020-02-05</EndDate>
-				<EndTime>07:50:56</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TIRAMI SU</Name>
-					<Description>TIRAMI SU</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="164">
-				<IdName>TG</IdName>
-				<StartDate>2020-02-05</StartDate>
-				<StartTime>07:50:56</StartTime>
-				<EndDate>2020-02-05</EndDate>
-				<EndTime>07:53:35</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TG </Name>
-					<Description>TELEGIORNALE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="165">
-				<IdName>UmbertoD(1952)unfilmdiVittorioDeSica</IdName>
-				<StartDate>2020-02-05</StartDate>
-				<StartTime>07:53:35</StartTime>
-				<EndDate>2020-02-05</EndDate>
+				<StartDate>2020-02-08</StartDate>
+				<StartTime>09:19:14</StartTime>
+				<EndDate>2020-02-08</EndDate>
 				<EndTime>09:21:53</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Umberto D</Description>
+					<Name>TG </Name>
+					<Description>TELEGIORNALE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="166">
-				<IdName>spottc</IdName>
-				<StartDate>2020-02-05</StartDate>
+			<Event id="8">
+				<IdName>FM21</IdName>
+				<StartDate>2020-02-08</StartDate>
 				<StartTime>09:21:53</StartTime>
-				<EndDate>2020-02-05</EndDate>
-				<EndTime>09:22:11</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TUA CHANNEL SPOT</Name>
-					<Description>SPOT TUA HANNEL</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="167">
-				<IdName>FM21</IdName>
-				<StartDate>2020-02-05</StartDate>
-				<StartTime>09:22:11</StartTime>
-				<EndDate>2020-02-05</EndDate>
-				<EndTime>09:46:10</EndTime>
+				<EndDate>2020-02-08</EndDate>
+				<EndTime>09:45:52</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -2172,2703 +105,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="168">
-				<IdName>AnimaliSerpentiFascinoLetale(Ita)</IdName>
-				<StartDate>2020-02-05</StartDate>
-				<StartTime>09:46:10</StartTime>
-				<EndDate>2020-02-05</EndDate>
-				<EndTime>10:38:16</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>ANIMALI SERPENTI</Name>
-					<Description>ANIMALI SERPENTI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="169">
-				<IdName>Arma.Da.Taglio.19721°t</IdName>
-				<StartDate>2020-02-05</StartDate>
-				<StartTime>10:38:16</StartTime>
-				<EndDate>2020-02-05</EndDate>
-				<EndTime>11:24:00</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>ARMA DA TAGLIO 1°</Name>
-					<Description>ARMA DA TAGLIO 1°</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="170">
-				<IdName>SPOTTC2</IdName>
-				<StartDate>2020-02-05</StartDate>
-				<StartTime>11:24:00</StartTime>
-				<EndDate>2020-02-05</EndDate>
-				<EndTime>11:24:03</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachanne2</Name>
-					<Description>SPOTtuachanne2</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="171">
-				<IdName>consigliocomunalegerace</IdName>
-				<StartDate>2020-02-05</StartDate>
-				<StartTime>11:24:03</StartTime>
-				<EndDate>2020-02-05</EndDate>
-				<EndTime>12:52:05</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>CONSIGLIO  COMUN GERACE 18 6 016</Name>
-					<Description>CONSIGLIO  COMUN 18 06 016</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="172">
-				<IdName>CariatiPiccolaGrandeItalia</IdName>
-				<StartDate>2020-02-05</StartDate>
-				<StartTime>12:52:05</StartTime>
-				<EndDate>2020-02-05</EndDate>
-				<EndTime>13:13:46</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>CARIATI</Name>
-					<Description>cariati</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="173">
-				<IdName>Speed2-SenzaLimiti</IdName>
-				<StartDate>2020-02-05</StartDate>
-				<StartTime>13:13:46</StartTime>
-				<EndDate>2020-02-05</EndDate>
-				<EndTime>15:07:59</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOEED 2 SENZA LIMITI</Name>
-					<Description>SPEED 2 SENZA LIMITI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="174">
-				<IdName>SPOTC3</IdName>
-				<StartDate>2020-02-05</StartDate>
-				<StartTime>15:07:59</StartTime>
-				<EndDate>2020-02-05</EndDate>
-				<EndTime>15:08:02</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachannel3</Name>
-					<Description>SPOTtuachanne3</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="175">
-				<IdName>TG</IdName>
-				<StartDate>2020-02-05</StartDate>
-				<StartTime>15:08:02</StartTime>
-				<EndDate>2020-02-05</EndDate>
-				<EndTime>15:10:41</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TG </Name>
-					<Description>TELEGIORNALE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="176">
-				<IdName>INSTANTFUTURE</IdName>
-				<StartDate>2020-02-05</StartDate>
-				<StartTime>15:10:41</StartTime>
-				<EndDate>2020-02-05</EndDate>
-				<EndTime>15:33:59</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>intant future p7</Name>
-					<Description>INSTANT FUTURE p7</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="177">
-				<IdName>agrisapori-623x23-8-15</IdName>
-				<StartDate>2020-02-05</StartDate>
-				<StartTime>15:33:59</StartTime>
-				<EndDate>2020-02-05</EndDate>
-				<EndTime>15:34:01</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>AGRISAPORI</Name>
-					<Description>AGRISAPORI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="178">
-				<IdName>InsideI'mdancing</IdName>
-				<StartDate>2020-02-05</StartDate>
-				<StartTime>15:34:01</StartTime>
-				<EndDate>2020-02-05</EndDate>
-				<EndTime>17:13:54</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>INSIDEL MDANCING</Name>
-					<Description>FILM</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="179">
-				<IdName>SPOTTC4</IdName>
-				<StartDate>2020-02-05</StartDate>
-				<StartTime>17:13:54</StartTime>
-				<EndDate>2020-02-05</EndDate>
-				<EndTime>17:13:58</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachanne4</Name>
-					<Description>SPOTtuachanne4</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="180">
-				<IdName>premiostadioradio-nona-edizione-cut-tv</IdName>
-				<StartDate>2020-02-05</StartDate>
-				<StartTime>17:13:58</StartTime>
-				<EndDate>2020-02-05</EndDate>
-				<EndTime>19:22:30</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>premio stadio radio 2017</Name>
-					<Description>Nuovo Filepremio stadio radio 2017</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="181">
-				<IdName>agrisapori-624x30-8-15</IdName>
-				<StartDate>2020-02-05</StartDate>
-				<StartTime>19:22:30</StartTime>
-				<EndDate>2020-02-05</EndDate>
-				<EndTime>19:50:05</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>grisapori</Name>
-					<Description>AGRISAPORI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="182">
-				<IdName>Terapiadurto_mpeg2video</IdName>
-				<StartDate>2020-02-05</StartDate>
-				<StartTime>19:50:05</StartTime>
-				<EndDate>2020-02-05</EndDate>
-				<EndTime>21:30:45</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Terapia d' urto</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="183">
-				<IdName>SPOTTC6</IdName>
-				<StartDate>2020-02-05</StartDate>
-				<StartTime>21:30:45</StartTime>
-				<EndDate>2020-02-05</EndDate>
-				<EndTime>21:30:49</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachannel6</Name>
-					<Description>SPOTtuachannel6</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="184">
-				<IdName>OSPEDALEGERACEcopiaottima_mpeg2video</IdName>
-				<StartDate>2020-02-05</StartDate>
-				<StartTime>21:30:49</StartTime>
-				<EndDate>2020-02-05</EndDate>
-				<EndTime>21:43:34</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>OSPEDALE GERACE</Name>
-					<Description>Ospedale Gerace Matteo</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="185">
-				<IdName>046-Bangkok,laVeneziad'Oriente(15')eD</IdName>
-				<StartDate>2020-02-05</StartDate>
-				<StartTime>21:43:34</StartTime>
-				<EndDate>2020-02-05</EndDate>
-				<EndTime>21:58:53</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>BANNGKOC</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="186">
-				<IdName>TG</IdName>
-				<StartDate>2020-02-05</StartDate>
-				<StartTime>21:58:53</StartTime>
-				<EndDate>2020-02-05</EndDate>
-				<EndTime>22:01:32</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TG </Name>
-					<Description>TELEGIORNALE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="187">
-				<IdName>Undollarodififa_mpeg2video</IdName>
-				<StartDate>2020-02-05</StartDate>
-				<StartTime>22:01:32</StartTime>
-				<EndDate>2020-02-05</EndDate>
-				<EndTime>23:31:26</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>UN DOLLARO  DI  FIFA</Name>
-					<Description>UN DOLLARO  DI  FIFA</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="188">
-				<IdName>spottc</IdName>
-				<StartDate>2020-02-05</StartDate>
-				<StartTime>23:31:26</StartTime>
-				<EndDate>2020-02-05</EndDate>
-				<EndTime>23:31:45</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TUA CHANNEL SPOT</Name>
-					<Description>SPOT TUA HANNEL</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="189">
-				<IdName>InstantFuture_Puntata1</IdName>
-				<StartDate>2020-02-05</StartDate>
-				<StartTime>23:31:45</StartTime>
-				<EndDate>2020-02-05</EndDate>
-				<EndTime>23:53:11</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>INSTANT FUTURE 1 P</Name>
-					<Description>INSTANT FUTURE 1 P</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="190">
-				<IdName>049-LaTerradelSoleRosso(11')eD</IdName>
-				<StartDate>2020-02-05</StartDate>
-				<StartTime>23:53:11</StartTime>
-				<EndDate>2020-02-06</EndDate>
-				<EndTime>00:03:59</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>LA TERRA DEL   SOLE ROSSO</Name>
-					<Description>LA TERRA DEL   SOLE  ROSSO</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="191">
-				<IdName>'IlsegretodiSantaVittoria'(1969)conAnnaMagnanieAnthonyQuinn_mpeg2video</IdName>
-				<StartDate>2020-02-06</StartDate>
-				<StartTime>00:03:59</StartTime>
-				<EndDate>2020-02-06</EndDate>
-				<EndTime>02:17:14</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>IL SEGRETO DI SANTA  VITTORIA</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="192">
-				<IdName>SPOTTC1</IdName>
-				<StartDate>2020-02-06</StartDate>
-				<StartTime>02:17:14</StartTime>
-				<EndDate>2020-02-06</EndDate>
-				<EndTime>02:17:17</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachannel1</Name>
-					<Description>SPOTtuachannel1</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="193">
-				<IdName>GeraceConsiglioComunaleStraordinariodel16Dic2015(byEL)</IdName>
-				<StartDate>2020-02-06</StartDate>
-				<StartTime>02:17:17</StartTime>
-				<EndDate>2020-02-06</EndDate>
-				<EndTime>03:07:48</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>CONSIGLIO  COMUNALE GERACE </Name>
-					<Description>Consiglio  comunale gerace del 16 dic 015</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="194">
-				<IdName>agrisapori608x9-5-15</IdName>
-				<StartDate>2020-02-06</StartDate>
-				<StartTime>03:07:48</StartTime>
-				<EndDate>2020-02-06</EndDate>
-				<EndTime>03:36:29</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="195">
-				<IdName>CommandPerformance2009iTALiANDVDRipXviDPrEsTiGe</IdName>
-				<StartDate>2020-02-06</StartDate>
-				<StartTime>03:36:29</StartTime>
-				<EndDate>2020-02-06</EndDate>
-				<EndTime>05:05:52</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Command performance</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="196">
-				<IdName>SPOTTC2</IdName>
-				<StartDate>2020-02-06</StartDate>
-				<StartTime>05:05:52</StartTime>
-				<EndDate>2020-02-06</EndDate>
-				<EndTime>05:05:55</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachanne2</Name>
-					<Description>SPOTtuachanne2</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="197">
-				<IdName>TG</IdName>
-				<StartDate>2020-02-06</StartDate>
-				<StartTime>05:05:55</StartTime>
-				<EndDate>2020-02-06</EndDate>
-				<EndTime>05:08:34</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TG </Name>
-					<Description>TELEGIORNALE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="198">
-				<IdName>CroccantediMandorle,laricettadiGiallozafferano</IdName>
-				<StartDate>2020-02-06</StartDate>
-				<StartTime>05:08:34</StartTime>
-				<EndDate>2020-02-06</EndDate>
-				<EndTime>05:12:20</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>CROCCANTEW DI  MANDORLE</Name>
-					<Description>CROCCANTE DI  AMNDORLE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="199">
-				<IdName>agrisapori627X20-9_15</IdName>
-				<StartDate>2020-02-06</StartDate>
-				<StartTime>05:12:20</StartTime>
-				<EndDate>2020-02-06</EndDate>
-				<EndTime>05:39:06</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>AGRISAPORI</Name>
-					<Description>AGRISAPORI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="200">
-				<IdName>AmiciMieiAttoII_mpeg2video</IdName>
-				<StartDate>2020-02-06</StartDate>
-				<StartTime>05:39:06</StartTime>
-				<EndDate>2020-02-06</EndDate>
-				<EndTime>07:46:06</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>AMICI MIEI  ATTO II</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="201">
-				<IdName>SPOTTC4</IdName>
-				<StartDate>2020-02-06</StartDate>
-				<StartTime>07:46:06</StartTime>
-				<EndDate>2020-02-06</EndDate>
-				<EndTime>07:46:09</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachanne4</Name>
-					<Description>SPOTtuachanne4</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="202">
-				<IdName>CONSIGLIOCOMGERA25SETT2^Parte</IdName>
-				<StartDate>2020-02-06</StartDate>
-				<StartTime>07:46:09</StartTime>
-				<EndDate>2020-02-06</EndDate>
-				<EndTime>10:15:51</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>gerace consiglio  comunale</Name>
-					<Description>Consiglio  com 2à parte del 25 09 016</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="203">
-				<IdName>GliAnimalipiPericolosiGiunglaUrbana(ITA)</IdName>
-				<StartDate>2020-02-06</StartDate>
-				<StartTime>10:15:51</StartTime>
-				<EndDate>2020-02-06</EndDate>
-				<EndTime>11:02:54</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Animali pericolosi</Name>
-					<Description>ANIMALI PERICOLOSI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="204">
-				<IdName>Ritornoalfuturo3_1_mpeg2video</IdName>
-				<StartDate>2020-02-06</StartDate>
-				<StartTime>11:02:54</StartTime>
-				<EndDate>2020-02-06</EndDate>
-				<EndTime>12:03:16</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>RIRORNO  AL  FUTURO 3</Name>
-					<Description>Ritorno  al  futuro 3</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="205">
-				<IdName>SPOTTC6</IdName>
-				<StartDate>2020-02-06</StartDate>
-				<StartTime>12:03:16</StartTime>
-				<EndDate>2020-02-06</EndDate>
-				<EndTime>12:03:20</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachannel6</Name>
-					<Description>SPOTtuachannel6</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="206">
-				<IdName>Consiglio29ott2016xregia</IdName>
-				<StartDate>2020-02-06</StartDate>
-				<StartTime>12:03:20</StartTime>
-				<EndDate>2020-02-06</EndDate>
-				<EndTime>12:03:22</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>CONSIGLIO COMUNALE GERACE </Name>
-					<Description>CONS DEL 29 OTT 2016</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="207">
-				<IdName>SerraSanBrunoPiccolaGrandeItalia</IdName>
-				<StartDate>2020-02-06</StartDate>
-				<StartTime>12:03:22</StartTime>
-				<EndDate>2020-02-06</EndDate>
-				<EndTime>12:24:20</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Piccola Grande Italia</Name>
-					<Description>SERRA S. BRUNO</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="208">
-				<IdName>TG</IdName>
-				<StartDate>2020-02-06</StartDate>
-				<StartTime>12:24:20</StartTime>
-				<EndDate>2020-02-06</EndDate>
-				<EndTime>12:27:00</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TG </Name>
-					<Description>TELEGIORNALE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="209">
-				<IdName>Unacoppiaperfetta_mpeg2video</IdName>
-				<StartDate>2020-02-06</StartDate>
-				<StartTime>12:27:00</StartTime>
-				<EndDate>2020-02-06</EndDate>
-				<EndTime>14:13:00</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Una coppia  perfetta</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="210">
-				<IdName>SPOTC3</IdName>
-				<StartDate>2020-02-06</StartDate>
-				<StartTime>14:13:00</StartTime>
-				<EndDate>2020-02-06</EndDate>
-				<EndTime>14:13:03</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachannel3</Name>
-					<Description>SPOTtuachanne3</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="211">
-				<IdName>CONSIGLIOGERACEDEL1311016</IdName>
-				<StartDate>2020-02-06</StartDate>
-				<StartTime>14:13:03</StartTime>
-				<EndDate>2020-02-06</EndDate>
-				<EndTime>14:57:26</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>consiglio gerace PEZZIMNENTI</Name>
-					<Description>CONSIGLIO GERACE DE 13  NOV 2016</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="212">
-				<IdName>agrisapori616x5-7-15</IdName>
-				<StartDate>2020-02-06</StartDate>
-				<StartTime>14:57:26</StartTime>
-				<EndDate>2020-02-06</EndDate>
-				<EndTime>15:23:34</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>AGRISAPORI</Name>
-					<Description>AGRISAPORI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="213">
-				<IdName>Sia-Chandelier</IdName>
-				<StartDate>2020-02-06</StartDate>
-				<StartTime>15:23:34</StartTime>
-				<EndDate>2020-02-06</EndDate>
-				<EndTime>15:27:15</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SIA</Name>
-					<Description>CHANDELEIR</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="214">
-				<IdName>spottc</IdName>
-				<StartDate>2020-02-06</StartDate>
-				<StartTime>15:27:15</StartTime>
-				<EndDate>2020-02-06</EndDate>
-				<EndTime>15:27:34</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TUA CHANNEL SPOT</Name>
-					<Description>SPOT TUA HANNEL</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="215">
-				<IdName>Pasticciniallemandorle</IdName>
-				<StartDate>2020-02-06</StartDate>
-				<StartTime>15:27:34</StartTime>
-				<EndDate>2020-02-06</EndDate>
-				<EndTime>15:29:49</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>PASTICCINI  ALLE MANDORLE</Name>
-					<Description>PASTICCINI ALLE MANDORLE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="216">
-				<IdName>GrotteriaPresepe2012_mpeg2video(1)</IdName>
-				<StartDate>2020-02-06</StartDate>
-				<StartTime>15:29:49</StartTime>
-				<EndDate>2020-02-06</EndDate>
-				<EndTime>16:16:05</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>GROTTERIA PRESEPE</Name>
-					<Description>GROTTERIA PRESEPE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="217">
-				<IdName>Roma.drogata.la.polizia.non_.puo.intervenire.19752°t.</IdName>
-				<StartDate>2020-02-06</StartDate>
-				<StartTime>16:16:05</StartTime>
-				<EndDate>2020-02-06</EndDate>
-				<EndTime>16:57:19</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>ROMA DROGATA 2^</Name>
-					<Description>ROMA DROGATA 2^</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="218">
-				<IdName>SPOTTC1</IdName>
-				<StartDate>2020-02-06</StartDate>
-				<StartTime>16:57:19</StartTime>
-				<EndDate>2020-02-06</EndDate>
-				<EndTime>16:57:22</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachannel1</Name>
-					<Description>SPOTtuachannel1</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="219">
-				<IdName>TG</IdName>
-				<StartDate>2020-02-06</StartDate>
-				<StartTime>16:57:22</StartTime>
-				<EndDate>2020-02-06</EndDate>
-				<EndTime>17:00:02</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TG </Name>
-					<Description>TELEGIORNALE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="220">
-				<IdName>inTavola_20150205_48237</IdName>
-				<StartDate>2020-02-06</StartDate>
-				<StartTime>17:00:02</StartTime>
-				<EndDate>2020-02-06</EndDate>
-				<EndTime>17:02:00</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>inTavola_2015 02 05</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="221">
-				<IdName>043-NgoroNgoro,l'UltimaArca(14')eD</IdName>
-				<StartDate>2020-02-06</StartDate>
-				<StartTime>17:02:00</StartTime>
-				<EndDate>2020-02-06</EndDate>
-				<EndTime>17:15:30</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>NGORO NGORO</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="222">
-				<IdName>LARIVOLTADEIPRETORIANIFilmpeplum1964diAlfonsoBresciacompletoinItaliano</IdName>
-				<StartDate>2020-02-06</StartDate>
-				<StartTime>17:15:30</StartTime>
-				<EndDate>2020-02-06</EndDate>
-				<EndTime>18:48:50</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>LARIVOLTA DEI PRETORIANI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="223">
-				<IdName>SPOTTC6</IdName>
-				<StartDate>2020-02-06</StartDate>
-				<StartTime>18:48:50</StartTime>
-				<EndDate>2020-02-06</EndDate>
-				<EndTime>18:48:54</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachannel6</Name>
-					<Description>SPOTtuachannel6</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="224">
-				<IdName>21PIXMINDrev1</IdName>
-				<StartDate>2020-02-06</StartDate>
-				<StartTime>18:48:54</StartTime>
-				<EndDate>2020-02-06</EndDate>
-				<EndTime>19:12:54</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>PIXMIND</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="225">
-				<IdName>044-LaSavanadeiSerengheti(15')eD</IdName>
-				<StartDate>2020-02-06</StartDate>
-				<StartTime>19:12:54</StartTime>
-				<EndDate>2020-02-06</EndDate>
-				<EndTime>19:27:13</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>LA SAVANA</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="226">
-				<IdName>LabattagliadellaNeretva19691°t.</IdName>
-				<StartDate>2020-02-06</StartDate>
-				<StartTime>19:27:13</StartTime>
-				<EndDate>2020-02-06</EndDate>
-				<EndTime>20:41:18</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>LA BATTAGLIA DELLA NERETVA 1° T</Name>
-					<Description>LA BATTAGLIA DELLA NERETVA 1° T</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="227">
-				<IdName>SPOTC3</IdName>
-				<StartDate>2020-02-06</StartDate>
-				<StartTime>20:41:18</StartTime>
-				<EndDate>2020-02-06</EndDate>
-				<EndTime>20:41:21</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachannel3</Name>
-					<Description>SPOTtuachanne3</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="228">
-				<IdName>consigliocomunalegeracedel25092016primaparte</IdName>
-				<StartDate>2020-02-06</StartDate>
-				<StartTime>20:41:21</StartTime>
-				<EndDate>2020-02-06</EndDate>
-				<EndTime>21:54:57</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>CONSIGLIO GERACE DEL 25.09 016</Name>
-					<Description>consigl gerace 1^ parte</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="229">
-				<IdName>045-NiloVittoria,ilFiumedellaPreistoria(10')eD</IdName>
-				<StartDate>2020-02-06</StartDate>
-				<StartTime>21:54:57</StartTime>
-				<EndDate>2020-02-06</EndDate>
-				<EndTime>22:04:52</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>NILO </Name>
-					<Description>IL  LUME DELLA PREISTORIA</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="230">
-				<IdName>TG</IdName>
-				<StartDate>2020-02-06</StartDate>
-				<StartTime>22:04:52</StartTime>
-				<EndDate>2020-02-06</EndDate>
-				<EndTime>22:07:31</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TG </Name>
-					<Description>TELEGIORNALE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="231">
-				<IdName>L'isoladeisopravvissuti</IdName>
-				<StartDate>2020-02-06</StartDate>
-				<StartTime>22:07:31</StartTime>
-				<EndDate>2020-02-06</EndDate>
-				<EndTime>23:39:15</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>L' isola dei sopravvissuti </Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="232">
-				<IdName>spottc</IdName>
-				<StartDate>2020-02-06</StartDate>
-				<StartTime>23:39:15</StartTime>
-				<EndDate>2020-02-06</EndDate>
-				<EndTime>23:39:34</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TUA CHANNEL SPOT</Name>
-					<Description>SPOT TUA HANNEL</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="233">
-				<IdName>Pennetteai4formaggi</IdName>
-				<StartDate>2020-02-06</StartDate>
-				<StartTime>23:39:34</StartTime>
-				<EndDate>2020-02-06</EndDate>
-				<EndTime>23:42:16</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>PENNETTE 4 FORMAGGI</Name>
-					<Description>PENNETTE 4 FORMAGGI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="234">
-				<IdName>051-LeAndedellaCoca(20')eD</IdName>
-				<StartDate>2020-02-06</StartDate>
-				<StartTime>23:42:16</StartTime>
-				<EndDate>2020-02-07</EndDate>
-				<EndTime>00:01:44</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>LE ANDE DELLA COCA</Name>
-					<Description>LE AMNDE DELLA COCA</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="235">
-				<IdName>CityofGhost_mpeg2video</IdName>
-				<StartDate>2020-02-07</StartDate>
-				<StartTime>00:01:44</StartTime>
-				<EndDate>2020-02-07</EndDate>
-				<EndTime>01:53:26</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>CYTY OF GHOST</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="236">
-				<IdName>SPOTTC4</IdName>
-				<StartDate>2020-02-07</StartDate>
-				<StartTime>01:53:26</StartTime>
-				<EndDate>2020-02-07</EndDate>
-				<EndTime>01:53:30</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachanne4</Name>
-					<Description>SPOTtuachanne4</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="237">
-				<IdName>SEDUTACONSIGLIODEL13032017</IdName>
-				<StartDate>2020-02-07</StartDate>
-				<StartTime>01:53:30</StartTime>
-				<EndDate>2020-02-07</EndDate>
-				<EndTime>02:32:05</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>consiglio gerace 13  3 017</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="238">
-				<IdName>043-NgoroNgoro,l'UltimaArca(14')eD</IdName>
-				<StartDate>2020-02-07</StartDate>
-				<StartTime>02:32:05</StartTime>
-				<EndDate>2020-02-07</EndDate>
-				<EndTime>02:45:35</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>NGORO NGORO</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="239">
-				<IdName>Sedottiebidonati</IdName>
-				<StartDate>2020-02-07</StartDate>
-				<StartTime>02:45:35</StartTime>
-				<EndDate>2020-02-07</EndDate>
-				<EndTime>04:22:48</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Sedotti ed abbandonati</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="240">
-				<IdName>SPOTTC2</IdName>
-				<StartDate>2020-02-07</StartDate>
-				<StartTime>04:22:48</StartTime>
-				<EndDate>2020-02-07</EndDate>
-				<EndTime>04:22:51</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachanne2</Name>
-					<Description>SPOTtuachanne2</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="241">
-				<IdName>TG</IdName>
-				<StartDate>2020-02-07</StartDate>
-				<StartTime>04:22:51</StartTime>
-				<EndDate>2020-02-07</EndDate>
-				<EndTime>04:25:30</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TG </Name>
-					<Description>TELEGIORNALE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="242">
-				<IdName>ConsigliocomunaleGeracedel30settembre2017</IdName>
-				<StartDate>2020-02-07</StartDate>
-				<StartTime>04:25:30</StartTime>
-				<EndDate>2020-02-07</EndDate>
-				<EndTime>06:17:55</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>cosiglio comunale gerace 30 sett 017</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="243">
-				<IdName>agrisapori-624x30-8-15</IdName>
-				<StartDate>2020-02-07</StartDate>
-				<StartTime>06:17:55</StartTime>
-				<EndDate>2020-02-07</EndDate>
-				<EndTime>06:45:31</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>grisapori</Name>
-					<Description>AGRISAPORI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="244">
-				<IdName>Perunpugnonellocchio_mpeg2video</IdName>
-				<StartDate>2020-02-07</StartDate>
-				<StartTime>06:45:31</StartTime>
-				<EndDate>2020-02-07</EndDate>
-				<EndTime>08:20:22</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Per  un  pugno  nell' occhio</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="245">
-				<IdName>SPOTTC1</IdName>
-				<StartDate>2020-02-07</StartDate>
-				<StartTime>08:20:22</StartTime>
-				<EndDate>2020-02-07</EndDate>
-				<EndTime>08:20:26</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachannel1</Name>
-					<Description>SPOTtuachannel1</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="246">
-				<IdName>CocktaildiGamberetti,laricettadiGiallozafferano</IdName>
-				<StartDate>2020-02-07</StartDate>
-				<StartTime>08:20:26</StartTime>
-				<EndDate>2020-02-07</EndDate>
-				<EndTime>08:23:25</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>COKTAIL DI  GAMBERETTI</Name>
-					<Description>COKTAIL DI GAMBERETTI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="247">
-				<IdName>agrisapori618x19-7-15</IdName>
-				<StartDate>2020-02-07</StartDate>
-				<StartTime>08:23:25</StartTime>
-				<EndDate>2020-02-07</EndDate>
-				<EndTime>08:32:13</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>AGRISAPORI</Name>
-					<Description>La Magdaleine</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="248">
-				<IdName>LichiamaronoBrigantifilmcompleto</IdName>
-				<StartDate>2020-02-07</StartDate>
-				<StartTime>08:32:13</StartTime>
-				<EndDate>2020-02-07</EndDate>
-				<EndTime>10:33:05</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>LI CHIAMARONO BRIGANTI</Name>
-					<Description>LI CHIAMARONO BRIGANTI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="249">
-				<IdName>SPOTTC1</IdName>
-				<StartDate>2020-02-07</StartDate>
-				<StartTime>10:33:05</StartTime>
-				<EndDate>2020-02-07</EndDate>
-				<EndTime>10:33:08</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachannel1</Name>
-					<Description>SPOTtuachannel1</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="250">
-				<IdName>consiglioGeracedel288017</IdName>
-				<StartDate>2020-02-07</StartDate>
-				<StartTime>10:33:08</StartTime>
-				<EndDate>2020-02-07</EndDate>
-				<EndTime>10:53:13</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>consiglio 28 8 17</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="251">
-				<IdName>agrisapori627X20-9_15</IdName>
-				<StartDate>2020-02-07</StartDate>
-				<StartTime>10:53:13</StartTime>
-				<EndDate>2020-02-07</EndDate>
-				<EndTime>11:19:59</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>AGRISAPORI</Name>
-					<Description>AGRISAPORI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="252">
-				<IdName>TG</IdName>
-				<StartDate>2020-02-07</StartDate>
-				<StartTime>11:19:59</StartTime>
-				<EndDate>2020-02-07</EndDate>
-				<EndTime>11:22:38</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TG </Name>
-					<Description>TELEGIORNALE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="253">
-				<IdName>gold.il.segno.del.potere.19742°t.</IdName>
-				<StartDate>2020-02-07</StartDate>
-				<StartTime>11:22:38</StartTime>
-				<EndDate>2020-02-07</EndDate>
-				<EndTime>12:20:33</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>GOLD  IL SEGNO DEL  POTERE 2°</Name>
-					<Description>GOLD  IL SEGNO DEL  POTERE 2°</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="254">
-				<IdName>spottc</IdName>
-				<StartDate>2020-02-07</StartDate>
-				<StartTime>12:20:33</StartTime>
-				<EndDate>2020-02-07</EndDate>
-				<EndTime>12:20:52</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TUA CHANNEL SPOT</Name>
-					<Description>SPOT TUA HANNEL</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="255">
-				<IdName>InstantFuturepuntata5</IdName>
-				<StartDate>2020-02-07</StartDate>
-				<StartTime>12:20:52</StartTime>
-				<EndDate>2020-02-07</EndDate>
-				<EndTime>12:43:16</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>INSTANT FUTURE 5 P</Name>
-					<Description>INSTANT FUTURE 5 P</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="256">
-				<IdName>agrisapori616x5-7-15</IdName>
-				<StartDate>2020-02-07</StartDate>
-				<StartTime>12:43:16</StartTime>
-				<EndDate>2020-02-07</EndDate>
-				<EndTime>13:09:24</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>AGRISAPORI</Name>
-					<Description>AGRISAPORI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="257">
-				<IdName>0114-1968PreparatiLaBara-TerenceHill_mpeg2video</IdName>
-				<StartDate>2020-02-07</StartDate>
-				<StartTime>13:09:24</StartTime>
-				<EndDate>2020-02-07</EndDate>
-				<EndTime>14:37:26</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>PREPARATI LA  BARA</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="258">
-				<IdName>SPOTTC2</IdName>
-				<StartDate>2020-02-07</StartDate>
-				<StartTime>14:37:26</StartTime>
-				<EndDate>2020-02-07</EndDate>
-				<EndTime>14:37:29</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachanne2</Name>
-					<Description>SPOTtuachanne2</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="259">
-				<IdName>CorsoUrgenzaEmergenza</IdName>
-				<StartDate>2020-02-07</StartDate>
-				<StartTime>14:37:29</StartTime>
-				<EndDate>2020-02-07</EndDate>
-				<EndTime>15:40:46</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>CORSO URGENZA EMERGENZA</Name>
-					<Description>CORSO  URGENZA EMERGENZA</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="260">
-				<IdName>agrisapori609x17-5-15</IdName>
-				<StartDate>2020-02-07</StartDate>
-				<StartTime>15:40:46</StartTime>
-				<EndDate>2020-02-07</EndDate>
-				<EndTime>16:09:45</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>SPERLONGA</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="261">
-				<IdName>FantozziVaInPensione</IdName>
-				<StartDate>2020-02-07</StartDate>
-				<StartTime>16:09:45</StartTime>
-				<EndDate>2020-02-07</EndDate>
-				<EndTime>17:44:21</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>FANTOZZI VA IN PENSIONE</Name>
-					<Description>FANTOZZI VA IN PENSIONE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="262">
-				<IdName>SPOTC3</IdName>
-				<StartDate>2020-02-07</StartDate>
-				<StartTime>17:44:21</StartTime>
-				<EndDate>2020-02-07</EndDate>
-				<EndTime>17:44:24</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachannel3</Name>
-					<Description>SPOTtuachanne3</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="263">
-				<IdName>TG</IdName>
-				<StartDate>2020-02-07</StartDate>
-				<StartTime>17:44:24</StartTime>
-				<EndDate>2020-02-07</EndDate>
-				<EndTime>17:47:04</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TG </Name>
-					<Description>TELEGIORNALE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="264">
-				<IdName>LocriCCdel14062013_mpeg2video</IdName>
-				<StartDate>2020-02-07</StartDate>
-				<StartTime>17:47:04</StartTime>
-				<EndDate>2020-02-07</EndDate>
-				<EndTime>19:34:06</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>CONSIGLIO COMUNALE LOCRI</Name>
-					<Description>CONSIGLIO COMUNALE LOCRIDEL 14062013</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="265">
-				<IdName>050-IlTriangolod'Oro(20')eD</IdName>
-				<StartDate>2020-02-07</StartDate>
-				<StartTime>19:34:06</StartTime>
-				<EndDate>2020-02-07</EndDate>
-				<EndTime>19:53:19</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>IL TRIANGOLO D 'ORO</Name>
-					<Description>IL TRIANGOLO  D 'ORO</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="266">
-				<IdName>AvventuraaCapri_mpeg2video</IdName>
-				<StartDate>2020-02-07</StartDate>
-				<StartTime>19:53:19</StartTime>
-				<EndDate>2020-02-07</EndDate>
-				<EndTime>21:16:23</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>AVVENTURA A CAPRI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="267">
-				<IdName>SPOTTC4</IdName>
-				<StartDate>2020-02-07</StartDate>
-				<StartTime>21:16:23</StartTime>
-				<EndDate>2020-02-07</EndDate>
-				<EndTime>21:16:27</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachanne4</Name>
-					<Description>SPOTtuachanne4</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="268">
-				<IdName>CONSIGLIOCOMUNALE30MARZO2017</IdName>
-				<StartDate>2020-02-07</StartDate>
-				<StartTime>21:16:27</StartTime>
-				<EndDate>2020-02-07</EndDate>
-				<EndTime>22:02:11</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>consiglio gerace del 30 3 017</Name>
-					<Description>consiglio gerace 30 3 17</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="269">
-				<IdName>agrisapori596x8-2-15</IdName>
-				<StartDate>2020-02-07</StartDate>
-				<StartTime>22:02:11</StartTime>
-				<EndDate>2020-02-07</EndDate>
-				<EndTime>22:33:31</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>GIAGLIONESconosciuto</Name>
-					<Description>Nuovo FiAGRISAPORI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="270">
-				<IdName>Americangraffiti_1_mpeg2video</IdName>
-				<StartDate>2020-02-07</StartDate>
-				<StartTime>22:33:31</StartTime>
-				<EndDate>2020-02-07</EndDate>
-				<EndTime>23:31:06</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>AMERICAN GRAFFITI_1</Name>
-					<Description>AMERICAN GRAFFITI_1</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="271">
-				<IdName>SPOTTC6</IdName>
-				<StartDate>2020-02-07</StartDate>
-				<StartTime>23:31:06</StartTime>
-				<EndDate>2020-02-07</EndDate>
-				<EndTime>23:31:09</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachannel6</Name>
-					<Description>SPOTtuachannel6</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="272">
-				<IdName>Geracesedutaconsiliaredel5Ottobre2016(byEL)</IdName>
-				<StartDate>2020-02-07</StartDate>
-				<StartTime>23:31:09</StartTime>
-				<EndDate>2020-02-08</EndDate>
-				<EndTime>01:01:23</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>seduta consiglio gerace 5 10 106</Name>
-					<Description>consiglio gerac 5.10.016</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="273">
-				<IdName>IpostipibellidellacalabriaDestinationCalabriaGiuseppeScorzaPepoMac@gmailcom_mpeg2video</IdName>
-				<StartDate>2020-02-08</StartDate>
-				<StartTime>01:01:23</StartTime>
-				<EndDate>2020-02-08</EndDate>
-				<EndTime>01:05:23</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>I POSTI PIU  BELLI DELLA CALABRIA</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="274">
-				<IdName>TG</IdName>
-				<StartDate>2020-02-08</StartDate>
-				<StartTime>01:05:23</StartTime>
-				<EndDate>2020-02-08</EndDate>
-				<EndTime>01:08:02</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TG </Name>
-					<Description>TELEGIORNALE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="275">
-				<IdName>Un.amore.in.prima.classe.19802°t.</IdName>
-				<StartDate>2020-02-08</StartDate>
-				<StartTime>01:08:02</StartTime>
-				<EndDate>2020-02-08</EndDate>
-				<EndTime>01:50:05</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>UN AMORE IN PRIMA CLASSE 2° T</Name>
-					<Description>UN AMORE IN PRIMA CLASSE 2° T</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="276">
-				<IdName>SPOTTC2</IdName>
-				<StartDate>2020-02-08</StartDate>
-				<StartTime>01:50:05</StartTime>
-				<EndDate>2020-02-08</EndDate>
-				<EndTime>01:50:08</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachanne2</Name>
-					<Description>SPOTtuachanne2</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="277">
-				<IdName>GeraceConsiglioComunaleStraordinariodel16Dic2015(byEL)</IdName>
-				<StartDate>2020-02-08</StartDate>
-				<StartTime>01:50:08</StartTime>
-				<EndDate>2020-02-08</EndDate>
-				<EndTime>02:40:39</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>CONSIGLIO  COMUNALE GERACE </Name>
-					<Description>Consiglio  comunale gerace del 16 dic 015</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="278">
-				<IdName>VideopergiornodellaMemoria,pernondimenticare.</IdName>
-				<StartDate>2020-02-08</StartDate>
-				<StartTime>02:40:39</StartTime>
-				<EndDate>2020-02-08</EndDate>
-				<EndTime>03:06:26</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>IL GIORNO DELLA  MEMORIA</Name>
-					<Description>IL GIORNO  DELLA MEMORIA</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="279">
-				<IdName>Bellezzesullaspiaggia_mpeg2video</IdName>
-				<StartDate>2020-02-08</StartDate>
-				<StartTime>03:06:26</StartTime>
-				<EndDate>2020-02-08</EndDate>
-				<EndTime>04:29:35</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>BELLEZZE SULLA SPIAGGIA</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="280">
-				<IdName>SPOTC3</IdName>
-				<StartDate>2020-02-08</StartDate>
-				<StartTime>04:29:35</StartTime>
-				<EndDate>2020-02-08</EndDate>
-				<EndTime>04:29:38</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachannel3</Name>
-					<Description>SPOTtuachanne3</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="281">
-				<IdName>LocriCCdel14062013_mpeg2video</IdName>
-				<StartDate>2020-02-08</StartDate>
-				<StartTime>04:29:38</StartTime>
-				<EndDate>2020-02-08</EndDate>
-				<EndTime>06:16:40</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>CONSIGLIO COMUNALE LOCRI</Name>
-					<Description>CONSIGLIO COMUNALE LOCRIDEL 14062013</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="282">
-				<IdName>SerraSanBrunoPiccolaGrandeItalia</IdName>
-				<StartDate>2020-02-08</StartDate>
-				<StartTime>06:16:40</StartTime>
-				<EndDate>2020-02-08</EndDate>
-				<EndTime>06:37:39</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Piccola Grande Italia</Name>
-					<Description>SERRA S. BRUNO</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="283">
-				<IdName>Ilpadrino</IdName>
-				<StartDate>2020-02-08</StartDate>
-				<StartTime>06:37:39</StartTime>
-				<EndDate>2020-02-08</EndDate>
-				<EndTime>09:25:43</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>IL PADRINO</Name>
-					<Description>Il padrino</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="284">
-				<IdName>SPOTTC1</IdName>
-				<StartDate>2020-02-08</StartDate>
-				<StartTime>09:25:43</StartTime>
-				<EndDate>2020-02-08</EndDate>
-				<EndTime>09:25:46</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachannel1</Name>
-					<Description>SPOTtuachannel1</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="285">
-				<IdName>TG</IdName>
-				<StartDate>2020-02-08</StartDate>
-				<StartTime>09:25:46</StartTime>
-				<EndDate>2020-02-08</EndDate>
-				<EndTime>09:28:26</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TG </Name>
-					<Description>TELEGIORNALE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="286">
-				<IdName>Consiglio29ott2016xregia</IdName>
-				<StartDate>2020-02-08</StartDate>
-				<StartTime>09:28:26</StartTime>
-				<EndDate>2020-02-08</EndDate>
-				<EndTime>09:28:28</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>CONSIGLIO COMUNALE GERACE </Name>
-					<Description>CONS DEL 29 OTT 2016</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="287">
-				<IdName>MagnificaItaliaCalabria_mpeg2video</IdName>
-				<StartDate>2020-02-08</StartDate>
-				<StartTime>09:28:28</StartTime>
-				<EndDate>2020-02-08</EndDate>
-				<EndTime>10:20:38</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Calabria</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="288">
-				<IdName>A027DaLasVegas_mpeg2video</IdName>
-				<StartDate>2020-02-08</StartDate>
-				<StartTime>10:20:38</StartTime>
-				<EndDate>2020-02-08</EndDate>
-				<EndTime>11:51:12</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>A 27 LAS VEGAS</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="289">
-				<IdName>SPOTTC4</IdName>
-				<StartDate>2020-02-08</StartDate>
-				<StartTime>11:51:12</StartTime>
-				<EndDate>2020-02-08</EndDate>
-				<EndTime>11:51:15</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachanne4</Name>
-					<Description>SPOTtuachanne4</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="290">
-				<IdName>21PIXMINDrev1</IdName>
-				<StartDate>2020-02-08</StartDate>
-				<StartTime>11:51:15</StartTime>
-				<EndDate>2020-02-08</EndDate>
-				<EndTime>12:15:15</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>PIXMIND</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="291">
-				<IdName>MalfaPiccolaGrandeItalia</IdName>
-				<StartDate>2020-02-08</StartDate>
-				<StartTime>12:15:15</StartTime>
-				<EndDate>2020-02-08</EndDate>
-				<EndTime>12:36:44</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Piccola Grande Italia MALFA</Name>
-					<Description>Malfa</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="292">
-				<IdName>AustinPowers2-Laspiacheciprovava</IdName>
-				<StartDate>2020-02-08</StartDate>
-				<StartTime>12:36:44</StartTime>
-				<EndDate>2020-02-08</EndDate>
-				<EndTime>14:07:52</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>AUSTIN POWERS2</Name>
-					<Description>LA SPIA CHE CI  PROVAVA</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="293">
-				<IdName>SPOTTC6</IdName>
-				<StartDate>2020-02-08</StartDate>
-				<StartTime>14:07:52</StartTime>
-				<EndDate>2020-02-08</EndDate>
-				<EndTime>14:07:55</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachannel6</Name>
-					<Description>SPOTtuachannel6</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="294">
-				<IdName>InstantFuturepuntata5</IdName>
-				<StartDate>2020-02-08</StartDate>
-				<StartTime>14:07:55</StartTime>
-				<EndDate>2020-02-08</EndDate>
-				<EndTime>14:30:19</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>INSTANT FUTURE 5 P</Name>
-					<Description>INSTANT FUTURE 5 P</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="295">
-				<IdName>DOCUMENTARIOAuschwitz</IdName>
-				<StartDate>2020-02-08</StartDate>
-				<StartTime>14:30:19</StartTime>
-				<EndDate>2020-02-08</EndDate>
-				<EndTime>14:57:15</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Auschwitz</Name>
-					<Description>Auschwitz</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="296">
-				<IdName>TG</IdName>
-				<StartDate>2020-02-08</StartDate>
-				<StartTime>14:57:15</StartTime>
-				<EndDate>2020-02-08</EndDate>
-				<EndTime>14:59:55</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TG </Name>
-					<Description>TELEGIORNALE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="297">
-				<IdName>EttoreScolaC'eravamotantoamati(1974)_mpeg2video</IdName>
-				<StartDate>2020-02-08</StartDate>
-				<StartTime>14:59:55</StartTime>
-				<EndDate>2020-02-08</EndDate>
-				<EndTime>17:00:18</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>CERAVAMO TANTO  AMATI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="298">
-				<IdName>spottc</IdName>
-				<StartDate>2020-02-08</StartDate>
-				<StartTime>17:00:18</StartTime>
-				<EndDate>2020-02-08</EndDate>
-				<EndTime>17:00:37</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TUA CHANNEL SPOT</Name>
-					<Description>SPOT TUA HANNEL</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="299">
-				<IdName>CocktaildiGamberetti,laricettadiGiallozafferano</IdName>
-				<StartDate>2020-02-08</StartDate>
-				<StartTime>17:00:37</StartTime>
-				<EndDate>2020-02-08</EndDate>
-				<EndTime>17:03:36</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>COKTAIL DI  GAMBERETTI</Name>
-					<Description>COKTAIL DI GAMBERETTI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="300">
-				<IdName>042-Tanzania,TerradiAmici(14')eD</IdName>
-				<StartDate>2020-02-08</StartDate>
-				<StartTime>17:03:36</StartTime>
-				<EndDate>2020-02-08</EndDate>
-				<EndTime>17:17:41</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TANZANIA</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="301">
-				<IdName>MenInBlackI</IdName>
-				<StartDate>2020-02-08</StartDate>
-				<StartTime>17:17:41</StartTime>
-				<EndDate>2020-02-08</EndDate>
-				<EndTime>18:51:42</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Men In Black I</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="302">
-				<IdName>SPOTC3</IdName>
-				<StartDate>2020-02-08</StartDate>
-				<StartTime>18:51:42</StartTime>
-				<EndDate>2020-02-08</EndDate>
-				<EndTime>18:51:45</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachannel3</Name>
-					<Description>SPOTtuachanne3</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="303">
-				<IdName>CONSIGLIOCOMUNALE30MARZO2017</IdName>
-				<StartDate>2020-02-08</StartDate>
-				<StartTime>18:51:45</StartTime>
-				<EndDate>2020-02-08</EndDate>
-				<EndTime>19:37:30</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>consiglio gerace del 30 3 017</Name>
-					<Description>consiglio gerace 30 3 17</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="304">
-				<IdName>agrisapori-623x23-8-15</IdName>
-				<StartDate>2020-02-08</StartDate>
-				<StartTime>19:37:30</StartTime>
-				<EndDate>2020-02-08</EndDate>
-				<EndTime>19:37:32</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>AGRISAPORI</Name>
-					<Description>AGRISAPORI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="305">
-				<IdName>Scherzidaprete_mpeg2video</IdName>
-				<StartDate>2020-02-08</StartDate>
-				<StartTime>19:37:32</StartTime>
-				<EndDate>2020-02-08</EndDate>
-				<EndTime>21:05:24</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Scherzi da prete</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="306">
-				<IdName>SPOTTC4</IdName>
-				<StartDate>2020-02-08</StartDate>
-				<StartTime>21:05:24</StartTime>
-				<EndDate>2020-02-08</EndDate>
-				<EndTime>21:05:27</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachanne4</Name>
-					<Description>SPOTtuachanne4</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="307">
-				<IdName>TG</IdName>
-				<StartDate>2020-02-08</StartDate>
-				<StartTime>21:05:27</StartTime>
-				<EndDate>2020-02-08</EndDate>
-				<EndTime>21:08:06</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TG </Name>
-					<Description>TELEGIORNALE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="308">
-				<IdName>CroccantediMandorle,laricettadiGiallozafferano</IdName>
-				<StartDate>2020-02-08</StartDate>
-				<StartTime>21:08:06</StartTime>
-				<EndDate>2020-02-08</EndDate>
-				<EndTime>21:11:52</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>CROCCANTEW DI  MANDORLE</Name>
-					<Description>CROCCANTE DI  AMNDORLE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="309">
-				<IdName>GrotteriaPresepe2012_mpeg2video(1)</IdName>
-				<StartDate>2020-02-08</StartDate>
-				<StartTime>21:11:52</StartTime>
-				<EndDate>2020-02-08</EndDate>
-				<EndTime>21:58:07</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>GROTTERIA PRESEPE</Name>
-					<Description>GROTTERIA PRESEPE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="310">
-				<IdName>Iquattrodell'apocalisseLucioFulci(FILMCOMPLETO)</IdName>
-				<StartDate>2020-02-08</StartDate>
-				<StartTime>21:58:07</StartTime>
-				<EndDate>2020-02-08</EndDate>
-				<EndTime>23:42:14</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>I 4 DELL'APOCALISSE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="311">
-				<IdName>SPOTTC1</IdName>
-				<StartDate>2020-02-08</StartDate>
-				<StartTime>23:42:14</StartTime>
-				<EndDate>2020-02-08</EndDate>
-				<EndTime>23:42:17</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachannel1</Name>
-					<Description>SPOTtuachannel1</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="312">
-				<IdName>inTavola_20150205_48237</IdName>
-				<StartDate>2020-02-08</StartDate>
-				<StartTime>23:42:17</StartTime>
-				<EndDate>2020-02-08</EndDate>
-				<EndTime>23:44:16</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>inTavola_2015 02 05</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="313">
-				<IdName>Olocausto.Lafabbricadelmale</IdName>
-				<StartDate>2020-02-08</StartDate>
-				<StartTime>23:44:16</StartTime>
-				<EndDate>2020-02-09</EndDate>
-				<EndTime>01:07:51</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>olocxausto</Name>
-					<Description>LA FABBRICA DEL  MALE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="314">
-				<IdName>Il.Diavolo.bn19631°t</IdName>
-				<StartDate>2020-02-09</StartDate>
-				<StartTime>01:07:51</StartTime>
-				<EndDate>2020-02-09</EndDate>
-				<EndTime>01:59:36</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>IL DIAVOLO B/N SORDI 1°</Name>
-					<Description>IL DIAVOLO B/N SORDI 1°</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="315">
-				<IdName>spottc</IdName>
-				<StartDate>2020-02-09</StartDate>
-				<StartTime>01:59:36</StartTime>
-				<EndDate>2020-02-09</EndDate>
-				<EndTime>01:59:54</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TUA CHANNEL SPOT</Name>
-					<Description>SPOT TUA HANNEL</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="316">
-				<IdName>OSPEDALEGERACEcopiaottima_mpeg2video</IdName>
-				<StartDate>2020-02-09</StartDate>
-				<StartTime>01:59:54</StartTime>
-				<EndDate>2020-02-09</EndDate>
-				<EndTime>02:12:40</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>OSPEDALE GERACE</Name>
-					<Description>Ospedale Gerace Matteo</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="317">
-				<IdName>ReggioCalabriaPiccolaGrandeItalia</IdName>
-				<StartDate>2020-02-09</StartDate>
-				<StartTime>02:12:40</StartTime>
-				<EndDate>2020-02-09</EndDate>
-				<EndTime>02:34:53</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Reggio piccola grande Italia  </Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="318">
-				<IdName>TG</IdName>
-				<StartDate>2020-02-09</StartDate>
-				<StartTime>02:34:53</StartTime>
-				<EndDate>2020-02-09</EndDate>
-				<EndTime>02:37:32</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TG </Name>
-					<Description>TELEGIORNALE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="319">
-				<IdName>AmicimieiattoIII_mpeg2video</IdName>
-				<StartDate>2020-02-09</StartDate>
-				<StartTime>02:37:32</StartTime>
-				<EndDate>2020-02-09</EndDate>
-				<EndTime>04:26:53</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>AMICI MIEI  ATTO III</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="320">
-				<IdName>SPOTTC6</IdName>
-				<StartDate>2020-02-09</StartDate>
-				<StartTime>04:26:53</StartTime>
-				<EndDate>2020-02-09</EndDate>
-				<EndTime>04:26:56</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachannel6</Name>
-					<Description>SPOTtuachannel6</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="321">
-				<IdName>CONSIGLIOGERACEDEL1311016</IdName>
-				<StartDate>2020-02-09</StartDate>
-				<StartTime>04:26:56</StartTime>
-				<EndDate>2020-02-09</EndDate>
-				<EndTime>05:11:19</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>consiglio gerace PEZZIMNENTI</Name>
-					<Description>CONSIGLIO GERACE DE 13  NOV 2016</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="322">
-				<IdName>MusicaeTradizioni</IdName>
-				<StartDate>2020-02-09</StartDate>
-				<StartTime>05:11:19</StartTime>
-				<EndDate>2020-02-09</EndDate>
-				<EndTime>05:22:17</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>MUSICA E TRADIZIONI</Name>
-					<Description>MUSICA E TRADIZIONI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="323">
-				<IdName>TotoaParigi_mpeg2video</IdName>
-				<StartDate>2020-02-09</StartDate>
-				<StartTime>05:22:17</StartTime>
-				<EndDate>2020-02-09</EndDate>
-				<EndTime>06:55:59</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Tot a Prigi</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="324">
-				<IdName>SPOTTC2</IdName>
-				<StartDate>2020-02-09</StartDate>
-				<StartTime>06:55:59</StartTime>
-				<EndDate>2020-02-09</EndDate>
-				<EndTime>06:56:02</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachanne2</Name>
-					<Description>SPOTtuachanne2</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="325">
-				<IdName>CONSIGLIOCOMGERA25SETT2^Parte</IdName>
-				<StartDate>2020-02-09</StartDate>
-				<StartTime>06:56:02</StartTime>
-				<EndDate>2020-02-09</EndDate>
-				<EndTime>09:25:45</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>gerace consiglio  comunale</Name>
-					<Description>Consiglio  com 2à parte del 25 09 016</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="326">
-				<IdName>CariatiPiccolaGrandeItalia</IdName>
-				<StartDate>2020-02-09</StartDate>
-				<StartTime>09:25:45</StartTime>
-				<EndDate>2020-02-09</EndDate>
-				<EndTime>09:47:26</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>CARIATI</Name>
-					<Description>cariati</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="327">
-				<IdName>Treuominieunagamba</IdName>
-				<StartDate>2020-02-09</StartDate>
-				<StartTime>09:47:26</StartTime>
-				<EndDate>2020-02-09</EndDate>
-				<EndTime>11:25:10</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TRE   UOMINI ED UNA GAMBA</Name>
-					<Description>Tre  uomini ed una  gamba</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="328">
-				<IdName>SPOTTC1</IdName>
-				<StartDate>2020-02-09</StartDate>
-				<StartTime>11:25:10</StartTime>
-				<EndDate>2020-02-09</EndDate>
-				<EndTime>11:25:13</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachannel1</Name>
-					<Description>SPOTtuachannel1</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="329">
-				<IdName>TG</IdName>
-				<StartDate>2020-02-09</StartDate>
-				<StartTime>11:25:13</StartTime>
-				<EndDate>2020-02-09</EndDate>
-				<EndTime>11:27:53</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TG </Name>
-					<Description>TELEGIORNALE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="330">
-				<IdName>CorsoUrgenzaEmergenza</IdName>
-				<StartDate>2020-02-09</StartDate>
-				<StartTime>11:27:53</StartTime>
-				<EndDate>2020-02-09</EndDate>
-				<EndTime>12:31:09</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>CORSO URGENZA EMERGENZA</Name>
-					<Description>CORSO  URGENZA EMERGENZA</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="331">
-				<IdName>agrisapori608x9-5-15</IdName>
-				<StartDate>2020-02-09</StartDate>
-				<StartTime>12:31:09</StartTime>
-				<EndDate>2020-02-09</EndDate>
-				<EndTime>12:59:50</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="332">
-				<IdName>AbramoIsaccoGiacobbeIsraeleGOIMFEDBCEIMFFMI</IdName>
-				<StartDate>2020-02-09</StartDate>
-				<StartTime>12:59:50</StartTime>
-				<EndDate>2020-02-09</EndDate>
-				<EndTime>14:25:57</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>ABRAMO ISACCO GIACOBBE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="333">
-				<IdName>spottc</IdName>
-				<StartDate>2020-02-09</StartDate>
-				<StartTime>14:25:57</StartTime>
-				<EndDate>2020-02-09</EndDate>
-				<EndTime>14:26:16</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TUA CHANNEL SPOT</Name>
-					<Description>SPOT TUA HANNEL</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="334">
-				<IdName>InstantFuture_Puntata1</IdName>
-				<StartDate>2020-02-09</StartDate>
-				<StartTime>14:26:16</StartTime>
-				<EndDate>2020-02-09</EndDate>
-				<EndTime>14:47:42</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>INSTANT FUTURE 1 P</Name>
-					<Description>INSTANT FUTURE 1 P</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="335">
-				<IdName>Gerace</IdName>
-				<StartDate>2020-02-09</StartDate>
-				<StartTime>14:47:42</StartTime>
-				<EndDate>2020-02-09</EndDate>
-				<EndTime>14:53:43</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>GERACE</Name>
-					<Description>GERACE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="336">
-				<IdName>FantozziControTutti</IdName>
-				<StartDate>2020-02-09</StartDate>
-				<StartTime>14:53:43</StartTime>
-				<EndDate>2020-02-09</EndDate>
-				<EndTime>16:27:17</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>FANTOZZI  CONTRO  TUTTI</Name>
-					<Description>FANTOZZI  CONTRO  TUTTI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="337">
-				<IdName>SPOTTC6</IdName>
-				<StartDate>2020-02-09</StartDate>
-				<StartTime>16:27:17</StartTime>
-				<EndDate>2020-02-09</EndDate>
-				<EndTime>16:27:20</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachannel6</Name>
-					<Description>SPOTtuachannel6</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="338">
-				<IdName>consiglioGeracedel288017</IdName>
-				<StartDate>2020-02-09</StartDate>
-				<StartTime>16:27:20</StartTime>
-				<EndDate>2020-02-09</EndDate>
-				<EndTime>16:47:25</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>consiglio 28 8 17</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="339">
-				<IdName>CarnevalediVenezia2013dal26GENNAIOal12FEBBRAIOYouTube</IdName>
-				<StartDate>2020-02-09</StartDate>
-				<StartTime>16:47:25</StartTime>
-				<EndDate>2020-02-09</EndDate>
-				<EndTime>16:58:06</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>CARNEVALE VENEZIA</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="340">
-				<IdName>TG</IdName>
-				<StartDate>2020-02-09</StartDate>
-				<StartTime>16:58:06</StartTime>
-				<EndDate>2020-02-09</EndDate>
-				<EndTime>17:00:45</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TG </Name>
-					<Description>TELEGIORNALE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="341">
-				<IdName>Souvenird'Italie_mpeg2video</IdName>
-				<StartDate>2020-02-09</StartDate>
-				<StartTime>17:00:45</StartTime>
-				<EndDate>2020-02-09</EndDate>
-				<EndTime>18:45:29</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Souvenir d'Italy</Name>
-					<Description>Souvenir d'Italy</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="342">
-				<IdName>SPOTC3</IdName>
-				<StartDate>2020-02-09</StartDate>
-				<StartTime>18:45:29</StartTime>
-				<EndDate>2020-02-09</EndDate>
-				<EndTime>18:45:32</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachannel3</Name>
-					<Description>SPOTtuachanne3</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="343">
-				<IdName>InstantFuture_puntata3</IdName>
-				<StartDate>2020-02-09</StartDate>
-				<StartTime>18:45:32</StartTime>
-				<EndDate>2020-02-09</EndDate>
-				<EndTime>19:08:02</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>INSTANT FUTURE 3 P</Name>
-					<Description>INSTANT FUTURE 3 P</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="344">
-				<IdName>044-LaSavanadeiSerengheti(15')eD</IdName>
-				<StartDate>2020-02-09</StartDate>
-				<StartTime>19:08:02</StartTime>
-				<EndDate>2020-02-09</EndDate>
-				<EndTime>19:22:21</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>LA SAVANA</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="345">
-				<IdName>Ilpadrino</IdName>
-				<StartDate>2020-02-09</StartDate>
-				<StartTime>19:22:21</StartTime>
-				<EndDate>2020-02-09</EndDate>
-				<EndTime>22:10:25</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>IL PADRINO</Name>
-					<Description>Il padrino</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="346">
-				<IdName>SPOTTC2</IdName>
-				<StartDate>2020-02-09</StartDate>
-				<StartTime>22:10:25</StartTime>
-				<EndDate>2020-02-09</EndDate>
-				<EndTime>22:10:28</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachanne2</Name>
-					<Description>SPOTtuachanne2</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="347">
-				<IdName>consigliocomunalegerace</IdName>
-				<StartDate>2020-02-09</StartDate>
-				<StartTime>22:10:28</StartTime>
-				<EndDate>2020-02-09</EndDate>
-				<EndTime>23:38:30</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>CONSIGLIO  COMUN GERACE 18 6 016</Name>
-					<Description>CONSIGLIO  COMUN 18 06 016</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="348">
-				<IdName>IlBrigantaggio</IdName>
-				<StartDate>2020-02-09</StartDate>
-				<StartTime>23:38:30</StartTime>
-				<EndDate>2020-02-10</EndDate>
-				<EndTime>00:10:35</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>IL  BRIGANTAGGIO</Name>
-					<Description>IL  BRIGANTAGGIO</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="349">
-				<IdName>X-Men</IdName>
-				<StartDate>2020-02-10</StartDate>
-				<StartTime>00:10:35</StartTime>
-				<EndDate>2020-02-10</EndDate>
-				<EndTime>01:50:37</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>X - MEN</Name>
-					<Description>X - MEN</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="350">
-				<IdName>SPOTTC4</IdName>
-				<StartDate>2020-02-10</StartDate>
-				<StartTime>01:50:37</StartTime>
-				<EndDate>2020-02-10</EndDate>
-				<EndTime>01:50:40</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachanne4</Name>
-					<Description>SPOTtuachanne4</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="351">
-				<IdName>TG</IdName>
-				<StartDate>2020-02-10</StartDate>
-				<StartTime>01:50:40</StartTime>
-				<EndDate>2020-02-10</EndDate>
-				<EndTime>01:53:19</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TG </Name>
-					<Description>TELEGIORNALE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="352">
-				<IdName>Pasticciniallemandorle</IdName>
-				<StartDate>2020-02-10</StartDate>
-				<StartTime>01:53:19</StartTime>
-				<EndDate>2020-02-10</EndDate>
-				<EndTime>01:55:35</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>PASTICCINI  ALLE MANDORLE</Name>
-					<Description>PASTICCINI ALLE MANDORLE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="353">
-				<IdName>agrisapori606x27-4-15</IdName>
-				<StartDate>2020-02-10</StartDate>
-				<StartTime>01:55:35</StartTime>
-				<EndDate>2020-02-10</EndDate>
-				<EndTime>02:26:29</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>AGRISAPORI</Name>
-					<Description>AGRISAPORI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="354">
-				<IdName>Infiltratospeciale_mpeg2video</IdName>
-				<StartDate>2020-02-10</StartDate>
-				<StartTime>02:26:29</StartTime>
-				<EndDate>2020-02-10</EndDate>
-				<EndTime>04:01:04</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Infiltrato  speciale</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="355">
-				<IdName>spottc</IdName>
-				<StartDate>2020-02-10</StartDate>
-				<StartTime>04:01:04</StartTime>
-				<EndDate>2020-02-10</EndDate>
-				<EndTime>04:01:23</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TUA CHANNEL SPOT</Name>
-					<Description>SPOT TUA HANNEL</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="356">
-				<IdName>Pennetteai4formaggi</IdName>
-				<StartDate>2020-02-10</StartDate>
-				<StartTime>04:01:23</StartTime>
-				<EndDate>2020-02-10</EndDate>
-				<EndTime>04:04:05</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>PENNETTE 4 FORMAGGI</Name>
-					<Description>PENNETTE 4 FORMAGGI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="357">
-				<IdName>Atlantis</IdName>
-				<StartDate>2020-02-10</StartDate>
-				<StartTime>04:04:05</StartTime>
-				<EndDate>2020-02-10</EndDate>
-				<EndTime>05:31:41</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>ATLANTIS</Name>
-					<Description>ATLANTIS</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="358">
-				<IdName>Nell'annoDelSignoreManfredi,Sordi,Tognazzi(Filmcompleto)</IdName>
-				<StartDate>2020-02-10</StartDate>
-				<StartTime>05:31:41</StartTime>
-				<EndDate>2020-02-10</EndDate>
-				<EndTime>07:29:36</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Nell'anno del  Signore</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="359">
-				<IdName>SPOTTC2</IdName>
-				<StartDate>2020-02-10</StartDate>
-				<StartTime>07:29:36</StartTime>
-				<EndDate>2020-02-10</EndDate>
-				<EndTime>07:29:39</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachanne2</Name>
-					<Description>SPOTtuachanne2</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="360">
-				<IdName>SEDUTACONSIGLIODEL13032017</IdName>
-				<StartDate>2020-02-10</StartDate>
-				<StartTime>07:29:39</StartTime>
-				<EndDate>2020-02-10</EndDate>
-				<EndTime>08:08:15</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>consiglio gerace 13  3 017</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="361">
-				<IdName>agrisapori614x21-6-15</IdName>
-				<StartDate>2020-02-10</StartDate>
-				<StartTime>08:08:15</StartTime>
-				<EndDate>2020-02-10</EndDate>
-				<EndTime>08:26:11</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>AGRISAPORI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="362">
-				<IdName>TG</IdName>
-				<StartDate>2020-02-10</StartDate>
-				<StartTime>08:26:11</StartTime>
-				<EndDate>2020-02-10</EndDate>
-				<EndTime>08:28:51</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TG </Name>
-					<Description>TELEGIORNALE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="363">
-				<IdName>MissinginAmerica</IdName>
-				<StartDate>2020-02-10</StartDate>
-				<StartTime>08:28:51</StartTime>
-				<EndDate>2020-02-10</EndDate>
-				<EndTime>10:07:14</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>Missing  America</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="364">
-				<IdName>SPOTTC1</IdName>
-				<StartDate>2020-02-10</StartDate>
-				<StartTime>10:07:14</StartTime>
-				<EndDate>2020-02-10</EndDate>
-				<EndTime>10:07:18</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachannel1</Name>
-					<Description>SPOTtuachannel1</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="365">
-				<IdName>consigliocomunalegeracedel25092016primaparte</IdName>
-				<StartDate>2020-02-10</StartDate>
-				<StartTime>10:07:18</StartTime>
-				<EndDate>2020-02-10</EndDate>
-				<EndTime>11:20:54</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>CONSIGLIO GERACE DEL 25.09 016</Name>
-					<Description>consigl gerace 1^ parte</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="366">
-				<IdName>PianadegliAlbanesi'DomenicadellePalme'PiccolaGrandeItalia</IdName>
-				<StartDate>2020-02-10</StartDate>
-				<StartTime>11:20:54</StartTime>
-				<EndDate>2020-02-10</EndDate>
-				<EndTime>11:35:07</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>PIANA DEGLI ALBANESI</Name>
-					<Description>PIANA DEGLI ALBANESI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="367">
-				<IdName>BadBoys</IdName>
-				<StartDate>2020-02-10</StartDate>
-				<StartTime>11:35:07</StartTime>
-				<EndDate>2020-02-10</EndDate>
-				<EndTime>13:29:11</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>BAD BOYS</Name>
-					<Description>BAD BOYS</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="368">
-				<IdName>SPOTTC4</IdName>
-				<StartDate>2020-02-10</StartDate>
-				<StartTime>13:29:11</StartTime>
-				<EndDate>2020-02-10</EndDate>
-				<EndTime>13:29:14</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachanne4</Name>
-					<Description>SPOTtuachanne4</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="369">
-				<IdName>ConsigliocomunaleGeracedel30settembre2017</IdName>
-				<StartDate>2020-02-10</StartDate>
-				<StartTime>13:29:14</StartTime>
-				<EndDate>2020-02-10</EndDate>
-				<EndTime>15:21:39</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>cosiglio comunale gerace 30 sett 017</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="370">
-				<IdName>AnimaliSerpentiFascinoLetale(Ita)</IdName>
-				<StartDate>2020-02-10</StartDate>
-				<StartTime>15:21:39</StartTime>
-				<EndDate>2020-02-10</EndDate>
-				<EndTime>16:13:44</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>ANIMALI SERPENTI</Name>
-					<Description>ANIMALI SERPENTI</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="371">
-				<IdName>Perfavorenontoccatelevecchiette_2_mpeg2video</IdName>
-				<StartDate>2020-02-10</StartDate>
-				<StartTime>16:13:44</StartTime>
-				<EndDate>2020-02-10</EndDate>
-				<EndTime>16:56:46</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>Sconosciuto</Name>
-					<Description>PER FAVORE  NN TOCCATE LE VECCHIETTE 2</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="372">
-				<IdName>SPOTC3</IdName>
-				<StartDate>2020-02-10</StartDate>
-				<StartTime>16:56:46</StartTime>
-				<EndDate>2020-02-10</EndDate>
-				<EndTime>16:56:49</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>SPOTtuachannel3</Name>
-					<Description>SPOTtuachanne3</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="373">
-				<IdName>TG</IdName>
-				<StartDate>2020-02-10</StartDate>
-				<StartTime>16:56:49</StartTime>
-				<EndDate>2020-02-10</EndDate>
-				<EndTime>16:59:29</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>TG </Name>
-					<Description>TELEGIORNALE</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="374">
-				<IdName>FM21</IdName>
-				<StartDate>2020-02-10</StartDate>
-				<StartTime>16:59:29</StartTime>
-				<EndDate>2020-02-10</EndDate>
-				<EndTime>17:23:27</EndTime>
-				<ShortEventDescription>
-					<LanguageCode>ita</LanguageCode>
-					<LanguageName>Italian</LanguageName>
-					<Name>FORMULA  MOTORI 21</Name>
-					<Description>Nuovo File</Description>
-				</ShortEventDescription>
-			</Event>
-			<Event id="375">
+			<Event id="9">
 				<IdName>agrisapori615x28-6-15</IdName>
-				<StartDate>2020-02-10</StartDate>
-				<StartTime>17:23:27</StartTime>
-				<EndDate>2020-02-10</EndDate>
-				<EndTime>17:55:02</EndTime>
+				<StartDate>2020-02-08</StartDate>
+				<StartTime>09:45:52</StartTime>
+				<EndDate>2020-02-08</EndDate>
+				<EndTime>10:17:26</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -4876,12 +118,12 @@
 					<Description>AGRISAPORI xpo mi</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="376">
+			<Event id="10">
 				<IdName>MammaHoRipersoL'aereoEMiSonoSmarritoANewYork</IdName>
-				<StartDate>2020-02-10</StartDate>
-				<StartTime>17:55:02</StartTime>
-				<EndDate>2020-02-10</EndDate>
-				<EndTime>19:43:06</EndTime>
+				<StartDate>2020-02-08</StartDate>
+				<StartTime>10:17:26</StartTime>
+				<EndDate>2020-02-08</EndDate>
+				<EndTime>12:05:30</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -4889,12 +131,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="377">
+			<Event id="11">
 				<IdName>SPOTTC6</IdName>
-				<StartDate>2020-02-10</StartDate>
-				<StartTime>19:43:06</StartTime>
-				<EndDate>2020-02-10</EndDate>
-				<EndTime>19:43:09</EndTime>
+				<StartDate>2020-02-08</StartDate>
+				<StartTime>12:05:30</StartTime>
+				<EndDate>2020-02-08</EndDate>
+				<EndTime>12:05:33</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -4902,12 +144,12 @@
 					<Description>SPOTtuachannel6</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="378">
+			<Event id="12">
 				<IdName>INSTANTFUTURE</IdName>
-				<StartDate>2020-02-10</StartDate>
-				<StartTime>19:43:09</StartTime>
-				<EndDate>2020-02-10</EndDate>
-				<EndTime>20:06:27</EndTime>
+				<StartDate>2020-02-08</StartDate>
+				<StartTime>12:05:33</StartTime>
+				<EndDate>2020-02-08</EndDate>
+				<EndTime>12:28:51</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -4915,12 +157,12 @@
 					<Description>INSTANT FUTURE p7</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="379">
+			<Event id="13">
 				<IdName>047-LaRiservaNaturalediAlmaAta(21')eD</IdName>
-				<StartDate>2020-02-10</StartDate>
-				<StartTime>20:06:27</StartTime>
-				<EndDate>2020-02-10</EndDate>
-				<EndTime>20:27:01</EndTime>
+				<StartDate>2020-02-08</StartDate>
+				<StartTime>12:28:51</StartTime>
+				<EndDate>2020-02-08</EndDate>
+				<EndTime>12:49:25</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -4928,12 +170,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="380">
+			<Event id="14">
 				<IdName>0110-1968-Calmaragazzeoggimisposo-LouisDeFunes_mpeg2video</IdName>
-				<StartDate>2020-02-10</StartDate>
-				<StartTime>20:27:01</StartTime>
-				<EndDate>2020-02-10</EndDate>
-				<EndTime>21:52:57</EndTime>
+				<StartDate>2020-02-08</StartDate>
+				<StartTime>12:49:25</StartTime>
+				<EndDate>2020-02-08</EndDate>
+				<EndTime>14:15:21</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -4941,12 +183,12 @@
 					<Description>CALMA RAGAZZE  OGGI   MI  SPOSO</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="381">
+			<Event id="15">
 				<IdName>SPOTTC6</IdName>
-				<StartDate>2020-02-10</StartDate>
-				<StartTime>21:52:57</StartTime>
-				<EndDate>2020-02-10</EndDate>
-				<EndTime>21:53:00</EndTime>
+				<StartDate>2020-02-08</StartDate>
+				<StartTime>14:15:21</StartTime>
+				<EndDate>2020-02-08</EndDate>
+				<EndTime>14:15:25</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -4954,12 +196,12 @@
 					<Description>SPOTtuachannel6</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="382">
+			<Event id="16">
 				<IdName>premiostadioradio-nona-edizione-cut-tv</IdName>
-				<StartDate>2020-02-10</StartDate>
-				<StartTime>21:53:00</StartTime>
-				<EndDate>2020-02-11</EndDate>
-				<EndTime>00:01:33</EndTime>
+				<StartDate>2020-02-08</StartDate>
+				<StartTime>14:15:25</StartTime>
+				<EndDate>2020-02-08</EndDate>
+				<EndTime>16:23:57</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -4967,12 +209,12 @@
 					<Description>Nuovo Filepremio stadio radio 2017</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="383">
+			<Event id="17">
 				<IdName>048-Tokio,EmblemadiunMiracolo(14')eD</IdName>
-				<StartDate>2020-02-11</StartDate>
-				<StartTime>00:01:33</StartTime>
-				<EndDate>2020-02-11</EndDate>
-				<EndTime>00:15:30</EndTime>
+				<StartDate>2020-02-08</StartDate>
+				<StartTime>16:23:57</StartTime>
+				<EndDate>2020-02-08</EndDate>
+				<EndTime>16:37:54</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -4980,12 +222,12 @@
 					<Description>TOKIO EMBLEMA DEL  MIRACOLO</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="384">
+			<Event id="18">
 				<IdName>TG</IdName>
-				<StartDate>2020-02-11</StartDate>
-				<StartTime>00:15:30</StartTime>
-				<EndDate>2020-02-11</EndDate>
-				<EndTime>00:18:09</EndTime>
+				<StartDate>2020-02-08</StartDate>
+				<StartTime>16:37:54</StartTime>
+				<EndDate>2020-02-08</EndDate>
+				<EndTime>16:40:34</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -4993,12 +235,12 @@
 					<Description>TELEGIORNALE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="385">
+			<Event id="19">
 				<IdName>Arma.Da.Taglio.19721°t</IdName>
-				<StartDate>2020-02-11</StartDate>
-				<StartTime>00:18:09</StartTime>
-				<EndDate>2020-02-11</EndDate>
-				<EndTime>01:03:54</EndTime>
+				<StartDate>2020-02-08</StartDate>
+				<StartTime>16:40:34</StartTime>
+				<EndDate>2020-02-08</EndDate>
+				<EndTime>17:26:18</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -5006,12 +248,12 @@
 					<Description>ARMA DA TAGLIO 1°</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="386">
+			<Event id="20">
 				<IdName>SPOTTC1</IdName>
-				<StartDate>2020-02-11</StartDate>
-				<StartTime>01:03:54</StartTime>
-				<EndDate>2020-02-11</EndDate>
-				<EndTime>01:03:57</EndTime>
+				<StartDate>2020-02-08</StartDate>
+				<StartTime>17:26:18</StartTime>
+				<EndDate>2020-02-08</EndDate>
+				<EndTime>17:26:21</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -5019,12 +261,12 @@
 					<Description>SPOTtuachannel1</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="387">
+			<Event id="21">
 				<IdName>Geracesedutaconsiliaredel5Ottobre2016(byEL)</IdName>
-				<StartDate>2020-02-11</StartDate>
-				<StartTime>01:03:57</StartTime>
-				<EndDate>2020-02-11</EndDate>
-				<EndTime>02:34:11</EndTime>
+				<StartDate>2020-02-08</StartDate>
+				<StartTime>17:26:21</StartTime>
+				<EndDate>2020-02-08</EndDate>
+				<EndTime>18:56:35</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -5032,12 +274,12 @@
 					<Description>consiglio gerac 5.10.016</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="388">
+			<Event id="22">
 				<IdName>agrisapori613x14-6-15</IdName>
-				<StartDate>2020-02-11</StartDate>
-				<StartTime>02:34:11</StartTime>
-				<EndDate>2020-02-11</EndDate>
-				<EndTime>03:01:01</EndTime>
+				<StartDate>2020-02-08</StartDate>
+				<StartTime>18:56:35</StartTime>
+				<EndDate>2020-02-08</EndDate>
+				<EndTime>19:23:25</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -5045,12 +287,12 @@
 					<Description>AGRISAPORI</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="389">
+			<Event id="23">
 				<IdName>Colpogrosso_mpeg2video</IdName>
-				<StartDate>2020-02-11</StartDate>
-				<StartTime>03:01:01</StartTime>
-				<EndDate>2020-02-11</EndDate>
-				<EndTime>05:03:11</EndTime>
+				<StartDate>2020-02-08</StartDate>
+				<StartTime>19:23:25</StartTime>
+				<EndDate>2020-02-08</EndDate>
+				<EndTime>21:25:35</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -5058,12 +300,12 @@
 					<Description>COLPO  GROSSO</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="390">
+			<Event id="24">
 				<IdName>SPOTC3</IdName>
-				<StartDate>2020-02-11</StartDate>
-				<StartTime>05:03:11</StartTime>
-				<EndDate>2020-02-11</EndDate>
-				<EndTime>05:03:14</EndTime>
+				<StartDate>2020-02-08</StartDate>
+				<StartTime>21:25:35</StartTime>
+				<EndDate>2020-02-08</EndDate>
+				<EndTime>21:25:38</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -5071,12 +313,12 @@
 					<Description>SPOTtuachanne3</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="391">
+			<Event id="25">
 				<IdName>CONSIGLIOGERACEDEL1311016</IdName>
-				<StartDate>2020-02-11</StartDate>
-				<StartTime>05:03:14</StartTime>
-				<EndDate>2020-02-11</EndDate>
-				<EndTime>05:47:36</EndTime>
+				<StartDate>2020-02-08</StartDate>
+				<StartTime>21:25:38</StartTime>
+				<EndDate>2020-02-08</EndDate>
+				<EndTime>22:10:01</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -5084,12 +326,12 @@
 					<Description>CONSIGLIO GERACE DE 13  NOV 2016</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="392">
+			<Event id="26">
 				<IdName>MontaltoUffugoFestadelgranosull'Aia</IdName>
-				<StartDate>2020-02-11</StartDate>
-				<StartTime>05:47:36</StartTime>
-				<EndDate>2020-02-11</EndDate>
-				<EndTime>06:02:06</EndTime>
+				<StartDate>2020-02-08</StartDate>
+				<StartTime>22:10:01</StartTime>
+				<EndDate>2020-02-08</EndDate>
+				<EndTime>22:24:30</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -5097,12 +339,12 @@
 					<Description>MONTALTO  UFFUGO</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="393">
+			<Event id="27">
 				<IdName>AbramoIsaccoGiacobbeIsraeleGOIMFEDBCEIMFFMI</IdName>
-				<StartDate>2020-02-11</StartDate>
-				<StartTime>06:02:06</StartTime>
-				<EndDate>2020-02-11</EndDate>
-				<EndTime>07:28:13</EndTime>
+				<StartDate>2020-02-08</StartDate>
+				<StartTime>22:24:30</StartTime>
+				<EndDate>2020-02-08</EndDate>
+				<EndTime>23:50:37</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -5110,12 +352,12 @@
 					<Description>ABRAMO ISACCO GIACOBBE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="394">
+			<Event id="28">
 				<IdName>SPOTTC2</IdName>
-				<StartDate>2020-02-11</StartDate>
-				<StartTime>07:28:13</StartTime>
-				<EndDate>2020-02-11</EndDate>
-				<EndTime>07:28:16</EndTime>
+				<StartDate>2020-02-08</StartDate>
+				<StartTime>23:50:37</StartTime>
+				<EndDate>2020-02-08</EndDate>
+				<EndTime>23:50:41</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -5123,12 +365,12 @@
 					<Description>SPOTtuachanne2</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="395">
+			<Event id="29">
 				<IdName>TG</IdName>
-				<StartDate>2020-02-11</StartDate>
-				<StartTime>07:28:16</StartTime>
-				<EndDate>2020-02-11</EndDate>
-				<EndTime>07:30:56</EndTime>
+				<StartDate>2020-02-08</StartDate>
+				<StartTime>23:50:41</StartTime>
+				<EndDate>2020-02-08</EndDate>
+				<EndTime>23:53:20</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -5136,12 +378,12 @@
 					<Description>TELEGIORNALE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="396">
+			<Event id="30">
 				<IdName>CorsoUrgenzaEmergenza</IdName>
-				<StartDate>2020-02-11</StartDate>
-				<StartTime>07:30:56</StartTime>
-				<EndDate>2020-02-11</EndDate>
-				<EndTime>08:34:12</EndTime>
+				<StartDate>2020-02-08</StartDate>
+				<StartTime>23:53:20</StartTime>
+				<EndDate>2020-02-09</EndDate>
+				<EndTime>00:56:37</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -5149,12 +391,12 @@
 					<Description>CORSO  URGENZA EMERGENZA</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="397">
+			<Event id="31">
 				<IdName>BonifatiPiccolaGrandeItalia</IdName>
-				<StartDate>2020-02-11</StartDate>
-				<StartTime>08:34:12</StartTime>
-				<EndDate>2020-02-11</EndDate>
-				<EndTime>08:56:08</EndTime>
+				<StartDate>2020-02-09</StartDate>
+				<StartTime>00:56:37</StartTime>
+				<EndDate>2020-02-09</EndDate>
+				<EndTime>01:18:32</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -5162,12 +404,12 @@
 					<Description>bonifati</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="398">
+			<Event id="32">
 				<IdName>gold.il.segno.del.potere.19742°t.</IdName>
-				<StartDate>2020-02-11</StartDate>
-				<StartTime>08:56:08</StartTime>
-				<EndDate>2020-02-11</EndDate>
-				<EndTime>09:54:02</EndTime>
+				<StartDate>2020-02-09</StartDate>
+				<StartTime>01:18:32</StartTime>
+				<EndDate>2020-02-09</EndDate>
+				<EndTime>02:16:27</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -5175,12 +417,12 @@
 					<Description>GOLD  IL SEGNO DEL  POTERE 2°</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="399">
+			<Event id="33">
 				<IdName>spottc</IdName>
-				<StartDate>2020-02-11</StartDate>
-				<StartTime>09:54:02</StartTime>
-				<EndDate>2020-02-11</EndDate>
-				<EndTime>09:54:21</EndTime>
+				<StartDate>2020-02-09</StartDate>
+				<StartTime>02:16:27</StartTime>
+				<EndDate>2020-02-09</EndDate>
+				<EndTime>02:16:46</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -5188,12 +430,12 @@
 					<Description>SPOT TUA HANNEL</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="400">
+			<Event id="34">
 				<IdName>Geracesedutaconsiliaredel5Ottobre2016(byEL)</IdName>
-				<StartDate>2020-02-11</StartDate>
-				<StartTime>09:54:21</StartTime>
-				<EndDate>2020-02-11</EndDate>
-				<EndTime>11:24:35</EndTime>
+				<StartDate>2020-02-09</StartDate>
+				<StartTime>02:16:46</StartTime>
+				<EndDate>2020-02-09</EndDate>
+				<EndTime>03:46:59</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -5201,12 +443,12 @@
 					<Description>consiglio gerac 5.10.016</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="401">
+			<Event id="35">
 				<IdName>agrisapori-621x9-8-15</IdName>
-				<StartDate>2020-02-11</StartDate>
-				<StartTime>11:24:35</StartTime>
-				<EndDate>2020-02-11</EndDate>
-				<EndTime>11:51:46</EndTime>
+				<StartDate>2020-02-09</StartDate>
+				<StartTime>03:46:59</StartTime>
+				<EndDate>2020-02-09</EndDate>
+				<EndTime>04:14:11</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -5214,12 +456,12 @@
 					<Description>AGRISAPORI</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="402">
+			<Event id="36">
 				<IdName>LaPretoraE.Fenechv.m.1419762°t.</IdName>
-				<StartDate>2020-02-11</StartDate>
-				<StartTime>11:51:46</StartTime>
-				<EndDate>2020-02-11</EndDate>
-				<EndTime>12:38:10</EndTime>
+				<StartDate>2020-02-09</StartDate>
+				<StartTime>04:14:11</StartTime>
+				<EndDate>2020-02-09</EndDate>
+				<EndTime>05:00:35</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -5227,12 +469,12 @@
 					<Description>LA PRETORA</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="403">
+			<Event id="37">
 				<IdName>SPOTTC4</IdName>
-				<StartDate>2020-02-11</StartDate>
-				<StartTime>12:38:10</StartTime>
-				<EndDate>2020-02-11</EndDate>
-				<EndTime>12:38:14</EndTime>
+				<StartDate>2020-02-09</StartDate>
+				<StartTime>05:00:35</StartTime>
+				<EndDate>2020-02-09</EndDate>
+				<EndTime>05:00:38</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -5240,12 +482,12 @@
 					<Description>SPOTtuachanne4</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="404">
+			<Event id="38">
 				<IdName>inTavola_20150205_48237</IdName>
-				<StartDate>2020-02-11</StartDate>
-				<StartTime>12:38:14</StartTime>
-				<EndDate>2020-02-11</EndDate>
-				<EndTime>12:40:13</EndTime>
+				<StartDate>2020-02-09</StartDate>
+				<StartTime>05:00:38</StartTime>
+				<EndDate>2020-02-09</EndDate>
+				<EndTime>05:02:37</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -5253,12 +495,12 @@
 					<Description>inTavola_2015 02 05</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="405">
+			<Event id="39">
 				<IdName>PraiaaMarePiccolaGrandeItalia</IdName>
-				<StartDate>2020-02-11</StartDate>
-				<StartTime>12:40:13</StartTime>
-				<EndDate>2020-02-11</EndDate>
-				<EndTime>13:04:46</EndTime>
+				<StartDate>2020-02-09</StartDate>
+				<StartTime>05:02:37</StartTime>
+				<EndDate>2020-02-09</EndDate>
+				<EndTime>05:27:11</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -5266,12 +508,12 @@
 					<Description>PRAIA A MARE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="406">
+			<Event id="40">
 				<IdName>TG</IdName>
-				<StartDate>2020-02-11</StartDate>
-				<StartTime>13:04:46</StartTime>
-				<EndDate>2020-02-11</EndDate>
-				<EndTime>13:07:26</EndTime>
+				<StartDate>2020-02-09</StartDate>
+				<StartTime>05:27:11</StartTime>
+				<EndDate>2020-02-09</EndDate>
+				<EndTime>05:29:50</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -5279,12 +521,12 @@
 					<Description>TELEGIORNALE</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="407">
+			<Event id="41">
 				<IdName>Rosolinopaternosoldato_mpeg2video</IdName>
-				<StartDate>2020-02-11</StartDate>
-				<StartTime>13:07:26</StartTime>
-				<EndDate>2020-02-11</EndDate>
-				<EndTime>14:43:23</EndTime>
+				<StartDate>2020-02-09</StartDate>
+				<StartTime>05:29:50</StartTime>
+				<EndDate>2020-02-09</EndDate>
+				<EndTime>07:05:48</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -5292,12 +534,12 @@
 					<Description>Rosolino paterno  soldato</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="408">
+			<Event id="42">
 				<IdName>spottc</IdName>
-				<StartDate>2020-02-11</StartDate>
-				<StartTime>14:43:23</StartTime>
-				<EndDate>2020-02-11</EndDate>
-				<EndTime>14:43:42</EndTime>
+				<StartDate>2020-02-09</StartDate>
+				<StartTime>07:05:48</StartTime>
+				<EndDate>2020-02-09</EndDate>
+				<EndTime>07:06:06</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -5305,12 +547,12 @@
 					<Description>SPOT TUA HANNEL</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="409">
+			<Event id="43">
 				<IdName>21PIXMINDrev1</IdName>
-				<StartDate>2020-02-11</StartDate>
-				<StartTime>14:43:42</StartTime>
-				<EndDate>2020-02-11</EndDate>
-				<EndTime>15:07:42</EndTime>
+				<StartDate>2020-02-09</StartDate>
+				<StartTime>07:06:06</StartTime>
+				<EndDate>2020-02-09</EndDate>
+				<EndTime>07:30:06</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -5318,12 +560,12 @@
 					<Description>Nuovo File</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="410">
+			<Event id="44">
 				<IdName>TropeaPiccolaGrandeItalia</IdName>
-				<StartDate>2020-02-11</StartDate>
-				<StartTime>15:07:42</StartTime>
-				<EndDate>2020-02-11</EndDate>
-				<EndTime>15:34:35</EndTime>
+				<StartDate>2020-02-09</StartDate>
+				<StartTime>07:30:06</StartTime>
+				<EndDate>2020-02-09</EndDate>
+				<EndTime>07:57:00</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -5331,12 +573,12 @@
 					<Description>TROPEA</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="411">
+			<Event id="45">
 				<IdName>Senzanomesanzaregole</IdName>
-				<StartDate>2020-02-11</StartDate>
-				<StartTime>15:34:35</StartTime>
-				<EndDate>2020-02-11</EndDate>
-				<EndTime>17:18:15</EndTime>
+				<StartDate>2020-02-09</StartDate>
+				<StartTime>07:57:00</StartTime>
+				<EndDate>2020-02-09</EndDate>
+				<EndTime>09:40:40</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -5344,12 +586,12 @@
 					<Description>Senza nome senza regole</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="412">
+			<Event id="46">
 				<IdName>SPOTTC2</IdName>
-				<StartDate>2020-02-11</StartDate>
-				<StartTime>17:18:15</StartTime>
-				<EndDate>2020-02-11</EndDate>
-				<EndTime>17:18:19</EndTime>
+				<StartDate>2020-02-09</StartDate>
+				<StartTime>09:40:40</StartTime>
+				<EndDate>2020-02-09</EndDate>
+				<EndTime>09:40:43</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -5357,12 +599,12 @@
 					<Description>SPOTtuachanne2</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="413">
+			<Event id="47">
 				<IdName>GeraceConsiglioComunaleStraordinariodel16Dic2015(byEL)</IdName>
-				<StartDate>2020-02-11</StartDate>
-				<StartTime>17:18:19</StartTime>
-				<EndDate>2020-02-11</EndDate>
-				<EndTime>18:08:50</EndTime>
+				<StartDate>2020-02-09</StartDate>
+				<StartTime>09:40:43</StartTime>
+				<EndDate>2020-02-09</EndDate>
+				<EndTime>10:31:14</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -5370,12 +612,12 @@
 					<Description>Consiglio  comunale gerace del 16 dic 015</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="414">
+			<Event id="48">
 				<IdName>SardegnaVistadalcielo</IdName>
-				<StartDate>2020-02-11</StartDate>
-				<StartTime>18:08:50</StartTime>
-				<EndDate>2020-02-11</EndDate>
-				<EndTime>18:59:13</EndTime>
+				<StartDate>2020-02-09</StartDate>
+				<StartTime>10:31:14</StartTime>
+				<EndDate>2020-02-09</EndDate>
+				<EndTime>11:21:38</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
@@ -5383,12 +625,12 @@
 					<Description>Sardegna vista dal cielo</Description>
 				</ShortEventDescription>
 			</Event>
-			<Event id="415">
+			<Event id="49">
 				<IdName>UFOLeProve</IdName>
-				<StartDate>2020-02-11</StartDate>
-				<StartTime>18:59:13</StartTime>
-				<EndDate>2020-02-11</EndDate>
-				<EndTime>20:21:26</EndTime>
+				<StartDate>2020-02-09</StartDate>
+				<StartTime>11:21:38</StartTime>
+				<EndDate>2020-02-09</EndDate>
+				<EndTime>12:43:51</EndTime>
 				<ShortEventDescription>
 					<LanguageCode>ita</LanguageCode>
 					<LanguageName>Italian</LanguageName>
